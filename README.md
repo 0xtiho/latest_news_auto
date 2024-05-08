@@ -1,2 +1,2 @@
 # latest_news_auto
-cdf
+Auto Update :)
