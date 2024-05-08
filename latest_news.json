@@ -1,9 +1,79 @@
 {
     "news": [
         {
-            "url": "https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3", 
-            "description": "The Boy Scouts of America is changing its name for the first time in its 114-year history. The Texas-based organization announced Tuesday that it would become Scouting America. It's a significant shift for the organization as it emerges from bankruptcy after \u2026", 
-            "title": "Boy Scouts is changing its name to Scouting America - The Associated Press"
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/", 
+            "description": "The 2024 schedule isn't out yet, but we already know quite a few things about this year's slate of games", 
+            "title": "2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games - CBS Sports"
+        }, 
+        {
+            "url": "http://www.orlandosentinel.com/2024/05/07/why-did-boeing-starliner-scrub-and-when-will-it-launch/", 
+            "description": "A pair of NASA astronauts were ready to go, but a single valve caused a scrub of their ride on Boeing\u2019s CST-100 Starliner on Monday night. The next shot to fly won\u2019t be until at least M\u2026", 
+            "title": "Boeing Starliner astronaut launch delayed until at least May 17 - Orlando Sentinel"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/07/politics/judge-postpones-trump-classified-documents-trial/index.html", 
+            "description": "Judge Aileen Cannon has indefinitely postponed former President Donald Trump\u2019s classified documents trial in Florida, citing significant issues around classified evidence that would need to be worked out before the federal criminal case goes to a jury.", 
+            "title": "Federal judge indefinitely postpones Trump classified documents trial - CNN"
+        }, 
+        {
+            "url": "https://www.startribune.com/denver-nuggets-jamal-murray-heat-pack-throw-onto-floor-loss-timberwolves-playoffs/600364165/", 
+            "description": "Timberwolves coach Chris Finch called Jamal Murray's act \"inexcusable\" and \"dangerous.\" Officials didn't see who threw the heat pack and added it would have been a technical foul if they had \u2014 not an ejection.", 
+            "title": "Nuggets' Jamal Murray fined $100000 after throwing heat pack in Game 2 - Star Tribune"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/07/1249715215/toxic-culture-workplace-fdic-goverment-employees-investigation-harassment", 
+            "description": "A law firm investigation of the FDIC documents a toxic workplace culture where hundreds of employees complained of sexual harassment, discrimination and other misconduct.", 
+            "title": "Toxic culture is the norm at the FDIC, leadership cited in report - NPR"
+        }, 
+        {
+            "url": "https://families.google.com/service-restricted", 
+            "description": null, 
+            "title": "Cleveland Cavaliers @ Boston Celtics Game 1 | #NBAplayoffs presented by Google Pixel Live Scoreboard - NBA"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/07/us-news/california-bill-could-remove-self-checkout-lanes-at-grocers-certain-retailers/", 
+            "description": "A\u00a0newly proposed bill\u00a0in California could ban grocery stores and certain retailers from offering self-checkout options for customers in an effort to cut down on theft.", 
+            "title": "California bill may remove self-checkout lanes at grocers, certain retailers - New York Post "
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/nation/2024/05/07/boy-scouts-name-change-scouting-america/", 
+            "description": "The change comes as the scouting organization tries to move past years of turmoil, including sexual abuse allegations and a public battle with the Girl Scouts.", 
+            "title": "Boy Scouts of America changes name to Scouting America in rebrand - The Washington Post"
+        }, 
+        {
+            "url": "https://www.reuters.com/legal/tiktok-bytedance-sue-block-us-law-seeking-sale-or-ban-app-2024-05-07/", 
+            "description": null, 
+            "title": "TikTok, ByteDance sue to block US law seeking sale or ban of app - Reuters"
+        }, 
+        {
+            "url": "https://theathletic.com/5476435/2024/05/07/psg-borussia-dortmund-result-report-analysis/", 
+            "description": "We break down the key talking points from this Champions League semi-final in Paris, as Borussia Dortmund advanced to the final at Wembley", 
+            "title": "Paris Saint-Germain 0 Borussia Dortmund 1 \u2013 Crucial Hummels, PSG\u2019s attacking struggles - The Athletic"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/07/republicans-k-12-schools-antisemitism-colleges-00156644", 
+            "description": null, 
+            "title": "House Republicans turn to K-12 schools after months of rattling colleges on antisemitism - POLITICO - POLITICO"
+        }, 
+        {
+            "url": "https://apnews.com/article/serbia-china-nato-bombing-embassy-5b13db499f39721faf9c82b9f88f4dfa", 
+            "description": "Chinese leader Xi Jinping\u2019s visit to European ally Serbia falls on a symbolic date: the 25th anniversary of the bombing of the Chinese Embassy during NATO\u2019s air war over Kosovo. Xi arrived Tuesday from France. On May 7, 1999 U.S. jets dropped five bombs on th\u2026", 
+            "title": "Xi begins Serbia visit on the 25th anniversary of NATO's bombing of the Chinese Embassy - The Associated Press"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1401082/khloe-kardashian-had-tristan-thompson-take-paternity-tests-after-fearing-rob-kardashian-donated-sperm", 
+            "description": "Khloe Kardashian said she had ex Tristan Thompson take three paternity tests to make sure that her brother Rob Kardashian wasn't actually the sperm donor for son Tatum: \"That would be so disgusting.\"", 
+            "title": "Khloe Kardashian Had Tristan Thompson Take Paternity Tests After Fearing Rob Kardashian Donated Sperm - E! Online - E! NEWS"
+        }, 
+        {
+            "url": "http://www.billboard.com/music/rb-hip-hop/drake-kendrick-lamar-beef-loss-recover-1235676509/", 
+            "description": "With the court of public opinion leaning on Kendrick Lamar was the victor in the rap civil war, Billboard explores the next steps in Drake's career.", 
+            "title": "Can Drake Recover After His Battle With Kendrick Lamar? - Billboard"
+        }, 
+        {
+            "url": "http://9to5google.com/2024/05/07/google-pixel-8a-trade-in-values/", 
+            "description": "Google is offering some excellent Pixel 8a trade-in values, with especially good prices for older A-Series Pixel phones.", 
+            "title": "Google offering solid trade-in values towards Pixel 8a for previous A-Series phones - 9to5Google"
         }, 
         {
             "url": "https://www.washingtonpost.com/wellness/2024/05/07/olive-oil-dementia-lower-risk/", 
@@ -11,9 +81,14 @@
             "title": "Olive oil use associated with lower risk of dying from dementia - The Washington Post"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html", 
-            "description": "Reddit reported a big increase in sales for the first quarter and said second-quarter revenue will jump by more than 30%, based on the midpoint of the range.", 
-            "title": "Reddit shares soar almost 20% after company reports revenue pop in debut earnings report - CNBC"
+            "url": "https://9to5mac.com/2024/05/07/everything-announced-at-let-loose-event/", 
+            "description": "Here is a summary of everything Apple announced at its iPad-focused 'Let loose' event on May 7, including the M4 iPad Pro and iPad Air 6.", 
+            "title": "Here's what Apple announced at its iPad-focused \u2018Let loose\u2019 event - 9to5Mac"
+        }, 
+        {
+            "url": "https://thehill.com/policy/international/4649659-russian-president-vladimir-putin-swearing-in-ceremony-guests/", 
+            "description": null, 
+            "title": "US snubs Putin\u2019s swearing-in: Here\u2019s who did show up - The Hill"
         }, 
         {
             "url": "https://finance.yahoo.com/news/disney-stock-falls-as-company-attempts-to-make-streaming-business-profitable-103032382.html", 
@@ -21,85 +96,10 @@
             "title": "Disney stock falls as company attempts to make streaming business profitable - Yahoo Finance"
         }, 
         {
-            "url": "https://abcnews.go.com/International/2-ukrainians-detained-allegedly-plotting-zelenskyy-assassination-russia/story?id=108534193", 
-            "description": "Two colonels from Ukraine's SBU were recruited by Russia, Ukraine said.", 
-            "title": "2 Ukrainians detained for allegedly plotting Zelenskyy assassination with Russia, Ukraine says - ABC News"
-        }, 
-        {
-            "url": "https://www.tennessean.com/story/news/local/wilson/mt-juliet/2024/05/07/nasa-boeing-launch-tennessee-astronaut-barry-wilmore-delayed/73597628007/", 
-            "description": "Learn why the NASA Boeing Starliner launch was delayed and what Middle Tennessee astronaut Barry \"Butch\" Wilmore said.", 
-            "title": "NASA Starliner launch with Tennessee astronaut Barry Wilmore delayed. What we know - Yahoo! Voices"
-        }, 
-        {
-            "url": "https://www.macrumors.com/2024/05/07/2024-ipad-battery-life/", 
-            "description": "The iPad Pro and iPad Air models that Apple introduced today continue to offer the same 10 hours of battery life that Apple has advertised with iPads...", 
-            "title": "New 2024 iPads Still Have 10 Hours of Battery Life - MacRumors"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/nation/2024/05/07/nasa-black-hole-simulation-fall-video/73597922007/", 
-            "description": "NASA released a variety of videos Monday showing visualizations of what it would look like to either plummet into a black hole or narrowly escape it.", 
-            "title": "NASA simulations show what it would be like to fall in black hole: Video - USA TODAY"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-strength-of-schedule-for-all-32-teams-browns-ravens-among-hardest-falcons-saints-have-it-easiest/", 
-            "description": "Here's how the strength of schedule ranking breaks down for all 32 teams heading into the 2024 season", 
-            "title": "2024 NFL strength of schedule for all 32 teams for upcoming season - CBS Sports"
-        }, 
-        {
-            "url": "https://www.windowscentral.com/hardware/cpu-gpu-components/apple-unveils-m4-processor-thats-an-ai-powerhouse-but-qualcomm-and-its-snapdragon-x-elite-have-nothing-to-worry-about", 
-            "description": "Apple's new M4 processor is impressive, but it won't steal the thunder of Qualcomm's Snapdragon X Elite.", 
-            "title": "Apple M4 vs Qualcomm Snapdragon X Elite: Who takes the AI crown? - Windows Central"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/us-weather-tornadoes-may-7-tuesday/story?id=109984037", 
-            "description": "One person was killed when a storm hit Oklahoma.", 
-            "title": "19 tornadoes reported in 7 states across the Plains - ABC News"
-        }, 
-        {
-            "url": "https://www.wtae.com/article/police-investigating-shooting-outside-drake-toronto-home/60719289", 
-            "description": "A security guard working at Drake's home in Toronto, Canada, has been shot, authorities said Tuesday.", 
-            "title": "Police investigating shooting of security guard outside Drake's Toronto home - WTAE Pittsburgh"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1401043/bridgertons-phoebe-dynevor-engaged-to-cameron-fuller-see-her-debut-ring-at-met-gala", 
-            "description": "After Bridgerton's Phoebe Dynevor debuted a gorgeous engagement ring at the 2024 Met Gala May 6, E! News can confirm she's set to tie the knot with producer Cameron Fuller.", 
-            "title": "Bridgerton's Phoebe Dynevor Engaged to Cameron Fuller: See Her Debut Ring at Met Gala - E! NEWS"
-        }, 
-        {
-            "url": "https://www.espn.com/nfl/story/_/id/40101148/source-wr-tyler-boyd-agrees-one-year-contract-titans", 
-            "description": "Receiver Tyler Boyd is signing with the Tennessee Titans on a one-year deal worth up to $4.5 million, a source told ESPN's Jeremy Fowler on Tuesday.", 
-            "title": "Source: WR Boyd agrees to contract with Titans - ESPN"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://techcrunch.com/2024/05/07/openai-says-its-building-a-tool-to-let-content-creators-opt-out-of-ai-training/", 
-            "description": "OpenAI says that it's building a tool, Media Manager, to allow content creators to \"opt out\" of training for AI models.", 
-            "title": "OpenAI says it\u2019s building a tool to let content creators \u2018opt out\u2019 of AI training - TechCrunch"
-        }, 
-        {
-            "url": "https://www.politico.eu/article/emmanuel-macron-xi-jinping-china-france-meeting-trade-ukraine/", 
-            "description": "Xi Jinping handed Emmanuel Macron some wins during his state visit, but offered few meaningful concessions on trade and Ukraine", 
-            "title": "Macron's cognac \u2014 the only thing that went down smoothly with Xi - POLITICO Europe"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/technology/2024/05/07/tiktok-legal-challenge-law-ban/", 
-            "description": "The filing ignites a high-stakes court battle in Washington that could prove to be an existential fight for one of the world\u2019s most popular apps.", 
-            "title": "TikTok challenges federal law that could lead to its being banned - The Washington Post"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/07/biden-antisemitism-rafah-israel-protest-00156541", 
-            "description": null, 
-            "title": "Biden warns of a 'ferocious' surge in antisemitism in the U.S. and across the globe - POLITICO"
-        }, 
-        {
-            "url": "https://www.wired.com/story/google-pixel-8a/", 
-            "description": "The company's refined midrange Android phone packs its flagship Tensor G3 chipset. The handset was announced ahead of next week's Google I/O conference.", 
-            "title": "Google Pixel 8A: News, Specs, Features, Price, Release Date - WIRED"
+            "url": "https://goodmorningamerica.com/food/story/new-starbucks-summer-menu-includes-summer-berry-refreshers-109989022", 
+            "description": "All the new Starbucks summer menu items from Berry Refreshers to Pineapple Cloud Cake, plus in-app discounts for the loyalty rewards members.", 
+            "title": "New Starbucks summer menu includes Summer-Berry Refreshers with raspberry pearls - Good Morning America"
         }
     ], 
-    "last_updated": "2024-05-09 01:06:43"
+    "last_updated": "2024-05-09 01:35:36"
 }
