@@ -1,29 +1,84 @@
 {
     "news": [
         {
+            "url": "https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3", 
+            "description": "The Boy Scouts of America is changing its name for the first time in its 114-year history. The Texas-based organization announced Tuesday that it would become Scouting America. It's a significant shift for the organization as it emerges from bankruptcy after \u2026", 
+            "title": "Boy Scouts is changing its name to Scouting America - The Associated Press"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/wellness/2024/05/07/olive-oil-dementia-lower-risk/", 
+            "description": "A study has found that daily olive oil consumption is associated with a lower risk of dying from dementia.", 
+            "title": "Olive oil use associated with lower risk of dying from dementia - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html", 
+            "description": "Reddit reported a big increase in sales for the first quarter and said second-quarter revenue will jump by more than 30%, based on the midpoint of the range.", 
+            "title": "Reddit shares soar almost 20% after company reports revenue pop in debut earnings report - CNBC"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/disney-stock-falls-as-company-attempts-to-make-streaming-business-profitable-103032382.html", 
+            "description": "Disney reported its fiscal second quarter earnings before the bell on Tuesday. Here's what to know.", 
+            "title": "Disney stock falls as company attempts to make streaming business profitable - Yahoo Finance"
+        }, 
+        {
+            "url": "https://abcnews.go.com/International/2-ukrainians-detained-allegedly-plotting-zelenskyy-assassination-russia/story?id=108534193", 
+            "description": "Two colonels from Ukraine's SBU were recruited by Russia, Ukraine said.", 
+            "title": "2 Ukrainians detained for allegedly plotting Zelenskyy assassination with Russia, Ukraine says - ABC News"
+        }, 
+        {
+            "url": "https://www.tennessean.com/story/news/local/wilson/mt-juliet/2024/05/07/nasa-boeing-launch-tennessee-astronaut-barry-wilmore-delayed/73597628007/", 
+            "description": "Learn why the NASA Boeing Starliner launch was delayed and what Middle Tennessee astronaut Barry \"Butch\" Wilmore said.", 
+            "title": "NASA Starliner launch with Tennessee astronaut Barry Wilmore delayed. What we know - Yahoo! Voices"
+        }, 
+        {
+            "url": "https://www.macrumors.com/2024/05/07/2024-ipad-battery-life/", 
+            "description": "The iPad Pro and iPad Air models that Apple introduced today continue to offer the same 10 hours of battery life that Apple has advertised with iPads...", 
+            "title": "New 2024 iPads Still Have 10 Hours of Battery Life - MacRumors"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/07/nasa-black-hole-simulation-fall-video/73597922007/", 
+            "description": "NASA released a variety of videos Monday showing visualizations of what it would look like to either plummet into a black hole or narrowly escape it.", 
+            "title": "NASA simulations show what it would be like to fall in black hole: Video - USA TODAY"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-strength-of-schedule-for-all-32-teams-browns-ravens-among-hardest-falcons-saints-have-it-easiest/", 
+            "description": "Here's how the strength of schedule ranking breaks down for all 32 teams heading into the 2024 season", 
+            "title": "2024 NFL strength of schedule for all 32 teams for upcoming season - CBS Sports"
+        }, 
+        {
+            "url": "https://www.windowscentral.com/hardware/cpu-gpu-components/apple-unveils-m4-processor-thats-an-ai-powerhouse-but-qualcomm-and-its-snapdragon-x-elite-have-nothing-to-worry-about", 
+            "description": "Apple's new M4 processor is impressive, but it won't steal the thunder of Qualcomm's Snapdragon X Elite.", 
+            "title": "Apple M4 vs Qualcomm Snapdragon X Elite: Who takes the AI crown? - Windows Central"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/us-weather-tornadoes-may-7-tuesday/story?id=109984037", 
+            "description": "One person was killed when a storm hit Oklahoma.", 
+            "title": "19 tornadoes reported in 7 states across the Plains - ABC News"
+        }, 
+        {
+            "url": "https://www.wtae.com/article/police-investigating-shooting-outside-drake-toronto-home/60719289", 
+            "description": "A security guard working at Drake's home in Toronto, Canada, has been shot, authorities said Tuesday.", 
+            "title": "Police investigating shooting of security guard outside Drake's Toronto home - WTAE Pittsburgh"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1401043/bridgertons-phoebe-dynevor-engaged-to-cameron-fuller-see-her-debut-ring-at-met-gala", 
+            "description": "After Bridgerton's Phoebe Dynevor debuted a gorgeous engagement ring at the 2024 Met Gala May 6, E! News can confirm she's set to tie the knot with producer Cameron Fuller.", 
+            "title": "Bridgerton's Phoebe Dynevor Engaged to Cameron Fuller: See Her Debut Ring at Met Gala - E! NEWS"
+        }, 
+        {
             "url": "https://www.espn.com/nfl/story/_/id/40101148/source-wr-tyler-boyd-agrees-one-year-contract-titans", 
             "description": "Receiver Tyler Boyd is signing with the Tennessee Titans on a one-year deal worth up to $4.5 million, a source told ESPN's Jeremy Fowler on Tuesday.", 
             "title": "Source: WR Boyd agrees to contract with Titans - ESPN"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/sports/referees-admit-missing-crucial-call-final-seconds-knicks-win-pacers-rcna151080", 
-            "description": "Referees said they incorrectly called a late kicked ball violation Monday night against the Indiana Pacers, who by rule couldn\u2019t challenge the play.", 
-            "title": "Referees admit to missing crucial call in final seconds of Knicks win against Pacers - NBC News"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-us-canada-68966860", 
-            "description": "The sergeant, who was held on 2 May, is accused of stealing from a woman, reports the BBC's partner CBS.", 
-            "title": "US Army sergeant arrested in Russia accused of theft - BBC.com"
-        }, 
-        {
-            "url": "https://www.foxbusiness.com/markets/disney-shares-sink-streaming-business-falls-shy-profitability", 
-            "description": "Disney reported fiscal second-quarter results on Tuesday. Its combined streaming business of Disney+, Hulu and ESPN+ came very close to turning a profit.", 
-            "title": "Disney shares sink as streaming business falls shy of profitability - Fox Business"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/07/us/boy-scouts-rebrands-scouting-america-reaj/index.html", 
-            "description": "Boy Scouts of America announced Tuesday that the organization will change its name to \u2018Scouting America\u2019 next February, to reflect its commitment to enabling all the youth of America to \u201cexperience the benefits of Scouting.\u201d", 
-            "title": "Boy Scouts of America announces rebrand to \u2018Scouting America\u2019 - CNN"
+            "url": "https://techcrunch.com/2024/05/07/openai-says-its-building-a-tool-to-let-content-creators-opt-out-of-ai-training/", 
+            "description": "OpenAI says that it's building a tool, Media Manager, to allow content creators to \"opt out\" of training for AI models.", 
+            "title": "OpenAI says it\u2019s building a tool to let content creators \u2018opt out\u2019 of AI training - TechCrunch"
         }, 
         {
             "url": "https://www.politico.eu/article/emmanuel-macron-xi-jinping-china-france-meeting-trade-ukraine/", 
@@ -36,70 +91,15 @@
             "title": "TikTok challenges federal law that could lead to its being banned - The Washington Post"
         }, 
         {
-            "url": "https://www.eonline.com/news/1401032/doja-cat-is-essentially-naked-in-2024-met-gala-after-party-look", 
-            "description": "Doja Cat stunned in her all-nude 2024 Met Gala after-party look, following her wet T-shirt dress look for the Costume Institute fundraiser\u2019s red carpet.", 
-            "title": "Doja Cat Is Essentially Naked in 2024 Met Gala After-Party Look - E! NEWS"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/07/politics/joe-biden-antisemitism-speech/index.html", 
-            "description": "President Joe Biden on Tuesday issued a call to fight a swiftly rising tide of antisemitism, saying such hate has no place in America as he connected the horrors of the Holocaust to Hamas\u2019 attack on October 7.", 
-            "title": "Biden says antisemitism has no place in America in somber speech connecting the Holocaust to Hamas\u2019 attack on Israel - CNN"
-        }, 
-        {
-            "url": "https://www.cbssports.com/college-football/news/revenue-sharing-in-college-athletics-is-coming-but-only-collective-bargaining-will-provide-a-true-solution/", 
-            "description": "Setting the college sports landscape perfectly will take more than just giving the players a cut of the money", 
-            "title": "Revenue sharing in college athletics is coming, but only collective bargaining will provide a true solution - CBS Sports"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/07/us-concerns-over-israels-gaza-policy-led-to-weapons-holdup-00156528", 
+            "url": "https://www.politico.com/news/2024/05/07/biden-antisemitism-rafah-israel-protest-00156541", 
             "description": null, 
-            "title": "US concerns over Israel's Gaza policy led to weapons holdup - POLITICO"
+            "title": "Biden warns of a 'ferocious' surge in antisemitism in the U.S. and across the globe - POLITICO"
         }, 
         {
             "url": "https://www.wired.com/story/google-pixel-8a/", 
             "description": "The company's refined midrange Android phone packs its flagship Tensor G3 chipset. The handset was announced ahead of next week's Google I/O conference.", 
             "title": "Google Pixel 8A: News, Specs, Features, Price, Release Date - WIRED"
-        }, 
-        {
-            "url": "https://www.eurogamer.net/hades-2-early-access-launch-on-steam-reaches-over-100k-concurrent-players-24-hours-after-launch", 
-            "description": "Hades 2 released in early access last night, and it is already pulling in some impressive numbers.", 
-            "title": "Hades 2 early access launch on Steam reaches over 100k concurrent players 24 hours after launch - Eurogamer.net"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=gkK9JiYASHU", 
-            "description": null, 
-            "title": "The Nail-Biting Third Round | 93 Seats Across 11 States & U.T |Over 61% Voting Turnout Phase 3 Polls - India Today"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/private-equity-firms-consider-potential-124111161.html", 
-            "description": null, 
-            "title": "Private equity firms consider potential Peloton buyout, CNBC reports - Yahoo Finance"
-        }, 
-        {
-            "url": "https://abc7chicago.com/university-of-chicago-police-begin-clearing-pro-palestinian-protest-encampment-on-campus/14777881/", 
-            "description": "Police removed a pro-Palestinian encampment at the University of Chicago in Hyde Park Tuesday morning.", 
-            "title": "University of Chicago police clear pro-Palestinian protest encampment on campus - WLS-TV"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/pop-culture/celebrity/met-gala-2024-red-carpet-photos-rcna150956", 
-            "description": "Zendaya, Ayo Edebiri, Ariana Grande and more awaken our fashion senses at the 2024 Met Gala. \"Sleeping Beauties: Reawakening Fashion\"", 
-            "title": "2024 Met Gala red carpet photos: Zendaya, Tyla, Ariana Grande, Sabrina Carpenter, Doja Cat, Lizzo and more - NBC News"
-        }, 
-        {
-            "url": "https://www.quantamagazine.org/dogged-dark-matter-hunters-find-new-hiding-places-to-check-20240507/", 
-            "description": "Perhaps dark matter is made of an entirely different kind of particle than the ones physicists have been searching for. New experiments are springing up to look for these ultra-lightweight phantoms.", 
-            "title": "Dogged Dark Matter Hunters Find New Hiding Places to Check - Quanta Magazine"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/07/apple-reduces-ipad-10-price-to-349-discontinues-ipad-9-with-home-button/", 
-            "description": "While refreshing the iPad line at the mid to high end, Apple has also rejiggered the starting lineup as well....", 
-            "title": "Apple reduces iPad 10 price to $349, discontinues iPad 9 with Home button - 9to5Mac"
-        }, 
-        {
-            "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/", 
-            "description": "Apple today announced the redesigned 11-inch and all-new 13-inch iPad Air, supercharged by the M2 chip.", 
-            "title": "Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air with M2 - Apple"
         }
     ], 
-    "last_updated": "2024-05-08 21:06:24"
+    "last_updated": "2024-05-08 21:35:18"
 }
