@@ -1,9 +1,74 @@
 {
     "news": [
         {
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/08/gwu-protest-encampment-dc-police-arrests/", 
+            "description": "D.C.\u2019s police chief and mayor are scheduled to testify on Capitol Hill about the previous refusal of police to move on the demonstrators.", 
+            "title": "D.C. police begin clearing GWU protest encampment - The Washington Post"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3J1c3NpYW4tY291cnQtc2F5cy11cy1zb2xkaWVyLWNoYXJnZWQtd2l0aC10aGVmdC1jYXVzaW5nLXNpZ25pZmljYW50LWRhbWFnZS0yMDI0LTA1LTA4L9IBAA?oc=5", 
+            "description": null, 
+            "title": "Russian court says US soldier charged with theft causing 'significant' damage - Reuters"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/uk/prince-harry-king-charles-invictus-intl-scli-gbr/index.html", 
+            "description": "The Duke of Sussex has returned to the United Kingdom for a ceremony on Wednesday marking a milestone moment for his Invictus Games, but he will not see his father, King Charles III, while back in the country.", 
+            "title": "Prince Harry won\u2019t see King Charles during UK trip for Invictus celebrations - CNN"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/ftx-billions-more-needed-pay-231400349.html", 
+            "description": null, 
+            "title": "FTX Has Billions More Than Needed to Pay Bankruptcy Victims - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/07/politics/report-looms-biden-israel-international-law/index.html", 
+            "description": "The Biden administration is rushing to finish a high-stakes report\u00a0due\u00a0to Congress this week on whether Israel has violated international humanitarian law during its war in Gaza\u2014 a determination that\u00a0could\u00a0lead to significant\u00a0repercussions\u00a0and further inflame\u2026", 
+            "title": "A high-stakes report looms over Biden on whether Israel violated international law - CNN"
+        }, 
+        {
             "url": "https://www.bbc.com/news/articles/cm54pp11x3go", 
             "description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.", 
             "title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/health/breast-cancer-screening-mammogram-guidelines-wellness/index.html", 
+            "description": "Experts now recommend mammograms starting at age 40 rather than age 50. Your risk level can also determine when or how often you get screened. Here\u2019s what to know.", 
+            "title": "Mammograms are now recommended starting at age 40. Should you get one? - CNN"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/thunder-remind-everyone-why-theyre-the-no-1-seed-in-convincing-win-over-mavs-063825995.html", 
+            "description": "The Thunder shot 16-of-35 from deep and recorded a franchise playoff-record 29 assists in Game 1 of their second-round series.", 
+            "title": "Thunder remind everyone why they're the No. 1 seed in convincing win over Mavs - Yahoo Sports"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-us-canada-68974398", 
+            "description": "The star witness recounted her alleged sexual encounter with the ex-president and faced testy questioning from his lawyers.", 
+            "title": "Donald Trump and Stormy Daniels face off on tense day in court - BBC.com"
+        }, 
+        {
+            "url": "https://www.reuters.com/business/environment/brazil-floods-leave-150000-homeless-scores-dead-or-missing-2024-05-07/", 
+            "description": null, 
+            "title": "Brazil floods leave 150000 homeless, scores dead or missing - Reuters"
+        }, 
+        {
+            "url": "https://www.dw.com/en/what-happens-if-the-eu-does-not-recognize-vladimir-putin/a-69019245", 
+            "description": "Calls are growing for the EU to boycott recognizing Vladimir Putin as Russia's elected president. But cutting off communications entirely is a bad idea in the long term, experts warn.", 
+            "title": "What happens if the EU does not recognize Vladimir Putin? - DW (English)"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/08/1249883124/panera-says-it-will-stop-serving-charged-sips-drinks-at-center-of-lawsuits", 
+            "description": "Panera Bread said it's discontinuing its Charged Sips drinks that were tied to at least two wrongful death lawsuits due to their high caffeine content.", 
+            "title": "Panera says it will stop serving 'Charged Sips' drinks at center of lawsuits - NPR"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0FwcGxlLU00LW1ha2VzLUdlZWtiZW5jaC1kZWJ1dC1hbG9uZ3NpZGUtbmV3LWlQYWQtUHJvLjgzNDk5NC4wLmh0bWzSAQA?oc=5", 
+            "description": null, 
+            "title": "Apple M4 makes Geekbench debut alongside new iPad Pro - Notebookcheck.net"
+        }, 
+        {
+            "url": "https://www.nba.com/game/cle-vs-undefined-0042300201", 
+            "description": "Cleveland Cavaliers vs Boston Celtics May 7, 2024 game result including recap, highlights and game information", 
+            "title": "Cleveland Cavaliers vs Boston Celtics May 7, 2024 Game Summary - NBA.com"
         }, 
         {
             "url": "https://removed.com", 
@@ -16,14 +81,9 @@
             "title": "US revokes Intel, Qualcomm's export licenses to sell to China's Huawei, sources say - Reuters"
         }, 
         {
-            "url": "https://sports.yahoo.com/nba-playoffs-thunder-roll-past-mavericks-in-game-1-as-youth-prevails-again-040321170.html", 
-            "description": "Playoff inexperience hasn't been an issue for the Thunder in a 5-0 postseason start", 
-            "title": "NBA playoffs: Thunder roll past Mavericks in Game 1 as youth prevails again - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-middle-east-68974624", 
-            "description": "A bomb shipment was halted last week over concerns Israel was going ahead with a Rafah offensive.", 
-            "title": "US reveals it paused shipment of bombs for Israel over Rafah concerns - BBC.com"
+            "url": "https://www.axios.com/2024/05/07/trump-classified-documents-trial-date-court", 
+            "description": null, 
+            "title": "Trump's federal classified docs trial date postponed indefinitely - Axios"
         }, 
         {
             "url": "https://www.freep.com/story/news/local/michigan/2024/05/07/tornado-confirmed-in-michigan/73605562007/", 
@@ -31,75 +91,15 @@
             "title": "Tornadoes reported in west Michigan; multiple buildings in Portage damaged: Live updates - Detroit Free Press"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/deadly-oklahoma-tornado-trail-of-damage-barnsdall-bartlesville-portage-michigan/", 
-            "description": "A tornado destroyed homes and toppled trees and power lines when it roared through a small northeast Oklahoma city, one of several twisters that erupted in the central U.S.\u200b amid a series of powerful storms.", 
-            "title": "Storms batter Midwest one day after tornado leaves at least 1 dead in Oklahoma - CBS News"
+            "url": "https://www.cbsnews.com/baltimore/news/sixth-construction-worker-recovered-from-key-bridge-collapse-site/", 
+            "description": "The body of a sixth construction worker was recovered from the Key Bridge wreckage site in Baltimore Tuesday.", 
+            "title": "Sixth and final construction worker recovered from Baltimore Key Bridge collapse site - CBS Baltimore"
         }, 
         {
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/travis-kelce-ryan-murphy-fx-series-grotesquerie-1235893302/", 
-            "description": "The Super Bowl champion continues his push into Hollywood with his first dramatic role.", 
-            "title": "Travis Kelce Joins Ryan Murphy\u2019s FX Series \u2018Grotesquerie\u2019 - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/europe/tsar-putin-tells-west-russia-will-talk-only-equal-terms-2024-05-07/", 
-            "description": "Vladimir Putin, honoured like a Russian tsar at his swearing-in for a new six-year presidential term, had a double-edged message for the West: the Kremlin is ready to talk but Russia is girding for victory in Ukraine.", 
-            "title": "'Tsar' Putin tells the West: Russia will talk only on equal terms - Reuters"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/07/last-body-found-key-bridge-collapse-baltimore/", 
-            "description": "Officials identified the person as Jos\u00e9 Mynor L\u00f3pez, 37, of Baltimore", 
-            "title": "Sixth body found after Key Bridge collapse - The Washington Post"
-        }, 
-        {
-            "url": "https://apnews.com/article/panera-charged-lemonade-drinks-caffeine-3d0f74907be3b755b71b7c47d2dfc85d", 
-            "description": "Panera Bread said it\u2019s discontinuing its Charged Sips drinks that were tied to at least two wrongful death lawsuits due to their high caffeine content. Panera didn\u2019t say Tuesday whether the drinks were being discontinued because of the lawsuits or health conc\u2026", 
-            "title": "Panera to stop serving 'Charged Sips' drinks after wrongful death lawsuits over caffeine content - The Associated Press"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1401108/you-missed-kim-kardashians-bizarre-shoe-detail-at-2024-met-gala", 
-            "description": "Kim Kardashian made a very interesting shoe choice for the 2024 Met Gala May 6, wearing a pair of heels with no heel so they wouldn't get caught in her dress as she walked.", 
-            "title": "You Missed Kim Kardashian's Bizarre Shoe Detail at 2024 Met Gala - E! NEWS"
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/reba-mcentire-happys-place-nbc-1235908257/", 
-            "description": "Reba McEntire is back on network television. NBC has handed her sitcom Happy\u2019s Place a series order. It comes after the network handed season three renewals to Lopez vs. Lopez and Night Court and canceled Extended Family after one season. The comedy sees McEn\u2026", 
-            "title": "Reba McEntire Comedy \u2018Happy\u2019s Place\u2019 Lands Series Order At NBC - Deadline"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/", 
-            "description": "The 2024 schedule isn't out yet, but we already know quite a few things about this year's slate of games", 
-            "title": "2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games - CBS Sports"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/explosives-used-help-free-dali-baltimore-bridge-wreckage-rcna151135", 
-            "description": "Crews in Baltimore are preparing to use precision explosive charges to free the Dali container ship from underneath wreckage of the Francis Scott Key Bridge.", 
-            "title": "Explosives to be used to help free the Dali from Baltimore bridge wreckage - NBC News"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/sports/nfl/chiefs/2024/05/07/rashee-ricechiefs-suspect-nightclub-assault/73606021007/", 
-            "description": "Rashee Rice, who faces eight felony counts for causing a hit-and-run in March, is suspected in an alleged assault at a Dallas nightclub, reports say.", 
-            "title": "Embattled Kansas City Chiefs WR Rashee Rice suspected in a nightclub assault, per reports - USA TODAY"
-        }, 
-        {
-            "url": "https://www.denverpost.com/2024/05/07/jamal-murray-fined-nuggets-timberwolves/", 
-            "description": "Murray avoided a suspension after the league reviewed the incident, sources told The Denver Post.", 
-            "title": "Jamal Murray fined $100,000, avoids suspension for throwing objects at official during playoff game - The Denver Post"
-        }, 
-        {
-            "url": "https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3", 
-            "description": "The Boy Scouts of America is changing its name for the first time in its 114-year history. The Texas-based organization announced Tuesday that it will become Scouting America. It's a significant shift for an organization that is seeking to move past the turmo\u2026", 
-            "title": "Boy Scouts is changing its name to Scouting America - The Associated Press"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/07/1249715215/toxic-culture-workplace-fdic-goverment-employees-investigation-harassment", 
-            "description": "A law firm investigation of the FDIC documents a toxic workplace culture where hundreds of employees complained of sexual harassment, discrimination and other misconduct.", 
-            "title": "Toxic culture is the norm at the FDIC, leadership cited in report - NPR"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/07/white-house-israel-hamas-positions-allow-hostage-deal", 
-            "description": null, 
-            "title": "White House says Israel and Hamas put a hostage deal within reach - Axios"
+            "url": "https://www.ksat.com/news/local/2024/05/08/covid-19-variants-called-flirt-continue-to-spread-across-the-us-cdc-says/", 
+            "description": "A new group of COVID-19 variants is spreading across the United States, according to the Centers for Disease Control and Prevention.", 
+            "title": "COVID-19 variants called 'FLiRT' continue to spread across the US, CDC says - KSAT San Antonio"
         }
     ], 
-    "last_updated": "2024-05-09 11:07:48"
+    "last_updated": "2024-05-09 11:37:50"
 }
