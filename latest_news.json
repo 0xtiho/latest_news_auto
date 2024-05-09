@@ -1,19 +1,59 @@
 {
     "news": [
         {
-            "url": "https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to", 
-            "description": "Apple\u2019s latest iPad Pro and iPad Air will launch on May 15th, but you can already preorder them via Apple. Here\u2019s what you need to know in terms of pricing and availability.", 
-            "title": "Here's where you can preorder Apple's latest iPad Air and iPad Pro - The Verge"
+            "url": "https://www.washingtonpost.com/weather/2024/05/08/tornado-storm-outlook-tennessee-arkansas-missouri/", 
+            "description": "Intense storms threaten large areas of the eastern United States, but the zone including St. Louis, Little Rock and Nashville is most at risk.", 
+            "title": "Dangerous storm outbreak, tornadoes expected from Missouri to Tennessee - The Washington Post"
         }, 
         {
-            "url": "https://www.startribune.com/denver-nuggets-jamal-murray-heat-pack-throw-onto-floor-loss-timberwolves-playoffs/600364165/", 
-            "description": "Game officials didn't see what he did in real time. But the NBA fined Nuggets star Jamal Murray for his actions during Game 2 of the NBA playoffs.", 
-            "title": "Nuggets' Jamal Miuray fined $100000 for throwing heat pack in Game 2 - Star Tribune"
+            "url": "https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d", 
+            "description": "The Israeli military says it has reopened the Kerem Shalom crossing into Gaza but a United Nations agency says no aid has yet entered. The key terminal for the entry of humanitarian aid was closed over the weekend after a Hamas rocket attack killed four Israe\u2026", 
+            "title": "Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack - The Associated Press"
         }, 
         {
-            "url": "https://www.washingtonpost.com/business/2024/05/08/biden-foxconn-white-house-trump/", 
-            "description": "The investment is expected to create 2,000 permanent jobs and 2,300 temporary union construction jobs.", 
-            "title": "Biden champions Microsoft artificial intelligence investment in Wisconsin - The Washington Post"
+            "url": "https://www.npr.org/2024/05/08/1249961060/swiss-army-knife-victorinox-bladeless", 
+            "description": "Some governments have been cracking down on the knives people can carry in public as crime has increased. Victorinox said any bladeless offerings wouldn't replace its selection of Swiss Army Knives.", 
+            "title": "Swiss Army Knife maker will offer bladeless products amid a rise in violence - NPR"
+        }, 
+        {
+            "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-cpu-cores-and-ram-amount-are-tied-to-storage-capacity/", 
+            "description": "Apple has tied RAM to storage capacity in iPads, but it's a first for the CPU.", 
+            "title": "M4 iPad Pro CPU cores and RAM amount are tied to storage capacity - Ars Technica"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/us/pro-palestinian-protests-arrests-colleges-dg/index.html", 
+            "description": "Pro-Palestinian protesters continue to be arrested on college campuses. Explore the timeline of where protests erupted and who police have arrested on these campuses.", 
+            "title": "How pro-Palestinian protest arrests have unfolded across college campuses - CNN"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-fani-willis-georgia-election-indictment-31ca3234b244126cbe412dc279fd0562", 
+            "description": "An attorney for Donald Trump says the former president looks forward to presenting arguments to a Georgia appeals court that will review a ruling letting Fani Willis keep prosecuting the election interference case against him. The Republican ex-president and \u2026", 
+            "title": "Georgia appeals court agrees to review ruling allowing Fani Willis to stay on Trump election case - The Associated Press"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/uber-forecasts-gross-bookings-second-105615535.html", 
+            "description": "(Reuters) -Uber posted a surprise quarterly loss and forecast gross bookings below Wall Street expectations, sending its shares down 9% and putting the ride-...", 
+            "title": "Uber shares tumble as weaker ride-share demand hurts Q2 forecast - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/politics/rfk-jr-mercury-poisoning-brain-parasite/index.html", 
+            "description": "Independent presidential candidate Robert F. Kennedy Jr. experienced a series of health issues in recent years, including an abnormality that he said was caused by a worm that entered his brain and then died, The New York Times reported on Wednesday.", 
+            "title": "NYT: RFK Jr. says worm \u2018got into my brain and ate a portion of it\u2019 - CNN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/world/boeing-starliner-new-launch-date-scn/index.html", 
+            "description": "Engineers are replacing a valve on the rocket that will power the first crewed test flight of Boeing\u2019s Starliner spacecraft. The launch is now expected no sooner than May 17.", 
+            "title": "Boeing\u2019s historic Starliner mission now expected to launch no sooner than May 17 after valve issue - CNN"
+        }, 
+        {
+            "url": "https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/", 
+            "description": "The Shellac and Big Black frontman, who recorded classic albums by Nirvana, Pixies, PJ Harvey, and more, died of a heart attack", 
+            "title": "Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61 - Pitchfork"
         }, 
         {
             "url": "https://www.washingtonpost.com/world/2024/05/08/ukraine-electricity-rationing-russia-war/", 
@@ -21,85 +61,45 @@
             "title": "Ukraine orders nationwide electricity rationing after Russian airstrikes - The Washington Post"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html", 
-            "description": "The Dow Jones Industrial Average traded higher Wednesday, trying to extend its winning streak to six days straight.", 
-            "title": "Stock market today: Live updates - CNBC"
+            "url": "https://www.npr.org/sections/health-shots/2024/05/08/1249933035/medicaid-limits-wegovy-access", 
+            "description": "New medications like Wegovy are changing the way people lose weight and manage obesity, but many Medicaid beneficiaries can't get them.", 
+            "title": "Access to Wegovy limited in Medicaid programs : Shots - Health News - NPR"
         }, 
         {
-            "url": "https://www.macrumors.com/2024/05/08/ipod-nano-appears-in-new-ipad-pro-ad/", 
-            "description": "The new iPad Pro has dethroned the iPod nano as Apple's thinnest device ever, and the company has promoted this feat in a nostalgic ad.   In a...", 
-            "title": "iPod Nano Makes Rare Appearance in Apple Ad for Thinner iPad Pro - MacRumors"
+            "url": "https://nypost.com/2024/05/08/world-news/boeing-cargo-plane-makes-emergency-belly-landing-after-landing-gear-fails-2/", 
+            "description": "The aircraft, flying from Paris Charles de Gaulle Airport, informed the control tower in Istanbul that its landing gear had failed to open and touched down with guidance from the tower, managing to\u2026", 
+            "title": "Boeing cargo plane makes emergency 'belly' landing after landing gear fails - New York Post "
         }, 
         {
-            "url": "https://www.reuters.com/world/middle-east/netanyahu-weighs-risks-rafah-assault-hostage-dilemma-divides-israelis-2024-05-08/", 
-            "description": null, 
-            "title": "Netanyahu weighs risks of Rafah assault as hostage dilemma divides Israelis - Reuters"
+            "url": "https://www.npr.org/sections/health-shots/2024/05/08/1249622314/cdc-rules-dogs-import-travel-international-rabies", 
+            "description": "The CDC announced stricter regulations for importing dogs from abroad \u2014 or traveling internationally with your furry companions.", 
+            "title": "Traveling internationally with a dog just got a little harder : Shots - Health News - NPR"
         }, 
         {
-            "url": "https://www.nbcnews.com/politics/2024-election/indiana-primary-results-election-governor-senate-rcna151051", 
-            "description": "Indiana Republican Rep. Jim Banks won the state\u2019s GOP Senate primary unopposed Tuesday, while Sen. Mike Braun won the nomination for governor.", 
-            "title": "Indiana primary election results: Mike Braun wins GOP governor primary, Jim Banks wins Senate primary - NBC News"
+            "url": "https://www.dallascowboys.com/news/zay-jones-cowboys-meet-to-discuss-possible-deal", 
+            "description": "Looking to bolster the wide receivers depth chart even further following the 2024 NFL Draft, Dallas is hosting a visit with Zay Jones \u2014 son of a former Cowboys\u2019 linebacker.", 
+            "title": "Zay Jones, Cowboys meet to discuss possible deal - DallasCowboys.com"
         }, 
         {
-            "url": "https://gizmodo.com/webb-spots-nearby-rocky-super-earth-atmosphere-1851461827", 
-            "description": "The Webb Space Telescope has uncovered a nearby rocky planet with a volatile atmosphere.", 
-            "title": "A Planet Just 41 Light-Years From Earth Has an Atmosphere and Is Covered in a Magma Ocean - Gizmodo"
+            "url": "https://www.silverandblackpride.com/2024/5/8/24151636/nfl-schedule-release-2024-raiders-dates-opponents", 
+            "description": "Let\u2019s get ready for the NFL schedule release by looking at possible dates for the Las Vegas Raiders opponents in 2023", 
+            "title": "2024 NFL schedule release : Preparing possible Las Vegas Raiders dates - Silver And Black Pride"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-middle-east-68978322", 
-            "description": "By delaying a weapons shipment, the US is finally reaching for its biggest lever of influence over Israel.", 
-            "title": "Gaza war: US bomb delay biggest warning yet for Israel - BBC.com"
+            "url": "http://www.hollywoodreporter.com/movies/movie-reviews/kingdom-of-the-planet-of-the-apes-review-wes-ball-owen-teague-1235890518/", 
+            "description": "Owen Teague, Freya Allan, Kevin Durand and William H. Macy lead the latest installment, depicting a future where humankind\u2019s hubris has led to its downfall, making apes the dominant species.", 
+            "title": "\u2018Kingdom of the Planet of the Apes\u2019 Review: Wes Ball\u2019s Exciting New Chapter Proves There\u2019s Still Life in the Franchise - Hollywood Reporter"
         }, 
         {
-            "url": "https://www.npr.org/2024/05/08/1249920941/fani-wade-disqualification-appeal-trump-georgia-case", 
-            "description": "The Georgia Court of Appeals will hear oral arguments after former President Trump appealed a decision allowing Fulton County DA Fani Willis to stay on the criminal case involving him and others.", 
-            "title": "Georgia appeals court will review Fani Willis disqualification ruling - NPR"
+            "url": "https://www.space.com/james-webb-space-telescope-diamond-super-earth-exoplanet-atmosphere", 
+            "description": "\"We measured the thermal emissions from this rocky planet, and the measurement indicates that the planet has a substantial atmosphere. It is very exciting.\"", 
+            "title": "This diamond exoplanet lost its atmosphere \u2014 then it grew another - Space.com"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/weather/major-storms-continue-country-devastating-overnight-tornadoes-michigan-rcna151217", 
-            "description": "A major storm threat bringing damaging winds, large hail and possible tornadoes continues to batter parts of the country from Texas to the mid-Atlantic.", 
-            "title": "Major storms continue across the country following devastating overnight tornadoes in Michigan - NBC News"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/ftx-billions-more-needed-pay-231400349.html", 
-            "description": null, 
-            "title": "FTX Has Billions More Than Needed to Pay Bankruptcy Victims - Yahoo Finance"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.foxnews.com/world/idf-releases-footage-precise-counterterrorism-operation-rafah-feud-biden-admin", 
-            "description": "Israeli forces are conducting \"precise\" operations around Rafah despite protest from President Biden's administration on Tuesday.", 
-            "title": "IDF releases footage of \u2018precise counterterrorism operation\u2019 in Rafah amid feud with Biden admin - Fox News"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/nation/2024/05/08/college-protests-professors-arrests-suspensions/", 
-            "description": "College faculty members said they\u2019ve felt a duty to support their students during pro-Palestinian protests even as they\u2019ve faced arrests and suspensions.", 
-            "title": "College faculty face discipline for supporting pro-Palestinian student protesters - The Washington Post"
-        }, 
-        {
-            "url": "https://www.pushsquare.com/reviews/ps5/crow-country", 
-            "description": "Prepare to eat crow", 
-            "title": "Crow Country Review (PS5) - Push Square"
-        }, 
-        {
-            "url": "https://www.today.com/health/news/kim-kardashian-waist-met-gala-rcna151019", 
-            "description": "Kim Kardashian's waist in her Maison Margiela dress at the 2024 Met Gala was certainly one of the most memorable looks to hit the red carpet.", 
-            "title": "Kim Kardashian's Waist At Met Gala: How Did She Do It? Is It Safe? - TODAY"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/just-one-human-infected-bird-121130918.html", 
-            "description": "(Bloomberg) -- It\u2019s spreading rapidly among cows. It\u2019s also infecting skunks, mountain lions and red foxes.Most Read from BloombergAmericans Are Racking Up \u2018...", 
-            "title": "Just One Human Is Infected by Bird Flu in the US. More Cases Are Likely - Yahoo Finance"
+            "url": "https://www.theverge.com/2024/5/8/24151951/amazon-prime-video-pause-trivia-ads-announcement", 
+            "description": "Amazon will roll out three new ad formats for Prime Video later this year to encourage subscribers to purchase promoted items while watching TV, movies, or live sports.", 
+            "title": "Amazon Prime Video ads are about to get more intrusive - The Verge"
         }
     ], 
-    "last_updated": "2024-05-09 19:08:23"
+    "last_updated": "2024-05-09 19:38:26"
 }
