@@ -1,34 +1,9 @@
 {
     "news": [
         {
-            "url": "https://sports.yahoo.com/nba-playoffs-celtics-cruise-to-game-1-win-over-cavaliers-behind-big-night-from-jaylen-brown-derrick-white-011844326.html", 
-            "description": "Jayson Tatum struggled from the field. But for a Celtics team loaded with weapons, it didn't matter.", 
-            "title": "NBA playoffs: Celtics cruise to Game 1 win over Cavaliers behind big night from Jaylen Brown, Derrick White - Yahoo Sports"
-        }, 
-        {
-            "url": "https://apnews.com/article/drake-shooting-toronto-mansion-03741edc5b50c9cab8424c7fa15adab1", 
-            "description": "Police are investigating a shooting outside rapper Drake\u2019s mansion that left a security guard seriously wounded. Authorities did not confirm whether Drake was at home at the time of the shooting, but said his team is cooperating. The shooting happened around \u2026", 
-            "title": "Drake house shooting: Police investigating, security injured - The Associated Press"
-        }, 
-        {
-            "url": "https://wwmt.com/news/local/nws-tornado-touches-down-near-decatur-van-buren-county-residents-take-shelter-severe-weather-alert-kalamazoo-county-west-michigan", 
-            "description": "Update 7:37 p.m. - A tornado warning has been issued for Calhoun County until 8:30 p.m.", 
-            "title": "NWS: Tornado touches down near Decatur; tornado warning issued for Calhoun County - WWMT-TV"
-        }, 
-        {
-            "url": "https://www.wsj.com/finance/regulation/fdic-investigation-report-discrimination-harassment-522d43d9", 
-            "description": null, 
-            "title": "FDIC Investigation Finds Culture Rife With Sexual Harassment, Discrimination - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/", 
-            "description": "The 2024 schedule isn't out yet, but we already know quite a few things about this year's slate of games", 
-            "title": "2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games - CBS Sports"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c72pqlgqe4jo", 
-            "description": "TikTok said the measure was an \"extraordinary intrusion on free speech rights\".", 
-            "title": "TikTok sues to block US law which could ban app - BBC.com"
+            "url": "https://www.bbc.com/news/articles/cm54pp11x3go", 
+            "description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.", 
+            "title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com"
         }, 
         {
             "url": "https://removed.com", 
@@ -36,70 +11,95 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/07/politics/judge-postpones-trump-classified-documents-trial/index.html", 
-            "description": "Judge Aileen Cannon has indefinitely postponed former President Donald Trump\u2019s classified documents trial in Florida, citing significant issues around classified evidence that would need to be worked out before the federal criminal case goes to a jury.", 
-            "title": "Federal judge indefinitely postpones Trump classified documents trial - CNN"
-        }, 
-        {
-            "url": "https://www.espn.com/nba/story/_/id/40102961/nuggets-jamal-murray-fined-100k-avoids-suspension-toss", 
-            "description": "Jamal Murray was fined $100K but avoided a suspension after tossing multiple objects in the direction of an official during Denver's Game 2 loss.", 
-            "title": "Nuggets' Jamal Murray fined $100K, avoids suspension for toss - ESPN"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cm54pp11x3go", 
-            "description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.", 
-            "title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com"
-        }, 
-        {
-            "url": "https://families.google.com/service-restricted", 
+            "url": "https://www.reuters.com/technology/us-revoked-some-export-licenses-chinas-huawei-2024-05-07/", 
             "description": null, 
-            "title": "Cleveland Cavaliers @ Boston Celtics Game 1 | #NBAplayoffs presented by Google Pixel Live Scoreboard - NBA"
+            "title": "US revokes Intel, Qualcomm's export licenses to sell to China's Huawei, sources say - Reuters"
         }, 
         {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-victims", 
-            "description": "Cryptocurrency exchange FTX has amassed billions of dollars more than it needs to cover what customers lost in its November 2022 collapse, setting them up to receive full recoveries under the company\u2019s bankruptcy.", 
-            "title": "FTX Has Billions More Than It Needs to Repay Its More Than Two Million Customers - Bloomberg"
+            "url": "https://sports.yahoo.com/nba-playoffs-thunder-roll-past-mavericks-in-game-1-as-youth-prevails-again-040321170.html", 
+            "description": "Playoff inexperience hasn't been an issue for the Thunder in a 5-0 postseason start", 
+            "title": "NBA playoffs: Thunder roll past Mavericks in Game 1 as youth prevails again - Yahoo Sports"
         }, 
         {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity", 
-            "description": "The feature would let ChatGPT users search the web and cite sources in its results.", 
-            "title": "OpenAI Is Readying a Search Product to Rival Google, Perplexity - Bloomberg"
+            "url": "https://www.bbc.com/news/world-middle-east-68974624", 
+            "description": "A bomb shipment was halted last week over concerns Israel was going ahead with a Rafah offensive.", 
+            "title": "US reveals it paused shipment of bombs for Israel over Rafah concerns - BBC.com"
+        }, 
+        {
+            "url": "https://www.freep.com/story/news/local/michigan/2024/05/07/tornado-confirmed-in-michigan/73605562007/", 
+            "description": "Multiple tornadoes touch down in West Michigan, significantly damaging a FedEx facility in Portage and leaving thousands of power outages.", 
+            "title": "Tornadoes reported in west Michigan; multiple buildings in Portage damaged: Live updates - Detroit Free Press"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/deadly-oklahoma-tornado-trail-of-damage-barnsdall-bartlesville-portage-michigan/", 
+            "description": "A tornado destroyed homes and toppled trees and power lines when it roared through a small northeast Oklahoma city, one of several twisters that erupted in the central U.S.\u200b amid a series of powerful storms.", 
+            "title": "Storms batter Midwest one day after tornado leaves at least 1 dead in Oklahoma - CBS News"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/travis-kelce-ryan-murphy-fx-series-grotesquerie-1235893302/", 
+            "description": "The Super Bowl champion continues his push into Hollywood with his first dramatic role.", 
+            "title": "Travis Kelce Joins Ryan Murphy\u2019s FX Series \u2018Grotesquerie\u2019 - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/europe/tsar-putin-tells-west-russia-will-talk-only-equal-terms-2024-05-07/", 
+            "description": "Vladimir Putin, honoured like a Russian tsar at his swearing-in for a new six-year presidential term, had a double-edged message for the West: the Kremlin is ready to talk but Russia is girding for victory in Ukraine.", 
+            "title": "'Tsar' Putin tells the West: Russia will talk only on equal terms - Reuters"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/07/last-body-found-key-bridge-collapse-baltimore/", 
+            "description": "Officials identified the person as Jos\u00e9 Mynor L\u00f3pez, 37, of Baltimore", 
+            "title": "Sixth body found after Key Bridge collapse - The Washington Post"
+        }, 
+        {
+            "url": "https://apnews.com/article/panera-charged-lemonade-drinks-caffeine-3d0f74907be3b755b71b7c47d2dfc85d", 
+            "description": "Panera Bread said it\u2019s discontinuing its Charged Sips drinks that were tied to at least two wrongful death lawsuits due to their high caffeine content. Panera didn\u2019t say Tuesday whether the drinks were being discontinued because of the lawsuits or health conc\u2026", 
+            "title": "Panera to stop serving 'Charged Sips' drinks after wrongful death lawsuits over caffeine content - The Associated Press"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1401108/you-missed-kim-kardashians-bizarre-shoe-detail-at-2024-met-gala", 
+            "description": "Kim Kardashian made a very interesting shoe choice for the 2024 Met Gala May 6, wearing a pair of heels with no heel so they wouldn't get caught in her dress as she walked.", 
+            "title": "You Missed Kim Kardashian's Bizarre Shoe Detail at 2024 Met Gala - E! NEWS"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/reba-mcentire-happys-place-nbc-1235908257/", 
+            "description": "Reba McEntire is back on network television. NBC has handed her sitcom Happy\u2019s Place a series order. It comes after the network handed season three renewals to Lopez vs. Lopez and Night Court and canceled Extended Family after one season. The comedy sees McEn\u2026", 
+            "title": "Reba McEntire Comedy \u2018Happy\u2019s Place\u2019 Lands Series Order At NBC - Deadline"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-sneak-peek-here-are-seven-things-we-already-know-about-this-years-slate-of-games/", 
+            "description": "The 2024 schedule isn't out yet, but we already know quite a few things about this year's slate of games", 
+            "title": "2024 NFL schedule release sneak peek: Here are seven things we already know about this year's slate of games - CBS Sports"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/explosives-used-help-free-dali-baltimore-bridge-wreckage-rcna151135", 
+            "description": "Crews in Baltimore are preparing to use precision explosive charges to free the Dali container ship from underneath wreckage of the Francis Scott Key Bridge.", 
+            "title": "Explosives to be used to help free the Dali from Baltimore bridge wreckage - NBC News"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/sports/nfl/chiefs/2024/05/07/rashee-ricechiefs-suspect-nightclub-assault/73606021007/", 
+            "description": "Rashee Rice, who faces eight felony counts for causing a hit-and-run in March, is suspected in an alleged assault at a Dallas nightclub, reports say.", 
+            "title": "Embattled Kansas City Chiefs WR Rashee Rice suspected in a nightclub assault, per reports - USA TODAY"
+        }, 
+        {
+            "url": "https://www.denverpost.com/2024/05/07/jamal-murray-fined-nuggets-timberwolves/", 
+            "description": "Murray avoided a suspension after the league reviewed the incident, sources told The Denver Post.", 
+            "title": "Jamal Murray fined $100,000, avoids suspension for throwing objects at official during playoff game - The Denver Post"
         }, 
         {
             "url": "https://apnews.com/article/boy-scouts-new-name-scouting-america-d583f5712680f155b4f6b762128734d3", 
-            "description": "The Boy Scouts of America is changing its name for the first time in its 114-year history. The Texas-based organization announced Tuesday that it would become Scouting America. It's a significant shift for the organization as it emerges from bankruptcy after \u2026", 
+            "description": "The Boy Scouts of America is changing its name for the first time in its 114-year history. The Texas-based organization announced Tuesday that it will become Scouting America. It's a significant shift for an organization that is seeking to move past the turmo\u2026", 
             "title": "Boy Scouts is changing its name to Scouting America - The Associated Press"
         }, 
         {
-            "url": "https://www.livescience.com/space/black-holes/epic-nasa-video-takes-you-to-the-heart-of-a-black-hole-and-destroys-you-in-seconds", 
-            "description": "What would it be like to fall past the event horizon of a black hole? A new NASA simulation provides a peek into the bizarre physics of spaghettification.", 
-            "title": "Epic NASA video takes you to the heart of a black hole \u2014 and destroys you in seconds - Livescience.com"
+            "url": "https://www.npr.org/2024/05/07/1249715215/toxic-culture-workplace-fdic-goverment-employees-investigation-harassment", 
+            "description": "A law firm investigation of the FDIC documents a toxic workplace culture where hundreds of employees complained of sexual harassment, discrimination and other misconduct.", 
+            "title": "Toxic culture is the norm at the FDIC, leadership cited in report - NPR"
         }, 
         {
-            "url": "https://www.reuters.com/technology/us-revoked-some-export-licenses-chinas-huawei-2024-05-07/", 
+            "url": "https://www.axios.com/2024/05/07/white-house-israel-hamas-positions-allow-hostage-deal", 
             "description": null, 
-            "title": "US revokes some export licenses for China's Huawei - Reuters"
-        }, 
-        {
-            "url": "http://9to5google.com/2024/05/07/google-pixel-8a-trade-in-values/", 
-            "description": "Google is offering some excellent Pixel 8a trade-in values, with especially good prices for older A-Series Pixel phones.", 
-            "title": "Google offering solid trade-in values towards Pixel 8a for previous A-Series phones - 9to5Google"
-        }, 
-        {
-            "url": "https://www.androidcentral.com/apps-software/google-announces-may-2024-update-to-pixel-phones", 
-            "description": "The new update rollout begins today for the global versions of Pixel 5a and above.", 
-            "title": "Google brings May update to Pixel phones with bug fixes - Android Central"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/wellness/2024/05/07/olive-oil-dementia-lower-risk/", 
-            "description": "A study has found that daily olive oil consumption is associated with a lower risk of dying from dementia.", 
-            "title": "Olive oil use associated with lower risk of dying from dementia - The Washington Post"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/7/the-goal-is-to-destroy-gaza-why-israel-rejects-a-ceasefire-with-hamas", 
-            "description": "Israel has rejected a ceasefire and launched an operation in Rafah, raising fears that the war in Gaza could drag on.", 
-            "title": "'The goal is to destroy Gaza': Why Israel rejects a ceasefire with Hamas - Al Jazeera English"
+            "title": "White House says Israel and Hamas put a hostage deal within reach - Axios"
         }
     ], 
-    "last_updated": "2024-05-09 04:37:04"
+    "last_updated": "2024-05-09 11:07:48"
 }
