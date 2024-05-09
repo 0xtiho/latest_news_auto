@@ -1,9 +1,39 @@
 {
     "news": [
         {
-            "url": "https://www.freep.com/story/news/local/michigan/2024/05/08/tornadoes-tear-through-midwest-with-at-least-2-ripping-west-michigan/73610750007/", 
-            "description": "For the first time in Michigan, the National Weather Service issued a tornado emergency, as the storms hit the Kalamazoo area and state's west side.", 
-            "title": "Michigan tornadoes damage areas in Portage, Branch and St. Joseph - Detroit Free Press"
+            "url": "https://www.cbssports.com/nba/news/knicks-vs-pacers-schedule-where-to-watch-game-2-tv-channel-nba-scores-prediction-live-stream-online/", 
+            "description": "The Knicks are trying to go up 2-0 in the best-of-seven series", 
+            "title": "Knicks vs. Pacers schedule: Where to watch Game 2, TV channel, NBA scores, prediction, live stream online - CBS Sports"
+        }, 
+        {
+            "url": "https://apnews.com/article/police-shooting-airman-florida-8bcc82463ada69264389edf2a4f1a83d", 
+            "description": "A civil rights attorney says deputies responding to a disturbance call at a Florida apartment complex burst into the wrong unit and fatally shot a Black U.S. Air Force airman. Attorney Ben Crump says Senior Airman Roger Fortson was home alone Friday when depu\u2026", 
+            "title": "Florida deputies who fatally shot US airman burst into wrong apartment, attorney says - The Associated Press"
+        }, 
+        {
+            "url": "https://www.espn.com/nba/story/_/id/40109006/nuggets-nikola-jokic-wins-nba-mvp-3rd-4-seasons", 
+            "description": "Nuggets star Nikola Jokic became the NBA's ninth three-time MVP, easily beating out the Thunder's Shai Gilgeous-Alexander and the Mavs' Luka Doncic on Wednesday.", 
+            "title": "Nuggets' Nikola Jokic wins NBA MVP for 3rd time in 4 seasons - ESPN"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/entertainment/music/2024/05/08/steve-albini-death-nirvana/", 
+            "description": "Steve Albini, the Chicago alt-rock producer who worked with some of the greatest American rock acts, has died, his studio confirmed.", 
+            "title": "Steve Albini, Nirvana and The Pixies music producer, dies at 61 - The Washington Post"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/uk-politics-68980700", 
+            "description": "Natalie Elphicke has previously attacked Labour over policies including migration and taxes.", 
+            "title": "Natalie Elphicke: Starmer faces anger after Tory MP's defection - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/health/ultraprocessed-foods-death-study-wellness/index.html", 
+            "description": "Studies have shown that ultraprocessed foods can have a detrimental impact on health. But 30 years of research show they don\u2019t all have the same impact.", 
+            "title": "Ultraprocessed foods linked with early death, according to 30 years of research - CNN"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/08/1198911436/rafah-border-crossing-humanitarian-crisis-israel-offensive-what-comes-next", 
+            "description": "The Biden administration has put a hold on an arms shipment to Israel.  A senior administration official speaking on the condition of anonymity told NPR it was due to concerns the bombs could be used in Rafah.<br><br>Rafah is the site of Israel's latest campa\u2026", 
+            "title": "Israel seized control of Rafah border crossing. The impact could be devastating : Consider This from NPR - NPR"
         }, 
         {
             "url": "https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-forcing-vote-oust-speaker-johnson-ukraine-a-rcna148389", 
@@ -16,19 +46,29 @@
             "title": "Biden says he will stop sending bombs and artillery shells to Israel if they launch major invasion of Rafah - CNN"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/sports/shohei-ohtanis-former-translator-plead-guilty-transferring-17-million-rcna151363", 
-            "description": "The former translator for Los Angeles Dodgers superstar Shohei Ohtani has agreed to plead guilty to illegally transferring $17 million out of Ohtani's account without his knowledge, authorities said Wednesday.", 
-            "title": "Shohei Ohtani\u2019s former translator to plead guilty to transferring $17M from MLB star\u2019s bank account - NBC News"
+            "url": "https://www.npr.org/2024/05/08/1249994099/schools-antisemitism-k-12", 
+            "description": "Republicans tried for the kind of headline moments they've scored in similar hearings with elite college presidents. But the testimony from K-12 public school leaders offered few surprises.", 
+            "title": "Republicans and K-12 school leaders clash over handling of antisemitism - NPR"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/us-news/4-flight-attendants-arrested-accused-taking-millions-drug-money-domini-rcna151312", 
-            "description": "Four flight attendants abused \u201ctheir privileges as airline employees\u201d and smuggled \u201cmillions of dollars of drug money\u201d out of New York City to the Dominican Republic, federal authorities said Wednesday.", 
-            "title": "4 flight attendants arrested, accused of taking millions in drug money to Dominican Republic - NBC News"
+            "url": "https://www.nbcnews.com/news/us-news/southlake-texas-carroll-isd-civil-rights-investigation-rcna151009", 
+            "description": "The Education Department wants to negotiate with the Carroll school district in Southlake, Texas, over four students' civil rights complaints, lawyers say.", 
+            "title": "Feds find civil rights violations in Southlake, Texas, schools, students' lawyers say - NBC News"
         }, 
         {
-            "url": "https://www.mlb.com/news/paul-skenes-called-up-by-pirates", 
-            "description": null, 
-            "title": "Paul Skenes called up by Pirates for MLB debut - MLB.com"
+            "url": "https://www.wesh.com/article/boeing-starliner-launch-new-date/60724546", 
+            "description": "Before the next launch attempt, ULA officials say they will replace the pressure regulation valve that was causing concern.", 
+            "title": "Boeing Starliner launch moved to new date after scrub - WESH 2 Orlando"
+        }, 
+        {
+            "url": "https://www.wfaa.com/article/news/local/dallas-county/dallas-texas-police-chief-eddie-garcia-houston-austin-police-department-chief/287-09ef8051-5428-462a-8520-1d21629eec7e", 
+            "description": "Garcia, who was hired as chief in Dallas in 2021, works in an at-will capacity under the city manager \u2013 meaning he can leave at any time.", 
+            "title": "Could Dallas Police Chief Eddie Garcia be headed for the same role in Austin or Houston? Both cities are interested in Dallas' top cop, sources say - WFAA.com"
+        }, 
+        {
+            "url": "https://www.managingmadrid.com/2024/5/8/24151928/three-questions-answers-real-madrid-2-1-4-3-agg-bayern-munich-champions-league-semi-final", 
+            "description": "Joselu\u2019s heroics booked a Champions League final place", 
+            "title": "Three questions and three answers from Real Madrid 2-1 (4-3 agg.) Bayern Munich - Managing Madrid"
         }, 
         {
             "url": "https://spaceflightnow.com/2024/05/08/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-florida/", 
@@ -36,14 +76,9 @@
             "title": "SpaceX breaks Space Shuttle pad record with Falcon 9 Starlink mission \u2013 Spaceflight Now - Spaceflight Now"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cm54pp11x3go", 
-            "description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.", 
-            "title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com"
-        }, 
-        {
             "url": "https://www.huffpost.com/entry/prince-harry-princess-diana-siblings_n_66396555e4b0f72991a74651", 
             "description": "The Duke of Sussex received a warm welcome from the public during his engagement in London on Wednesday.", 
-            "title": "2 Of Prince Harry's Family Members Showed Up To Support Him At UK Service - Yahoo Entertainment"
+            "title": "2 Of Prince Harry's Family Members Showed Up To Support Him At UK Service - HuffPost"
         }, 
         {
             "url": "https://www.bloomberg.com/news/articles/2024-05-08/arm-shares-slip-after-chip-designer-gives-tepid-annual-forecast", 
@@ -51,55 +86,20 @@
             "title": "Arm Shares Slip After Chip Designer Gives Tepid Annual Forecast - Bloomberg"
         }, 
         {
-            "url": "https://apnews.com/article/antisemitism-congress-public-schools-gaza-acf92208a9ea0ef4878c6ba993ed1d83", 
-            "description": "Leaders of three large public school systems strongly denied allegations that they let antisemitism run rampant. They told a congressional panel Wednesday that they\u2019re fighting it with education and, when necessary, discipline. As part of a series of hearings\u2026", 
-            "title": "K-12 school leaders reject allegations that they let antisemitism run rampant - The Associated Press"
+            "url": "https://arstechnica.com/science/2024/05/deepmind-adds-a-diffusion-engine-to-latest-protein-folding-software/", 
+            "description": "Major under-the-hood changes let AlphaFold handle protein-DNA complexes and more.", 
+            "title": "DeepMind adds a diffusion engine to latest protein-folding software - Ars Technica"
+        }, 
+        {
+            "url": "https://www.livescience.com/space/venus/molecule-responsible-for-robbing-venus-of-its-water-may-finally-have-been-identified", 
+            "description": "A new water loss mechanism on Venus explains how the planet lost all its water, turning the planet from a potentially habitable world into the parched hellscape we know today.", 
+            "title": "Molecule responsible for robbing Venus of its water may finally have been identified - Livescience.com"
         }, 
         {
             "url": "https://www.cbsnews.com/news/immigration-us-asylum-migrants-new-regulation/", 
             "description": "The Biden administration is planning to announce a new regulation designed to allow immigration officials to deport migrants ineligible for U.S. asylum earlier in the process.", 
             "title": "U.S. to empower asylum officials to reject more migrants earlier in process - CBS News"
-        }, 
-        {
-            "url": "https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/", 
-            "description": "United Launch Alliance has delayed the launch of the first crewed Starliner launch to no earlier than May 17th at 6:16 pm ET.", 
-            "title": "United Launch Alliance delays the first crewed Boeing Starliner launch - TESLARATI"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/super-earth-exoplanet-atmosphere-55-cancri-e/", 
-            "description": "The so-called super Earth \u2014 known as 55 Cancri e \u2014 is among the few rocky planets outside our solar system with a significant atmosphere.", 
-            "title": "Thick atmosphere detected around scorching, rocky planet that's twice as big as Earth - CBS News"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/08/sports/jalen-brunson-has-second-highest-points-prop-in-nba-playoffs-history/", 
-            "description": "Jalen Brunson is reaching historic levels of scoring dominance for the Knicks in the NBA playoffs.", 
-            "title": "Jalen Brunson has second-highest points prop in NBA playoffs history - New York Post "
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/", 
-            "description": "Tim Cook may be praising the new iPad & the ad accompanying it, but the tech giant CEO seems to be alone there", 
-            "title": "Apple\u2019s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else - Deadline"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale", 
-            "description": "Amazon and other retailers are already offering Google\u2019s next midrange phone with a $100 gift card. You can also save on the Beats Studio Buds and Lego\u2019s Tiny Plants set.", 
-            "title": "You can get a $100 gift card when you preorder Google's Pixel 8A - The Verge"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/travel/news/2024/05/08/fedex-plane-landing-gear-fails-video/73613871007/", 
-            "description": null, 
-            "title": "Video shows FedEx cargo plane land on its nose in Istanbul after landing gear fails - USA TODAY"
-        }, 
-        {
-            "url": "https://apnews.com/article/cdc-dog-import-rules-rabies-572fa077a00afec3b2c13ab412f641ef", 
-            "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies. The new rules published Wednesday require vaccination for dogs that have been in countries where rabies is common. The regu\u2026", 
-            "title": "Traveling with dogs to the US? The new rules you'll need to follow - The Associated Press"
-        }, 
-        {
-            "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-cpu-cores-and-ram-amount-are-tied-to-storage-capacity/", 
-            "description": "Apple has tied RAM to storage capacity in older iPads; it's a first for the CPU.", 
-            "title": "M4 iPad Pro CPU cores and RAM amount are tied to storage capacity - Ars Technica"
         }
     ], 
-    "last_updated": "2024-05-10 01:08:51"
+    "last_updated": "2024-05-10 01:38:53"
 }
