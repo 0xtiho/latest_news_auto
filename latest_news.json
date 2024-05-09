@@ -1,29 +1,74 @@
 {
     "news": [
         {
-            "url": "https://www.washingtonpost.com/wellness/2024/05/08/screening-mammograms-insurance/", 
-            "description": "A national health panel has recommended that women start getting routine screening mammograms every two years at age 40. But that doesn\u2019t mean you can\u2019t get them more often.", 
-            "title": "Here\u2019s what the new screening mammogram guidelines mean for women - The Washington Post"
+            "url": "https://www.cbsnews.com/news/antisemitism-school-district-leaders-congress/", 
+            "description": "Three public school district leaders are testifying before a congressional panel Tuesday on incidents of antisemitism in their schools.", 
+            "title": "Watch Live: 3 public school district leaders to face questions from Congress on antisemitism school policies - CBS News"
         }, 
         {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-tentatively-set-for-may-15-how-to-watch-stream-plus-what-we-know-about-the-games/", 
-            "description": "The release of the 2024 NFL schedule is less than 10 days away", 
-            "title": "2024 NFL schedule release tentatively set for May 15: How to watch, stream plus top games and what we know - CBS Sports"
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-strength-of-schedule-for-all-32-teams-browns-ravens-among-hardest-falcons-saints-have-it-easiest/", 
+            "description": "Here's how the strength of schedule ranking breaks down for all 32 teams heading into the 2024 season", 
+            "title": "2024 NFL strength of schedule for all 32 teams: Browns, Ravens among hardest; Falcons, Saints have it easiest - CBS Sports"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2ZpdmUtdGFrZWF3YXlzLXN0b3JteS1kYW5pZWxzLXRlc3RpbW9ueS1kb25hbGQtdHJ1bXBzLXRyaWFsLTIwMjQtMDUtMDgv0gEA?oc=5", 
+            "url": "https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html", 
+            "description": "A Georgia appeals court agreed to hear a bid by Donald Trump to disqualify Fulton County District Attorney Fani Willis from his election interference case.", 
+            "title": "Georgia appeals court will hear Trump bid to disqualify D.A. Fani Willis in election case - CNBC"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/tv/tv-features/andy-cohen-interview-real-housewives-allegations-watch-what-happens-live-1235892571/", 
+            "description": "Ex-Bravo stars are hurling charges (and lawsuits) over alleged sexism, racism and substance abuse on set, but the network's golden boy says he is having the time of his life celebrating 15 years as the host of 'Watch What Happens Live.'", 
+            "title": "Andy Cohen Finally Spills the Tea on Those Angry Housewives: \u201cI Have No Regrets\u201d - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/nation/2024/05/08/college-protests-professors-arrests-suspensions/", 
+            "description": "College faculty members said they\u2019ve felt a duty to support their students during pro-Palestinian protests even as they\u2019ve faced arrests and suspensions.", 
+            "title": "College faculty face discipline for supporting pro-Palestinian student protesters - The Washington Post"
+        }, 
+        {
+            "url": "https://www.pushsquare.com/reviews/ps5/crow-country", 
+            "description": "Prepare to eat crow", 
+            "title": "Crow Country Review (PS5) - Push Square"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=U0Nsq4UlCSM", 
+            "description": "Alan Hahn, Brian Windhorst, Monica McNutt and Tim Legler join Mike Greenberg on Get Up to recap last night's Game 1 second round matchups between the Cavalie...", 
+            "title": "Jamal Murray FINED $100k for GM 2 incident \ud83d\udc40 'It was a RECKLESS ACT!' \ud83d\udde3\ufe0f - Tim Legler | Get Up - ESPN"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/europe/russia-targets-energy-facilities-air-attack-ukraine-officials-say-2024-05-08/", 
             "description": null, 
-            "title": "Stormy Daniels' testimony at Donald Trump's trial: Five takeaways - Reuters"
+            "title": "Russia's biggest airstrike in weeks piles pressure on Ukraine power grid - Reuters"
         }, 
         {
-            "url": "https://apnews.com/article/israel-hamas-war-news-05-08-2024-495e6dabfdddc5587bd20e71b6ad421d", 
-            "description": "The Israeli military says it has reopened the Kerem Shalom crossing into Gaza but a United Nations agency says no aid has yet entered. The key terminal for the entry of humanitarian aid was closed over the weekend after a Hamas rocket attack killed four Israe\u2026", 
-            "title": "Israel-Hamas war: Kerem Shalom crossing into Gaza reopens after rocket attack - The Associated Press"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/stock-market-today-us-futures-slip-amid-earnings-rush-fed-teeters-121113734.html", 
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvYXJ0aWNsZS8yMDI0L21heS8wOC9ib2VpbmctY2FyZ28tcGxhbmUtZm9yY2VkLXRvLWxhbmQtYXQtaXN0YW5idWwtd2l0aG91dC1mcm9udC1sYW5kaW5nLWdlYXLSAYEBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzL2FydGljbGUvMjAyNC9tYXkvMDgvYm9laW5nLWNhcmdvLXBsYW5lLWZvcmNlZC10by1sYW5kLWF0LWlzdGFuYnVsLXdpdGhvdXQtZnJvbnQtbGFuZGluZy1nZWFy?oc=5", 
             "description": null, 
-            "title": "Stock market today: US futures slip amid earnings rush, Fed teeters - Yahoo Finance"
+            "title": "Boeing cargo plane forced to land at Istanbul without front landing gear - The Guardian"
+        }, 
+        {
+            "url": "https://apnews.com/article/us-midwest-storms-michigan-tornadoes-1ac4133f09069997f926e434a28c75ac", 
+            "description": "Severe storms are battering parts of the Midwest with heavy rain, gusty winds and tornadoes that forecasters warn could spill out of the region. The severe weather outbreak started Tuesday and continued into Wednesday. Tornadoes were spotted after dark Tuesda\u2026", 
+            "title": "Severe storms battering the Midwest bring tornadoes - The Associated Press"
+        }, 
+        {
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-autopilot-probe-us-prosecutors-focus-securities-wire-fraud-2024-05-08/", 
+            "description": null, 
+            "title": "In Tesla Autopilot probe, US prosecutors focus on securities, wire fraud - Reuters"
+        }, 
+        {
+            "url": "https://9to5mac.com/2024/05/08/new-ipads-pencil-keyboard-report-card-on-the-latest-products/", 
+            "description": "Yesterday\u2019s Let Loose event announced new iPads, Apple Pencil, Magic Keyboard \u2013 plus a few surprises, some pleasant, some not....", 
+            "title": "New iPads, Pencil, Keyboard \u2013 Report card on the latest products - 9to5Mac"
+        }, 
+        {
+            "url": "https://www.space.com/fall-into-black-hole-mind-bending-animation", 
+            "description": "\"If you have the choice, you want to fall into a supermassive black hole.\"", 
+            "title": "Fall into a black hole in mind-bending NASA animation (video) - Space.com"
         }, 
         {
             "url": "https://nypost.com/2024/05/08/entertainment/prince-harry-wont-see-king-charles-after-making-certain-demands-expert/", 
@@ -31,29 +76,14 @@
             "title": "'Very difficult' Prince Harry won't see King Charles after making 'certain demands': expert - New York Post "
         }, 
         {
-            "url": "https://www.koco.com/article/thunder-okc-mavericks-game-1-semifinals-sga/60725901", 
-            "description": "Gilgeous-Alexander got the best of the matchup with Dallas\u2019 Luka Doncic, a fellow MVP finalist", 
-            "title": "Gilgeous-Alexander has 29 points to help Thunder roll past Mavericks in Game 1 of West semifinals - KOCO Oklahoma City"
+            "url": "https://www.nba.com/news/thunder-mavericks-5-takeaways-game-1-2024-nba-playoffs", 
+            "description": "Shai Gilgeous-Alexander delivers, Chet Holmgren dominates the paint and OKC contains Dallas' dynamic duo in a Game 1 win.", 
+            "title": "Thunder-Mavericks: 5 takeaways as Shai-Gilgeous Alexander stars in Game 1 - NBA.com"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c72pqlgqe4jo", 
-            "description": "TikTok said the measure was an \"extraordinary intrusion on free speech rights\".", 
-            "title": "TikTok sues to block US law which could ban app - BBC.com"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/8/russia-unleashes-massive-barrage-targeting-ukrainian-energy-infrastructur", 
-            "description": "Ukraine continues to call for more weapons as Russia seeks to batter industry and resistance.", 
-            "title": "Russia unleashes \u2018massive\u2019 barrage targeting Ukraine energy infrastructure - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.rockpapershotgun.com/disgruntled-helldivers-2-fans-start-petition-to-bring-back-fired-community-manager", 
-            "description": "Fans of Helldivers 2 have started a petition asking developers Arrowhead to reinstate a fired employee in charge of community management.", 
-            "title": "Disgruntled Helldivers 2 fans start petition to bring back fired community manager - Rock Paper Shotgun"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/cruise-ship-worker-stabbings-scissors-norwegian-encore-alaska/", 
-            "description": "The worker stabbed a woman and two guards who tried to intervene before being subdued and held in a \"shipboard jail,\" the affidavit says.", 
-            "title": "Cruise worker accused of stabbing woman and 2 security guards with scissors on ship headed to Alaska - CBS News"
+            "url": "https://www.nbcnews.com/news/world/us-pauses-weapons-shipment-bombs-israel-rafah-assault-cease-fire-gaza-rcna151187", 
+            "description": "The United States halted a large shipment of offensive weapons to Israel last week in a sign of its growing concern over a possible military offensive on Rafah, senior administration officials told NBC News.", 
+            "title": "U.S. pauses Israel weapons shipment over Rafah assault concerns - NBC News"
         }, 
         {
             "url": "https://www.bostonglobe.com/2024/05/08/metro/bird-flu-human-spillover-risk-h5n1/", 
@@ -69,37 +99,7 @@
             "url": "https://www.washingtonpost.com/dc-md-va/2024/05/08/gwu-protest-encampment-dc-police-arrests/", 
             "description": "D.C.\u2019s police chief and mayor are scheduled to testify on Capitol Hill about the previous refusal of police to move on the demonstrators.", 
             "title": "D.C. police begin clearing GWU protest encampment - The Washington Post"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNS8wOC8xMjQ5NTkxNTU0L3ZlbnVzLWVhcnRoLW1hcnMtcGxhbmV0LXNpYmxpbmdz0gEA?oc=5", 
-            "description": null, 
-            "title": "Venus looked a lot like Earth when they first formed - NPR"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cm54pp11x3go", 
-            "description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.", 
-            "title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com"
-        }, 
-        {
-            "url": "https://www.foxnews.com/politics/biden-administration-confirms-paused-shipment-bombs-israel-over-opposition-operation-rafah", 
-            "description": "The Biden administration has paused shipments of two types of precision bombs to Israel because of the administration's opposition to Israel's operation in Rafah.", 
-            "title": "Biden administration confirms paused shipment of bombs to Israel over opposition to operation in Rafah - Fox News"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-68972255", 
-            "description": "The former US president's federal trial in Florida is now unlikely to begin before the 2024 election.", 
-            "title": "Trump's classified documents trial in Florida indefinitely postponed - BBC.com"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/08/weather/tornadoes-michigan-tuesday-storms-wednesday/index.html", 
-            "description": "Powerful tornadoes and storms swept through southwestern Michigan Tuesday evening, destroying homes and businesses and injuring several residents,\u00a0scenes that could play out once again in the central and eastern US Wednesday.", 
-            "title": "Destructive tornadoes and storms pummel Michigan Tuesday, and millions more face a severe weather threat Wednesday - CNN"
-        }, 
-        {
-            "url": "https://www.sciencealert.com/a-spoonful-of-olive-oil-a-day-could-lower-risk-of-dementia-related-death-by-28", 
-            "description": "Mounting evidence suggests adding just a spoonful of olive oil to your diet each day can have powerful health benefits.", 
-            "title": "A Spoonful of Olive Oil a Day Could Lower Risk of Dementia-Related Death by 28% - ScienceAlert"
         }
     ], 
-    "last_updated": "2024-05-09 15:08:06"
+    "last_updated": "2024-05-09 15:38:08"
 }
