@@ -1,9 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-raiders-told-me-it-was-a-coin-flip-between-me-and-brock-bowers-at-no-13", 
-            "description": "Lions first-round draft pick Terrion Arnold says he could have been a Raider, if the flip of a coin had gone the other way.", 
-            "title": "Terrion Arnold: Raiders told me it was a coin flip between me and Brock Bowers at No. 13 - NBC Sports"
+            "url": "https://www.freep.com/story/news/local/michigan/2024/05/08/tornadoes-tear-through-midwest-with-at-least-2-ripping-west-michigan/73610750007/", 
+            "description": "For the first time in Michigan, the National Weather Service issued a tornado emergency, as the storms hit the Kalamazoo area and state's west side.", 
+            "title": "Michigan tornadoes damage areas in Portage, Branch and St. Joseph - Detroit Free Press"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-forcing-vote-oust-speaker-johnson-ukraine-a-rcna148389", 
+            "description": "Far-right Rep. Majorie Taylor Greene made good on her threat Wednesday and filed a motion to oust Republican Speaker Mike Johnson from power over his decision to pass billions of dollars in military aid for Ukraine.", 
+            "title": "House votes overwhelmingly to save Speaker Johnson from Marjorie Taylor Greene's push to oust him - NBC News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/08/politics/joe-biden-interview-cnntv/index.html", 
+            "description": "President Joe Biden said for the first time Wednesday he would halt shipments of American weapons to Israel \u2013 which he acknowledged have been used to kill civilians in Gaza \u2013 if Prime Minister Benjamin Netanyahu orders a major invasion of the city of Rafah.", 
+            "title": "Biden says he will stop sending bombs and artillery shells to Israel if they launch major invasion of Rafah - CNN"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/sports/shohei-ohtanis-former-translator-plead-guilty-transferring-17-million-rcna151363", 
+            "description": "The former translator for Los Angeles Dodgers superstar Shohei Ohtani has agreed to plead guilty to illegally transferring $17 million out of Ohtani's account without his knowledge, authorities said Wednesday.", 
+            "title": "Shohei Ohtani\u2019s former translator to plead guilty to transferring $17M from MLB star\u2019s bank account - NBC News"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/4-flight-attendants-arrested-accused-taking-millions-drug-money-domini-rcna151312", 
+            "description": "Four flight attendants abused \u201ctheir privileges as airline employees\u201d and smuggled \u201cmillions of dollars of drug money\u201d out of New York City to the Dominican Republic, federal authorities said Wednesday.", 
+            "title": "4 flight attendants arrested, accused of taking millions in drug money to Dominican Republic - NBC News"
+        }, 
+        {
+            "url": "https://www.mlb.com/news/paul-skenes-called-up-by-pirates", 
+            "description": null, 
+            "title": "Paul Skenes called up by Pirates for MLB debut - MLB.com"
+        }, 
+        {
+            "url": "https://spaceflightnow.com/2024/05/08/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-florida/", 
+            "description": null, 
+            "title": "SpaceX breaks Space Shuttle pad record with Falcon 9 Starlink mission \u2013 Spaceflight Now - Spaceflight Now"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cm54pp11x3go", 
+            "description": "Serbia has been deepening its relationship with China while continuing talks to join the EU.", 
+            "title": "China's Xi Jinping gets red-carpet welcome in Serbia - BBC.com"
+        }, 
+        {
+            "url": "https://www.huffpost.com/entry/prince-harry-princess-diana-siblings_n_66396555e4b0f72991a74651", 
+            "description": "The Duke of Sussex received a warm welcome from the public during his engagement in London on Wednesday.", 
+            "title": "2 Of Prince Harry's Family Members Showed Up To Support Him At UK Service - Yahoo Entertainment"
+        }, 
+        {
+            "url": "https://www.bloomberg.com/news/articles/2024-05-08/arm-shares-slip-after-chip-designer-gives-tepid-annual-forecast", 
+            "description": "Arm Holdings Plc shares tumbled after the chip designer gave a lukewarm revenue forecast for the fiscal year, raising concerns that the tech industry\u2019s artificial intelligence spending spree is slowing.", 
+            "title": "Arm Shares Slip After Chip Designer Gives Tepid Annual Forecast - Bloomberg"
         }, 
         {
             "url": "https://apnews.com/article/antisemitism-congress-public-schools-gaza-acf92208a9ea0ef4878c6ba993ed1d83", 
@@ -11,39 +56,29 @@
             "title": "K-12 school leaders reject allegations that they let antisemitism run rampant - The Associated Press"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/weather/major-storms-continue-country-devastating-overnight-tornadoes-michigan-rcna151217", 
-            "description": "Damaging winds, large hail and possible tornadoes continue to threaten parts the country from Texas to the mid-Atlantic through Thursday.", 
-            "title": "Major storms continue across the country following devastating overnight tornadoes in Michigan - NBC News"
+            "url": "https://www.cbsnews.com/news/immigration-us-asylum-migrants-new-regulation/", 
+            "description": "The Biden administration is planning to announce a new regulation designed to allow immigration officials to deport migrants ineligible for U.S. asylum earlier in the process.", 
+            "title": "U.S. to empower asylum officials to reject more migrants earlier in process - CBS News"
         }, 
         {
-            "url": "https://www.nbcnews.com/science/space/astronomers-detect-rocky-planet-atmosphere-rcna151315", 
-            "description": "Astronomers have long searched for rocky planets beyond our solar system with an atmosphere \u2014 a trait considered essential for any possibility of harboring life.", 
-            "title": "Astronomers finally detect a rocky planet with an atmosphere - NBC News"
+            "url": "https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/", 
+            "description": "United Launch Alliance has delayed the launch of the first crewed Starliner launch to no earlier than May 17th at 6:16 pm ET.", 
+            "title": "United Launch Alliance delays the first crewed Boeing Starliner launch - TESLARATI"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=xHgXyW72JkE", 
-            "description": "\u201cIt just seems very hypocritical and seems very self-serving for Prince Harry.\u201dPrince Harry is still attempting to find his place in the UK as him and Meghan...", 
-            "title": "\u2018Deluded\u2019 Prince Harry snubbed by King amid tug of war with Meghan | Kinsey Schofield - Times Radio"
+            "url": "https://www.cbsnews.com/news/super-earth-exoplanet-atmosphere-55-cancri-e/", 
+            "description": "The so-called super Earth \u2014 known as 55 Cancri e \u2014 is among the few rocky planets outside our solar system with a significant atmosphere.", 
+            "title": "Thick atmosphere detected around scorching, rocky planet that's twice as big as Earth - CBS News"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/08/applebees-owner-dine-brands-targets-fast-food-customers.html", 
-            "description": "Low-income consumers visited less frequently and spent more carefully when they did eat out in the first quarter, Dine Brands CEO John Peyton said.", 
-            "title": "Applebee's owner Dine Brands wants to steal fast-food customers with its deals - CNBC"
+            "url": "https://nypost.com/2024/05/08/sports/jalen-brunson-has-second-highest-points-prop-in-nba-playoffs-history/", 
+            "description": "Jalen Brunson is reaching historic levels of scoring dominance for the Knicks in the NBA playoffs.", 
+            "title": "Jalen Brunson has second-highest points prop in NBA playoffs history - New York Post "
         }, 
         {
-            "url": "https://nypost.com/2024/05/08/sports/nikki-glaser-hopes-gisele-bundchen-forgives-her-for-tom-brady-roast/", 
-            "description": "Comedian Nikki Glaser has reacted to the news that Gisele B\u00fcndchen was not happy about all the jokes about her during Tom Brady\u2019s roast.", 
-            "title": "Nikki Glaser hopes Gisele B\u00fcndchen forgives her for Tom Brady roast - New York Post "
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/apples-ipad-event-was-an-ai-teaser-for-its-future-184058075.html", 
-            "description": "Apple's latest M4 chip is bringing more AI capabilities, providing a look into the company's upcoming WWDC conference.", 
-            "title": "Apple's iPad event was an AI teaser for its future - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/08/us/george-washington-university-protesters-arrested/index.html", 
-            "description": "The Metropolitan Police Department in Washington, DC, cleared out a pro-Palestinian encampment on George Washington University\u2019s campus early Wednesday and arrested 30 protesters there and three others in a separate altercation, Metro Police Chief Pamela A. S\u2026", 
-            "title": "House hearing on George Washington University protest canceled after police clear out encampment and arrest over 30 - CNN"
+            "url": "http://deadline.com/2024/05/ipad-ad-backlash-crushinghugh-grant-justine-bateman-1235909002/", 
+            "description": "Tim Cook may be praising the new iPad & the ad accompanying it, but the tech giant CEO seems to be alone there", 
+            "title": "Apple\u2019s Crushing iPad Ad Trashed By Hugh Grant, Justine Bateman & Almost Everyone Else - Deadline"
         }, 
         {
             "url": "https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale", 
@@ -51,55 +86,20 @@
             "title": "You can get a $100 gift card when you preorder Google's Pixel 8A - The Verge"
         }, 
         {
-            "url": "https://www.politico.com/news/2024/05/08/california-court-tax-initiative-00156834", 
+            "url": "https://www.usatoday.com/story/travel/news/2024/05/08/fedex-plane-landing-gear-fails-video/73613871007/", 
             "description": null, 
-            "title": "California Supreme Court appears split on blocking tax initiative - POLITICO"
+            "title": "Video shows FedEx cargo plane land on its nose in Istanbul after landing gear fails - USA TODAY"
         }, 
         {
-            "url": "https://www.npr.org/2024/05/08/1249961060/swiss-army-knife-victorinox-bladeless", 
-            "description": "Some governments have been cracking down on the knives people can carry in public as crime has increased. Victorinox said any bladeless offerings wouldn't replace its selection of Swiss Army Knives.", 
-            "title": "Swiss Army Knife maker will offer bladeless products amid a rise in violence - NPR"
+            "url": "https://apnews.com/article/cdc-dog-import-rules-rabies-572fa077a00afec3b2c13ab412f641ef", 
+            "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies. The new rules published Wednesday require vaccination for dogs that have been in countries where rabies is common. The regu\u2026", 
+            "title": "Traveling with dogs to the US? The new rules you'll need to follow - The Associated Press"
         }, 
         {
-            "url": "https://nypost.com/2024/05/08/business/ftx-has-raked-in-billions-more-than-needed-to-pay-bankruptcy-victims-back/", 
-            "description": "Fallen cryptocurrency exchange FTX has raked in billions of dollars more than it needs to fully pay back customers who lost funds in its November 2022 collapse. In a rare twist versus typical US ba\u2026", 
-            "title": "Failed crypto giant FTX has recovered billions more than it needs to pay back bankruptcy victims - New York Post "
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/08/us/pro-palestinian-protests-arrests-colleges-dg/index.html", 
-            "description": "Pro-Palestinian protesters continue to be arrested on college campuses. Explore the timeline of where protests erupted and who police have arrested on these campuses.", 
-            "title": "How pro-Palestinian protest arrests have unfolded across college campuses - CNN"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.wsj.com/world/middle-east/israel-says-it-has-reopened-a-gaza-border-crossing-as-fuel-supplies-dwindle-719f5810", 
-            "description": null, 
-            "title": "Israel Presses On in Rafah Amid Diplomatic Tensions and Deepening Humanitarian Crisis - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/08/world/boeing-starliner-new-launch-date-scn/index.html", 
-            "description": "Engineers are replacing a valve on the rocket that will power the first crewed test flight of Boeing\u2019s Starliner spacecraft. The launch is now expected no sooner than May 17.", 
-            "title": "Boeing\u2019s historic Starliner mission now expected to launch no sooner than May 17 after valve issue - CNN"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/middle-east/boeing-cargo-plane-lands-istanbul-without-front-landing-gear-no-casualties-2024-05-08/", 
-            "description": null, 
-            "title": "Probe launched after Boeing cargo plane lands in Istanbul without front landing gear - Reuters"
-        }, 
-        {
-            "url": "https://abcnews.go.com/Lifestyle/wireStory/dogs-entering-us-6-months-microchipped-prevent-spread-110027684", 
-            "description": "New U.S. rules require all dogs coming into the U.S. to be at least 6 months old and microchipped to help prevent the spread of rabies", 
-            "title": "Dogs entering US must be 6 months old and microchipped to prevent spread of rabies, new rules say - ABC News"
-        }, 
-        {
-            "url": "https://apnews.com/article/serbia-china-xi-jinping-visit-nato-e37b7ad0e89ac73b83e754142ce8e399", 
-            "description": "China and European Union candidate Serbia have signed an agreement to build a \u201cshared future\u201d between the two states, making the Balkan country the first in Europe to agree on such a document with Beijing. After meeting in Belgrade on Wednesday, Chinese leade\u2026", 
-            "title": "China and EU-candidate Serbia sign an agreement to build a 'shared future' - The Associated Press"
+            "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-cpu-cores-and-ram-amount-are-tied-to-storage-capacity/", 
+            "description": "Apple has tied RAM to storage capacity in older iPads; it's a first for the CPU.", 
+            "title": "M4 iPad Pro CPU cores and RAM amount are tied to storage capacity - Ars Technica"
         }
     ], 
-    "last_updated": "2024-05-09 23:08:42"
+    "last_updated": "2024-05-09 23:38:44"
 }
