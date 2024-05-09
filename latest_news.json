@@ -1,24 +1,79 @@
 {
     "news": [
         {
-            "url": "https://www.cbsnews.com/news/antisemitism-school-district-leaders-congress/", 
-            "description": "Three public school district leaders are testifying before a congressional panel Tuesday on incidents of antisemitism in their schools.", 
-            "title": "Watch Live: 3 public school district leaders to face questions from Congress on antisemitism school policies - CBS News"
+            "url": "https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to", 
+            "description": "Apple\u2019s latest iPad Pro and iPad Air will launch on May 15th, but you can already preorder them via Apple. Here\u2019s what you need to know in terms of pricing and availability.", 
+            "title": "Here's where you can preorder Apple's latest iPad Air and iPad Pro - The Verge"
         }, 
         {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-strength-of-schedule-for-all-32-teams-browns-ravens-among-hardest-falcons-saints-have-it-easiest/", 
-            "description": "Here's how the strength of schedule ranking breaks down for all 32 teams heading into the 2024 season", 
-            "title": "2024 NFL strength of schedule for all 32 teams: Browns, Ravens among hardest; Falcons, Saints have it easiest - CBS Sports"
+            "url": "https://www.startribune.com/denver-nuggets-jamal-murray-heat-pack-throw-onto-floor-loss-timberwolves-playoffs/600364165/", 
+            "description": "Game officials didn't see what he did in real time. But the NBA fined Nuggets star Jamal Murray for his actions during Game 2 of the NBA playoffs.", 
+            "title": "Nuggets' Jamal Miuray fined $100000 for throwing heat pack in Game 2 - Star Tribune"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html", 
-            "description": "A Georgia appeals court agreed to hear a bid by Donald Trump to disqualify Fulton County District Attorney Fani Willis from his election interference case.", 
-            "title": "Georgia appeals court will hear Trump bid to disqualify D.A. Fani Willis in election case - CNBC"
+            "url": "https://www.washingtonpost.com/business/2024/05/08/biden-foxconn-white-house-trump/", 
+            "description": "The investment is expected to create 2,000 permanent jobs and 2,300 temporary union construction jobs.", 
+            "title": "Biden champions Microsoft artificial intelligence investment in Wisconsin - The Washington Post"
         }, 
         {
-            "url": "http://www.hollywoodreporter.com/tv/tv-features/andy-cohen-interview-real-housewives-allegations-watch-what-happens-live-1235892571/", 
-            "description": "Ex-Bravo stars are hurling charges (and lawsuits) over alleged sexism, racism and substance abuse on set, but the network's golden boy says he is having the time of his life celebrating 15 years as the host of 'Watch What Happens Live.'", 
-            "title": "Andy Cohen Finally Spills the Tea on Those Angry Housewives: \u201cI Have No Regrets\u201d - Hollywood Reporter"
+            "url": "https://www.washingtonpost.com/world/2024/05/08/ukraine-electricity-rationing-russia-war/", 
+            "description": "The Russian missile and drone strikes, which lasted more than three hours early Wednesday, targeted energy infrastructure in six Ukrainian regions.", 
+            "title": "Ukraine orders nationwide electricity rationing after Russian airstrikes - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html", 
+            "description": "The Dow Jones Industrial Average traded higher Wednesday, trying to extend its winning streak to six days straight.", 
+            "title": "Stock market today: Live updates - CNBC"
+        }, 
+        {
+            "url": "https://www.macrumors.com/2024/05/08/ipod-nano-appears-in-new-ipad-pro-ad/", 
+            "description": "The new iPad Pro has dethroned the iPod nano as Apple's thinnest device ever, and the company has promoted this feat in a nostalgic ad.   In a...", 
+            "title": "iPod Nano Makes Rare Appearance in Apple Ad for Thinner iPad Pro - MacRumors"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/middle-east/netanyahu-weighs-risks-rafah-assault-hostage-dilemma-divides-israelis-2024-05-08/", 
+            "description": null, 
+            "title": "Netanyahu weighs risks of Rafah assault as hostage dilemma divides Israelis - Reuters"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/politics/2024-election/indiana-primary-results-election-governor-senate-rcna151051", 
+            "description": "Indiana Republican Rep. Jim Banks won the state\u2019s GOP Senate primary unopposed Tuesday, while Sen. Mike Braun won the nomination for governor.", 
+            "title": "Indiana primary election results: Mike Braun wins GOP governor primary, Jim Banks wins Senate primary - NBC News"
+        }, 
+        {
+            "url": "https://gizmodo.com/webb-spots-nearby-rocky-super-earth-atmosphere-1851461827", 
+            "description": "The Webb Space Telescope has uncovered a nearby rocky planet with a volatile atmosphere.", 
+            "title": "A Planet Just 41 Light-Years From Earth Has an Atmosphere and Is Covered in a Magma Ocean - Gizmodo"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-middle-east-68978322", 
+            "description": "By delaying a weapons shipment, the US is finally reaching for its biggest lever of influence over Israel.", 
+            "title": "Gaza war: US bomb delay biggest warning yet for Israel - BBC.com"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/08/1249920941/fani-wade-disqualification-appeal-trump-georgia-case", 
+            "description": "The Georgia Court of Appeals will hear oral arguments after former President Trump appealed a decision allowing Fulton County DA Fani Willis to stay on the criminal case involving him and others.", 
+            "title": "Georgia appeals court will review Fani Willis disqualification ruling - NPR"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/weather/major-storms-continue-country-devastating-overnight-tornadoes-michigan-rcna151217", 
+            "description": "A major storm threat bringing damaging winds, large hail and possible tornadoes continues to batter parts of the country from Texas to the mid-Atlantic.", 
+            "title": "Major storms continue across the country following devastating overnight tornadoes in Michigan - NBC News"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/ftx-billions-more-needed-pay-231400349.html", 
+            "description": null, 
+            "title": "FTX Has Billions More Than Needed to Pay Bankruptcy Victims - Yahoo Finance"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.foxnews.com/world/idf-releases-footage-precise-counterterrorism-operation-rafah-feud-biden-admin", 
+            "description": "Israeli forces are conducting \"precise\" operations around Rafah despite protest from President Biden's administration on Tuesday.", 
+            "title": "IDF releases footage of \u2018precise counterterrorism operation\u2019 in Rafah amid feud with Biden admin - Fox News"
         }, 
         {
             "url": "https://www.washingtonpost.com/nation/2024/05/08/college-protests-professors-arrests-suspensions/", 
@@ -31,9 +86,9 @@
             "title": "Crow Country Review (PS5) - Push Square"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=U0Nsq4UlCSM", 
-            "description": "Alan Hahn, Brian Windhorst, Monica McNutt and Tim Legler join Mike Greenberg on Get Up to recap last night's Game 1 second round matchups between the Cavalie...", 
-            "title": "Jamal Murray FINED $100k for GM 2 incident \ud83d\udc40 'It was a RECKLESS ACT!' \ud83d\udde3\ufe0f - Tim Legler | Get Up - ESPN"
+            "url": "https://www.today.com/health/news/kim-kardashian-waist-met-gala-rcna151019", 
+            "description": "Kim Kardashian's waist in her Maison Margiela dress at the 2024 Met Gala was certainly one of the most memorable looks to hit the red carpet.", 
+            "title": "Kim Kardashian's Waist At Met Gala: How Did She Do It? Is It Safe? - TODAY"
         }, 
         {
             "url": "https://removed.com", 
@@ -41,65 +96,10 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.reuters.com/world/europe/russia-targets-energy-facilities-air-attack-ukraine-officials-say-2024-05-08/", 
-            "description": null, 
-            "title": "Russia's biggest airstrike in weeks piles pressure on Ukraine power grid - Reuters"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvYXJ0aWNsZS8yMDI0L21heS8wOC9ib2VpbmctY2FyZ28tcGxhbmUtZm9yY2VkLXRvLWxhbmQtYXQtaXN0YW5idWwtd2l0aG91dC1mcm9udC1sYW5kaW5nLWdlYXLSAYEBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzL2FydGljbGUvMjAyNC9tYXkvMDgvYm9laW5nLWNhcmdvLXBsYW5lLWZvcmNlZC10by1sYW5kLWF0LWlzdGFuYnVsLXdpdGhvdXQtZnJvbnQtbGFuZGluZy1nZWFy?oc=5", 
-            "description": null, 
-            "title": "Boeing cargo plane forced to land at Istanbul without front landing gear - The Guardian"
-        }, 
-        {
-            "url": "https://apnews.com/article/us-midwest-storms-michigan-tornadoes-1ac4133f09069997f926e434a28c75ac", 
-            "description": "Severe storms are battering parts of the Midwest with heavy rain, gusty winds and tornadoes that forecasters warn could spill out of the region. The severe weather outbreak started Tuesday and continued into Wednesday. Tornadoes were spotted after dark Tuesda\u2026", 
-            "title": "Severe storms battering the Midwest bring tornadoes - The Associated Press"
-        }, 
-        {
-            "url": "https://www.reuters.com/business/autos-transportation/tesla-autopilot-probe-us-prosecutors-focus-securities-wire-fraud-2024-05-08/", 
-            "description": null, 
-            "title": "In Tesla Autopilot probe, US prosecutors focus on securities, wire fraud - Reuters"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/08/new-ipads-pencil-keyboard-report-card-on-the-latest-products/", 
-            "description": "Yesterday\u2019s Let Loose event announced new iPads, Apple Pencil, Magic Keyboard \u2013 plus a few surprises, some pleasant, some not....", 
-            "title": "New iPads, Pencil, Keyboard \u2013 Report card on the latest products - 9to5Mac"
-        }, 
-        {
-            "url": "https://www.space.com/fall-into-black-hole-mind-bending-animation", 
-            "description": "\"If you have the choice, you want to fall into a supermassive black hole.\"", 
-            "title": "Fall into a black hole in mind-bending NASA animation (video) - Space.com"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/08/entertainment/prince-harry-wont-see-king-charles-after-making-certain-demands-expert/", 
-            "description": "The Duke of Sussex\u2019s reps confirmed to The Post that he will not be meeting up with his estranged father in London.", 
-            "title": "'Very difficult' Prince Harry won't see King Charles after making 'certain demands': expert - New York Post "
-        }, 
-        {
-            "url": "https://www.nba.com/news/thunder-mavericks-5-takeaways-game-1-2024-nba-playoffs", 
-            "description": "Shai Gilgeous-Alexander delivers, Chet Holmgren dominates the paint and OKC contains Dallas' dynamic duo in a Game 1 win.", 
-            "title": "Thunder-Mavericks: 5 takeaways as Shai-Gilgeous Alexander stars in Game 1 - NBA.com"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/world/us-pauses-weapons-shipment-bombs-israel-rafah-assault-cease-fire-gaza-rcna151187", 
-            "description": "The United States halted a large shipment of offensive weapons to Israel last week in a sign of its growing concern over a possible military offensive on Rafah, senior administration officials told NBC News.", 
-            "title": "U.S. pauses Israel weapons shipment over Rafah assault concerns - NBC News"
-        }, 
-        {
-            "url": "https://www.bostonglobe.com/2024/05/08/metro/bird-flu-human-spillover-risk-h5n1/", 
-            "description": "As a highly pathogenic strain of avian influenza spreads through the nation\u2019s farms, local scientists are racing to answer that key question.", 
-            "title": "What is the risk of bird flu spillover in humans? - The Boston Globe"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/08/ftx-bankruptcy-most-customers-of-crypto-firm-will-get-all-money-back.html", 
-            "description": "FTX estimates that it owes creditors around $11.2 billion. FTX said it has between $14.5 billion and $16.3 billion to distribute to creditors.", 
-            "title": "FTX says most customers of the bankrupt crypto exchange will get all their money back - CNBC"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/08/gwu-protest-encampment-dc-police-arrests/", 
-            "description": "D.C.\u2019s police chief and mayor are scheduled to testify on Capitol Hill about the previous refusal of police to move on the demonstrators.", 
-            "title": "D.C. police begin clearing GWU protest encampment - The Washington Post"
+            "url": "https://finance.yahoo.com/news/just-one-human-infected-bird-121130918.html", 
+            "description": "(Bloomberg) -- It\u2019s spreading rapidly among cows. It\u2019s also infecting skunks, mountain lions and red foxes.Most Read from BloombergAmericans Are Racking Up \u2018...", 
+            "title": "Just One Human Is Infected by Bird Flu in the US. More Cases Are Likely - Yahoo Finance"
         }
     ], 
-    "last_updated": "2024-05-09 17:08:15"
+    "last_updated": "2024-05-09 17:38:17"
 }
