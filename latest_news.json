@@ -1,9 +1,29 @@
 {
     "news": [
         {
-            "url": "https://www.reuters.com/world/uk/uk-economy-grows-by-06-first-quarter-ons-data-shows-2024-05-10/", 
+            "url": "https://finance.yahoo.com/news/biden-poised-impose-tariffs-china-004511416.html", 
+            "description": "(Bloomberg) -- President Joe Biden\u2019s administration is poised to unveil a sweeping decision on China tariffs as soon as next week, one that\u2019s expected to...", 
+            "title": "Biden Set to Impose Tariffs on China EVs, Strategic Sectors - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees", 
+            "description": "Service charges; resort fees; \"surcharge\" add-ons: A new state law requiring price transparency is set to take effect in July. Until now, no one knew how it would apply to restaurants.", 
+            "title": "California says restaurants must bake all of their add-on fees into menu prices - NPR"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/09/israel-fire-palestinian-aid-refugee-jerusalem", 
             "description": null, 
+            "title": "UN aid agency says Israelis set fire to its East Jerusalem headquarters - Axios"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/uk/uk-economy-grows-by-06-first-quarter-ons-data-shows-2024-05-10/", 
+            "description": "Britain's economy grew by the most in nearly three years in the first quarter of 2024, ending the shallow recession it entered in the second half of last year and delivering a boost to Prime Minister Rishi Sunak ahead of an election.", 
             "title": "UK exits recession with fastest growth in nearly three years - Reuters UK"
+        }, 
+        {
+            "url": "https://www.thecrimson.com/article/2024/5/10/protesters-reject-proposal-encampment/", 
+            "description": "Members of the pro-Palestine encampment rejected a proposal from interim University President Alan M. Garber \u201976 to end their two-week occupation of Harvard Yard and avoid receiving involuntary leave of absence notices.", 
+            "title": "Pro-Palestine Students Reject Harvard President's Proposal to End Encampment | News - Harvard Crimson"
         }, 
         {
             "url": "https://www.bbc.com/news/world-middle-east-68980826", 
@@ -11,9 +31,9 @@
             "title": "Gaza war: Netanyahu says Israel can 'stand alone' if US halts arms shipments - BBC.com"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c51n0p14y1lo", 
-            "description": "Pasco has recalled 104,000 packs of sliced bread after rat remains were found in its products.", 
-            "title": "Pasco: Rat remains found in Japanese bread triggers recall and refunds - BBC.com"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/09/us/shenandoah-county-confederate-school-names-reaj/index.html", 
@@ -21,24 +41,24 @@
             "title": "Virginia school board votes to restore Confederate names to two schools - CNN"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-us-canada-68987594", 
-            "description": "Madeleine Westerhout tells ex-president's trial that he liked capitals and exclamation marks.", 
-            "title": "Trump's former aide tells how he dictated tweets - BBC.com"
+            "url": "https://www.npr.org/2024/05/10/1250399425/senate-passes-faa-reauthorization-bill-sending-bill-to-house", 
+            "description": "The Senate passed a bill designed to improve safety and customer service for air travelers, a day before the law governing the Federal Aviation Administration expires.", 
+            "title": "Senate passes bill designed to improve air safety and service for travelers - NPR"
         }, 
         {
-            "url": "https://wtop.com/dc/2024/05/police-install-fencing-around-former-gw-encampment-say-11-of-33-arrested-identified-themselves-as-students/", 
-            "description": "Pro-Palestinian protesters returned to George Washington University on Thursday night and pitched tents on campus.", 
-            "title": "Pro-Palestinian protesters disperse after police presence at GWU campus; at least 1 arrested - WTOP"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=UtIhHhh8VN4", 
-            "description": "Tune-in to ESPN to watch the NBA Playoffs presented by Google Pixel9:30 PM ET: Dallas Mavericks/Oklahoma City ThunderNever miss a moment with the latest news...", 
-            "title": "Dallas Mavericks @ Oklahoma City Thunder | #NBAplayoffs presented by Google Pixel Live Scoreboard - NBA"
+            "url": "https://sports.yahoo.com/nba-playoffs-luka-doncic-mavericks-fend-off-thunder-in-game-2-to-tie-series-041203241.html", 
+            "description": "P.J. Washington dropped a playoff career-high 29 points to help the Mavericks pull off a huge win in Game 2 on Thursday night.", 
+            "title": "NBA playoffs: Luka Don\u010di\u0107, Mavericks fend off Thunder in Game 2 to tie series - Yahoo Sports"
         }, 
         {
             "url": "https://www.youtube.com/watch?v=wExNif-GGXo", 
-            "description": null, 
+            "description": "Jayson Tatum spoke postgame after the Celtics blowout loss to the Cavaliers in Game 2.Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation...", 
             "title": "Jayson Tatum on Game 2 Loss to Cavs: 'The world thinks we're never supposed to lose' - Bleacher Report"
+        }, 
+        {
+            "url": "https://apnews.com/article/police-shootings-home-roger-fortson-death-6e8db776663b684d878917e6b7ea4e57", 
+            "description": "The fatal shooting of a U.S. Air Force airman at his off-base apartment by a Florida sheriff\u2019s deputy brings to mind other instances of Black people being killed by law enforcement in their own homes as they\u2019re going about their day. Senior Airman Roger Forts\u2026", 
+            "title": "Killing of an airman by Florida deputy is among cases of Black people being shot in their homes - The Associated Press"
         }, 
         {
             "url": "https://www.axios.com/2024/05/10/severe-solar-storm-northern-lights", 
@@ -46,39 +66,29 @@
             "title": "\"Severe\" solar storm could bring Northern Lights to U.S. this weekend - Axios"
         }, 
         {
-            "url": "https://9to5mac.com/2024/05/09/controversial-ipad-pro-crush-ad-lg/", 
-            "description": "During its \u201cLet Loose\u201d event on Tuesday, Apple introduced the new M4 iPad Pro. However, the product was unveiled with...", 
-            "title": "Controversial new iPad Pro ad might have been inspired by LG ad - 9to5Mac"
-        }, 
-        {
             "url": "https://thehill.com/regulation/court-battles/4655381-stormy-daniels-trolls-trump-after-testifying-in-hush-money-trial/", 
             "description": null, 
             "title": "Stormy Daniels trolls Trump after testifying in hush money trial - The Hill"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/09/us/roger-forston-florida-airman-shot/index.html", 
-            "description": "A Florida sheriff\u2019s office publicly released bodycam footage from a deputy who fatally shot a Black airman in his home last week, and disputed claims from the victim\u2019s family that the deputy had gone to the wrong apartment.", 
-            "title": "Florida sheriff releases bodycam video of airman fatally shot in apartment, disputes family\u2019s claim deputy went to wrong unit - CNN"
+            "url": "https://www.eonline.com/news/1401316/justin-biebers-exes-sofia-richie-and-caitlin-beadles-react-to-hailey-biebers-pregnancy", 
+            "description": "Justin Bieber\u2019s exes Sofia Richie and Caitlin Beadles\u2014who he dated in 2016 and 2008, respectively\u2014shared their reactions to Hailey Bieber's pregnancy.", 
+            "title": "Justin Bieber's Exes Sofia Richie, Caitlin Beadles React to Pregnancy - E! NEWS"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/10/tech/cyberattack-ascension-ambulances-hospitals/index.html", 
-            "description": "A\u00a0major US health care system said Thursday that it is diverting ambulances from \u201cseveral\u201d of its hospitals following a cyberattack this week.", 
-            "title": "Cyberattack forces major US health care network to divert ambulances from hospitals - CNN"
+            "url": "https://nypost.com/2024/05/09/business/chatgpt-maker-openai-to-unveil-google-search-competitor-on-monday-sources/", 
+            "description": "OpenAI\u2019s search product is an extension of its flagship ChatGPT product, and enables ChatGPT to pull in direct information from the Web and include citations.", 
+            "title": "ChatGPT maker OpenAI to unveil Google search competitor on Monday: sources - New York Post "
         }, 
         {
-            "url": "https://www.tmz.com/2024/05/09/drake-toronto-home-house-another-trespasser-second-one-after-shooting/", 
-            "description": "Drake's security is working overtime ... because TMZ has learned a person allegedly tried to get into his home yet again this week -- the second such instance since the shooting.", 
-            "title": "Drake's Toronto Home Visited By Yet Another Alleged Attempted Trespasser - TMZ"
+            "url": "https://www.nbcnews.com/news/us-news/miss-usa-resignation-letter-toxic-work-culture-rcna151582", 
+            "description": "The Miss USA who gave up her crown and title this week accused the pageant\u2019s CEO of failing to take an incident of sexual harassment seriously and creating a toxic work environment, according to a copy of her resignation letter obtained Thursday by NBC News.", 
+            "title": "Miss USA\u2019s resignation letter accuses the organization of toxic work culture - NBC News"
         }, 
         {
-            "url": "http://9to5google.com/2024/05/09/open-ai-google-search-report/", 
-            "description": "According to a new report, OpenAI plans to launch its Google Search competitor on May 13, the day before Google I/O.", 
-            "title": "Report: OpenAI to launch its AI-powered search engine a day before Google I/O - 9to5Google"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/09/trump-stormy-daniels-trial-testimony-00157192", 
-            "description": null, 
-            "title": "An angry Trump gathers allies to push against Stormy Daniels - POLITICO"
+            "url": "https://9to5mac.com/2024/05/09/m4-ipad-pro-always-on-display-oled/", 
+            "description": "One of the biggest highlights of the new iPad Pro is the OLED display for the first time on an...", 
+            "title": "M4 iPad Pro lacks always-on display despite OLED panel with variable refresh rate - 9to5Mac"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/09/health/bird-flu-cows-human-receptors/index.html", 
@@ -86,20 +96,10 @@
             "title": "Cows have human flu receptors, study shows, raising stakes on bird flu outbreak in dairy cattle - CNN"
         }, 
         {
-            "url": "https://www.washingtonpost.com/sports/2024/05/09/patrick-beverley-suspended/", 
-            "description": "Patrick Beverley threw a ball at fans, rebuffed reporter during and after the Milwaukee Bucks\u2019 season-ending loss", 
-            "title": "Patrick Beverley suspended four games for viral incidents - The Washington Post"
-        }, 
-        {
-            "url": "https://www.newsweek.com/nato-country-leader-endorses-chinas-peace-plan-russia-ukraine-war-1899102", 
-            "description": "Hungary's prime minister criticized other European leaders for being \"on the side of war.\"", 
-            "title": "NATO Country Leader Endorses China's Peace Plan for Russia-Ukraine War - Newsweek"
-        }, 
-        {
-            "url": "https://www.sfchronicle.com/health/article/flirt-variants-summer-covid-wave-19445209.php", 
-            "description": "The FLiRT coronavirus variants, KP.1.1 and KP.2, have recently overtaken JN.1 as the dominant omicron offshoot in the U.S. Here\u2019s what you need to know.", 
-            "title": "New FLiRT variants could spark summer COVID wave in California - San Francisco Chronicle"
+            "url": "https://www.nbcnews.com/politics/donald-trump/missed-day-14-trumps-hush-money-trial-manhattan-rcna151563", 
+            "description": "Judge Juan Merchan issued two rulings against Trump involving the gag order and a mistrial motion after the court heard from Daniels and three other witnesses.", 
+            "title": "What you missed on Day 14 of Trump's hush money trial in Manhattan - NBC News"
         }
     ], 
-    "last_updated": "2024-05-11 13:09:02"
+    "last_updated": "2024-05-11 13:39:04"
 }
