@@ -1,59 +1,94 @@
 {
     "news": [
         {
-            "url": "https://www.wesh.com/article/florida-forecast-friday-severe-risk/60754151", 
-            "description": "Showers and storms will push into Central Florida's northern locations after 10 a.m. and slowly work south throughout the day.", 
-            "title": "Florida storms Friday: Wind and hail possible - WESH 2 Orlando"
+            "url": "https://www.youtube.com/watch?v=wVl0JcuCvMc", 
+            "description": "LIVE | SpaceX Launches New Batch of Starlink Satellites from Vandenberg Air Force Base, California | N18L | English News LIVE Watch live coverage of SpaceX's...", 
+            "title": "LIVE | SpaceX Launches New Batch of Starlink Satellites from Vandenberg Air Force Base, California - CNN-News18"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMTAvY29uc3VtZXItc2VudGltZW50LXR1bWJsZXMtYXMtaW5mbGF0aW9uLWZlYXJzLXN1cmdlLWNsb3NlbHktd2F0Y2hlZC1zdXJ2ZXktc2hvd3MuaHRtbNIBeWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzEwL2NvbnN1bWVyLXNlbnRpbWVudC10dW1ibGVzLWFzLWluZmxhdGlvbi1mZWFycy1zdXJnZS1jbG9zZWx5LXdhdGNoZWQtc3VydmV5LXNob3dzLmh0bWw?oc=5", 
+            "url": "https://www.reuters.com/world/middle-east/un-general-assembly-set-back-palestinian-bid-membership-2024-05-10/", 
             "description": null, 
-            "title": "Consumer sentiment tumbles as inflation fears surge, closely watched survey shows - CNBC"
+            "title": "UN General Assembly backs Palestinian bid for membership - Reuters"
         }, 
         {
-            "url": "https://www.foxbusiness.com/technology/apple-forced-apologize-new-ipad-pro-ad-sparks-controversy-online-missed-mark-sorry", 
-            "description": "A new iPad Pro ad caused a stir on social media, with several users responding critically, forcing Apple to apologize.", 
-            "title": "Apple forced to apologize after new iPad Pro ad sparks controversy online: 'We missed the mark. We\u2019re sorry' - Fox Business"
+            "url": "https://www.bbc.com/news/world-asia-india-68767574", 
+            "description": "The Delhi chief minister was arrested in March in a corruption case - he denies the allegations.", 
+            "title": "Arvind Kejriwal: India court grants bail to Delhi leader - BBC.com"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnB5djhxOTRnMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZweXY4cTk0ZzFvLmFtcA?oc=5", 
-            "description": null, 
+            "url": "https://apnews.com/article/trump-trial-hush-money-stormy-daniels-cohen-ddef05884265e4d6217b55a89304b878", 
+            "description": "Prosecutors in Donald Trump\u2019s hush money trial are narrowing in on checks and phone records as they lay the groundwork for jurors to hear eventually from their star witness: Michael Cohen, Trump\u2019s former attorney. With the third week of the testimony drawing \u2026", 
+            "title": "Trump hush money trial: Michael Cohen awaits turn after graphic Stormy Daniels account - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/10/politics/steve-bannon-appeal-denied/index.html", 
+            "description": "A federal appeals court on Friday upheld the contempt-of-Congress conviction of Steve Bannon, the ex-adviser to former President Donald Trump who was found guilty after failing to comply with a subpoena from the House January 6 committee.", 
+            "title": "Steve Bannon: Appeals court upholds contempt-of-Congress conviction for defying Jan. 6 subpoena - CNN"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-gollum-movie-reaction-1235894809/", 
+            "description": "A 'Hunt for Gollum' has already been online for 15 years.", 
+            "title": "Warners Allows Fan-Made \u2018Lord of the Rings\u2019 Movie to Stay on YouTube - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://jalopnik.com/boeing-spacecraft-should-be-grounded-over-risk-of-a-di-1851469185", 
+            "description": "NASA delayed the debut crewed mission for the Boeing Starliner on Monday over a valve issue.", 
+            "title": "Boeing Spacecraft Should Be Grounded Over 'Risk Of A Disaster,' Warns NASA Contractor - Jalopnik"
+        }, 
+        {
+            "url": "https://www.espn.com/nba/story/_/id/40119273/pacers-coach-rick-carlisle-fined-35k-criticizing-refs", 
+            "description": "Pacers coach Rick Carlisle has been fined $35,000 for criticizing the officiating during his team's playoff series against the Knicks.", 
+            "title": "Pacers coach Rick Carlisle fined $35K for criticizing refs - ESPN"
+        }, 
+        {
+            "url": "https://gizmodo.com/nintendo-doesnt-want-to-deal-with-x-twitter-either-1851469160", 
+            "description": "This hardly used Switch feature is getting dropped.", 
+            "title": "Nintendo Doesn't Want to Deal With X/Twitter Either - Gizmodo"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-us-canada-68979577", 
+            "description": "Roger Fortson - who was armed - was fatally shot by officers responding to a disturbance call at his home.", 
+            "title": "US airman shot and killed by police in Florida - BBC.com"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/flirt-covid-variants-us-cases/", 
+            "description": "Some of the strains in the \"FLiRT\" group are closely related to the JN.1 COVID variant from last winter.", 
+            "title": "\"FLiRT\" COVID variants are now more than a third of U.S. cases. Scientists share what we know about them so far. - CBS News"
+        }, 
+        {
+            "url": "https://www.hola.com/us/celebrities/20240510359878/selena-gomez-went-viral-after-justin-biebers-baby-announcement/", 
+            "description": "During their teenage years, Selena Gomez and Justin Bieber had a romantic relationship that captivated the interest of millions of fans.", 
+            "title": "Selena Gomez went viral after Justin Bieber\u2019s baby news - HOLA! USA"
+        }, 
+        {
+            "url": "https://arizonasports.com/story/3547421/suns-plan-hire-mike-budenholzer-head-coach/", 
+            "description": "The Phoenix Suns are reportedly set to hire Mike Budenholzer as the new head coach, moving quickly after firing Frank Vogel from the job.", 
+            "title": "Suns plan to hire Mike Budenholzer as head coach, per report - Arizona Sports"
+        }, 
+        {
+            "url": "https://www.gamesradar.com/games/city-builder/first-major-manor-lords-patch-takes-aim-at-enemy-ai-underpowered-archers-plus-overly-high-ale-consumption-and-adds-a-steep-tax-to-prevent-gold-hoarding/", 
+            "description": "The city-builder cracks down on gold hoarders and boozy villagers", 
+            "title": "First major Manor Lords patch takes aim at enemy AI, underpowered archers, plus \"overly high ale consumption\" - and adds a steep tax to prevent gold hoarding - Gamesradar"
+        }, 
+        {
+            "url": "https://apnews.com/article/apple-ipad-ad-social-media-reaction-12e7fbd335feb4875d94c31b87379359", 
+            "description": "A newly released ad promoting Apple\u2019s new iPad Pro has struck quite a nerve online. The ad shows a hydraulic press crushing just about every creative instrument artists and consumers have used over the years \u2014 from a piano and record player, to piles of paint\u2026", 
+            "title": "Technology crushing human creativity? Apple's new iPad ad has struck a nerve online - The Associated Press"
+        }, 
+        {
+            "url": "https://www.wctv.tv/2024/05/10/photos-storm-impacts-underway-across-south-georgia-big-bend-areas/", 
+            "description": "Storm impacts passed through our local counties Friday morning, causing several power outages, school closures, and damage to homes and vehicles.", 
+            "title": "PHOTOS: Storm impacts underway across South Georgia, Big Bend areas - WCTV"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c6pyv8q94g1o", 
+            "description": "The attempt came during an attack on a town in the northeastern Kharkiv region, says the military.", 
             "title": "Ukraine says it repelled Russian bid to cross border - BBC.com"
         }, 
         {
-            "url": "https://www.cbssports.com/nba/news/suns-coaching-candidates-mike-budenholzer-reportedly-the-early-front-runner-but-there-are-several-options/", 
-            "description": "The Suns fired Frank Vogel after a 49-33 season and a first-round sweep at the hands of the Minnesota Timberwolves", 
-            "title": "Suns coaching candidates: Mike Budenholzer reportedly the early front-runner, but there are several options - CBS Sports"
-        }, 
-        {
-            "url": "https://www.espn.com/wnba/story/_/id/40118360/toronto-expansion-team-join-wnba-2026-per-reports", 
-            "description": "Toronto has been awarded a WNBA franchise that will start play in 2026, according to multiple reports, when it will become the league's first team outside of the United States.", 
-            "title": "Toronto expansion team to join WNBA in 2026, per reports - ESPN"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/10/entertainment/pattie-mallette-bieber-baby/index.html", 
-            "description": "Justin Bieber\u2019s mother Pattie Mallette can finally celebrate his big news.", 
-            "title": "Justin Bieber\u2019s mom Pattie Mallette is thrilled to become a first-time grandmother - CNN"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/10/1245903951/federal-judges-clerks-harrassment", 
-            "description": "A former law clerk who had a bad experience on the job is now trying to share information about judges to help others from suffering the same fate.", 
-            "title": "Meet the lawyer who's trying to flag judges who harass their clerks - NPR"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/virginia-school-board-vote-restoring-names-confederate-leaders-schools-rcna151458", 
-            "description": "The school board in Shenandoah County, Virginia, early Friday approved a proposal that will restore the names of Confederate military leaders to two public schools.", 
-            "title": "Virginia school board votes to restore names of Confederate leaders to schools - NBC News"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/10/1250413218/up-first-newsletter-gaza-aid-pier-rfk-jr-brain-worm", 
-            "description": "A pier off Gaza for aid is expected to be installed soon, but aid workers have questions. RFK Jr. says doctors found a dead worm in his brain. The WHO says he's not alone.", 
-            "title": "Aid workers are doubtful of a U.S.-built pier near Gaza; RFK Jr.'s dead brain worm - NPR"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/entertainment-arts-68975659", 
-            "description": "Fiona Harvey accuses Netflix, as well as writer Richard Gadd, of lying, in a Piers Morgan interview.", 
-            "title": "Baby Reindeer: Fiona Harvey says she will sue Netflix and writer Richard Gadd - BBC.com"
+            "url": "https://www.washingtonpost.com/business/2024/05/10/target-pride-collection/", 
+            "description": "A year after a backlash over its LGBTQ+ products, the retailer says it won\u2019t sell them at all locations this time.", 
+            "title": "Target's Pride Month collection to appear in fewer stores - The Washington Post"
         }, 
         {
             "url": "https://removed.com", 
@@ -61,45 +96,10 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/09/middleeast/rafah-palestinians-refugees-fleeing-intl/index.html", 
-            "description": "Palestinians have begun to flee Rafah\u2019s tent cities in large numbers over the past 72 hours, as the threat of a potential major Israeli assault looms, new satellite imagery from Planet Labs shows.", 
-            "title": "Satellite imagery shows Palestinians fleeing Rafah\u2019s tent cities as threat of major attack looms - CNN"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/target-sell-pride-month-collection-stores-after-backlash/story?id=110101112", 
-            "description": "\"Target is committed to supporting the LGBTQIA+ community during Pride Month.\"", 
-            "title": "Target will only sell Pride Month collection in some stores after backlash in 2023 - ABC News"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/fled-violence-pregnant-now-venezuelan-migrant-trying-build-better-life-rcna146671", 
-            "description": "CHICAGO \u2014 On the week of her due date, Elibexis Alvarez, a Venezuelan migrant, was preparing to give birth to her first child far away from her parents and the home country she never thought she\u2019d leave.", 
-            "title": "She fled violence while pregnant. Now a Venezuelan migrant is trying to build a better life in the U.S. - NBC News"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/severe-geomagnetic-storm-watch-issued-unusual-solar-event/", 
-            "description": "The sunspot responsible for the odd series of strong solar flares is so big you can see it with your own eyes from Earth.", 
-            "title": "Rare severe geomagnetic storm watch issued for first time in nearly 20 years amid \"unusual\" solar event - CBS News"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/10/moderna-says-rsv-vaccine-fda-approval-delayed-to-end-of-may.html", 
-            "description": "The FDA has not informed Moderna of any issues related to the vaccine's safety, efficacy or quality that would prevent its approval, the biotech company said.", 
-            "title": "Moderna says FDA delayed RSV vaccine approval to end of May - CNBC"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvMTAvMjQxNTM0MjEvb3BlbmFpLWNoYXRncHQtZ29vZ2xlLXNlYXJjaC1jb21wZXRpdG9yLXNlcnZpY2UtaW_SAQA?oc=5", 
-            "description": null, 
-            "title": "OpenAI could unveil its Google search competitor on Monday - The Verge"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/us/trump-prosecutors-prepare-call-final-witnesses-hush-money-trial-2024-05-10/", 
-            "description": null, 
-            "title": "Trump prosecutors prepare to call final witnesses in hush money trial - Reuters"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3VwZW5uLXByb3Rlc3QtcG9saWNlLWdhdGhlci1vdXRzaWRlLXByby1wYWxlc3RpbmUtZW5jYW1wbWVudC1vbi11cGVubi1jYW1wdXPSAWtodHRwczovL3d3dy5mb3gyOS5jb20vbmV3cy91cGVubi1wcm90ZXN0LXBvbGljZS1nYXRoZXItb3V0c2lkZS1wcm8tcGFsZXN0aW5lLWVuY2FtcG1lbnQtb24tdXBlbm4tY2FtcHVzLmFtcA?oc=5", 
-            "description": null, 
-            "title": "UPenn protest: Police dismantle Pro-Palestine tent encampment, arrest protesters - FOX 29 Philadelphia"
+            "url": "https://www.cnn.com/2024/05/10/health/feet-health-indicator-wellness-partner/index.html", 
+            "description": "From your heels to your toes, your feet send messages about your well-being \u2014 including warning signs of health conditions.", 
+            "title": "An often overlooked body part could give you clues about your health - CNN"
         }
     ], 
-    "last_updated": "2024-05-11 19:09:29"
+    "last_updated": "2024-05-11 19:39:31"
 }
