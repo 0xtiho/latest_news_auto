@@ -1,19 +1,74 @@
 {
     "news": [
         {
-            "url": "https://www.youtube.com/watch?v=wVl0JcuCvMc", 
-            "description": "LIVE | SpaceX Launches New Batch of Starlink Satellites from Vandenberg Air Force Base, California | N18L | English News LIVE Watch live coverage of SpaceX's...", 
-            "title": "LIVE | SpaceX Launches New Batch of Starlink Satellites from Vandenberg Air Force Base, California - CNN-News18"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.reuters.com/world/middle-east/un-general-assembly-set-back-palestinian-bid-membership-2024-05-10/", 
+            "url": "https://www.espn.com/nfl/story/_/id/40120519/caleb-williams-declared-bears-qb1-rookie-minicamp", 
+            "description": "An inevitable decision was made official Friday as Bears coach Matt Eberflus declared that rookie Caleb Williams would be Chicago's starting quarterback.", 
+            "title": "Caleb Williams declared as Bears QB1 before rookie minicamp - ESPN"
+        }, 
+        {
+            "url": "https://www.salon.com/2024/05/10/target-caves-to-right-wing-backlash-says-it-will-not-sell-pride-month-merchandise-in-many-stores/", 
             "description": null, 
-            "title": "UN General Assembly backs Palestinian bid for membership - Reuters"
+            "title": "Target caves to right-wing backlash, says it will not sell Pride Month merchandise in many stores - Salon"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-asia-india-68767574", 
-            "description": "The Delhi chief minister was arrested in March in a corruption case - he denies the allegations.", 
-            "title": "Arvind Kejriwal: India court grants bail to Delhi leader - BBC.com"
+            "url": "https://nypost.com/2024/05/10/business/mcdonalds-to-launch-5-meal-deal-to-lure-back-customers/", 
+            "description": "McDonald\u2019s is reportedly preparing to launch a $5 meal deal in a bid to lure back lower-income customers who were priced out of the Golden Arches as its menu prices soared to include an $18 B\u2026", 
+            "title": "McDonald's to launch $5 meal deal to lure back customers - New York Post "
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/10/business/sunspots-disrupt-phones-gps-scn/index.html", 
+            "description": "Buckle up: An unusual amount of solar activity this week could disrupt some of the most important technologies society relies on.", 
+            "title": "Why tonight\u2019s massive solar storm could disrupt communications and GPS systems - CNN"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/novavax-stock-doubles-after-sanofi-deal-marks-new-chapter-for-company-172419830.html", 
+            "description": "Novavax stock popped Friday on news of a licensing deal and minority stake from Big Pharma player Sanofi.", 
+            "title": "Novavax stock doubles after Sanofi deal marks 'new chapter' for company - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/us/education-board-virginia-votes-restore-schools-confederate-names-2024-05-10/", 
+            "description": null, 
+            "title": "School board in Virginia votes to restore Confederate names - Reuters"
+        }, 
+        {
+            "url": "https://www.today.com/parents/justin-hailey-bieber-baby-rcna151545", 
+            "description": "Justin and Hailey Bieber shared on Instagram May 9 that Hailey is expecting their first baby.", 
+            "title": "Justin and Hailey Bieber Are Having A Baby! Couple Shares News On Instagram - TODAY"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/10/health/bird-flu-government-to-pay-farmers-and-farm-workers/index.html", 
+            "description": "The US Department of Health and Human Services and the US Department of Agriculture announced on Friday\u00a0a new plan to pay dairy farmers and farm workers to take steps\u00a0to prevent the spread of H5N1 bird flu.", 
+            "title": "US government announces new financial incentives for farms to stem the spread of bird flu in dairy cattle - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/magna-carta-british-library-environmental-activists-smash-arrest/", 
+            "description": "Video posted online shows the Rev. Sue Parfitt and Judy Bruce \u2014protesters from Just Stop Oil \u2014 gluing themselves to the display.", 
+            "title": "Priest, 82, and retired teacher, 85, smash case holding copy of Magna Carta in environmental protest - CBS News"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/10/1250504958/steve-bannon-contempt-upheld", 
+            "description": "A three-judge panel upheld the former Trump adviser's conviction for criminal contempt of Congress. The case is related to Bannon's refusal to cooperate with a House panel probe of the Jan. 6 riot.", 
+            "title": "Steve Bannon loses his appeal of his contempt of Congress conviction - NPR"
+        }, 
+        {
+            "url": "https://www.ign.com/articles/lord-of-the-rings-the-hunt-for-gollum-fan-film-back-online-after-warner-bros-takedown", 
+            "description": "The Lord of the Rings: The Hunt for Gollum fan film has appeared back online after Warner Bros. issued a copyright strike against the 15 year old video a day after announcing a film of the same name.", 
+            "title": "Lord of the Rings: The Hunt for Gollum Fan Film Back Online After Warner Bros. Takedown - IGN"
+        }, 
+        {
+            "url": "https://theathletic.com/5484584/2024/05/10/ea-sports-college-football-video-game-cover-players/", 
+            "description": "The cover also includes Georgia quarterback Carson Beck, Ohio State running back Quinshon Judkins and Alabama quarterback Jalen Milroe.", 
+            "title": "EA Sports College Football 25 cover leak features Quinn Ewers, Donovan Edwards, Travis Hunter - The Athletic"
+        }, 
+        {
+            "url": "", 
+            "description": "", 
+            "title": "Severe storm forecast: 1 storm-related death reported in Tallahassee - USA TODAY"
         }, 
         {
             "url": "https://apnews.com/article/trump-trial-hush-money-stormy-daniels-cohen-ddef05884265e4d6217b55a89304b878", 
@@ -21,14 +76,14 @@
             "title": "Trump hush money trial: Michael Cohen awaits turn after graphic Stormy Daniels account - The Associated Press"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/10/politics/steve-bannon-appeal-denied/index.html", 
-            "description": "A federal appeals court on Friday upheld the contempt-of-Congress conviction of Steve Bannon, the ex-adviser to former President Donald Trump who was found guilty after failing to comply with a subpoena from the House January 6 committee.", 
-            "title": "Steve Bannon: Appeals court upholds contempt-of-Congress conviction for defying Jan. 6 subpoena - CNN"
+            "url": "https://www.ign.com/articles/100-days-later-neuralinks-first-human-patient-is-now-using-his-brain-implant-to-play-slay-the-spire", 
+            "description": "The first human recipient of a Neuralink brain-computer interface has used the link to play Slay the Spire, and a number of other games during his time off, though the implant suffered a temporary drop in performance after a number of electrode-studded thread\u2026", 
+            "title": "100 Days Later, Neuralink\u2019s First Human Patient Is Now Using His Brain Implant to Play Slay the Spire - IGN"
         }, 
         {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-gollum-movie-reaction-1235894809/", 
-            "description": "A 'Hunt for Gollum' has already been online for 15 years.", 
-            "title": "Warners Allows Fan-Made \u2018Lord of the Rings\u2019 Movie to Stay on YouTube - Hollywood Reporter"
+            "url": "http://deadline.com/2024/05/hiroyuki-sanada-deal-shogun-renewed-season-2-fx-emmys-drama-1235911076/", 
+            "description": "Hiroyuki Sanada, star and producer of FX's limited series Sh\u014dgun, has closed a deal to return as Lord Yoshii Toranaga, sources tell Deadline.", 
+            "title": "\u2018Sh\u014dgun\u2019 Star Hiroyuki Sanada Inks Deal To Return For Season 2 As FX Limited Series Mulls Emmy Switch To Drama Amid Renewal Buzz - Deadline"
         }, 
         {
             "url": "https://jalopnik.com/boeing-spacecraft-should-be-grounded-over-risk-of-a-di-1851469185", 
@@ -36,70 +91,15 @@
             "title": "Boeing Spacecraft Should Be Grounded Over 'Risk Of A Disaster,' Warns NASA Contractor - Jalopnik"
         }, 
         {
-            "url": "https://www.espn.com/nba/story/_/id/40119273/pacers-coach-rick-carlisle-fined-35k-criticizing-refs", 
-            "description": "Pacers coach Rick Carlisle has been fined $35,000 for criticizing the officiating during his team's playoff series against the Knicks.", 
-            "title": "Pacers coach Rick Carlisle fined $35K for criticizing refs - ESPN"
+            "url": "https://finance.yahoo.com/video/openai-could-launch-ai-search-151221556.html", 
+            "description": "OpenAI may potentially unveil its new AI-powered search engine as soon as Monday, Reuters reports. Questions about how the new platform could compete with...", 
+            "title": "OpenAI could launch new AI search engine on Monday: Reuters - Yahoo Finance"
         }, 
         {
-            "url": "https://gizmodo.com/nintendo-doesnt-want-to-deal-with-x-twitter-either-1851469160", 
-            "description": "This hardly used Switch feature is getting dropped.", 
-            "title": "Nintendo Doesn't Want to Deal With X/Twitter Either - Gizmodo"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-68979577", 
-            "description": "Roger Fortson - who was armed - was fatally shot by officers responding to a disturbance call at his home.", 
-            "title": "US airman shot and killed by police in Florida - BBC.com"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/flirt-covid-variants-us-cases/", 
-            "description": "Some of the strains in the \"FLiRT\" group are closely related to the JN.1 COVID variant from last winter.", 
-            "title": "\"FLiRT\" COVID variants are now more than a third of U.S. cases. Scientists share what we know about them so far. - CBS News"
-        }, 
-        {
-            "url": "https://www.hola.com/us/celebrities/20240510359878/selena-gomez-went-viral-after-justin-biebers-baby-announcement/", 
-            "description": "During their teenage years, Selena Gomez and Justin Bieber had a romantic relationship that captivated the interest of millions of fans.", 
-            "title": "Selena Gomez went viral after Justin Bieber\u2019s baby news - HOLA! USA"
-        }, 
-        {
-            "url": "https://arizonasports.com/story/3547421/suns-plan-hire-mike-budenholzer-head-coach/", 
-            "description": "The Phoenix Suns are reportedly set to hire Mike Budenholzer as the new head coach, moving quickly after firing Frank Vogel from the job.", 
-            "title": "Suns plan to hire Mike Budenholzer as head coach, per report - Arizona Sports"
-        }, 
-        {
-            "url": "https://www.gamesradar.com/games/city-builder/first-major-manor-lords-patch-takes-aim-at-enemy-ai-underpowered-archers-plus-overly-high-ale-consumption-and-adds-a-steep-tax-to-prevent-gold-hoarding/", 
-            "description": "The city-builder cracks down on gold hoarders and boozy villagers", 
-            "title": "First major Manor Lords patch takes aim at enemy AI, underpowered archers, plus \"overly high ale consumption\" - and adds a steep tax to prevent gold hoarding - Gamesradar"
-        }, 
-        {
-            "url": "https://apnews.com/article/apple-ipad-ad-social-media-reaction-12e7fbd335feb4875d94c31b87379359", 
-            "description": "A newly released ad promoting Apple\u2019s new iPad Pro has struck quite a nerve online. The ad shows a hydraulic press crushing just about every creative instrument artists and consumers have used over the years \u2014 from a piano and record player, to piles of paint\u2026", 
-            "title": "Technology crushing human creativity? Apple's new iPad ad has struck a nerve online - The Associated Press"
-        }, 
-        {
-            "url": "https://www.wctv.tv/2024/05/10/photos-storm-impacts-underway-across-south-georgia-big-bend-areas/", 
-            "description": "Storm impacts passed through our local counties Friday morning, causing several power outages, school closures, and damage to homes and vehicles.", 
-            "title": "PHOTOS: Storm impacts underway across South Georgia, Big Bend areas - WCTV"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c6pyv8q94g1o", 
-            "description": "The attempt came during an attack on a town in the northeastern Kharkiv region, says the military.", 
-            "title": "Ukraine says it repelled Russian bid to cross border - BBC.com"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/business/2024/05/10/target-pride-collection/", 
-            "description": "A year after a backlash over its LGBTQ+ products, the retailer says it won\u2019t sell them at all locations this time.", 
-            "title": "Target's Pride Month collection to appear in fewer stores - The Washington Post"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/10/health/feet-health-indicator-wellness-partner/index.html", 
-            "description": "From your heels to your toes, your feet send messages about your well-being \u2014 including warning signs of health conditions.", 
-            "title": "An often overlooked body part could give you clues about your health - CNN"
+            "url": "https://9to5mac.com/2024/05/10/ios-18-ai-audio-transcription/", 
+            "description": "According to a new report, Apple is planning to add AI-powered audio summaries and transcription into iOS 18 when it arrives later this year.", 
+            "title": "iOS 18 to bring AI audio transcription & summaries, per report - 9to5Mac"
         }
     ], 
-    "last_updated": "2024-05-11 21:09:38"
+    "last_updated": "2024-05-11 21:39:41"
 }
