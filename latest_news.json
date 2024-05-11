@@ -1,19 +1,84 @@
 {
     "news": [
         {
-            "url": "https://finance.yahoo.com/news/biden-poised-impose-tariffs-china-004511416.html", 
-            "description": "(Bloomberg) -- President Joe Biden\u2019s administration is poised to unveil a sweeping decision on China tariffs as soon as next week, one that\u2019s expected to...", 
-            "title": "Biden Set to Impose Tariffs on China EVs, Strategic Sectors - Yahoo Finance"
+            "url": "https://www.bbc.com/news/articles/c6pyv8q94g1o", 
+            "description": "The attempt came during an attack on a town in the northeastern Kharkiv region, says the military.", 
+            "title": "Ukraine says it repulsed Russian bid to cross border - BBC.com"
         }, 
         {
-            "url": "https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees", 
-            "description": "Service charges; resort fees; \"surcharge\" add-ons: A new state law requiring price transparency is set to take effect in July. Until now, no one knew how it would apply to restaurants.", 
-            "title": "California says restaurants must bake all of their add-on fees into menu prices - NPR"
+            "url": "https://finance.yahoo.com/news/sanofi-inks-1-2-billion-082615895.html", 
+            "description": "(Bloomberg) -- Novavax Inc. shares surged after the company signed a $1.2 billion licensing agreement with Sanofi that includes commercializing a combined...", 
+            "title": "Novavax Soars on $1.2 Billion Sanofi Vaccine Licensing Deal - Yahoo Finance"
         }, 
         {
-            "url": "https://www.axios.com/2024/05/09/israel-fire-palestinian-aid-refugee-jerusalem", 
+            "url": "https://www.cbsnews.com/news/severe-geomagnetic-storm-watch-issued-unusual-solar-event/", 
+            "description": "The sunspot responsible for the odd series of strong solar flares is so big you can see it with your own eyes from Earth.", 
+            "title": "Rare severe geomagnetic storm watch issued for first time in nearly 20 years amid \"unusual\" solar event - CBS News"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/10/moderna-says-rsv-vaccine-fda-approval-delayed-to-end-of-may.html", 
+            "description": "The FDA has not informed Moderna of any issues related to the vaccine's safety, efficacy or quality that would prevent its approval, the biotech company said.", 
+            "title": "Moderna says FDA delayed RSV vaccine approval to end of May - CNBC"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-trial-hush-money-stormy-daniels-cohen-ddef05884265e4d6217b55a89304b878", 
+            "description": "The third week of testimony in Donald Trump\u2019s hush money trial is drawing to a close. It comes after jurors heard the dramatic, if not downright seamy, account of Stormy Daniels\u2019 alleged sexual encounter with the former president. Meanwhile, prosecutors are g\u2026", 
+            "title": "Trump hush money trial: Michael Cohen awaits turn after graphic Stormy Daniels account - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/10/sport/caitlin-clark-home-debut-indiana-fever-spt-intl/index.html", 
+            "description": "More than 13,000 fans were in attendance as Caitlin Clark made her home preseason debut on Thursday in an 83-80 victory for the Indiana Fever over the Atlanta Dream.", 
+            "title": "\u2018Pretty unheard of\u2019: Caitlin Clark draws 13,000 in home preseason debut as Indiana Fever win 83-80 - CNN"
+        }, 
+        {
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-closes-is-on-stealing-christmas-games", 
+            "description": "Negotiations for December 25 reportedly delayed schedule release.", 
+            "title": "Netflix closes is on stealing Christmas games - NBC Sports"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcDRnOXp6ZXFsMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3A0Zzl6emVxbDFvLmFtcA?oc=5", 
             "description": null, 
-            "title": "UN aid agency says Israelis set fire to its East Jerusalem headquarters - Axios"
+            "title": "Harry and Meghan: Duke and duchess arrive in Nigeria - BBC.com"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZWRwLmNvbS9hcnRpY2xlLzIwMjQvMDUvcGVubi1wYWxlc3RpbmUtZ2F6YS1wcm90ZXN0cy1hcnJlc3Rz0gEA?oc=5", 
+            "description": null, 
+            "title": "Police in riot gear arrest over one dozen protesters, including Penn students, at Gaza Solidarity Encampment - The Daily Pennsylvanian"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvMTAvMjQxNTM0MjEvb3BlbmFpLWNoYXRncHQtZ29vZ2xlLXNlYXJjaC1jb21wZXRpdG9yLXNlcnZpY2UtaW_SAQA?oc=5", 
+            "description": null, 
+            "title": "OpenAI could unveil its Google search competitor on Monday - The Verge"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/us/trump-prosecutors-prepare-call-final-witnesses-hush-money-trial-2024-05-10/", 
+            "description": null, 
+            "title": "Trump prosecutors prepare to call final witnesses in hush money trial - Reuters"
+        }, 
+        {
+            "url": "https://abcnews.go.com/International/wireStory/caramelo-brazilian-horse-stranded-roof-floods-rescued-after-110086383", 
+            "description": "A horse that was perilously stranded on a rooftop by Brazil's deadly floods has been rescued", 
+            "title": "Caramelo, the Brazilian horse stranded on a roof by floods, is rescued after stirring the nation - ABC News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/10/middleeast/israel-sde-teiman-detention-whistleblowers-intl-cmd/index.html", 
+            "description": "At a military base that now doubles as a detention center in Israel\u2019s Negev desert, an Israeli working at the facility snapped two photographs of a scene that he says continues to haunt him.", 
+            "title": "Israeli whistleblowers detail horror of shadowy detention facility for Palestinians - CNN"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25vdy92aWRlby9qdXN0aW4tYW5kLWhhaWxleS1iaWViZXItYW5ub3VuY2UtcHJlZ25hbmN5LW9uLWluc3RhZ3JhbS0yMTA2MTc0MTM1NjHSATdodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC12aWRlby9tbXZvMjEwNjE3NDEzNTYx?oc=5", 
+            "description": null, 
+            "title": "Justin and Hailey Bieber announce pregnancy on Instagram - NBC News"
+        }, 
+        {
+            "url": "https://goodmorningamerica.com/culture/story/miss-usa-names-new-2023-titleholder-after-former-110085706", 
+            "description": "The Miss USA pageant has named a successor to the Miss USA title after Noelia Voigt resigned on Monday.", 
+            "title": "Miss USA names new 2023 titleholder after former winner resigned title - Good Morning America"
+        }, 
+        {
+            "url": "https://www.indiatoday.in/health/story/a-30-year-long-harvard-study-reveals-ultra-processed-foods-linked-to-early-death-2537507-2024-05-10", 
+            "description": "A 30-year study found that people who regularly consumed ultra-processed meats faced a 13 higher likelihood of premature death", 
+            "title": "A 30-year-long Harvard study reveals ultra-processed foods linked to early death - India Today"
         }, 
         {
             "url": "https://www.reuters.com/world/uk/uk-economy-grows-by-06-first-quarter-ons-data-shows-2024-05-10/", 
@@ -26,80 +91,15 @@
             "title": "Pro-Palestine Students Reject Harvard President's Proposal to End Encampment | News - Harvard Crimson"
         }, 
         {
+            "url": "https://www.reuters.com/markets/deals/chinese-ev-maker-zeekr-prices-us-ipo-top-range-raise-441-million-source-says-2024-05-09/", 
+            "description": null, 
+            "title": "Exclusive: China's Zeekr prices US IPO at top of range to raise $441 million, source says - Reuters"
+        }, 
+        {
             "url": "https://www.bbc.com/news/world-middle-east-68980826", 
             "description": "Israeli leader says his country will \"stand alone\" and \"fight with fingernails\" if shipments are halted.", 
             "title": "Gaza war: Netanyahu says Israel can 'stand alone' if US halts arms shipments - BBC.com"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/09/us/shenandoah-county-confederate-school-names-reaj/index.html", 
-            "description": "School board members in Virginia\u2019s Shenandoah County voted early Friday to restore the names of two schools that previously honored Confederate leaders \u2013 four years after those names had been removed.", 
-            "title": "Virginia school board votes to restore Confederate names to two schools - CNN"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/10/1250399425/senate-passes-faa-reauthorization-bill-sending-bill-to-house", 
-            "description": "The Senate passed a bill designed to improve safety and customer service for air travelers, a day before the law governing the Federal Aviation Administration expires.", 
-            "title": "Senate passes bill designed to improve air safety and service for travelers - NPR"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/nba-playoffs-luka-doncic-mavericks-fend-off-thunder-in-game-2-to-tie-series-041203241.html", 
-            "description": "P.J. Washington dropped a playoff career-high 29 points to help the Mavericks pull off a huge win in Game 2 on Thursday night.", 
-            "title": "NBA playoffs: Luka Don\u010di\u0107, Mavericks fend off Thunder in Game 2 to tie series - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=wExNif-GGXo", 
-            "description": "Jayson Tatum spoke postgame after the Celtics blowout loss to the Cavaliers in Game 2.Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation...", 
-            "title": "Jayson Tatum on Game 2 Loss to Cavs: 'The world thinks we're never supposed to lose' - Bleacher Report"
-        }, 
-        {
-            "url": "https://apnews.com/article/police-shootings-home-roger-fortson-death-6e8db776663b684d878917e6b7ea4e57", 
-            "description": "The fatal shooting of a U.S. Air Force airman at his off-base apartment by a Florida sheriff\u2019s deputy brings to mind other instances of Black people being killed by law enforcement in their own homes as they\u2019re going about their day. Senior Airman Roger Forts\u2026", 
-            "title": "Killing of an airman by Florida deputy is among cases of Black people being shot in their homes - The Associated Press"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/10/severe-solar-storm-northern-lights", 
-            "description": null, 
-            "title": "\"Severe\" solar storm could bring Northern Lights to U.S. this weekend - Axios"
-        }, 
-        {
-            "url": "https://thehill.com/regulation/court-battles/4655381-stormy-daniels-trolls-trump-after-testifying-in-hush-money-trial/", 
-            "description": null, 
-            "title": "Stormy Daniels trolls Trump after testifying in hush money trial - The Hill"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1401316/justin-biebers-exes-sofia-richie-and-caitlin-beadles-react-to-hailey-biebers-pregnancy", 
-            "description": "Justin Bieber\u2019s exes Sofia Richie and Caitlin Beadles\u2014who he dated in 2016 and 2008, respectively\u2014shared their reactions to Hailey Bieber's pregnancy.", 
-            "title": "Justin Bieber's Exes Sofia Richie, Caitlin Beadles React to Pregnancy - E! NEWS"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/09/business/chatgpt-maker-openai-to-unveil-google-search-competitor-on-monday-sources/", 
-            "description": "OpenAI\u2019s search product is an extension of its flagship ChatGPT product, and enables ChatGPT to pull in direct information from the Web and include citations.", 
-            "title": "ChatGPT maker OpenAI to unveil Google search competitor on Monday: sources - New York Post "
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/miss-usa-resignation-letter-toxic-work-culture-rcna151582", 
-            "description": "The Miss USA who gave up her crown and title this week accused the pageant\u2019s CEO of failing to take an incident of sexual harassment seriously and creating a toxic work environment, according to a copy of her resignation letter obtained Thursday by NBC News.", 
-            "title": "Miss USA\u2019s resignation letter accuses the organization of toxic work culture - NBC News"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/09/m4-ipad-pro-always-on-display-oled/", 
-            "description": "One of the biggest highlights of the new iPad Pro is the OLED display for the first time on an...", 
-            "title": "M4 iPad Pro lacks always-on display despite OLED panel with variable refresh rate - 9to5Mac"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/09/health/bird-flu-cows-human-receptors/index.html", 
-            "description": "Cows have the same kinds of gateways into their cells as humans and birds, a new study shows. The finding suggests that cows could be mixing bowls - hosts that could help H5N1 bird flu learn to spread in humans.", 
-            "title": "Cows have human flu receptors, study shows, raising stakes on bird flu outbreak in dairy cattle - CNN"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/politics/donald-trump/missed-day-14-trumps-hush-money-trial-manhattan-rcna151563", 
-            "description": "Judge Juan Merchan issued two rulings against Trump involving the gag order and a mistrial motion after the court heard from Daniels and three other witnesses.", 
-            "title": "What you missed on Day 14 of Trump's hush money trial in Manhattan - NBC News"
         }
     ], 
-    "last_updated": "2024-05-11 15:09:10"
+    "last_updated": "2024-05-11 15:39:13"
 }
