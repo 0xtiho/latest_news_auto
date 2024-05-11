@@ -1,14 +1,79 @@
 {
     "news": [
         {
-            "url": "https://www.bbc.com/news/articles/c6pyv8q94g1o", 
-            "description": "The attempt came during an attack on a town in the northeastern Kharkiv region, says the military.", 
-            "title": "Ukraine says it repulsed Russian bid to cross border - BBC.com"
+            "url": "https://www.wesh.com/article/florida-forecast-friday-severe-risk/60754151", 
+            "description": "Showers and storms will push into Central Florida's northern locations after 10 a.m. and slowly work south throughout the day.", 
+            "title": "Florida storms Friday: Wind and hail possible - WESH 2 Orlando"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/sanofi-inks-1-2-billion-082615895.html", 
-            "description": "(Bloomberg) -- Novavax Inc. shares surged after the company signed a $1.2 billion licensing agreement with Sanofi that includes commercializing a combined...", 
-            "title": "Novavax Soars on $1.2 Billion Sanofi Vaccine Licensing Deal - Yahoo Finance"
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMTAvY29uc3VtZXItc2VudGltZW50LXR1bWJsZXMtYXMtaW5mbGF0aW9uLWZlYXJzLXN1cmdlLWNsb3NlbHktd2F0Y2hlZC1zdXJ2ZXktc2hvd3MuaHRtbNIBeWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzEwL2NvbnN1bWVyLXNlbnRpbWVudC10dW1ibGVzLWFzLWluZmxhdGlvbi1mZWFycy1zdXJnZS1jbG9zZWx5LXdhdGNoZWQtc3VydmV5LXNob3dzLmh0bWw?oc=5", 
+            "description": null, 
+            "title": "Consumer sentiment tumbles as inflation fears surge, closely watched survey shows - CNBC"
+        }, 
+        {
+            "url": "https://www.foxbusiness.com/technology/apple-forced-apologize-new-ipad-pro-ad-sparks-controversy-online-missed-mark-sorry", 
+            "description": "A new iPad Pro ad caused a stir on social media, with several users responding critically, forcing Apple to apologize.", 
+            "title": "Apple forced to apologize after new iPad Pro ad sparks controversy online: 'We missed the mark. We\u2019re sorry' - Fox Business"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNnB5djhxOTRnMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzZweXY4cTk0ZzFvLmFtcA?oc=5", 
+            "description": null, 
+            "title": "Ukraine says it repelled Russian bid to cross border - BBC.com"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nba/news/suns-coaching-candidates-mike-budenholzer-reportedly-the-early-front-runner-but-there-are-several-options/", 
+            "description": "The Suns fired Frank Vogel after a 49-33 season and a first-round sweep at the hands of the Minnesota Timberwolves", 
+            "title": "Suns coaching candidates: Mike Budenholzer reportedly the early front-runner, but there are several options - CBS Sports"
+        }, 
+        {
+            "url": "https://www.espn.com/wnba/story/_/id/40118360/toronto-expansion-team-join-wnba-2026-per-reports", 
+            "description": "Toronto has been awarded a WNBA franchise that will start play in 2026, according to multiple reports, when it will become the league's first team outside of the United States.", 
+            "title": "Toronto expansion team to join WNBA in 2026, per reports - ESPN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/10/entertainment/pattie-mallette-bieber-baby/index.html", 
+            "description": "Justin Bieber\u2019s mother Pattie Mallette can finally celebrate his big news.", 
+            "title": "Justin Bieber\u2019s mom Pattie Mallette is thrilled to become a first-time grandmother - CNN"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/10/1245903951/federal-judges-clerks-harrassment", 
+            "description": "A former law clerk who had a bad experience on the job is now trying to share information about judges to help others from suffering the same fate.", 
+            "title": "Meet the lawyer who's trying to flag judges who harass their clerks - NPR"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/virginia-school-board-vote-restoring-names-confederate-leaders-schools-rcna151458", 
+            "description": "The school board in Shenandoah County, Virginia, early Friday approved a proposal that will restore the names of Confederate military leaders to two public schools.", 
+            "title": "Virginia school board votes to restore names of Confederate leaders to schools - NBC News"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/10/1250413218/up-first-newsletter-gaza-aid-pier-rfk-jr-brain-worm", 
+            "description": "A pier off Gaza for aid is expected to be installed soon, but aid workers have questions. RFK Jr. says doctors found a dead worm in his brain. The WHO says he's not alone.", 
+            "title": "Aid workers are doubtful of a U.S.-built pier near Gaza; RFK Jr.'s dead brain worm - NPR"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/entertainment-arts-68975659", 
+            "description": "Fiona Harvey accuses Netflix, as well as writer Richard Gadd, of lying, in a Piers Morgan interview.", 
+            "title": "Baby Reindeer: Fiona Harvey says she will sue Netflix and writer Richard Gadd - BBC.com"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/09/middleeast/rafah-palestinians-refugees-fleeing-intl/index.html", 
+            "description": "Palestinians have begun to flee Rafah\u2019s tent cities in large numbers over the past 72 hours, as the threat of a potential major Israeli assault looms, new satellite imagery from Planet Labs shows.", 
+            "title": "Satellite imagery shows Palestinians fleeing Rafah\u2019s tent cities as threat of major attack looms - CNN"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/target-sell-pride-month-collection-stores-after-backlash/story?id=110101112", 
+            "description": "\"Target is committed to supporting the LGBTQIA+ community during Pride Month.\"", 
+            "title": "Target will only sell Pride Month collection in some stores after backlash in 2023 - ABC News"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/fled-violence-pregnant-now-venezuelan-migrant-trying-build-better-life-rcna146671", 
+            "description": "CHICAGO \u2014 On the week of her due date, Elibexis Alvarez, a Venezuelan migrant, was preparing to give birth to her first child far away from her parents and the home country she never thought she\u2019d leave.", 
+            "title": "She fled violence while pregnant. Now a Venezuelan migrant is trying to build a better life in the U.S. - NBC News"
         }, 
         {
             "url": "https://www.cbsnews.com/news/severe-geomagnetic-storm-watch-issued-unusual-solar-event/", 
@@ -21,31 +86,6 @@
             "title": "Moderna says FDA delayed RSV vaccine approval to end of May - CNBC"
         }, 
         {
-            "url": "https://apnews.com/article/trump-trial-hush-money-stormy-daniels-cohen-ddef05884265e4d6217b55a89304b878", 
-            "description": "The third week of testimony in Donald Trump\u2019s hush money trial is drawing to a close. It comes after jurors heard the dramatic, if not downright seamy, account of Stormy Daniels\u2019 alleged sexual encounter with the former president. Meanwhile, prosecutors are g\u2026", 
-            "title": "Trump hush money trial: Michael Cohen awaits turn after graphic Stormy Daniels account - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/10/sport/caitlin-clark-home-debut-indiana-fever-spt-intl/index.html", 
-            "description": "More than 13,000 fans were in attendance as Caitlin Clark made her home preseason debut on Thursday in an 83-80 victory for the Indiana Fever over the Atlanta Dream.", 
-            "title": "\u2018Pretty unheard of\u2019: Caitlin Clark draws 13,000 in home preseason debut as Indiana Fever win 83-80 - CNN"
-        }, 
-        {
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-closes-is-on-stealing-christmas-games", 
-            "description": "Negotiations for December 25 reportedly delayed schedule release.", 
-            "title": "Netflix closes is on stealing Christmas games - NBC Sports"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcDRnOXp6ZXFsMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3A0Zzl6emVxbDFvLmFtcA?oc=5", 
-            "description": null, 
-            "title": "Harry and Meghan: Duke and duchess arrive in Nigeria - BBC.com"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZWRwLmNvbS9hcnRpY2xlLzIwMjQvMDUvcGVubi1wYWxlc3RpbmUtZ2F6YS1wcm90ZXN0cy1hcnJlc3Rz0gEA?oc=5", 
-            "description": null, 
-            "title": "Police in riot gear arrest over one dozen protesters, including Penn students, at Gaza Solidarity Encampment - The Daily Pennsylvanian"
-        }, 
-        {
             "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzUvMTAvMjQxNTM0MjEvb3BlbmFpLWNoYXRncHQtZ29vZ2xlLXNlYXJjaC1jb21wZXRpdG9yLXNlcnZpY2UtaW_SAQA?oc=5", 
             "description": null, 
             "title": "OpenAI could unveil its Google search competitor on Monday - The Verge"
@@ -56,50 +96,10 @@
             "title": "Trump prosecutors prepare to call final witnesses in hush money trial - Reuters"
         }, 
         {
-            "url": "https://abcnews.go.com/International/wireStory/caramelo-brazilian-horse-stranded-roof-floods-rescued-after-110086383", 
-            "description": "A horse that was perilously stranded on a rooftop by Brazil's deadly floods has been rescued", 
-            "title": "Caramelo, the Brazilian horse stranded on a roof by floods, is rescued after stirring the nation - ABC News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/10/middleeast/israel-sde-teiman-detention-whistleblowers-intl-cmd/index.html", 
-            "description": "At a military base that now doubles as a detention center in Israel\u2019s Negev desert, an Israeli working at the facility snapped two photographs of a scene that he says continues to haunt him.", 
-            "title": "Israeli whistleblowers detail horror of shadowy detention facility for Palestinians - CNN"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25vdy92aWRlby9qdXN0aW4tYW5kLWhhaWxleS1iaWViZXItYW5ub3VuY2UtcHJlZ25hbmN5LW9uLWluc3RhZ3JhbS0yMTA2MTc0MTM1NjHSATdodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC12aWRlby9tbXZvMjEwNjE3NDEzNTYx?oc=5", 
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZveDI5LmNvbS9uZXdzL3VwZW5uLXByb3Rlc3QtcG9saWNlLWdhdGhlci1vdXRzaWRlLXByby1wYWxlc3RpbmUtZW5jYW1wbWVudC1vbi11cGVubi1jYW1wdXPSAWtodHRwczovL3d3dy5mb3gyOS5jb20vbmV3cy91cGVubi1wcm90ZXN0LXBvbGljZS1nYXRoZXItb3V0c2lkZS1wcm8tcGFsZXN0aW5lLWVuY2FtcG1lbnQtb24tdXBlbm4tY2FtcHVzLmFtcA?oc=5", 
             "description": null, 
-            "title": "Justin and Hailey Bieber announce pregnancy on Instagram - NBC News"
-        }, 
-        {
-            "url": "https://goodmorningamerica.com/culture/story/miss-usa-names-new-2023-titleholder-after-former-110085706", 
-            "description": "The Miss USA pageant has named a successor to the Miss USA title after Noelia Voigt resigned on Monday.", 
-            "title": "Miss USA names new 2023 titleholder after former winner resigned title - Good Morning America"
-        }, 
-        {
-            "url": "https://www.indiatoday.in/health/story/a-30-year-long-harvard-study-reveals-ultra-processed-foods-linked-to-early-death-2537507-2024-05-10", 
-            "description": "A 30-year study found that people who regularly consumed ultra-processed meats faced a 13 higher likelihood of premature death", 
-            "title": "A 30-year-long Harvard study reveals ultra-processed foods linked to early death - India Today"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/uk/uk-economy-grows-by-06-first-quarter-ons-data-shows-2024-05-10/", 
-            "description": "Britain's economy grew by the most in nearly three years in the first quarter of 2024, ending the shallow recession it entered in the second half of last year and delivering a boost to Prime Minister Rishi Sunak ahead of an election.", 
-            "title": "UK exits recession with fastest growth in nearly three years - Reuters UK"
-        }, 
-        {
-            "url": "https://www.thecrimson.com/article/2024/5/10/protesters-reject-proposal-encampment/", 
-            "description": "Members of the pro-Palestine encampment rejected a proposal from interim University President Alan M. Garber \u201976 to end their two-week occupation of Harvard Yard and avoid receiving involuntary leave of absence notices.", 
-            "title": "Pro-Palestine Students Reject Harvard President's Proposal to End Encampment | News - Harvard Crimson"
-        }, 
-        {
-            "url": "https://www.reuters.com/markets/deals/chinese-ev-maker-zeekr-prices-us-ipo-top-range-raise-441-million-source-says-2024-05-09/", 
-            "description": null, 
-            "title": "Exclusive: China's Zeekr prices US IPO at top of range to raise $441 million, source says - Reuters"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-middle-east-68980826", 
-            "description": "Israeli leader says his country will \"stand alone\" and \"fight with fingernails\" if shipments are halted.", 
-            "title": "Gaza war: Netanyahu says Israel can 'stand alone' if US halts arms shipments - BBC.com"
+            "title": "UPenn protest: Police dismantle Pro-Palestine tent encampment, arrest protesters - FOX 29 Philadelphia"
         }
     ], 
-    "last_updated": "2024-05-11 17:09:19"
+    "last_updated": "2024-05-11 17:39:21"
 }
