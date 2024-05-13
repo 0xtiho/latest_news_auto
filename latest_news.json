@@ -1,9 +1,39 @@
 {
     "news": [
         {
-            "url": "https://nypost.com/2024/05/12/sports/knicks-embarrassed-by-pacers-in-lethargic-game-4-loss-to-tie-series/", 
-            "description": "The Knicks absorbed a knockdown blow quickly and never got up.", 
-            "title": "Knicks utterly embarrassed by Pacers in lethargic Game 4 loss to tie series - New York Post "
+            "url": "https://www.cbsnews.com/news/jerry-seinfeld-duke-university-commencement-address-graduates-walk-out/", 
+            "description": "Jerry Seinfeld, who has supported Israel since the Oct. 7 attack by Hamas militants, delivered the commencement address at Duke University on Sunday.", 
+            "title": "Duke University graduates walk out ahead of Jerry Seinfeld's commencement address - CBS News"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/colorado/news/dozens-colorado-dairy-farm-workers-monitored-avian-bird-flu-symptoms/", 
+            "description": "The Colorado Department of Public Health and Environment confirmed Friday that approximately 70 dairy farm workers are currently being monitored for possible symptoms of avian flu.", 
+            "title": "Dozens of Colorado dairy farm workers monitored for bird flu symptoms - CBS News"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nba/news/2024-nba-draft-order-complete-list-of-picks-as-atlanta-hawks-win-no-1-selection-in-lottery/", 
+            "description": "The full draft order was unveiled Sunday afternoon", 
+            "title": "2024 NBA Draft order: Complete list of picks as Atlanta Hawks win No. 1 selection in Lottery - CBS Sports"
+        }, 
+        {
+            "url": "https://www.startribune.com/timberwolves-nuggets-live-game-report-nikola-jokic-anthony-edwards-nba-playoffs/600365426/", 
+            "description": "Denver's win in Game 3 enabled it to cut the Wolves' lead to 2-1 entering tonight's contest at Target Center.", 
+            "title": "Live from Timberwolves-Nuggets Game 4 - Star Tribune"
+        }, 
+        {
+            "url": "https://arstechnica.com/cars/2024/05/the-2025-aston-martin-vantage-gets-a-bold-new-body-and-big-power-boost/", 
+            "description": "It features modern tech, a better interior, and an extra 150 hp on the old model.", 
+            "title": "The 2025 Aston Martin Vantage gets a bold new body and big power boost - Ars Technica"
+        }, 
+        {
+            "url": "https://www.espn.com/nba/story/_/id/40133896/indiana-pacers-cruise-new-york-knicks-tie-series", 
+            "description": "The Indiana Pacers utilized a 69-point first half to control Game 4 against the New York Knicks on Sunday afternoon in Indianapolis, evening the series at 2-2 before the East Semifinals shift back to Madison Square Garden for a pivotal Game 5.", 
+            "title": "Indiana Pacers cruise past New York Knicks, tie series - ESPN"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/rory-mcilroy-dominates-xander-schauffele-field-for-4th-wells-fargo-title-as-pga-championship-looms-215447122.html", 
+            "description": "McIlroy now has four wins at 2025 PGA Championship host Quail Hollow and is dialed in ahead of next week's PGA Championship at Valhalla.", 
+            "title": "Rory McIlroy dominates Xander Schauffele, field for 4th Wells Fargo title as PGA Championship looms - Yahoo Sports"
         }, 
         {
             "url": "https://www.reuters.com/world/europe/putin-proposes-sacking-defence-minister-shoigu-parliament-says-2024-05-12/", 
@@ -11,9 +41,9 @@
             "title": "Putin taps civilian economist to run defense, replacing Shoigu in surprise move - Reuters"
         }, 
         {
-            "url": "https://www.espn.com/nba/story/_/page/NBADraft24-40132847/2024-nba-draft-biggest-post-lottery-questions-12-teams-atlanta-hawks-washington-wizards-houston-rockets", 
-            "description": "Twelve teams are set with the top 14 lottery picks in June's NBA draft, and our experts weigh in on the biggest topics for each of those teams.", 
-            "title": "2024 NBA draft: Biggest post-lottery questions for the 12 teams - ESPN"
+            "url": "https://www.cnn.com/2024/05/12/politics/biden-lawmakers-congress-israel-ultimatum-weapons-israel/index.html", 
+            "description": "Lawmakers in Washington, DC, on Sunday weighed in on President Joe Biden\u2019s ultimatum last week on CNN that an Israeli invasion of Rafah\u00a0would cause him to pause certain weapons transfers.", 
+            "title": "Biden faces bipartisan backlash on Capitol Hill over Israel ultimatum - CNN"
         }, 
         {
             "url": "https://www.eonline.com/news/1401437/olivia-munn-shares-she-underwent-a-hysterectomy-amid-cancer-battle", 
@@ -21,14 +51,19 @@
             "title": "Olivia Munn Shares She Underwent a Hysterectomy Amid Cancer Battle - E! NEWS"
         }, 
         {
+            "url": "https://apnews.com/article/maryland-baltimore-bridge-collapse-controlled-demolition-3da84f13a5688af5cc0bdba4c922bd32", 
+            "description": "The controlled demolition of the largest remaining steel span of the collapsed Francis Scott Key Bridge in Baltimore has been postponed because of weather conditions. The explosives are now expected to be detonated Monday evening. The steel span landed on the\u2026", 
+            "title": "Baltimore bridge collapse: Controlled demolition scheduled - The Associated Press"
+        }, 
+        {
             "url": "https://www.ksl.com/article/51006239/astronomers-finally-detect-a-rocky-planet-with-an-atmosphere", 
             "description": "Astronomers have searched for years for rocky planets beyond our solar system with an atmosphere \u2014 a trait considered essential for any possibility of harboring life.", 
             "title": "Astronomers finally detect a rocky planet with an atmosphere - KSL.com"
         }, 
         {
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-chargers-general-manager-a-j-smith-dies-at-75", 
-            "description": "Former Chargers General Manager A.J.", 
-            "title": "Former Chargers General Manager A.J. Smith dies at 75 - NBC Sports"
+            "url": "https://nypost.com/2024/05/12/us-news/boardwalk-empire-star-steve-buscemi-attacked-by-rock-wielding-maniac-in-nyc/", 
+            "description": "Actor Steve Buscemi, a Brooklyn native and one-time FDNY firefighter, became the latest victim of random New York City street violence when he was slugged by a vagrant who ran off.", 
+            "title": "'Boardwalk Empire' star Steve Buscemi punched by maniac in random NYC attack - New York Post "
         }, 
         {
             "url": "https://www.youtube.com/watch?v=E2Chww7IpzU", 
@@ -41,65 +76,30 @@
             "title": "Ukraine\u2019s military chief admits \u2018difficult situation\u2019 in Kharkiv region - Al Jazeera English"
         }, 
         {
-            "url": "https://apnews.com/article/blinken-israel-hamas-gaza-rafah-war-6e0f887bd307f707a05190b33708fe58", 
-            "description": "Secretary of State Antony Blinken has delivered some of the Biden administration\u2019s strongest public criticism yet of Israel\u2019s conduct of the war in Gaza. America's top diplomat said in two television interviews that Israeli tactics have meant \u201ca horrible loss\u2026", 
-            "title": "Blinken delivers some of the strongest US public criticism of Israel's conduct of the war in Gaza - The Associated Press"
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/roger-corman-tributes-1235897043/", 
+            "description": "Corman died on Thursday at age 98.", 
+            "title": "Ron Howard, Joe Russo, John Carpenter and More Pay Tribute to Roger Corman: \u201cProfound Loss to Cinema\u201d - Hollywood Reporter"
         }, 
         {
-            "url": "https://weather.com/news/video/earthquake-rattles-people-awake", 
-            "description": "An early morning earthquake rattled people out of bed and onto the streets of Guatemala. Watch this video to see the aftermath. - Videos from The Weather Channel | weather.com", 
-            "title": "Earthquake Near Guatemala-Mexico Border - Videos from The Weather Channel - The Weather Channel"
+            "url": "https://www.space.com/spacex-starlink-launch-group-6-58", 
+            "description": "Liftoff is scheduled for 8:53 p.m. ET tonight (May 12).", 
+            "title": "SpaceX to launch 23 Starlink satellites from Florida tonight - Space.com"
         }, 
         {
-            "url": "https://www.boxofficepro.com/weekend-box-office-apes-strong-with-big-planet-wide-debut/", 
-            "description": "1. Kingdom of the Planet of the Apes20th Century Studios | NEW$56.5M Domestic Opening Weekend $129M Global Opening Weekend Even after 56 years, Fox's long-running Planet of the Apes franchise continues to endure. The newest entry, Kingdom of the Planet of the\u2026", 
-            "title": "Weekend Box Office: APES Strong with $129M Global Debut - Boxoffice - Boxoffice Pro"
+            "url": "https://fox8.com/news/tributes-pour-in-for-euclid-officer-killed-in-line-of-duty/", 
+            "description": "Tributes pour in for Euclid, Ohio police officer killed in line of duty", 
+            "title": "Tributes for Euclid officer killed in line of duty - WJW FOX 8 News Cleveland"
         }, 
         {
-            "url": "https://variety.com/2024/film/news/ron-howard-tribute-roger-corman-1235999880/", 
-            "description": "Director Ron Howard paid tribute to Roger Corman for mentoring a generation of filmmakers and giving opportunities to women in film.", 
-            "title": "Ron Howard Remembers Roger Corman\u2019s Mentorship and Impact on Filmmaking: \u2018What a Life\u2019 - Variety"
+            "url": "https://www.usatoday.com/story/news/world/2024/05/12/mexico-earthquake-guatemala/73664081007/", 
+            "description": "A 6.4 magnitude earthquake struck early Sunday near the border of Mexico and Guatemala.", 
+            "title": "Earthquake rattles Mexico-Guatemala: 6.4 magnitude temblor strikes - USA TODAY"
         }, 
         {
-            "url": "https://www.reuters.com/world/asia-pacific/taliban-ministry-death-toll-floods-northern-afghanistan-rises-315-2024-05-12/", 
-            "description": null, 
-            "title": "Afghanistan floods devastate villages, killing 315 - Reuters"
-        }, 
-        {
-            "url": "https://www.foxweather.com/earth-space/northern-lights-us-geomagnetic-storm-sunday", 
-            "description": "Millions of people in the U.S. as far south as Alabama could be in for another dazzling display of the Northern Lights on Sunday night as Earth continues to be blasted by a historic geomagnetic storm that hasn\u2019t been experienced in decades.", 
-            "title": "Another 'severe and extreme' geomagnetic storm Sunday could bring Northern Lights as far south as Alabama - Fox Weather "
-        }, 
-        {
-            "url": "https://apnews.com/article/uk-cameron-israel-arms-sales-0f686299ae245c0e9edb8461c58eb4d7", 
-            "description": "Britain's foreign secretary has said that halting arms exports to Israel is \u201cnot a wise path\u201d and would only strengthen Hamas. Asked whether the U.K. would follow the U.S. in threatening to cut the supply of offensive weapons to Israel if it carried out an at\u2026", 
-            "title": "UK foreign secretary says halting arms sales to Israel would only strengthen Hamas - The Associated Press"
-        }, 
-        {
-            "url": "https://www.foxnews.com/politics/massive-trump-beach-rally-deep-blue-nj-draws-stark-contrast-bidens-beach-weekend-biden-could-never", 
-            "description": "Critics on social media argue President Biden could not pull a massive crowd like former President Trump in Wildwood, New Jersey, as they slam the current president for his beach weekend.", 
-            "title": "Massive Trump beach rally in deep blue NJ draws stark contrast to Biden's beach weekend: 'Biden could never' - Fox News"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/12/ipad-pro-thin-redesigned-chassis-structure/", 
-            "description": "The new iPad Pro is Apple\u2019s thinnest product ever, with the 13-inch model measuring at just 5.1mm thick (excluding camera...", 
-            "title": "Ultra-thin M4 iPad Pro features new internal structure to improve stiffness and heat dissipation - 9to5Mac"
-        }, 
-        {
-            "url": "https://www.marketwatch.com/story/inflation-trap-stock-markets-near-record-run-faces-the-most-crucial-cpi-reading-of-2024-e88374f6", 
-            "description": null, 
-            "title": "Stock market\u2019s near-record rally faces most crucial inflation reading of 2024 - MarketWatch"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://techcrunch.com/2024/05/12/workers-at-a-maryland-apple-store-authorize-strike/", 
-            "description": "It's been a busy weekend for union organizing efforts at U.S. Apple stores, with the union at one store voting to authorize a strike, while workers at", 
-            "title": "Workers at a Maryland Apple store authorize strike - TechCrunch"
+            "url": "https://www.cnn.com/2024/05/12/politics/michael-cohen-trump-hush-money/index.html", 
+            "description": "Nobody has anything nice to say about Michael Cohen.", 
+            "title": "Here are all the bad things witnesses have said about Michael Cohen, Trump\u2019s former fixer who is set to testify Monday - CNN"
         }
     ], 
-    "last_updated": "2024-05-14 01:16:36"
+    "last_updated": "2024-05-14 01:46:38"
 }
