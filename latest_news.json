@@ -1,19 +1,34 @@
 {
     "news": [
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.ft.com/content/641cf6f1-69dd-4b0c-af45-0fb2d0f4e80c", 
+            "description": "Sergei Shoigu\u2019s move from defence ministry painted as an attempt to rein in runaway military spending", 
+            "title": "Putin replaces security chiefs in surprise reshuffle - Financial Times"
         }, 
         {
-            "url": "https://www.cbssports.com/nba/news/how-the-nba-draft-lottery-works-each-teams-odds-of-winning-the-no-1-pick-in-2024-who-will-be-on-the-stage/", 
-            "description": "See the full list of draft lottery odds ahead of Sunday afternoon's selection process", 
-            "title": "How the NBA Draft Lottery works: Each team's odds of winning the No. 1 pick in 2024, who will be on the stage - CBS Sports"
+            "url": "https://www.cbssports.com/nba/news/2024-nba-draft-order-complete-list-of-picks-as-atlanta-hawks-win-no-1-selection-in-lottery/", 
+            "description": "The full draft order was unveiled Sunday afternoon", 
+            "title": "2024 NBA Draft order: Complete list of picks as Atlanta Hawks win No. 1 selection in Lottery - CBS Sports"
         }, 
         {
-            "url": "https://apnews.com/article/euclid-ohio-officer-shot-074e9289eabf5c9c1c2be63c244ebf6d", 
-            "description": "Authorities say an Ohio police officer was shot and killed while answering a disturbance call over the weekend. Police in the Cleveland suburb of Euclid said officers were dispatched just before 10 p.m. Saturday to a home and the officer was shot and later di\u2026", 
-            "title": "Ohio police officer killed in 'ambush,' suspect sought - The Associated Press"
+            "url": "https://www.cbsnews.com/news/jerry-seinfeld-duke-university-commencement-address-graduates-walk-out/", 
+            "description": "Jerry Seinfeld, who has supported Israel since the Oct. 7 attack by Hamas militants, delivered the commencement address at Duke University on Sunday.", 
+            "title": "Duke University graduates walk out ahead of Jerry Seinfeld's commencement address - CBS News"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=E2Chww7IpzU", 
+            "description": "There has been a lot of debate around the world about ultra-processed food and some studies have suggested it is linked to poor health. But, what exactly is ...", 
+            "title": "What is ultra-processed food and what does it mean for your health? | BBC News - BBC News"
+        }, 
+        {
+            "url": "https://www.mlb.com/news/vladimir-guerrero-jr-cartwheels-after-catch", 
+            "description": null, 
+            "title": "Vladimir Guerrero Jr. cartwheels after catch - MLB.com"
+        }, 
+        {
+            "url": "https://www.aljazeera.com/news/2024/5/12/ukraines-military-chief-admits-difficult-situation-in-kharkiv-region", 
+            "description": "General Syrskii says situation in northeastern oblast \u2018significantly worsened\u2019 this week as Russian forces advance.", 
+            "title": "Ukraine\u2019s military chief admits \u2018difficult situation\u2019 in Kharkiv region - Al Jazeera English"
         }, 
         {
             "url": "https://apnews.com/article/blinken-israel-hamas-gaza-rafah-war-6e0f887bd307f707a05190b33708fe58", 
@@ -21,9 +36,19 @@
             "title": "Blinken delivers some of the strongest US public criticism of Israel's conduct of the war in Gaza - The Associated Press"
         }, 
         {
-            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-12-2024-c61fbe06bc5c1a7c85ac18a542e8776e", 
-            "description": "Israeli forces are battling Palestinian militants across Gaza, including in parts of the devastated north that the military said it cleared months ago. Neighboring Egypt has issued its strongest objection yet to Israel's growing offensive on the southern city\u2026", 
-            "title": "Israel-Hamas war: Israel pushes deeper into Rafah, forcing some 300,000 to flee - The Associated Press"
+            "url": "https://nypost.com/2024/05/12/sports/novak-djokovic-loses-in-italian-open-after-taking-bottle-to-head/", 
+            "description": "In Novak Djokovic\u2019s career, the 2024 Italian Open will be remembered as the bottle tournament.", 
+            "title": "Novak Djokovic loses in Italian Open after 'nausea, dizziness' from taking bottle to head - New York Post "
+        }, 
+        {
+            "url": "https://wsbt.com/news/nation-world/6-dead-20-injured-after-apartment-block-collapses-in-russia-ukrainian-shelling-blamed-belgorod-online-footage-damage-destruction-rubble-search-and-rescue-tochka-u-trc-missile", 
+            "description": "An apartment block partially collapsed in the Russian border city of Belgorod on Sunday, leaving at least six dead and 20 injured.", 
+            "title": "6 dead, 20 injured after apartment block collapses in Russia, Ukrainian shelling blamed - WKRC TV Cincinnati"
+        }, 
+        {
+            "url": "https://www.foxweather.com/earth-space/northern-lights-us-geomagnetic-storm-sunday", 
+            "description": "Millions of people in the U.S. as far south as Alabama could be in for another dazzling display of the Northern Lights on Sunday night as Earth continues to be blasted by a historic geomagnetic storm that hasn\u2019t been experienced in decades.", 
+            "title": "Another 'severe and extreme' geomagnetic storm Sunday could bring Northern Lights as far south as Alabama - Fox Weather "
         }, 
         {
             "url": "https://variety.com/2024/film/box-office/kingdom-of-the-planet-of-the-apes-worldwide-box-office-opening-weekend-1235999832/", 
@@ -41,29 +66,19 @@
             "title": "Magnitude 6.4 earthquake strikes near Mexico-Guatemala border on Sunday - Fox Weather "
         }, 
         {
-            "url": "https://www.espn.com/nhl/story/_/id/40131959/with-brad-marchand-game-4-bruins-seek-avenge-him", 
-            "description": "Bruins captain Brad Marchand is out for Game 4 of their series against the Panthers on Sunday night, and his teammates are looking to avenge him.", 
-            "title": "With Brad Marchand out for Game 4, Bruins seek to avenge him - ESPN"
+            "url": "https://finance.yahoo.com/news/doomsday-recession-mentality-keeping-p-160000276.html", 
+            "description": "(Bloomberg) -- North America\u2019s largest companies are on track to post their best quarterly earnings relative to expectations in at least two years, as...", 
+            "title": "A Doomsday Recession Mentality is Keeping the S&P 500 Strong - Yahoo Finance"
         }, 
         {
-            "url": "https://www.usatoday.com/story/entertainment/movies/2024/05/12/roger-corman-director-producer-dies-tributes/73662623007/", 
-            "description": "Roger Corman, the prolific director of B-movies who gave many prominent filmmakers their start, has died. He was 98.", 
-            "title": "Roger Corman dead: 'Little Shop of Horrors' filmmaker dies at 98 - USA TODAY"
+            "url": "https://techcrunch.com/2024/05/12/workers-at-a-maryland-apple-store-authorize-strike/", 
+            "description": "It's been a busy weekend for union organizing efforts at U.S. Apple stores, with the union at one store voting to authorize a strike, while workers at", 
+            "title": "Workers at a Maryland Apple store authorize strike - TechCrunch"
         }, 
         {
-            "url": "https://www.newsweek.com/russia-belgorod-apartment-building-collapse-ukraine-missile-shelling-1899636", 
-            "description": "Belgorod, which sits on the border with Ukraine, has felt the impact of the spillover of the war into internationally-recognized Russian territory.", 
-            "title": "Explosion Rips Through 10-Story Russian Apartment Building - Newsweek"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/money/2024/05/10/berlin-tesla-factory-germany-protest-video/73649849007/", 
-            "description": "Around 800 protesters clashed with police in Germany while trying to break into a Tesla factory. Elon Musk blamed 'left-wing' groups.", 
-            "title": "Watch as German police, protesters at Tesla factory clash in Berlin - USA TODAY"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/12/blinken-reiterates-findings-israel-00157491", 
-            "description": null, 
-            "title": "Blinken reiterates human rights findings on Israel - POLITICO"
+            "url": "https://thehill.com/homenews/nexstar_media_wire/4653747-will-your-last-covid-vaccine-work-against-new-flirt-variants/", 
+            "description": "There are two new COVID-19 variants circulating, posing a threat to a summer surge. Is your last vaccine dose still protecting you?", 
+            "title": "Will your last COVID vaccine work against new \u2018FLiRT\u2019 variants? - The Hill"
         }, 
         {
             "url": "https://nypost.com/2024/05/12/entertainment/maya-rudolph-transforms-into-beyonce-for-hot-ones-on-snl/", 
@@ -78,28 +93,13 @@
         {
             "url": "https://www.aljazeera.com/program/newsfeed/2024/5/12/berkeley-chancellor-speaks-out-about-gaza-brutality-at-graduation", 
             "description": "Chancellor of UC Berkeley addressed the \u2018brutality of the violence in Gaza\u2019 in her graduation ceremony speech.", 
-            "title": "UC Berkeley chancellor speaks out about \u2018Gaza brutality\u2019 - Al Jazeera English"
+            "title": "Berkeley chancellor speaks out about \u2018Gaza brutality\u2019 at graduation | Gaza - Al Jazeera English"
         }, 
         {
-            "url": "https://www.washingtonpost.com/books/2024/05/12/a-fatal-inheritance-book-review/", 
-            "description": "In \u201cA Fatal Inheritance,\u201d Lawrence Ingrassia weaves together personal history and scientific discovery.", 
-            "title": "\u2018A Fatal Inheritance,\u2019 by Lawrence Ingrassia book review - The Washington Post"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/nation/2024/05/12/senator-bob-menendez-bribery-trial/", 
-            "description": "The trial of the once-powerful New Jersey senator is set to begin Monday. He\u2019s accused of bribery, obstruction of justice and extortion \u2014 but may blame his wife.", 
-            "title": "Sen. Bob Menendez's trial, where gold bars may shine, begins Monday - The Washington Post"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/12/europe/russia-kharkiv-region-offensive-ukraine-intl/index.html", 
-            "description": "Russia\u2019s Ministry of Defense\u00a0claims\u00a0to\u00a0have\u00a0captured five villages in the Kharkiv Region on the border with Ukraine, while Ukrainian authorities have disputed this and say the \u201cfighting continues.\u201d", 
-            "title": "Ukraine warns northern front has \u2018significantly worsened\u2019 as Russia claims capture of several villages - CNN"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cle0j5we2pno", 
-            "description": "Opponents fear the government's bill will silence critics ahead of parliamentary elections later this year.", 
-            "title": "Georgia: Thousands rally in protest at 'foreign influence' bill - BBC.com"
+            "url": "https://theathletic.com/5487263/2024/05/12/celtics-jaylen-brown-cavaliers-game-3-win/", 
+            "description": "\"We didn't come to Cleveland for the weather, so let's go,\" says Jaylen Brown.", 
+            "title": "Jaylen Brown's pep talk fuels Celtics in Game 3: 'We're not here to play around' - The Athletic"
         }
     ], 
-    "last_updated": "2024-05-13 21:16:19"
+    "last_updated": "2024-05-13 21:46:21"
 }
