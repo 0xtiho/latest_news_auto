@@ -1,79 +1,49 @@
 {
     "news": [
         {
-            "url": "https://spaceflightnow.com/2024/05/12/live-coverage-spacex-to-reach-6000-starlink-satellites-on-orbit-following-falcon-9-launch-from-cape-canaveral/", 
+            "url": "https://www.washingtonpost.com/world/2024/05/13/israel-hamas-war-news-gaza-palestine/", 
+            "description": "Secretary of State Antony Blinken says Israeli success in Rafah is \u201cnot sustainable\u201d without a postwar plan for Gaza. It\u2019s Memorial Day in Israel.", 
+            "title": "Middle East conflict live updates: Israel renews fight in north Gaza, advances on Rafah in south - The Washington Post"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/bidens-coming-new-tariffs-on-china-reflect-lessons-learned-130114807.html", 
+            "description": "A sweeping White House move on China tariffs that is expected to be unveiled early next week \"reflects lessons learned,\" according to a former official who...", 
+            "title": "Biden's coming new tariffs on China reflect 'lessons learned' - Yahoo Finance"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-trial-stormy-daniels-michael-cohen-hush-money-f96dd7289cf952145cdd6737b29add3d", 
+            "description": "The star prosecution witness in Donald Trump\u2019s hush money trial is set to take the stand with testimony that could help shape the outcome of the first criminal case against an American president. Michael Cohen, Trump\u2019s former lawyer and personal fixer, is by \u2026", 
+            "title": "Trump hush money trial: Star witness Michael Cohen set to testify - The Associated Press"
+        }, 
+        {
+            "url": "https://newatlas.com/medical/pig-kidney-transplant-death/", 
+            "description": "The first successful transplant of a genetically modified pig kidney into a human recipient is still being regarded as a medical milestone and success, even though the recipient has sadly passed away.", 
+            "title": "World-first pig kidney transplant recipient has died - New Atlas"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/uk-politics-69000303", 
+            "description": "The PM will argue in a speech that the UK is facing some of its \"most transformational\" years.", 
+            "title": "Rishi Sunak to warn next few years 'most dangerous' for UK in major speech - BBC.com"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/13/jerry-seinfeld-duke-college-protests-israel", 
             "description": null, 
-            "title": "SpaceX reaches nearly 6000 Starlink satellites on orbit following Falcon 9 launch from Cape Canaveral \u2013 Spaceflight Now - Spaceflight Now"
+            "title": "Jerry Seinfeld speech prompts Duke pro-Palestinian protest walkout - Axios"
         }, 
         {
-            "url": "https://www.foxnews.com/sports/travis-kelce-spotted-dancing-star-studded-group-taylor-swifts-paris-show", 
-            "description": "Kansas City Chiefs star Travis Kelce was back showing his support for girlfriend Taylor Swift, this time in Paris, where he was alongside some A-list celebrities.", 
-            "title": "Travis Kelce spotted dancing in star-studded group at Taylor Swift's Paris show - Fox News"
+            "url": "https://nypost.com/2024/05/13/us-news/antony-blinken-delivers-strongest-public-rebuke-of-israel-yet-get-out-of-gaza/", 
+            "description": "Blinken also directly addressed the U.S. withholding high payload bombs to Israel.", 
+            "title": "Blinken delivers strongest public rebuke of Israel yet: 'Get out of Gaza' - New York Post "
         }, 
         {
-            "url": "https://www.cbsnews.com/news/jerry-seinfeld-duke-university-commencement-address-graduates-walk-out/", 
-            "description": "Jerry Seinfeld, who has supported Israel since the Oct. 7 attack by Hamas militants, delivered the commencement address at Duke University on Sunday.", 
-            "title": "Duke University graduates walk out ahead of Jerry Seinfeld's commencement address - CBS News"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1401439/kate-gosselin-shares-rare-photo-of-4-of-her-and-jons-sextuplets-at-their-20th-birthday-celebration", 
-            "description": "Four of Kate Gosselin and ex Jon Gosselin's sextuplets, Alexis, Aaden, Leah and Joel, appear at their 20th birthday celebration at a pic their mom shared on Mother's Day 2024.", 
-            "title": "Kate Gosselin Shares Rare Photo of 4 of Her and Jon's Sextuplets at Their 20th Birthday Celebration - E! Online - E! NEWS"
-        }, 
-        {
-            "url": "https://www.jayski.com/2024/05/12/brad-keselowski-breaks-110-race-drought-with-dramatic-darlington-win/", 
+            "url": "https://www.reuters.com/world/asia-pacific/indonesias-mt-ibu-erupts-spewing-ash-clouds-2024-05-13/", 
             "description": null, 
-            "title": "Brad Keselowski breaks 110-race drought with dramatic Darlington win - Jayski.com"
+            "title": "Indonesia's Mt Ibu erupts, spewing ash clouds - Reuters"
         }, 
         {
-            "url": "https://www.cleveland.com/news/2024/05/suspect-in-fatal-euclid-police-officer-shooting-is-found-dead-after-police-standoff-in-shaker-heights.html", 
-            "description": ".", 
-            "title": "Suspect in fatal Euclid police officer shooting is found dead after standoff in Shaker Heights - cleveland.com"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/colorado/news/dozens-colorado-dairy-farm-workers-monitored-avian-bird-flu-symptoms/", 
-            "description": "The Colorado Department of Public Health and Environment confirmed Friday that approximately 70 dairy farm workers are currently being monitored for possible symptoms of avian flu.", 
-            "title": "Dozens of Colorado dairy farm workers monitored for bird flu symptoms - CBS News"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/2024-nba-draft-order-complete-list-of-picks-as-atlanta-hawks-win-no-1-selection-in-lottery/", 
-            "description": "The full draft order was unveiled Sunday afternoon", 
-            "title": "2024 NBA Draft order: Complete list of picks as Atlanta Hawks win No. 1 selection in Lottery - CBS Sports"
-        }, 
-        {
-            "url": "https://www.startribune.com/timberwolves-nuggets-live-game-report-nikola-jokic-anthony-edwards-nba-playoffs/600365426/", 
-            "description": "Denver's win in Game 3 enabled it to cut the Wolves' lead to 2-1 entering tonight's contest at Target Center.", 
-            "title": "Live from Timberwolves-Nuggets Game 4 - Star Tribune"
-        }, 
-        {
-            "url": "https://arstechnica.com/cars/2024/05/the-2025-aston-martin-vantage-gets-a-bold-new-body-and-big-power-boost/", 
-            "description": "It features modern tech, a better interior, and an extra 150 hp on the old model.", 
-            "title": "The 2025 Aston Martin Vantage gets a bold new body and big power boost - Ars Technica"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/israel-preparing-for-rafah-invasion-amid-increasing-tension-with-us-over-gaza-humanitarian-crisis-60-minutes-transcript/", 
-            "description": "Israel, preparing for a possible Rafah invasion, faces increased tension with the U.S. over the Gaza humanitarian crisis. To the north, it's also confronting Hezbollah attacks coming in from Lebanon.", 
-            "title": "Israel preparing for Rafah invasion amid increasing tension with U.S. over humanitarian crisis in Gaza - CBS News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/12/politics/michael-cohen-trump-hush-money/index.html", 
-            "description": "Nobody has anything nice to say about Michael Cohen.", 
-            "title": "Here are all the bad things witnesses have said about Michael Cohen, Trump\u2019s former fixer who is set to testify Monday - CNN"
-        }, 
-        {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-12/asian-stocks-eye-sluggish-start-after-china-data-markets-wrap", 
-            "description": "Asian stocks clawed back earlier losses as reports China is planning to start selling the first batch of its 1 trillion yuan ($138 billion) issue of ultra-long bonds boosted optimism the funds will help bolster the economy.", 
-            "title": "Stock Market Today: Dow, S&P Live Updates for May 13, 2024 - Bloomberg"
-        }, 
-        {
-            "url": "https://www.espn.com/nba/story/_/id/40133896/indiana-pacers-cruise-new-york-knicks-tie-series", 
-            "description": "The Indiana Pacers utilized a 69-point first half to control Game 4 against the New York Knicks on Sunday afternoon in Indianapolis, evening the series at 2-2 before the East Semifinals shift back to Madison Square Garden for a pivotal Game 5.", 
-            "title": "Indiana Pacers cruise past New York Knicks, tie series - ESPN"
-        }, 
-        {
-            "url": "https://apnews.com/article/russia-belgorod-shelling-building-collapse-259b543bb479bea475051850e0b8fd2a", 
-            "description": "An apartment building has partially collapsed in the Russian border city of Belgorod, and officials say at least 13 people have been killed and 20 others injured. Authorities blamed Ukrainian shelling for the building\u2019s destruction Sunday. Online footage show\u2026", 
-            "title": "Apartment building partially collapses in a Russian border city after shelling. At least 13 killed - The Associated Press"
+            "url": "https://www.reuters.com/world/europe/catalans-vote-election-that-offers-new-chance-exiled-separatist-leader-2024-05-12/", 
+            "description": null, 
+            "title": "Spain's Socialists hail 'new era' in Catalonia as separatist support dims in elections - Reuters"
         }, 
         {
             "url": "https://removed.com", 
@@ -81,25 +51,55 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.aljazeera.com/news/2024/5/12/russias-putin-to-remove-shoigu-as-defence-minister", 
-            "description": "President proposes Andrei Belousov as defence minister with Sergei Shoigu to become secretary of Security Council.", 
-            "title": "Russia\u2019s Putin to remove Shoigu as defence minister - Al Jazeera English"
+            "url": "https://apnews.com/article/china-byd-auto-seagull-auto-ev-cae20c92432b74e95c234d93ec1df400", 
+            "description": "A tiny, low-priced electric vehicle called the Seagull has American automakers and politicians trembling. The car, launched last year by Chinese automaker BYD, sells for around $12,000 in China. But it drives well and is put together with craftsmanship that r\u2026", 
+            "title": "Small, well-built Chinese EV called the Seagull poses a big threat to the US auto industry - The Associated Press"
         }, 
         {
-            "url": "https://apnews.com/article/box-office-kingdom-planet-apes-fall-guy-68f5bc2b3a48851ad190652f6cc055f3", 
-            "description": "\u201cKingdom of the Planet of the Apes\u201d has reigned over the weekend box office. Studio estimates Sunday said the latest installment in the \u201cApes\u201d franchise brought in $56.5 million in North American theaters. It was a much-needed surge for what could be an uncer\u2026", 
-            "title": "'Kingdom of the Planet of the Apes' reigns at the box office with $56.5 million opening - The Associated Press"
+            "url": "https://www.cnn.com/2024/05/12/europe/sergei-shoigu-putin-replaces-defense-minister-intl-latam/index.html", 
+            "description": "Russian President Vladimir Putin has replaced his defense minister and close ally Sergei Shoigu with a civilian economist, a major reshuffle of military leadership more than two-years after Moscow\u2019s grinding war against Ukraine has sent defense spending soari\u2026", 
+            "title": "Putin replaces Russia\u2019s defense minister with a civilian as Ukraine war rages and defense spending spirals - CNN"
         }, 
         {
-            "url": "https://www.ksl.com/article/51006239/astronomers-finally-detect-a-rocky-planet-with-an-atmosphere", 
-            "description": "Astronomers have searched for years for rocky planets beyond our solar system with an atmosphere \u2014 a trait considered essential for any possibility of harboring life.", 
-            "title": "Astronomers finally detect a rocky planet with an atmosphere - KSL.com"
+            "url": "http://deadline.com/2024/05/john-oliver-eurovision-windows95man-champion-1235913452/", 
+            "description": "John Oliver took the first part of Last Week Tonight to talk about the Eurovision Song Contest and highlighted the act from Finland, known as Windows95man.", 
+            "title": "John Oliver Calls Eurovision\u2019s Windows95man His Champion - Deadline"
         }, 
         {
-            "url": "https://nypost.com/2024/05/12/us-news/boardwalk-empire-star-steve-buscemi-attacked-by-rock-wielding-maniac-in-nyc/", 
-            "description": "Actor Steve Buscemi, a Brooklyn native and one-time FDNY firefighter, became the latest victim of random New York City street violence when he was slugged by a vagrant who ran off.", 
-            "title": "'Boardwalk Empire' star Steve Buscemi punched by maniac in random NYC attack - New York Post "
+            "url": "https://apnews.com/article/israel-gaza-war-fallen-soldiers-memorial-9e5e35ef6352c79ab59e7f3b8a7f7a1b", 
+            "description": "Memorial Day is always a somber occasion in Israel. But it has taken on a profound and raw sadness coupled with percolating anger in the aftermath of Oct. 7. Families of the fallen and broad segments of the public are demanding accountability from Israeli lea\u2026", 
+            "title": "Profound sadness, anger grips Israel on Memorial Day - The Associated Press"
+        }, 
+        {
+            "url": "https://www.forexlive.com/centralbank/this-week-brings-the-most-crucial-cpi-reading-of-2024-a-mini-super-bowl-20240513/", 
+            "description": "Dow Jones / Marekt Watch (gated) on this week's CPI report coming from the US: . 'When the Fed says it is data-dependent, every time there is a data release, it is potentially a market-moving event...", 
+            "title": "This week brings the 'most crucial CPI reading of 2024', a 'mini Super Bowl' - ForexLive"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nba/news/nuggets-vs-timberwolves-score-dominant-nikola-jokic-near-perfect-aaron-gordon-lift-denver-to-game-4-win/live/", 
+            "description": "The reigning champs evened the series after falling into an 0-2 hole", 
+            "title": "Nuggets vs. Timberwolves score: Dominant Nikola Jokic, near-perfect Aaron Gordon lift Denver to Game 4 win - CBS Sports"
+        }, 
+        {
+            "url": "https://www.wbaltv.com/article/explosive-precision-cuts-at-key-bridge-collapse-site-postponed/60769239", 
+            "description": "This is the second time the Unified Command has postponed the demolition of the remaining truss on the Dali cargo ship.", 
+            "title": "Officials postpone explosive precision cuts of Key Bridge - WBAL TV Baltimore"
+        }, 
+        {
+            "url": "https://www.pushsquare.com/news/2024/05/sony-delists-ghost-of-tsushima-pc-from-steam-regions-in-line-with-helldivers-2", 
+            "description": "Where it stops, nobody knows", 
+            "title": "Sony Delists Ghost of Tsushima PC from Steam Regions in Line with Helldivers 2 - Push Square"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.space.com/spacex-starlink-launch-group-6-58", 
+            "description": "Liftoff occurred at 8:53 p.m. ET on Sunday (May 12).", 
+            "title": "SpaceX launches 23 Starlink satellites from Florida - Space.com"
         }
     ], 
-    "last_updated": "2024-05-14 04:46:56"
+    "last_updated": "2024-05-14 10:29:08"
 }
