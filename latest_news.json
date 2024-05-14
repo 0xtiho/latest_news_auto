@@ -1,14 +1,24 @@
 {
     "news": [
         {
-            "url": "https://www.washingtonpost.com/world/2024/05/13/israel-hamas-war-news-gaza-palestine/", 
-            "description": "Secretary of State Antony Blinken says Israeli success in Rafah is \u201cnot sustainable\u201d without a postwar plan for Gaza. It\u2019s Memorial Day in Israel.", 
-            "title": "Middle East conflict live updates: Israel renews fight in north Gaza, advances on Rafah in south - The Washington Post"
+            "url": "https://www.cnbc.com/2024/05/13/nrf-rejects-shein-membership-as-retailer-pursues-us-ipo.html", 
+            "description": "If Shein gets a stamp of approval from the NRF, it could help legitimize the retailer in the eyes of lawmakers and clear its path to a U.S. IPO.", 
+            "title": "Shein's U.S. charm offensive and IPO could hinge on NRF membership. So far, it's been rejected - CNBC"
+        }, 
+        {
+            "url": "https://www.wsj.com/finance/investing/investors-crowd-into-soft-landing-trade-ahead-of-crucial-inflation-data-b7cf5049", 
+            "description": "Stocks and bonds have rallied ahead of Wednesday\u2019s consumer-price index report", 
+            "title": "Investors Crowd Into Soft-Landing Trade Ahead of Crucial Inflation Data - The Wall Street Journal"
         }, 
         {
             "url": "https://finance.yahoo.com/news/bidens-coming-new-tariffs-on-china-reflect-lessons-learned-130114807.html", 
             "description": "A sweeping White House move on China tariffs that is expected to be unveiled early next week \"reflects lessons learned,\" according to a former official who...", 
             "title": "Biden's coming new tariffs on China reflect 'lessons learned' - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/middle-east/israeli-forces-step-up-attacks-jabalia-camp-rafah-gaza-2024-05-13/", 
+            "description": null, 
+            "title": "Israeli forces step up attacks on Jabalia camp and Rafah in Gaza - Reuters"
         }, 
         {
             "url": "https://apnews.com/article/trump-trial-stormy-daniels-michael-cohen-hush-money-f96dd7289cf952145cdd6737b29add3d", 
@@ -21,14 +31,9 @@
             "title": "World-first pig kidney transplant recipient has died - New Atlas"
         }, 
         {
-            "url": "https://www.bbc.com/news/uk-politics-69000303", 
-            "description": "The PM will argue in a speech that the UK is facing some of its \"most transformational\" years.", 
-            "title": "Rishi Sunak to warn next few years 'most dangerous' for UK in major speech - BBC.com"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/13/jerry-seinfeld-duke-college-protests-israel", 
-            "description": null, 
-            "title": "Jerry Seinfeld speech prompts Duke pro-Palestinian protest walkout - Axios"
+            "url": "https://www.bbc.com/news/articles/cy9xzzy57lyo", 
+            "description": "Heavy rains washed volcanic debris and pebbles down Mount Marapi in Indonesia.", 
+            "title": "Indonesia: Floods and cold lava from Marapi volcano kill 41 - BBC.com"
         }, 
         {
             "url": "https://nypost.com/2024/05/13/us-news/antony-blinken-delivers-strongest-public-rebuke-of-israel-yet-get-out-of-gaza/", 
@@ -37,12 +42,12 @@
         }, 
         {
             "url": "https://www.reuters.com/world/asia-pacific/indonesias-mt-ibu-erupts-spewing-ash-clouds-2024-05-13/", 
-            "description": null, 
+            "description": "Indonesia's Ibu volcano erupted on Monday morning, spewing thick columns of grey ash several kilometres into the sky, the country's volcanology agency said.", 
             "title": "Indonesia's Mt Ibu erupts, spewing ash clouds - Reuters"
         }, 
         {
             "url": "https://www.reuters.com/world/europe/catalans-vote-election-that-offers-new-chance-exiled-separatist-leader-2024-05-12/", 
-            "description": null, 
+            "description": "The result dealt a serious blow to dreams of independence in the wealthy northeastern region.", 
             "title": "Spain's Socialists hail 'new era' in Catalonia as separatist support dims in elections - Reuters"
         }, 
         {
@@ -51,9 +56,19 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://apnews.com/article/china-byd-auto-seagull-auto-ev-cae20c92432b74e95c234d93ec1df400", 
-            "description": "A tiny, low-priced electric vehicle called the Seagull has American automakers and politicians trembling. The car, launched last year by Chinese automaker BYD, sells for around $12,000 in China. But it drives well and is put together with craftsmanship that r\u2026", 
-            "title": "Small, well-built Chinese EV called the Seagull poses a big threat to the US auto industry - The Associated Press"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.espn.com/nba/story/_/id/40136186/denver-nuggets-even-series-minnesota-timberwolves-2-2", 
+            "description": "In a span of 20 dizzying seconds of the second quarter, the Nuggets scored eight points to sprint into halftime of Game 4 up by 15, setting the stage for a pivotal 115-107 victory over the Timberwolves that evened series at 2-2.", 
+            "title": "Denver Nuggets even series with Minnesota Timberwolves 2-2 - ESPN"
+        }, 
+        {
+            "url": "https://chicago.suntimes.com/horoscopes/2024/05/13/horoscopes-today-monday-may-13-2024", 
+            "description": null, 
+            "title": "Horoscope for Monday, May 13, 2024 - Chicago Sun-Times"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/12/europe/sergei-shoigu-putin-replaces-defense-minister-intl-latam/index.html", 
@@ -66,24 +81,14 @@
             "title": "John Oliver Calls Eurovision\u2019s Windows95man His Champion - Deadline"
         }, 
         {
+            "url": "https://www.bloomberg.com/news/articles/2024-05-12/morgan-stanley-to-add-100-jobs-in-paris-hub-le-maire-says", 
+            "description": "Amazon.com Inc., Pfizer Inc., Microsoft Corp. and Morgan Stanley are among the companies poised to boost their presence in France, with a flurry of new foreign investments to be unveiled Monday.", 
+            "title": "Amazon, Morgan Stanley, Pfizer to Announce French Projects - Bloomberg"
+        }, 
+        {
             "url": "https://apnews.com/article/israel-gaza-war-fallen-soldiers-memorial-9e5e35ef6352c79ab59e7f3b8a7f7a1b", 
             "description": "Memorial Day is always a somber occasion in Israel. But it has taken on a profound and raw sadness coupled with percolating anger in the aftermath of Oct. 7. Families of the fallen and broad segments of the public are demanding accountability from Israeli lea\u2026", 
             "title": "Profound sadness, anger grips Israel on Memorial Day - The Associated Press"
-        }, 
-        {
-            "url": "https://www.forexlive.com/centralbank/this-week-brings-the-most-crucial-cpi-reading-of-2024-a-mini-super-bowl-20240513/", 
-            "description": "Dow Jones / Marekt Watch (gated) on this week's CPI report coming from the US: . 'When the Fed says it is data-dependent, every time there is a data release, it is potentially a market-moving event...", 
-            "title": "This week brings the 'most crucial CPI reading of 2024', a 'mini Super Bowl' - ForexLive"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/nuggets-vs-timberwolves-score-dominant-nikola-jokic-near-perfect-aaron-gordon-lift-denver-to-game-4-win/live/", 
-            "description": "The reigning champs evened the series after falling into an 0-2 hole", 
-            "title": "Nuggets vs. Timberwolves score: Dominant Nikola Jokic, near-perfect Aaron Gordon lift Denver to Game 4 win - CBS Sports"
-        }, 
-        {
-            "url": "https://www.wbaltv.com/article/explosive-precision-cuts-at-key-bridge-collapse-site-postponed/60769239", 
-            "description": "This is the second time the Unified Command has postponed the demolition of the remaining truss on the Dali cargo ship.", 
-            "title": "Officials postpone explosive precision cuts of Key Bridge - WBAL TV Baltimore"
         }, 
         {
             "url": "https://www.pushsquare.com/news/2024/05/sony-delists-ghost-of-tsushima-pc-from-steam-regions-in-line-with-helldivers-2", 
@@ -91,15 +96,10 @@
             "title": "Sony Delists Ghost of Tsushima PC from Steam Regions in Line with Helldivers 2 - Push Square"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.space.com/spacex-starlink-launch-group-6-58", 
-            "description": "Liftoff occurred at 8:53 p.m. ET on Sunday (May 12).", 
-            "title": "SpaceX launches 23 Starlink satellites from Florida - Space.com"
+            "url": "https://www.indystar.com/story/sports/nba/pacers/2024/05/12/why-the-pacers-didnt-want-to-talk-about-shutting-down-knicks-brunson/73585867007/", 
+            "description": "After giving up 119 points per game against the Knicks in Games 1-3, the Pacers had one of their best defensive performances of the year in Game 4.", 
+            "title": "Why the Pacers defense shut down Knicks, Jalen Brunson but didn't want to talk about it - IndyStar"
         }
     ], 
-    "last_updated": "2024-05-14 11:29:15"
+    "last_updated": "2024-05-14 11:59:17"
 }
