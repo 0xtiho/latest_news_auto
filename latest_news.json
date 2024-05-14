@@ -1,89 +1,39 @@
 {
     "news": [
         {
-            "url": "https://nypost.com/2024/05/13/entertainment/steve-buscemi-spotted-with-black-eye-swollen-face-after-random-nyc-attack/", 
-            "description": "The 66-year-old \u201cBoardwalk Empire\u201d actor was sporting bruises and a swollen chin while shooting a commercial in Soho on Saturday.", 
-            "title": "Steve Buscemi spotted with black eye, swollen face after random NYC attack - New York Post "
+            "url": "https://www.bbc.com/news/world-us-canada-69003233", 
+            "description": "An explosion blasted away debris trapping a cargo ship in the Patapsco River.", 
+            "title": "Baltimore bridge blown up in controlled demolition - BBC.com"
         }, 
         {
-            "url": "https://www.espn.com/nfl/story/_/id/40139300/buccaneers-make-safety-antoine-winfield-jr-nfl-highest-paid-db", 
-            "description": "The Buccaneers and Antoine Winfield Jr. have reached agreement on a four-year, $84.1 million deal, agent David Mulugheta told ESPN's Adam Schefter on Monday.", 
-            "title": "Buccaneers, Antoine Winfield agree to 4-year, $81.4M contract - ESPN"
+            "url": "https://www.cnn.com/2024/05/13/entertainment/taylor-swift-travis-kelce-paris/index.html", 
+            "description": "Taylor Swift closed out her four-night Eras Tour run in Paris on Sunday with a show that appeared to be Taylor-made for Travis Kelce.", 
+            "title": "Taylor Swift\u2019s last Eras Tour show in Paris was full of Travis Kelce nods, and he seemed to love it - CNN"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/gamestop-jumps-roaring-kitty-returns-112405881.html", 
-            "description": "(Reuters) -Shares of videogame retailer GameStop surged 66% on Monday after \"Roaring Kitty\", social media finance influencer credited with sparking the 2021 ...", 
-            "title": "GameStop soars as flag bearer 'Roaring Kitty' resurfaces, sparks meme stock rally - Yahoo Finance"
+            "url": "https://www.post-gazette.com/news/world/2024/05/13/kremlin-shake-up-putin-shigu-belousov/stories/202405130060", 
+            "description": "False", 
+            "title": "A Kremlin shake-up of Russia's Defense Ministry comes at a key moment in the Ukraine war - Pittsburgh Post-Gazette"
         }, 
         {
-            "url": "https://www.yahoo.com/news/canadian-wildfires-trigger-air-quality-165157560.html", 
-            "description": "Smoke from wildfires in western Canada has triggered air quality alerts and warnings in Montana, North Dakota, South Dakota and Minnesota.", 
-            "title": "Canadian wildfires trigger air quality alerts across 4 U.S. states - Yahoo! Voices"
+            "url": "https://www.foxsports.com/stories/nfl/exclusive-cowboys-will-face-browns-in-week-1-to-mark-tom-bradys-fox-sports-debut", 
+            "description": "The Cowboys' Sept. 8 matchup vs. the Browns on FOX will be the first America's Game of the Week of 2024 \u2014 and mark Tom Brady's debut as FOX Sports' lead NFL analyst.", 
+            "title": "Exclusive: Cowboys will face Browns in Week 1 to mark Tom Brady's FOX Sports debut - FOX Sports"
         }, 
         {
-            "url": "https://9to5mac.com/2024/05/13/chatgpt-mac-desktop-openai/", 
-            "description": "OpenAI announced during its spring update keynote that it would be launching a first-party Mac app for ChatGPT.", 
-            "title": "ChatGPT arriving on the Mac in new OpenAI app ahead of WWDC - 9to5Mac"
+            "url": "https://www.espn.com/nfl/story/_/id/40140300/sources-lions-signing-qb-jared-goff-4-year-212m-extension", 
+            "description": "The Lions are signing quarterback Jared Goff to a four-year, $212 million contract extension that includes $170 million guaranteed, sources told ESPN's Adam Schefter on Monday.", 
+            "title": "Sources - Lions signing QB Jared Goff to 4-year, $212M extension - ESPN"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/13/investing/melinda-gates-resigns-foundation/index.html", 
-            "description": "Melinda French Gates,\u00a0one of the world\u2019s preeminent philanthropists, said Monday she would resign as co-chair of the Bill & Melinda Gates Foundation that she has helped lead since 2000.", 
-            "title": "Melinda French Gates is resigning from the Bill & Melinda Gates Foundation - CNN"
+            "url": "https://www.cbsnews.com/news/missouri-man-sai-kandula-crashed-u-haul-white-house-security-barrier-pleads-guilty/", 
+            "description": "Sai Kandula acknowledged he had deliberately slammed into a security bollard in a failed attempt to seize power at the White House and install a dictatorship aligned with Nazi beliefs.", 
+            "title": "Missouri man who crashed U-Haul into White House security barrier pleads guilty - CBS News"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c8vzzqz2qq6o", 
-            "description": "Vladimir Putin has begun his fifth term in office by nominating an economist as the country's new minister of defence.", 
-            "title": "Who is Andrei Belousov, Russia's new minister of defence? - BBC.com"
-        }, 
-        {
-            "url": "https://apnews.com/article/trump-trial-stormy-daniels-michael-cohen-hush-money-f96dd7289cf952145cdd6737b29add3d", 
-            "description": "Donald Trump\u2019s fixer-turned-foe, Michael Cohen, is directly implicating the former president in a hush money scheme. He told jurors during highly anticipated testimony Monday that his celebrity client approved hefty payouts to stifle stories about sex that he\u2026", 
-            "title": "Trump hush money trial: Star witness Michael Cohen testifies - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html", 
-            "description": "OpenAI on Monday introduced a new AI model and a desktop version of ChatGPT, its popular chatbot.", 
-            "title": "OpenAI launches new AI model and desktop version of ChatGPT - CNBC"
-        }, 
-        {
-            "url": "http://9to5google.com/2024/05/13/google-gemini-video-input-prototype/", 
-            "description": "Ahead of Google I/O, Google is showing off an impressive new conversational Gemini prototype which uses video input.", 
-            "title": "Google shows off conversational Gemini prototype that uses video ahead of I/O [Video] - 9to5Google"
-        }, 
-        {
-            "url": "https://theathletic.com/5489626/2024/05/13/bronny-james-nba-draft-combine/", 
-            "description": "The USC freshman has been fully cleared to play in the league as part of Fitness to Play panel.", 
-            "title": "Bronny James expected to stay in 2024 NBA Draft - The Athletic"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/nation/2024/05/13/catholic-communion-louisiana-teen-gun/", 
-            "description": "A live stream shows the chaos unfolding after several people confronted an armed teen who entered a Louisiana church during a First Communion service for 60 children.", 
-            "title": "Teen gunman stopped during Louisiana Catholic church Communion for 60 - The Washington Post"
-        }, 
-        {
-            "url": "http://www.billboard.com/music/music-news/taylor-swift-wears-kansas-city-chiefs-colors-travis-kelce-paris-eras-tour-1235681228/", 
-            "description": "Taylor Swift wore Kansas City Chiefs colors with Travis Kelce in the crowd at her Paris Eras Tour show. Get the details.", 
-            "title": "Taylor Swift Wears Kansas City Chiefs Colors at Paris Eras Show With Travis Kelce in the Audience - Billboard"
-        }, 
-        {
-            "url": "https://hoopshype.com/lists/nba-draft-lottery-intel-whats-next-for-each-team/", 
-            "description": "NBA Draft Lottery reporting on the Hawks, Wizards, Rockets, Spurs, Pistons, Hornets, Blazers, Grizzlies, Jazz, Bulls, Thunder, and Kings from HoopsHype Senior NBA Insider Michael Scotto.", 
-            "title": "NBA Draft Lottery Intel: What's next for each team? - Hoops Hype"
-        }, 
-        {
-            "url": "https://www.reuters.com/business/aerospace-defense/major-airlines-sue-biden-administration-over-fee-disclosure-rule-2024-05-13/", 
-            "description": null, 
-            "title": "Major airlines sue Biden administration over fee disclosure rule - Reuters"
-        }, 
-        {
-            "url": "https://www.livescience.com/health/surgery/1st-person-to-receive-a-pig-kidney-transplant-has-died", 
-            "description": "Rick Slayman was the first person in the world to receive this pioneering surgery in March 2024.", 
-            "title": "1st person to receive a pig kidney transplant has died - Livescience.com"
-        }, 
-        {
-            "url": "https://www.foxbusiness.com/economy/americans-expect-high-inflation-stick-around-latest-ny-fed-survey", 
-            "description": "A New York Federal Reserve survey published on Monday found that many American consumers expect inflation to remain abnormally high in the coming years.", 
-            "title": "Americans expect high inflation to stick around in latest NY Fed survey - Fox Business"
+            "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-kharkiv-donetzk-397dd892f936726bd1acbd45991a18a6", 
+            "description": "Ukrainian officials and commanders say Russian troops are locked in intense battles with Ukrainian soldiers in the embattled town of Vovchansk and are pushing ahead with a ground offensive that opened a new front to put pressure on overstretched Ukrainian for\u2026", 
+            "title": "Russia-Ukraine war: Army locked in 'fierce' border battles amid Russian assault, Zelenskyy says - The Associated Press"
         }, 
         {
             "url": "https://removed.com", 
@@ -91,15 +41,65 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.ft.com/content/22fa5904-a46c-4f2b-83d4-209b0061b8e5", 
-            "description": "Australian miner increases all-share proposal by 15% but board of UK-listed target says it is still \u2018highly unattractive\u2019", 
-            "title": "Anglo American rejects improved \u00a334bn offer from BHP - Financial Times"
+            "url": "https://www.bbc.com/news/world-middle-east-69001835", 
+            "description": "Fierce fighting is reported as Israel says it is targeting areas of where Hamas has regrouped.", 
+            "title": "Gaza war: Palestinians flee as Israeli forces go back into Jabalia - BBC.com"
         }, 
         {
-            "url": "https://www.cnet.com/tech/mobile/after-using-google-pixel-8a-im-questioning-the-pixel-8s-purpose/", 
-            "description": "The Pixel 8A is Google's best budget phone yet, but it could overshadow the regular Pixel 8.", 
-            "title": "After Using Google's Pixel 8A, I'm Questioning the Pixel 8's Purpose - CNET"
+            "url": "https://finance.yahoo.com/news/gamestop-stock-soars-over-70-as-roaring-kitty-revival-reignites-meme-stock-bonanza-200701976.html", 
+            "description": "GameStop stock surged as much as 110% after 'Roaring Kitty,' who was credited with starting the 2021 meme stock frenzy, posted on X for the first time in...", 
+            "title": "GameStop stock soars over 70% as 'Roaring Kitty' revival reignites meme-stock bonanza - Yahoo Finance"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.gsmarena.com/watch_the_google_i_o_livestream_here-news-62838.php", 
+            "description": "Google will formally introduce Android 15 and should talk about how the Gemini AI meshes with the phone OS as well as all other Google properties.", 
+            "title": "Watch the Google I/O livestream here - GSMArena.com news - GSMArena.com"
+        }, 
+        {
+            "url": "https://gizmodo.com/apple-ios-18-ai-voice-memos-notes-1851473478", 
+            "description": "The AI-powered feature is coming to iOS 18 later this year.", 
+            "title": "Apple Is Bringing AI Transcription to Voice Memos, and I Can't Wait - Gizmodo"
+        }, 
+        {
+            "url": "https://gizmodo.com/not-just-auroras-heres-the-tech-that-got-hit-by-this-w-1851472838", 
+            "description": "SpaceX's Elon Musk said the company's Starlink satellites were \"under a lot of pressure\" from the incoming radiation.", 
+            "title": "Not Just Auroras: Here's the Tech That Got Hit by This Weekend's Solar Storm - Gizmodo"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/middle-east/un-says-gaza-death-toll-still-over-35000-not-all-bodies-identified-2024-05-13/", 
+            "description": "The death toll in the Gaza Strip from the Israel-Hamas war is still more than 35,000, but the enclave's Ministry of Health has updated its breakdown of the fatalities, the United Nations said on Monday after Israel questioned a sudden change in numbers.", 
+            "title": "UN says Gaza death toll still over 35000 but not all bodies identified - Reuters"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/13/europe/georgia-foreign-agents-law-explained-intl/index.html", 
+            "description": "Georgia\u2019s parliament is set to pass a highly controversial so-called \u201cforeign agents\u201d bill that has triggered widespread protests across the former Soviet Republic nestled in the Caucasus Mountains.", 
+            "title": "What is Georgia\u2019s \u2018foreign agents\u2019 bill, and why is Europe so alarmed? - CNN"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/wicked-trailer-snoop-dogg-olympics-nbcuniversal-upfront-1235897889/", 
+            "description": "Donna Langley will have you renditioned if you filmed one second of Cynthia Erivo and Ariana Grande on that phone of yours.", 
+            "title": "Inside the NBCUniversal Upfront: Snoop Dogg, Penguins and a Top Secret \u2018Wicked\u2019 Trailer - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-us-canada-69004988", 
+            "description": "Parishioners from the church 'confronted' the gunman and restrained him until police arrived.", 
+            "title": "Gunman arrested at Louisiana church during First Communion Mass - BBC.com"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/13/entertainment/steve-buscemi-spotted-with-black-eye-swollen-face-after-random-nyc-attack/", 
+            "description": "The 66-year-old \u201cBoardwalk Empire\u201d actor was sporting bruises and a swollen chin while shooting a commercial in Soho on Saturday.", 
+            "title": "Steve Buscemi spotted with black eye, swollen face after random NYC attack - New York Post "
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/legendary-treasure-conman-healing-powers-poland-officials/", 
+            "description": "A collection of silver and gold coins unearthed in Poland may have belonged to notorious fraudster Anthony Jaczewicz.", 
+            "title": "Legendary treasure that apparently belonged to notorious 18th-century conman unearthed in Poland - CBS News"
         }
     ], 
-    "last_updated": "2024-05-14 23:30:32"
+    "last_updated": "2024-05-15 00:00:12"
 }
