@@ -1,39 +1,64 @@
 {
     "news": [
         {
-            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNC9wb2xpdGljcy9iaWRlbi10YXJpZmZzLWNoaW5lc2UtaW1wb3J0cy9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8xNC9wb2xpdGljcy9iaWRlbi10YXJpZmZzLWNoaW5lc2UtaW1wb3J0cw?oc=5", 
+            "url": "https://www.washingtonpost.com/technology/2024/05/14/tiktok-creators-lawsuit-ban/", 
+            "description": "The lawsuit is the second major legal challenge to a new law that could lead to the video app\u2019s nationwide ban.", 
+            "title": "TikTok creators sue to block law that could lead to a ban - The Washington Post"
+        }, 
+        {
+            "url": "https://www.yahoo.com/news/live/trump-trial-updates-michael-cohen-faces-cross-examination-on-2nd-day-of-testimony-134850119.html", 
+            "description": "The former president\u2019s criminal hush money trial resumes Tuesday in Manhattan, where his former lawyer and so-called fixer is expected to take the stand for ...", 
+            "title": "Trump trial updates: Michael Cohen faces cross-examination on 2nd day of testimony - Yahoo! Voices"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/14/amc-news-roaring-kitty-meme-stock-rally-may-help-with-debt-payments.html", 
+            "description": "The last time these retail investors rallied around AMC, it avoided bankruptcy. Now, it has a chance to put a dent in its substantial debt load.", 
+            "title": "AMC's meme stock windfall may help it pay down a massive debt load - CNBC"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/14/24156630/google-ai-io-musician-marc-rebillet-musicfx-dj", 
+            "description": "Improvisational artist Marc Rebillet kicked off Google\u2019s I/O event this year by crawling out of a giant coffee mug and hosting a live mini-gig using the MusicFX DJ tool.", 
+            "title": "Watch this screaming, rainbow-clad musician demo Google's AI DJ - The Verge"
+        }, 
+        {
+            "url": "https://spaceflightnow.com/2024/05/14/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-flight-from-vandenberg-space-force-base/", 
             "description": null, 
-            "title": "Biden increases tariffs on $18 billion in Chinese imports in a new warning to Beijing - CNN"
+            "title": "SpaceX launches 50th Falcon 9 rocket of 2024 on Starlink mission \u2013 Spaceflight Now - Spaceflight Now"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/us-news/8-dead-37-hospitalized-severe-bus-crash-florida-rcna152158", 
-            "description": "Eight people are dead and 40 were hospitalized after a bus carrying farm workers crashed and overturned early Tuesday morning in north central Florida, officials said.", 
-            "title": "8 dead and 8 critically injured in severe bus crash in Florida - NBC News"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.washingtonpost.com/weather/2024/05/14/louisiana-storms-tornadoes-flooding-texas/", 
-            "description": "At least three people died in Louisiana Monday and Texas, reeling from recent heavy rains, could see dangerous flooding on Thursday.", 
-            "title": "Storms kill at three people in Louisiana; flood risk looms for Texas - The Washington Post"
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-meme-rally-roars-as-stocks-stay-muted-in-inflation-countdown-145427785.html", 
+            "description": "Meme stocks soared again as US equities more broadly stayed muted in the countdown to fresh inflation data and a Jerome Powell speech.", 
+            "title": "Stock market today: Meme rally roars as stocks stay muted in inflation countdown - Yahoo Finance"
         }, 
         {
-            "url": "http://9to5google.com/2024/05/14/google-search-ai-overview-rollout/", 
-            "description": "After a year in \u201cLabs,\u201d Google is officially flipping the switch on AI-powered \u201cOverviews\u201d in Search for all users, and...", 
-            "title": "Google's AI-powered Search starts rolling out to everyone today - 9to5Google"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/", 
-            "description": "Here are quick hits of the biggest news from the Google I/O keynote as they are announced, all in an easy-to-digest, easy-to-skim list.", 
-            "title": "Google I/O 2024: Everything announced so far - TechCrunch"
+            "url": "https://www.bbc.com/news/av/world-us-canada-69012607", 
+            "description": "A new top dog will be crowned Tuesday night after more than 2,500 contestants vied for the spot.", 
+            "title": "See the furry finalists at the Westminster Dog Show - BBC.com"
         }, 
         {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-14/walmart-will-cut-relocate-hundreds-of-corporate-jobs-wsj-says", 
-            "description": "Walmart Inc. is axing hundreds of corporate jobs and asking most remote workers to return to offices.", 
-            "title": "Walmart Will Cut, Relocate Hundreds of Corporate Jobs, WSJ Says - Bloomberg"
+            "url": "https://gizmodo.com/google-io-gemini-ai-android-circle-to-search-1851474146", 
+            "description": "From homework help to scam detection, Google introduced new features to Gemini AI on the first day of Google I/O 2024.", 
+            "title": "Google I/O: Here Are the Big Features Coming to Gemini AI for Android - Gizmodo"
         }, 
         {
-            "url": "https://www.pgatour.com/article/news/latest/2024/05/14/tee-times-announced-2024-pga-championship-valhalla-rounds-1-2-tiger-woods-rory-mcilroy-scottie-scheffler-viktor-hovland", 
-            "description": "Tee times have been announced for the opening two rounds of the PGA Championship, contested at Valhalla Golf Club in Louisville, Kentucky.", 
-            "title": "2024 PGA Championship: Tee times, groupings announced for Rounds 1-2 - PGA TOUR - PGA TOUR"
+            "url": "https://www.cnn.com/2024/05/14/style/alice-munro-dies-92-author-obituary/index.html", 
+            "description": "The Nobel Literature Prize winner was best known for her mastery of short stories and depictions of womanhood in rural settings.", 
+            "title": "Alice Munro, Nobel Prize winner and \u2018master of the short story,\u2019 dies at 92 - CNN"
+        }, 
+        {
+            "url": "https://searchengineland.com/new-google-search-ai-features-to-help-you-plan-research-and-learn-440468", 
+            "description": "New features include AI Overviews, multistep reasoning capabilities, planning capabilities, AI-organized search results, and a new Google Lens ask with video feature.", 
+            "title": "New Google Search AI features to help you plan, research and learn - Search Engine Land"
         }, 
         {
             "url": "https://www.washingtonpost.com/weather/2024/05/14/kansas-city-air-quality-canada-wildfire-smoke/", 
@@ -41,65 +66,40 @@
             "title": "Canada wildfire smoke puts Kansas City, Kansas air quality among U.S. worst - The Washington Post"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/michael-cohen-testimony-donald-trump-possible-defense-witness-robert-costello/", 
-            "description": "Michael Cohen testified that lawyer Robert Costello was a \"\"back channel of communications\" for him who could relay messages to Donald Trump via his attorney Rudy Giuliani.", 
-            "title": "In Michael Cohen's testimony against Donald Trump, a possible defense witness emerges - CBS News"
-        }, 
-        {
             "url": "https://www.youtube.com/watch?v=5p6ki2YUc7o", 
             "description": "Brian Windhorst joins The Pat McAfee Show to discuss LeBron James' appearance at the Cleveland Cavaliers game, potential of playing with Bronny and the Dalla...", 
             "title": "Windy breaks down LeBron in Cleveland, Bronny at the Draft Combine & more! | The Pat McAfee Show - ESPN"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay95b3VybW9uZXkvYXJ0aWNsZS0xMzQxNjcyMy9MaXN0LXJlZC1sb2JzdGVyLWxvY2F0aW9ucy1jbG9zaW5nLWF1Y3Rpb24uaHRtbNIBAA?oc=5", 
-            "description": null, 
-            "title": "REVEALED: Full list of Red Lobster restaurant closures as popular chain considers bankruptcy - find out if YOUR favorite is affected - Daily Mail"
+            "url": "https://www.aljazeera.com/program/newsfeed/2024/5/14/israelis-tearful-plea-decrying-gaza-aid-convoy-attacks", 
+            "description": "An Israeli human rights lawyer interrupts interview with tearful plea condemning Israel\u2019s war on Gaza.", 
+            "title": "Israeli\u2019s tearful plea decrying Gaza aid convoy attacks - Al Jazeera English"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA1LzE0L21hZ21hLXdvcmxkLWEtdm9sY2FuaWMtcGxhbmV0LWlzLWNvbnN0YW50bHktZXhwbG9kaW5nLXdpdGgtbW9sdGVuLWxhdmEtYXN0cm9ub21lcnMtYW5ub3VuY2Uv0gEA?oc=5", 
-            "description": null, 
-            "title": "Magma world: A volcanic planet is \"constantly exploding\" with molten lava, astronomers announce - Salon"
+            "url": "https://www.miamiherald.com/news/local/crime/article288488471.html", 
+            "description": "A boat docked behind a Coral Gables home was seized by the FWC Tuesday. Investigators say the boat was involved in crash that killed Ella Adler, 15, a Ransom Everglades freshman, off Key Biscayne.", 
+            "title": "Boat involved in crash that killed 15-year-old near Key Biscayne has been located, FWC says - Miami Herald"
         }, 
         {
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/05/14/gayle-king-sports-illustrated-swimsuit-cover/73682872007/", 
-            "description": "\"CBS Mornings\" co-anchor Gayle King is gracing the cover of the Sports Illustrated Swimsuit issue with models like Kate Upton.", 
-            "title": "Gayle King turns heads on first Sports Illustrated Swimsuit cover at age 69 - Yahoo Entertainment"
+            "url": "https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak", 
+            "description": "Starliner's crewed debut had been targeted for Friday (May 17).", 
+            "title": "Helium leak delays 1st astronaut launch of Boeing's Starliner to May 21 - Space.com"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/orcas-sink-yacht-again-strait-of-gibraltar-orcas-spain-morocco/", 
+            "description": "An unknown number of orcas managed to sink another sailing yacht near coastal Morocco in the Strait of Gibraltar.", 
+            "title": "Killer whales attack and sink sailing yacht in the Strait of Gibraltar \u2014 again - CBS News"
+        }, 
+        {
+            "url": "https://apnews.com/article/bus-accident-florida-fatalities-e9693eb05f1f920cb20b166413d91d79", 
+            "description": "The Florida Highway Patrol says a bus carrying farmworkers in central Florida has overturned, killing eight people and injuring another 40 passengers. Authorities say the bus was transporting 53 farmworkers early Tuesday morning when it collided with a truck \u2026", 
+            "title": "8 dead, dozens injured in farmworkers bus crash in central Florida - The Associated Press"
         }, 
         {
             "url": "https://www.axios.com/2024/05/14/mike-johnson-new-york-trump-criminal-trial", 
             "description": null, 
             "title": "Mike Johnson defends Trump outside N.Y. criminal trial - Axios"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/2024-nfl-schedule-release-here-are-the-games-we-know-before-wednesdays-full-announcement-222736040.html", 
-            "description": null, 
-            "title": "2024 NFL schedule release: Here are the games we know before Wednesday's full announcement - Yahoo Sports"
-        }, 
-        {
-            "url": "http://www.vulture.com/article/greta-gerwig-2024-cannes-festival.html", 
-            "description": "The 77th Annual Cannes Film Festival kicked off in a decidedly tense environment. Greta Gerwig\u2019s jury faced questions about France\u2019s fledgling Me Too movement, a seasonal-workers\u2019 strike, and the horrific conditions in Gaza.", 
-            "title": "Greta Gerwig's 2024 Cannes Jury Faces Tense Questions - Vulture"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMTQvY2xpbWF0ZS9zdW1tZXItMjAyMy1ob3R0ZXN0LTIwMDAteWVhcnMuaHRtbNIBAA?oc=5", 
-            "description": null, 
-            "title": "Summer 2023 Was the Northern Hemisphere's Hottest in 2000 Years, Study Finds - The New York Times"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/israel-gaza-aid-west-bank-settlers-united-nations/", 
-            "description": "Right-wing Israeli activists in the Wests Bank attack a convoy carrying food to Gaza as a U.N. worker is killed in Rafah.", 
-            "title": "Israeli activists attack Gaza aid convoy, drawing U.S. condemnation and highlighting risk to aid work - CBS News"
-        }, 
-        {
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-gamestop-gme-amc-stock/", 
-            "description": null, 
-            "title": "Stocks Edge Higher As Powell Responds To Inflation Data; GameStop Surges Again In Revived Meme Frenzy - Investor's Business Daily"
-        }, 
-        {
-            "url": "https://apnews.com/article/bird-flu-raw-milk-h5n1-6398d2eda26eb41797ee2700cf9d036b", 
-            "description": "Sales of raw milk appear to be on the rise, despite an outbreak of bird flu in U.S. dairy cows. Federal officials warn about the health risks of drinking raw milk at any time, but especially during this novel outbreak. Retail sales of raw cow's milk have jump\u2026", 
-            "title": "There's bird flu in US dairy cows. Raw milk drinkers aren't deterred - The Associated Press"
         }
     ], 
-    "last_updated": "2024-05-15 21:30:23"
+    "last_updated": "2024-05-15 21:38:23"
 }
