@@ -1,39 +1,94 @@
 {
     "news": [
         {
-            "url": "https://www.cbsnews.com/news/florida-bus-crash-marion-county-people-killed/", 
-            "description": "The crash involved a bus transporting about 53 farm workers and a 2001 Ford Ranger truck, officials said.", 
-            "title": "At least 8 people killed in Florida bus crash; dozens injured - CBS News"
-        }, 
-        {
-            "url": "https://www.tmz.com/2024/05/14/9-year-old-boy-dodges-bullets-drive-by-shooting-fort-worth/", 
-            "description": "The shocking moment a 9-year-old boy in Fort Worth, Texas, dodges bullets from the comfort his own home can be seen in distressing new footage.", 
-            "title": "9-Year-Old Boy Dodges Bullets During Fort Worth Drive-By Shooting - TMZ"
-        }, 
-        {
-            "url": "https://www.reuters.com/markets/us/futures-lackluster-with-inflation-data-fed-chair-powell-speech-tap-2024-05-14/", 
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNC9wb2xpdGljcy9iaWRlbi10YXJpZmZzLWNoaW5lc2UtaW1wb3J0cy9pbmRleC5odG1s0gFJaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8xNC9wb2xpdGljcy9iaWRlbi10YXJpZmZzLWNoaW5lc2UtaW1wb3J0cw?oc=5", 
             "description": null, 
-            "title": "Wall St edges up after 'mixed' producer inflation data, all eyes on CPI - Reuters"
+            "title": "Biden increases tariffs on $18 billion in Chinese imports in a new warning to Beijing - CNN"
         }, 
         {
-            "url": "https://gizmodo.com/house-of-dragon-season-2-trailer-matt-smith-game-throne-1851475755", 
-            "description": "Matt Smith, Olivia Cooke, and Emma D\u2019Arcy return for HBO's Game of Thrones prequel show.", 
-            "title": "In House of the Dragon Season 2's New Trailer, Westeros Rides to War - Gizmodo"
+            "url": "https://www.nbcnews.com/news/us-news/8-dead-37-hospitalized-severe-bus-crash-florida-rcna152158", 
+            "description": "Eight people are dead and 40 were hospitalized after a bus carrying farm workers crashed and overturned early Tuesday morning in north central Florida, officials said.", 
+            "title": "8 dead and 8 critically injured in severe bus crash in Florida - NBC News"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-middle-east-69006734", 
-            "description": "A member of the UN's safety team was killed in Rafah on their way to a hospital, the agency says.", 
-            "title": "Israel-Gaza war: UN says Indian staff member killed in Gaza - BBC.com"
+            "url": "https://www.washingtonpost.com/weather/2024/05/14/louisiana-storms-tornadoes-flooding-texas/", 
+            "description": "At least three people died in Louisiana Monday and Texas, reeling from recent heavy rains, could see dangerous flooding on Thursday.", 
+            "title": "Storms kill at three people in Louisiana; flood risk looms for Texas - The Washington Post"
         }, 
         {
-            "url": "https://apnews.com/article/cannes-film-festival-greta-gerwig-meryl-streep-650243306d8e6fb23b76e55f8e452c6c", 
-            "description": "Cannes opens with the unveiling of Greta Gerwig\u2019s jury and the presentation of an honorary Palme d\u2019Or for Meryl Streep.", 
-            "title": "Cannes kicks off with Greta Gerwig's jury and a Palme d'Or for Meryl Streep - The Associated Press"
+            "url": "http://9to5google.com/2024/05/14/google-search-ai-overview-rollout/", 
+            "description": "After a year in \u201cLabs,\u201d Google is officially flipping the switch on AI-powered \u201cOverviews\u201d in Search for all users, and...", 
+            "title": "Google's AI-powered Search starts rolling out to everyone today - 9to5Google"
         }, 
         {
-            "url": "https://www.wlky.com/article/pga-championship-play-suspended-bad-weather/60788678", 
-            "description": "The bad weather has moved into the Louisville area and play has been halted at Valhalla Golf Club.", 
-            "title": "PGA Championship: Play suspended, fans evacuated briefly due to weather - WLKY Louisville"
+            "url": "https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/", 
+            "description": "Here are quick hits of the biggest news from the Google I/O keynote as they are announced, all in an easy-to-digest, easy-to-skim list.", 
+            "title": "Google I/O 2024: Everything announced so far - TechCrunch"
+        }, 
+        {
+            "url": "https://www.bloomberg.com/news/articles/2024-05-14/walmart-will-cut-relocate-hundreds-of-corporate-jobs-wsj-says", 
+            "description": "Walmart Inc. is axing hundreds of corporate jobs and asking most remote workers to return to offices.", 
+            "title": "Walmart Will Cut, Relocate Hundreds of Corporate Jobs, WSJ Says - Bloomberg"
+        }, 
+        {
+            "url": "https://www.pgatour.com/article/news/latest/2024/05/14/tee-times-announced-2024-pga-championship-valhalla-rounds-1-2-tiger-woods-rory-mcilroy-scottie-scheffler-viktor-hovland", 
+            "description": "Tee times have been announced for the opening two rounds of the PGA Championship, contested at Valhalla Golf Club in Louisville, Kentucky.", 
+            "title": "2024 PGA Championship: Tee times, groupings announced for Rounds 1-2 - PGA TOUR - PGA TOUR"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/weather/2024/05/14/kansas-city-air-quality-canada-wildfire-smoke/", 
+            "description": "The flow of Canadian wildfire smoke into the Midwest means that Kansas City, Kan., has the distinction of having the worst air quality in the United States.", 
+            "title": "Canada wildfire smoke puts Kansas City, Kansas air quality among U.S. worst - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/michael-cohen-testimony-donald-trump-possible-defense-witness-robert-costello/", 
+            "description": "Michael Cohen testified that lawyer Robert Costello was a \"\"back channel of communications\" for him who could relay messages to Donald Trump via his attorney Rudy Giuliani.", 
+            "title": "In Michael Cohen's testimony against Donald Trump, a possible defense witness emerges - CBS News"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=5p6ki2YUc7o", 
+            "description": "Brian Windhorst joins The Pat McAfee Show to discuss LeBron James' appearance at the Cleveland Cavaliers game, potential of playing with Bronny and the Dalla...", 
+            "title": "Windy breaks down LeBron in Cleveland, Bronny at the Draft Combine & more! | The Pat McAfee Show - ESPN"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay95b3VybW9uZXkvYXJ0aWNsZS0xMzQxNjcyMy9MaXN0LXJlZC1sb2JzdGVyLWxvY2F0aW9ucy1jbG9zaW5nLWF1Y3Rpb24uaHRtbNIBAA?oc=5", 
+            "description": null, 
+            "title": "REVEALED: Full list of Red Lobster restaurant closures as popular chain considers bankruptcy - find out if YOUR favorite is affected - Daily Mail"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA1LzE0L21hZ21hLXdvcmxkLWEtdm9sY2FuaWMtcGxhbmV0LWlzLWNvbnN0YW50bHktZXhwbG9kaW5nLXdpdGgtbW9sdGVuLWxhdmEtYXN0cm9ub21lcnMtYW5ub3VuY2Uv0gEA?oc=5", 
+            "description": null, 
+            "title": "Magma world: A volcanic planet is \"constantly exploding\" with molten lava, astronomers announce - Salon"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/05/14/gayle-king-sports-illustrated-swimsuit-cover/73682872007/", 
+            "description": "\"CBS Mornings\" co-anchor Gayle King is gracing the cover of the Sports Illustrated Swimsuit issue with models like Kate Upton.", 
+            "title": "Gayle King turns heads on first Sports Illustrated Swimsuit cover at age 69 - Yahoo Entertainment"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/14/mike-johnson-new-york-trump-criminal-trial", 
+            "description": null, 
+            "title": "Mike Johnson defends Trump outside N.Y. criminal trial - Axios"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/2024-nfl-schedule-release-here-are-the-games-we-know-before-wednesdays-full-announcement-222736040.html", 
+            "description": null, 
+            "title": "2024 NFL schedule release: Here are the games we know before Wednesday's full announcement - Yahoo Sports"
+        }, 
+        {
+            "url": "http://www.vulture.com/article/greta-gerwig-2024-cannes-festival.html", 
+            "description": "The 77th Annual Cannes Film Festival kicked off in a decidedly tense environment. Greta Gerwig\u2019s jury faced questions about France\u2019s fledgling Me Too movement, a seasonal-workers\u2019 strike, and the horrific conditions in Gaza.", 
+            "title": "Greta Gerwig's 2024 Cannes Jury Faces Tense Questions - Vulture"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMTQvY2xpbWF0ZS9zdW1tZXItMjAyMy1ob3R0ZXN0LTIwMDAteWVhcnMuaHRtbNIBAA?oc=5", 
+            "description": null, 
+            "title": "Summer 2023 Was the Northern Hemisphere's Hottest in 2000 Years, Study Finds - The New York Times"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/israel-gaza-aid-west-bank-settlers-united-nations/", 
+            "description": "Right-wing Israeli activists in the Wests Bank attack a convoy carrying food to Gaza as a U.N. worker is killed in Rafah.", 
+            "title": "Israeli activists attack Gaza aid convoy, drawing U.S. condemnation and highlighting risk to aid work - CBS News"
         }, 
         {
             "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-gamestop-gme-amc-stock/", 
@@ -41,65 +96,10 @@
             "title": "Stocks Edge Higher As Powell Responds To Inflation Data; GameStop Surges Again In Revived Meme Frenzy - Investor's Business Daily"
         }, 
         {
-            "url": "https://www.tomsguide.com/news/live/google-io-2024-keynote", 
-            "description": "Get all the latest news from Google I/O", 
-            "title": "Google I/O 2024 live blog \u2014 all the Gemini AI and Android 15 news as it happens - Tom's Guide"
-        }, 
-        {
             "url": "https://apnews.com/article/bird-flu-raw-milk-h5n1-6398d2eda26eb41797ee2700cf9d036b", 
             "description": "Sales of raw milk appear to be on the rise, despite an outbreak of bird flu in U.S. dairy cows. Federal officials warn about the health risks of drinking raw milk at any time, but especially during this novel outbreak. Retail sales of raw cow's milk have jump\u2026", 
             "title": "There's bird flu in US dairy cows. Raw milk drinkers aren't deterred - The Associated Press"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/health/2024/05/12/pig-kidney-transplant-patient-dies/73663322007/", 
-            "description": "Seven weeks after receiving the first-ever kidney transplant from a pig, a Massachusetts man died this weekend.", 
-            "title": "Richard Slayman dies 7 weeks after historic pig-kidney transplant - USA TODAY"
-        }, 
-        {
-            "url": "https://apnews.com/article/trump-trial-cohen-hush-money-stormy-daniels-735aadfd1ce015e05ba955c203a96f1b", 
-            "description": "Donald Trump\u2019s fixer-turned-foe Michael Cohen returned to the witness stand Tuesday, testifying in detail how former president was linked to all aspects of a hush money scheme that prosecutors say was aimed at stifling stories that threatened his 2016 campaig\u2026", 
-            "title": "Trump hush money trial: Michael Cohen returns to face cross-examination - The Associated Press"
-        }, 
-        {
-            "url": "https://abc7.com/post/covid-in-los-angeles-what-to-know-about-new-flirt-variants-and-possible-summer-surge/14811098/", 
-            "description": "The days of school closures and statewide lockdowns may be years behind us, but the threat of COVID-19 still lurks in the shadows.", 
-            "title": "COVID in Los Angeles: What to know about new FLiRT variants and possible summer surge - KABC-TV"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/world/2024/05/14/georgia-foreign-agent-law-approved/", 
-            "description": "The approval defies mass street protests by Georgians who fear the bill will strip civil rights and push their country further into Moscow\u2019s orbit.", 
-            "title": "Georgia parliament approves controversial foreign agent law defying protests - The Washington Post"
-        }, 
-        {
-            "url": "https://www.buffalobills.com/news/wr-marquez-valdes-scantling-signs-one-year-deal-with-bills", 
-            "description": "Buffalo's newest wide receiver led the NFL in yards per reception during the 2020 season.", 
-            "title": "WR Marquez Valdes-Scantling signs one-year deal with Bills - BuffaloBills.com"
-        }, 
-        {
-            "url": "https://www.espn.com/nfl/story/_/id/40144410/aaron-rodgers-jets-visit-49ers-mnf-week-1", 
-            "description": "Aaron Rodgers' comeback season will open in prime time, as the New York Jets will travel to the San Francisco 49ers to face the defending NFC champions Sept. 9 on ESPN's \"Monday Night Football.\"", 
-            "title": "Rodgers, Jets to visit Niners on MNF in Week 1 - ESPN"
-        }, 
-        {
-            "url": "https://www.livemint.com/news/trends/missed-aurora-magic-northern-lights-likely-to-be-visible-again-nasa-confirms-fresh-solar-storm-this-week-11715687539850.html", 
-            "description": "The fresh solar storm forecast has increased the possibility of seeing more aurora across various parts of the globe", 
-            "title": "Missed Aurora magic? Northern Lights likely to be visible again, NASA confirms fresh solar storm this week | Mint - Mint"
-        }, 
-        {
-            "url": "https://www.cosmopolitan.com/entertainment/celebs/a60786942/travis-kelce-gift-taylor-swift-kentucky-derby/", 
-            "description": "Check out the sentimental gift Travis Kelce got Taylor Swift at the Kentucky Derby.", 
-            "title": "Check out the Sentimental Gift Travis Kelce Got Taylor Swift at the Kentucky Derby - Cosmopolitan"
-        }, 
-        {
-            "url": "https://www.wsj.com/science/academic-studies-research-paper-mills-journals-publishing-f5a3d4bc", 
-            "description": null, 
-            "title": "Exclusive | Flood of Fake Science Forces Multiple Journal Closures - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://www.france24.com/en/live-news/20240514-israeli-police-say-investigating-ransacking-of-gaza-bound-aid-trucks", 
-            "description": null, 
-            "title": "Israeli police say investigating ransacking of Gaza-bound aid trucks - FRANCE 24 English"
         }
     ], 
-    "last_updated": "2024-05-15 19:30:14"
+    "last_updated": "2024-05-15 19:38:13"
 }
