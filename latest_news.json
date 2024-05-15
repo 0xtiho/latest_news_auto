@@ -1,29 +1,44 @@
 {
     "news": [
         {
-            "url": "https://www.cnbc.com/2024/05/13/stock-market-today-live-updates.html", 
-            "description": "Traders reacted to Aprils producer price index reading, which was released on Tuesday morning.", 
-            "title": "Stock futures fall after hotter-than-expected producer price report: Live updates - CNBC"
+            "url": "https://www.cbsnews.com/news/florida-bus-crash-marion-county-people-killed/", 
+            "description": "The crash involved a bus transporting about 53 farm workers and a 2001 Ford Ranger truck, officials said.", 
+            "title": "At least 8 people killed in Florida bus crash; dozens injured - CBS News"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/amc-blackberry-gamestop-meme-stocks-roaring-kitty-wallstreetbets/", 
+            "url": "https://www.tmz.com/2024/05/14/9-year-old-boy-dodges-bullets-drive-by-shooting-fort-worth/", 
+            "description": "The shocking moment a 9-year-old boy in Fort Worth, Texas, dodges bullets from the comfort his own home can be seen in distressing new footage.", 
+            "title": "9-Year-Old Boy Dodges Bullets During Fort Worth Drive-By Shooting - TMZ"
+        }, 
+        {
+            "url": "https://www.reuters.com/markets/us/futures-lackluster-with-inflation-data-fed-chair-powell-speech-tap-2024-05-14/", 
             "description": null, 
-            "title": "AMC, BlackBerry shares surge along with GameStop. Here's why meme stocks are back. - CBS News"
+            "title": "Wall St edges up after 'mixed' producer inflation data, all eyes on CPI - Reuters"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ob21lLWRlcG90LWVhcm5pbmdzLXNob3ctc2lnbnMtb2YtYS1jb25zdW1lci1wdWxsYmFjay0xMjA3MDM4OTAuaHRtbNIBAA?oc=5", 
+            "url": "https://gizmodo.com/house-of-dragon-season-2-trailer-matt-smith-game-throne-1851475755", 
+            "description": "Matt Smith, Olivia Cooke, and Emma D\u2019Arcy return for HBO's Game of Thrones prequel show.", 
+            "title": "In House of the Dragon Season 2's New Trailer, Westeros Rides to War - Gizmodo"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-middle-east-69006734", 
+            "description": "A member of the UN's safety team was killed in Rafah on their way to a hospital, the agency says.", 
+            "title": "Israel-Gaza war: UN says Indian staff member killed in Gaza - BBC.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/cannes-film-festival-greta-gerwig-meryl-streep-650243306d8e6fb23b76e55f8e452c6c", 
+            "description": "Cannes opens with the unveiling of Greta Gerwig\u2019s jury and the presentation of an honorary Palme d\u2019Or for Meryl Streep.", 
+            "title": "Cannes kicks off with Greta Gerwig's jury and a Palme d'Or for Meryl Streep - The Associated Press"
+        }, 
+        {
+            "url": "https://www.wlky.com/article/pga-championship-play-suspended-bad-weather/60788678", 
+            "description": "The bad weather has moved into the Louisville area and play has been halted at Valhalla Golf Club.", 
+            "title": "PGA Championship: Play suspended, fans evacuated briefly due to weather - WLKY Louisville"
+        }, 
+        {
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-gamestop-gme-amc-stock/", 
             "description": null, 
-            "title": "Home Depot earnings show signs of a consumer pullback - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/14/is-russias-new-defence-minister-more-bad-news-for-ukraine", 
-            "description": "Analysts predict Andrei Belousov will boost Russia\u2019s military-industrial complex as Kyiv\u2019s forces struggle on the front.", 
-            "title": "Russia\u2019s defence rejig: \u2018Unfortunately for Ukraine, a very effective move\u2019 - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/14/sport/lebron-james-courtside-cleveland-cavaliers-boston-celtics-spt-intl/index.html", 
-            "description": "LeBron James sat courtside for the Cleveland Cavaliers\u2019 102-109 defeat to the Boston Celtics in Game 4 of the Eastern Conference semifinals on Monday.", 
-            "title": "LeBron James courtside for Cleveland Cavaliers defeat to Boston Celtics - CNN"
+            "title": "Stocks Edge Higher As Powell Responds To Inflation Data; GameStop Surges Again In Revived Meme Frenzy - Investor's Business Daily"
         }, 
         {
             "url": "https://www.tomsguide.com/news/live/google-io-2024-keynote", 
@@ -31,75 +46,60 @@
             "title": "Google I/O 2024 live blog \u2014 all the Gemini AI and Android 15 news as it happens - Tom's Guide"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-us-canada-69004872", 
-            "description": "In court, Michael Cohen also said Trump had warned 'a lot of women' would make claims against him.", 
-            "title": "Ex-lawyer Michael Cohen says he paid hush money at Trump's direction - BBC.com"
+            "url": "https://apnews.com/article/bird-flu-raw-milk-h5n1-6398d2eda26eb41797ee2700cf9d036b", 
+            "description": "Sales of raw milk appear to be on the rise, despite an outbreak of bird flu in U.S. dairy cows. Federal officials warn about the health risks of drinking raw milk at any time, but especially during this novel outbreak. Retail sales of raw cow's milk have jump\u2026", 
+            "title": "There's bird flu in US dairy cows. Raw milk drinkers aren't deterred - The Associated Press"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=ied2AkpfswI", 
+            "url": "https://www.usatoday.com/story/news/health/2024/05/12/pig-kidney-transplant-patient-dies/73663322007/", 
+            "description": "Seven weeks after receiving the first-ever kidney transplant from a pig, a Massachusetts man died this weekend.", 
+            "title": "Richard Slayman dies 7 weeks after historic pig-kidney transplant - USA TODAY"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-trial-cohen-hush-money-stormy-daniels-735aadfd1ce015e05ba955c203a96f1b", 
+            "description": "Donald Trump\u2019s fixer-turned-foe Michael Cohen returned to the witness stand Tuesday, testifying in detail how former president was linked to all aspects of a hush money scheme that prosecutors say was aimed at stifling stories that threatened his 2016 campaig\u2026", 
+            "title": "Trump hush money trial: Michael Cohen returns to face cross-examination - The Associated Press"
+        }, 
+        {
+            "url": "https://abc7.com/post/covid-in-los-angeles-what-to-know-about-new-flirt-variants-and-possible-summer-surge/14811098/", 
+            "description": "The days of school closures and statewide lockdowns may be years behind us, but the threat of COVID-19 still lurks in the shadows.", 
+            "title": "COVID in Los Angeles: What to know about new FLiRT variants and possible summer surge - KABC-TV"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/world/2024/05/14/georgia-foreign-agent-law-approved/", 
+            "description": "The approval defies mass street protests by Georgians who fear the bill will strip civil rights and push their country further into Moscow\u2019s orbit.", 
+            "title": "Georgia parliament approves controversial foreign agent law defying protests - The Washington Post"
+        }, 
+        {
+            "url": "https://www.buffalobills.com/news/wr-marquez-valdes-scantling-signs-one-year-deal-with-bills", 
+            "description": "Buffalo's newest wide receiver led the NFL in yards per reception during the 2020 season.", 
+            "title": "WR Marquez Valdes-Scantling signs one-year deal with Bills - BuffaloBills.com"
+        }, 
+        {
+            "url": "https://www.espn.com/nfl/story/_/id/40144410/aaron-rodgers-jets-visit-49ers-mnf-week-1", 
+            "description": "Aaron Rodgers' comeback season will open in prime time, as the New York Jets will travel to the San Francisco 49ers to face the defending NFC champions Sept. 9 on ESPN's \"Monday Night Football.\"", 
+            "title": "Rodgers, Jets to visit Niners on MNF in Week 1 - ESPN"
+        }, 
+        {
+            "url": "https://www.livemint.com/news/trends/missed-aurora-magic-northern-lights-likely-to-be-visible-again-nasa-confirms-fresh-solar-storm-this-week-11715687539850.html", 
+            "description": "The fresh solar storm forecast has increased the possibility of seeing more aurora across various parts of the globe", 
+            "title": "Missed Aurora magic? Northern Lights likely to be visible again, NASA confirms fresh solar storm this week | Mint - Mint"
+        }, 
+        {
+            "url": "https://www.cosmopolitan.com/entertainment/celebs/a60786942/travis-kelce-gift-taylor-swift-kentucky-derby/", 
+            "description": "Check out the sentimental gift Travis Kelce got Taylor Swift at the Kentucky Derby.", 
+            "title": "Check out the Sentimental Gift Travis Kelce Got Taylor Swift at the Kentucky Derby - Cosmopolitan"
+        }, 
+        {
+            "url": "https://www.wsj.com/science/academic-studies-research-paper-mills-journals-publishing-f5a3d4bc", 
             "description": null, 
-            "title": "OpenAI's new version of Chat-GPT can teach maths and flirt | BBC News - BBC News"
+            "title": "Exclusive | Flood of Fake Science Forces Multiple Journal Closures - The Wall Street Journal"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/14/china/xi-putin-china-summit-intl-hnk/index.html", 
-            "description": "Chinese leader Xi Jinping will welcome Vladimir Putin to China this week for the Russian President\u2019s second visit in less than a year \u2013 the latest sign of their growing alignment amid hardening global fault lines as conflict devastates Gaza and Ukraine.", 
-            "title": "Putin to meet Xi in Beijing as world convulses from global conflicts - CNN"
-        }, 
-        {
-            "url": "https://apnews.com/article/india-mumbai-rains-billboard-collapse-deaths-3e370788d5071f65f9a1c0f7e88ae3da", 
-            "description": "A large billboard that collapsed amid raging thunderstorms in Mumbai killed at least 14 people and injured 75 others, reports said on Tuesday. A rescue operation was ongoing Tuesday morning, and authorities told the Press Trust of India news agency that 89 pe\u2026", 
-            "title": "Mumbai Billboard collapse: At least 14 killed, 74 injured - The Associated Press"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/14/entertainment/kelly-clarkson-admits-to-using-weight-loss-drug-after-losing-60-pounds/", 
-            "description": "While the \u201cAmerican Idol\u201d alum didn\u2019t disclose the name of the weight loss drug she\u2019s been taking, she insisted it was not Ozempic.", 
-            "title": "Kelly Clarkson admits to using weight loss drug after losing 60 pounds - New York Post "
-        }, 
-        {
-            "url": "https://wccftech.com/m4-ipad-pro-models-worse-battery-life-than-m1-mini-led-version/", 
-            "description": "An early battery life test of the M4 iPad Pro models reveals that the latest tablets have reduced runtime compared to earlier iterations", 
-            "title": "Apple\u2019s Latest M4 iPad Pro Models Have Worse Battery Life Than The M1 mini-LED Version In Early Runtime Tests, Despite Switching To OLED Technology - Wccftech"
-        }, 
-        {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/", 
-            "description": "Patients taking Novo Nordisk's Wegovy obesity treatment maintained an average of 10% weight loss after four years, potentially boosting the drugmaker's case to insurers and governments to cover the cost of the effective but expensive drug.", 
-            "title": "Wegovy weight loss sustained for four years in trial, Novo Nordisk says - Reuters"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c88zz55p5q7o", 
-            "description": "The announcement comes after Anglo American rejected a \u00a334bn takeover bid from rival BHP.", 
-            "title": "UK mining giant Anglo American to offload De Beers diamond firm - BBC.com"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-europe-69007465", 
-            "description": "The bill targets civil society organisations and independent media that receive foreign funding.", 
-            "title": "Georgia to vote on controversial law that sparked mass protests - BBC.com"
-        }, 
-        {
-            "url": "https://www.foxnews.com/world/blinken-makes-unannounced-diplomatic-trip-ukraine-after-congress-approves-military-aid", 
-            "description": "U.S. Secretary of State Antony Blinken took off from the Andrews Air Force Base in Maryland on Monday and took an unannounced trip to Ukraine, landing on Tuesday local time.", 
-            "title": "Blinken makes unannounced diplomatic trip to Ukraine after Congress approves $60B in military aid - Fox News"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3VrLWJ1aWxkLXNpeC1uZXctd2Fyc2hpcHMtcm95YWwtbWFyaW5lcy0yMDI0LTA1LTE0L9IBAA?oc=5", 
+            "url": "https://www.france24.com/en/live-news/20240514-israeli-police-say-investigating-ransacking-of-gaza-bound-aid-trucks", 
             "description": null, 
-            "title": "UK confirms it will build six new warships for Royal Marines - Reuters UK"
-        }, 
-        {
-            "url": "https://www.espn.com/nba/story/_/id/40143162/thunder-rally-mavs-final-minutes-even-series", 
-            "description": "In \"probably the most meaningful game I've played in my career,\" Thunder superstar Shai Gilgeous-Alexander took over down the stretch to lead Oklahoma City to a series-tying Game 4 win in Dallas on Monday night.", 
-            "title": "Shai Gilgeous-Alexander rallies Thunder to Game 4 win vs. Mavs - ESPN"
-        }, 
-        {
-            "url": "https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54", 
-            "description": "The 148th Westminster Kennel Club dog show is underway. Monday marked the start of the traditional judging that leads to the best in show prize, to be awarded Tuesday night at the USTA Billie Jean King National Tennis Center in New York. Semifinals began Mond\u2026", 
-            "title": "At Westminster dog show, a display of dogs and devotion - The Associated Press"
+            "title": "Israeli police say investigating ransacking of Gaza-bound aid trucks - FRANCE 24 English"
         }
     ], 
-    "last_updated": "2024-05-15 17:30:05"
+    "last_updated": "2024-05-15 17:38:04"
 }
