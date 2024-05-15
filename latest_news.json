@@ -1,14 +1,54 @@
 {
     "news": [
         {
+            "url": "https://www.cnbc.com/2024/05/13/stock-market-today-live-updates.html", 
+            "description": "Traders reacted to Aprils producer price index reading, which was released on Tuesday morning.", 
+            "title": "Stock futures fall after hotter-than-expected producer price report: Live updates - CNBC"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/amc-blackberry-gamestop-meme-stocks-roaring-kitty-wallstreetbets/", 
+            "description": null, 
+            "title": "AMC, BlackBerry shares surge along with GameStop. Here's why meme stocks are back. - CBS News"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9ob21lLWRlcG90LWVhcm5pbmdzLXNob3ctc2lnbnMtb2YtYS1jb25zdW1lci1wdWxsYmFjay0xMjA3MDM4OTAuaHRtbNIBAA?oc=5", 
+            "description": null, 
+            "title": "Home Depot earnings show signs of a consumer pullback - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.aljazeera.com/news/2024/5/14/is-russias-new-defence-minister-more-bad-news-for-ukraine", 
+            "description": "Analysts predict Andrei Belousov will boost Russia\u2019s military-industrial complex as Kyiv\u2019s forces struggle on the front.", 
+            "title": "Russia\u2019s defence rejig: \u2018Unfortunately for Ukraine, a very effective move\u2019 - Al Jazeera English"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/14/sport/lebron-james-courtside-cleveland-cavaliers-boston-celtics-spt-intl/index.html", 
+            "description": "LeBron James sat courtside for the Cleveland Cavaliers\u2019 102-109 defeat to the Boston Celtics in Game 4 of the Eastern Conference semifinals on Monday.", 
+            "title": "LeBron James courtside for Cleveland Cavaliers defeat to Boston Celtics - CNN"
+        }, 
+        {
+            "url": "https://www.tomsguide.com/news/live/google-io-2024-keynote", 
+            "description": "Get all the latest news from Google I/O", 
+            "title": "Google I/O 2024 live blog \u2014 all the Gemini AI and Android 15 news as it happens - Tom's Guide"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-us-canada-69004872", 
+            "description": "In court, Michael Cohen also said Trump had warned 'a lot of women' would make claims against him.", 
+            "title": "Ex-lawyer Michael Cohen says he paid hush money at Trump's direction - BBC.com"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=ied2AkpfswI", 
+            "description": null, 
+            "title": "OpenAI's new version of Chat-GPT can teach maths and flirt | BBC News - BBC News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/14/china/xi-putin-china-summit-intl-hnk/index.html", 
+            "description": "Chinese leader Xi Jinping will welcome Vladimir Putin to China this week for the Russian President\u2019s second visit in less than a year \u2013 the latest sign of their growing alignment amid hardening global fault lines as conflict devastates Gaza and Ukraine.", 
+            "title": "Putin to meet Xi in Beijing as world convulses from global conflicts - CNN"
+        }, 
+        {
             "url": "https://apnews.com/article/india-mumbai-rains-billboard-collapse-deaths-3e370788d5071f65f9a1c0f7e88ae3da", 
             "description": "A large billboard that collapsed amid raging thunderstorms in Mumbai killed at least 14 people and injured 75 others, reports said on Tuesday. A rescue operation was ongoing Tuesday morning, and authorities told the Press Trust of India news agency that 89 pe\u2026", 
             "title": "Mumbai Billboard collapse: At least 14 killed, 74 injured - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/14/home-depot-hd-q1-2024-earnings-.html", 
-            "description": "Home Depot reported first-quarter earnings as it tries to grow sales with home professionals in a tough housing market.", 
-            "title": "Home Depot misses on revenue, as high interest rates hurt sales - CNBC"
         }, 
         {
             "url": "https://nypost.com/2024/05/14/entertainment/kelly-clarkson-admits-to-using-weight-loss-drug-after-losing-60-pounds/", 
@@ -16,39 +56,39 @@
             "title": "Kelly Clarkson admits to using weight loss drug after losing 60 pounds - New York Post "
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/14/anglo-american-to-spin-off-de-beers-as-bhp-takeover-pressure-mounts.html", 
-            "description": "Anglo American shares fell over 3% early Tuesday after it announced plans to spin off its highly prized De Beers diamond business.", 
-            "title": "Diamond giant De Beers faces spin-off amid wider restructuring as Anglo American takeover pressure mounts - CNBC"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/14/maryland-democratic-senate-primary-larry-hogan-00157399", 
-            "description": null, 
-            "title": "Dems' ugliest Senate primary ends with a bad grand prize: Facing Larry Hogan - POLITICO"
+            "url": "https://wccftech.com/m4-ipad-pro-models-worse-battery-life-than-m1-mini-led-version/", 
+            "description": "An early battery life test of the M4 iPad Pro models reveals that the latest tablets have reduced runtime compared to earlier iterations", 
+            "title": "Apple\u2019s Latest M4 iPad Pro Models Have Worse Battery Life Than The M1 mini-LED Version In Early Runtime Tests, Despite Switching To OLED Technology - Wccftech"
         }, 
         {
             "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/", 
-            "description": null, 
+            "description": "Patients taking Novo Nordisk's Wegovy obesity treatment maintained an average of 10% weight loss after four years, potentially boosting the drugmaker's case to insurers and governments to cover the cost of the effective but expensive drug.", 
             "title": "Wegovy weight loss sustained for four years in trial, Novo Nordisk says - Reuters"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjkwMDc0NjXSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY5MDA3NDY1LmFtcA?oc=5", 
-            "description": null, 
+            "url": "https://www.bbc.com/news/articles/c88zz55p5q7o", 
+            "description": "The announcement comes after Anglo American rejected a \u00a334bn takeover bid from rival BHP.", 
+            "title": "UK mining giant Anglo American to offload De Beers diamond firm - BBC.com"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-europe-69007465", 
+            "description": "The bill targets civil society organisations and independent media that receive foreign funding.", 
             "title": "Georgia to vote on controversial law that sparked mass protests - BBC.com"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cg300jek94zo", 
-            "description": "Unverified video shows protesters throwing food packages onto the ground before stomping on them.", 
-            "title": "Israeli protesters attack Gaza aid trucks in West Bank - BBC.com"
+            "url": "https://www.foxnews.com/world/blinken-makes-unannounced-diplomatic-trip-ukraine-after-congress-approves-military-aid", 
+            "description": "U.S. Secretary of State Antony Blinken took off from the Andrews Air Force Base in Maryland on Monday and took an unannounced trip to Ukraine, landing on Tuesday local time.", 
+            "title": "Blinken makes unannounced diplomatic trip to Ukraine after Congress approves $60B in military aid - Fox News"
         }, 
         {
-            "url": "https://apnews.com/article/russia-ukraine-war-blinken-us-military-aid-41df75260903f6b9527fbf3a1a44c815", 
-            "description": "U.S. Secretary of State Antony Blinken has arrived in Kyiv on an unannounced diplomatic mission to reassure Ukraine that it has American support as it struggles to defend against increasingly intense Russian attacks. The two-day visit starting Tuesday comes l\u2026", 
-            "title": "Russia-Ukraine war: Blinken visits Ukraine to affirm US support for Kyiv - The Associated Press"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html", 
-            "description": "pple and Google just rolled out a cross-platform feature called \"Detecting Unwanted Location Trackers\" (DULT) on iOS and Android to protect users.", 
-            "title": "Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices - The Hacker News"
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VrL3VrLWJ1aWxkLXNpeC1uZXctd2Fyc2hpcHMtcm95YWwtbWFyaW5lcy0yMDI0LTA1LTE0L9IBAA?oc=5", 
+            "description": null, 
+            "title": "UK confirms it will build six new warships for Royal Marines - Reuters UK"
         }, 
         {
             "url": "https://www.espn.com/nba/story/_/id/40143162/thunder-rally-mavs-final-minutes-even-series", 
@@ -56,50 +96,10 @@
             "title": "Shai Gilgeous-Alexander rallies Thunder to Game 4 win vs. Mavs - ESPN"
         }, 
         {
-            "url": "https://www.axios.com/2024/05/13/michael-cohen-new-york-criminal-trial-2024", 
-            "description": null, 
-            "title": "\"Just do it\": Michael Cohen says Trump told him, on Stormy Daniels payment - Axios"
-        }, 
-        {
             "url": "https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54", 
             "description": "The 148th Westminster Kennel Club dog show is underway. Monday marked the start of the traditional judging that leads to the best in show prize, to be awarded Tuesday night at the USTA Billie Jean King National Tennis Center in New York. Semifinals began Mond\u2026", 
             "title": "At Westminster dog show, a display of dogs and devotion - The Associated Press"
-        }, 
-        {
-            "url": "https://www.ksl.com/article/51011167/utah-senators-blast-pause-in-weapons-to-israel-as-reprehensible-dithering", 
-            "description": "Utah Sens. Mike Lee and Mitt Romney have criticized the White House over its decision to withhold some military aid to Israel.", 
-            "title": "Utah senators blast pause in weapons to Israel as 'reprehensible,' 'dithering' - KSL.com"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/13/wildfire-canada-evacuations-air-quality-us-states", 
-            "description": null, 
-            "title": "Canada wildfires hit northern U.S. air quality - Axios"
-        }, 
-        {
-            "url": "https://www.prideofdetroit.com/2024/5/13/24155973/video-detroit-lions-quarterback-jared-goff-paid-contract-extension", 
-            "description": "Meko and Morgan discuss the Detroit Lions extending quarterback Jared Goff on the Pride of Detroit YouTube Channel.", 
-            "title": "Instant reactions to Detroit Lions quarterback Jared Goff getting PAID - Pride Of Detroit"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=qAIPoCgnLlo", 
-            "description": "Travis Kelce supports his ladylove, Taylor Swift, in the City of Lights! The NFL star watched the singer's fourth and final night of her Eras tour stop in Pa...", 
-            "title": "Travis Kelce REACTS to Taylor Swift Performing TTPD Songs Rumored About Him - Entertainment Tonight"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/biden-to-announce-new-100-tariffs-on-chinese-evs/", 
-            "description": "The tariff on electric vehicles from China is currently 25%.", 
-            "title": "Biden to announce new 100% tariffs on Chinese EVs - CBS News"
-        }, 
-        {
-            "url": "https://apnews.com/article/whitey-bulger-prison-killing-plea-change-8f9ee1b9d16989bd69e144c80225b1a0", 
-            "description": "Three men charged in the 2018 prison killing of notorious Boston gangster James \u201cWhitey\u201d Bulger have reached plea deals with prosecutors. The plea deals for Fotios \u201cFreddy\u201d Geas, Paul J. DeCologero and Sean McKinnon were disclosed Monday in court filings near\u2026", 
-            "title": "3 men charged in Whitey Bulger's 2018 prison killing have plea deals, prosecutors say - The Associated Press"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/13/24155982/sony-playstation-co-ceo-hermen-hulst-hideaki-nishino", 
-            "description": "Sony has appointed co-CEOs to lead its PlayStation business. Hermen Hulst and Hideaki Nishino will takeover on June 1st, months after Jim Ryan retired.", 
-            "title": "Sony names new PlayStation leaders following Jim Ryan's retirement - The Verge"
         }
     ], 
-    "last_updated": "2024-05-15 13:07:43"
+    "last_updated": "2024-05-15 13:37:46"
 }
