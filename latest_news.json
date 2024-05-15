@@ -1,19 +1,39 @@
 {
     "news": [
         {
-            "url": "https://www.bbc.com/news/world-us-canada-69003233", 
-            "description": "An explosion blasted away debris trapping a cargo ship in the Patapsco River.", 
-            "title": "Baltimore bridge blown up in controlled demolition - BBC.com"
+            "url": "https://apnews.com/article/meme-roaring-kitty-gamestop-amc-stocks-401916acd3715d35cc0220143b26b2ac", 
+            "description": "The man at the center of the pandemic meme stock craze returned to the social platform X for the first time in three years and sent prices of those stocks surging overnight. Keith Gill, better known as \u201cRoaring Kitty,\u201d posted an image Sunday of a man sitting \u2026", 
+            "title": "GameStop, AMC stocks surge as Roaring Kitty returns - The Associated Press"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/13/entertainment/taylor-swift-travis-kelce-paris/index.html", 
-            "description": "Taylor Swift closed out her four-night Eras Tour run in Paris on Sunday with a show that appeared to be Taylor-made for Travis Kelce.", 
-            "title": "Taylor Swift\u2019s last Eras Tour show in Paris was full of Travis Kelce nods, and he seemed to love it - CNN"
+            "url": "https://www.cnbc.com/2024/05/13/stock-market-today-live-updates.html", 
+            "description": "The first of two inflation reports will be issued Tuesday morning: April's reading of the producer price index.", 
+            "title": "Stock futures are little changed as investors brace for key inflation reports: Live updates - CNBC"
         }, 
         {
-            "url": "https://www.post-gazette.com/news/world/2024/05/13/kremlin-shake-up-putin-shigu-belousov/stories/202405130060", 
-            "description": "False", 
-            "title": "A Kremlin shake-up of Russia's Defense Ministry comes at a key moment in the Ukraine war - Pittsburgh Post-Gazette"
+            "url": "https://www.youtube.com/watch?v=ob68AbVQv7o", 
+            "description": null, 
+            "title": "Boston Celtics @ Cleveland Cavaliers | #NBAPlayoffs presented by Google Pixel Live Scoreboard - NBA"
+        }, 
+        {
+            "url": "https://foreignpolicy.com/2024/05/13/georgian-dream-party-foreign-agents-bill-russia-protests/", 
+            "description": "Lawmakers are expected to greenlight the Russian-modeled legislation on Tuesday despite mass protests in the capital.", 
+            "title": "Georgia Set to Approve Controversial Foreign Agents Bill - Foreign Policy"
+        }, 
+        {
+            "url": "https://arstechnica.com/science/2024/05/anti-pasteurization-crowd-reaffirms-love-of-raw-milk-despite-bird-flu-outbreak/", 
+            "description": "Raw milk fans called warnings \"fear mongering,\" despite 52% fatality rate in humans.", 
+            "title": "Anti-pasteurization crowd reaffirms love of raw milk despite bird flu outbreak - Ars Technica"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/wireStory/melinda-french-gates-resigns-gates-foundation-chair-3-110180418", 
+            "description": "Melinda French Gates announced Monday that she will step down as co-chair of the Bill & Melinda Gates Foundation", 
+            "title": "Melinda French Gates resigns as Gates Foundation co-chair, 3 years after her divorce from Bill Gates - ABC News"
+        }, 
+        {
+            "url": "https://9to5mac.com/2024/05/13/first-m4-ipad-pro-reviews/", 
+            "description": "Apple last week announced a new generation iPad Pro with the M4 chip, which is now available for pre-order. While...", 
+            "title": "M4 iPad Pro reviews praise OLED display; criticize price, software - 9to5Mac"
         }, 
         {
             "url": "https://www.foxsports.com/stories/nfl/exclusive-cowboys-will-face-browns-in-week-1-to-mark-tom-bradys-fox-sports-debut", 
@@ -21,19 +41,24 @@
             "title": "Exclusive: Cowboys will face Browns in Week 1 to mark Tom Brady's FOX Sports debut - FOX Sports"
         }, 
         {
+            "url": "https://www.businessinsider.com/chatgpt-4o-sam-altman-apple-siri-tim-cook-compared-how-2024-5", 
+            "description": "Tim Cook must be super jealous of Sam Altman's new ChatGPT-4o voice assistant. Siri is far behind \u2014 but Apple still has one big advantage.", 
+            "title": "OpenAI's new voice assistant ChatGPT-4o smokes Apple's Siri - Business Insider"
+        }, 
+        {
             "url": "https://www.espn.com/nfl/story/_/id/40140300/sources-lions-signing-qb-jared-goff-4-year-212m-extension", 
             "description": "The Lions are signing quarterback Jared Goff to a four-year, $212 million contract extension that includes $170 million guaranteed, sources told ESPN's Adam Schefter on Monday.", 
             "title": "Sources - Lions signing QB Jared Goff to 4-year, $212M extension - ESPN"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/missouri-man-sai-kandula-crashed-u-haul-white-house-security-barrier-pleads-guilty/", 
-            "description": "Sai Kandula acknowledged he had deliberately slammed into a security bollard in a failed attempt to seize power at the White House and install a dictatorship aligned with Nazi beliefs.", 
-            "title": "Missouri man who crashed U-Haul into White House security barrier pleads guilty - CBS News"
-        }, 
-        {
             "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-kharkiv-donetzk-397dd892f936726bd1acbd45991a18a6", 
             "description": "Ukrainian officials and commanders say Russian troops are locked in intense battles with Ukrainian soldiers in the embattled town of Vovchansk and are pushing ahead with a ground offensive that opened a new front to put pressure on overstretched Ukrainian for\u2026", 
             "title": "Russia-Ukraine war: Army locked in 'fierce' border battles amid Russian assault, Zelenskyy says - The Associated Press"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/13/business/archegos-bill-hwang-lied-to-become-wall-street-legend-causing-36b-fund-to-collapse-prosecutors/", 
+            "description": "Archegos\u2019 collapse caused more than $100 billion in shareholder losses at companies in its portfolio, harming investors who sold shares after their scheme collapsed, prosecutors also allege.", 
+            "title": "Archegos' Bill Hwang lied to become Wall Street legend, causing $36B fund to collapse: prosecutors - New York Post "
         }, 
         {
             "url": "https://removed.com", 
@@ -46,9 +71,14 @@
             "title": "Gaza war: Palestinians flee as Israeli forces go back into Jabalia - BBC.com"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/gamestop-stock-soars-over-70-as-roaring-kitty-revival-reignites-meme-stock-bonanza-200701976.html", 
-            "description": "GameStop stock surged as much as 110% after 'Roaring Kitty,' who was credited with starting the 2021 meme stock frenzy, posted on X for the first time in...", 
-            "title": "GameStop stock soars over 70% as 'Roaring Kitty' revival reignites meme-stock bonanza - Yahoo Finance"
+            "url": "https://www.bbc.com/news/world-europe-69006046", 
+            "description": "Steve Rosenberg considers possible reasons behind Sergei Shoigu's replacement in the middle of a war.", 
+            "title": "Why has Putin removed ally Sergei Shoigu as Russia's defence minister? - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/13/us/baltimore-bridge-collapse-demolition-monday/index.html", 
+            "description": "The planned demolition of a key portion of the collapsed Francis Scott Key Bridge is set to begin Monday evening after inclement weather, including lightning, forced the operation to be postponed over the weekend.", 
+            "title": "Demolition of a key section of Baltimore\u2019s Francis Scott Key Bridge set for this afternoon after weekend weather delays - CNN"
         }, 
         {
             "url": "https://removed.com", 
@@ -56,50 +86,20 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.gsmarena.com/watch_the_google_i_o_livestream_here-news-62838.php", 
-            "description": "Google will formally introduce Android 15 and should talk about how the Gemini AI meshes with the phone OS as well as all other Google properties.", 
-            "title": "Watch the Google I/O livestream here - GSMArena.com news - GSMArena.com"
+            "url": "https://www.foxnews.com/entertainment/chris-pratt-shares-wife-katherine-schwarzenegger-hall-pass", 
+            "description": "Katherine Schwarzenegger revealed an undying devotion to her favorite R&B singing sensation, Usher, which husband Chris Pratt simply couldn't blame her for.", 
+            "title": "Chris Pratt shares wife Katherine Schwarzenegger's 'hall pass' - Fox News"
         }, 
         {
-            "url": "https://gizmodo.com/apple-ios-18-ai-voice-memos-notes-1851473478", 
-            "description": "The AI-powered feature is coming to iOS 18 later this year.", 
-            "title": "Apple Is Bringing AI Transcription to Voice Memos, and I Can't Wait - Gizmodo"
+            "url": "https://nypost.com/2024/05/13/us-news/brave-parishioners-stop-armed-teen-from-entering-church-service-packed-with-children-video/", 
+            "description": "Parishioners spotted the teen and swarmed him \u2014 holding him outside until police arrived and arrested him.", 
+            "title": "Video shows panic in church packed with kids after teen armed with rifle tries to storm service - New York Post "
         }, 
         {
             "url": "https://gizmodo.com/not-just-auroras-heres-the-tech-that-got-hit-by-this-w-1851472838", 
             "description": "SpaceX's Elon Musk said the company's Starlink satellites were \"under a lot of pressure\" from the incoming radiation.", 
             "title": "Not Just Auroras: Here's the Tech That Got Hit by This Weekend's Solar Storm - Gizmodo"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/middle-east/un-says-gaza-death-toll-still-over-35000-not-all-bodies-identified-2024-05-13/", 
-            "description": "The death toll in the Gaza Strip from the Israel-Hamas war is still more than 35,000, but the enclave's Ministry of Health has updated its breakdown of the fatalities, the United Nations said on Monday after Israel questioned a sudden change in numbers.", 
-            "title": "UN says Gaza death toll still over 35000 but not all bodies identified - Reuters"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/13/europe/georgia-foreign-agents-law-explained-intl/index.html", 
-            "description": "Georgia\u2019s parliament is set to pass a highly controversial so-called \u201cforeign agents\u201d bill that has triggered widespread protests across the former Soviet Republic nestled in the Caucasus Mountains.", 
-            "title": "What is Georgia\u2019s \u2018foreign agents\u2019 bill, and why is Europe so alarmed? - CNN"
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/wicked-trailer-snoop-dogg-olympics-nbcuniversal-upfront-1235897889/", 
-            "description": "Donna Langley will have you renditioned if you filmed one second of Cynthia Erivo and Ariana Grande on that phone of yours.", 
-            "title": "Inside the NBCUniversal Upfront: Snoop Dogg, Penguins and a Top Secret \u2018Wicked\u2019 Trailer - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-69004988", 
-            "description": "Parishioners from the church 'confronted' the gunman and restrained him until police arrived.", 
-            "title": "Gunman arrested at Louisiana church during First Communion Mass - BBC.com"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/13/entertainment/steve-buscemi-spotted-with-black-eye-swollen-face-after-random-nyc-attack/", 
-            "description": "The 66-year-old \u201cBoardwalk Empire\u201d actor was sporting bruises and a swollen chin while shooting a commercial in Soho on Saturday.", 
-            "title": "Steve Buscemi spotted with black eye, swollen face after random NYC attack - New York Post "
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/legendary-treasure-conman-healing-powers-poland-officials/", 
-            "description": "A collection of silver and gold coins unearthed in Poland may have belonged to notorious fraudster Anthony Jaczewicz.", 
-            "title": "Legendary treasure that apparently belonged to notorious 18th-century conman unearthed in Poland - CBS News"
         }
     ], 
-    "last_updated": "2024-05-15 03:00:47"
+    "last_updated": "2024-05-15 03:30:29"
 }
