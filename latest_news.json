@@ -1,29 +1,49 @@
 {
     "news": [
         {
+            "url": "https://www.usatoday.com/story/sports/wnba/2024/05/14/indiana-connecticut-caitlin-clark-wnba-first-game-score-highlights/73684549007/", 
+            "description": "Caitlin Clark makes her official pro debut tonight as the Indiana Fever face the Sun in Connecticut in one of four WNBA season openers.", 
+            "title": "Caitlin Clark makes WNBA regular-season debut: Indiana Fever vs Connecticut Sun live updates - USA TODAY"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/14/politics/takeaways-day-17-trump-hush-money-trial-michael-cohen/index.html", 
+            "description": "Donald Trump\u2019s attorney Todd Blanche began his confrontation with Michael Cohen on Tuesday by throwing the former fixer\u2019s language back in his face.", 
+            "title": "Takeaways from the first day of Michael Cohen\u2019s cross-examination in the Trump hush money trial - CNN"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/walmart-lays-off-hundreds-employees-012657914.html", 
+            "description": "Walmart on Tuesday announced layoffs affecting several hundred jobs at the retail giant\u2019s campus offices.  It also said it will require most remote workers...", 
+            "title": "Walmart lays off hundreds of employees and requires others to relocate - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/14/politics/biden-administration-new-israel-arms-deal/index.html", 
+            "description": "The Biden administration on Tuesday began the early stages of a process to move ahead with a new $1 billion arms deal for Israel, according to two congressional sources.", 
+            "title": "Biden administration begins lengthy process to approve new $1 billion arms deal for Israel - CNN"
+        }, 
+        {
+            "url": "https://apnews.com/article/sun-solar-flare-earth-ed204eef352560f09b8366bee05e2381", 
+            "description": "The sun isn't done yet. That's the message from the National Oceanic and Atmospheric Administration, as the biggest flare in nearly two decades erupted on the sun Tuesday. A NASA spacecraft photographed the bright flash of the X-ray flare, which was classifie\u2026", 
+            "title": "Sun shoots out biggest solar flare in nearly a decade - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/14/business/boeing-justice-department-criminal-prosecution/index.html", 
+            "description": "The Justice Department on Tuesday notified Boeing Co. that it breached terms of\u00a0its\u00a02021 deferred prosecution agreement, under which the company avoided criminal prosecution for safety lapses in exchange for paying $2.5 billion in penalties and promised to im\u2026", 
+            "title": "Boeing may be prosecuted after breaking safety agreement that prevented criminal charges for 737 crashes, US DOJ says - CNN"
+        }, 
+        {
+            "url": "https://www.espn.com/nhl/story/_/id/40148473/bronny-james-focused-simply-getting-league", 
+            "description": "Speaking to reporters at the NBA combine on Tuesday, Bronny James, addressing the idea of playing with his father, LeBron James, said, \"That's not my mindset or not at all. I'm just trying to put in the work and see where it takes me from there.\"", 
+            "title": "Bronny James focused on simply 'getting to the league' - ESPN"
+        }, 
+        {
             "url": "https://sports.yahoo.com/live/2024-nfl-schedule-release-live-updates-ahead-of-wednesdays-full-announcement-222736159.html", 
             "description": "Before Wednesday arrives, football fans got some appetizers as some games were formally announced.", 
             "title": "2024 NFL schedule release: Live updates ahead of Wednesday's full announcement - Yahoo Sports"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=OVpMkRf0OvE", 
-            "description": "Listen in as Bronny James fields questions at the 2024 NBA Draft Combine and puts an emphasis on putting his own narrative out there rather than just being t...", 
-            "title": "[FULL] Bronny James says he wants to put his own narrative out rather than just being LeBron's son - ESPN"
-        }, 
-        {
-            "url": "https://www.thecrimson.com/article/2024/5/15/hoekstra-harvard-yard-encampment/", 
-            "description": "Faculty of Arts and Sciences Dean Hopi E. Hoekstra praised interim University President Alan M. Garber \u201976 for his handling of the pro-Palestine encampment and called for \u201ctrue and meaningful dialogue\u201d in her first public statement about the nearly three-week\u2026", 
-            "title": "FAS Dean Hopi Hoekstra Takes Victory Lap After Peaceful End to Harvard Yard Encampment | News - Harvard Crimson"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/baltimore/news/maryland-primary-election-results-2024/", 
-            "description": "Polls across Maryland are closed and results for the 2024 primary election are pouring in.", 
-            "title": "Maryland election results for 2024 primary: follow the latest vote totals - CBS News"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=ahCuf0_dNk0", 
-            "description": "Tune-in to TNT to watch the #NBAPlayoffs presented by Google Pixel8:00 PM ET: Indiana Pacers/New York Knicks 10:30 PM ET: Minnesota Timberwolves/ Denver Nugg...", 
-            "title": "Indiana Pacers @ New York Knicks Game 5 | #NBAPlayoffs presented by Google Pixel Live Scoreboard - NBA"
+            "url": "https://apnews.com/article/maryland-west-virginia-senate-primary-republican-democrat-632750f07b79a9bd4922635fd07ca644", 
+            "description": "Republican voters have advanced strong Senate contenders in Maryland and West Virginia, giving the GOP a big boost in its push to claim control of Congress\u2019 upper chamber. Former Republican Gov. Larry Hogan claimed the Republican nomination in what will be a \u2026", 
+            "title": "Primaries in Maryland and West Virginia will shape the battle this fall for a Senate majority - The Associated Press"
         }, 
         {
             "url": "https://abcnews.go.com/International/protesters-israel-arrested-after-attacking-gaza-aid-trucks/story?id=110220557", 
@@ -31,59 +51,29 @@
             "title": "Protesters in Israel arrested after attacking Gaza aid trucks - ABC News"
         }, 
         {
-            "url": "http://deadline.com/2024/05/king-charles-first-official-portrait-red-1235916538/", 
-            "description": "Painted by Jonathan Yeo, the eight-foot-tall work features the king's face looking benignly down at the viewer, his visage is set off by a sea of red behind him.", 
-            "title": "King Charles\u2019 First Official Portrait Is Unveiled: It\u2019s Eight Feet Tall, Features A Sword, A Butterfly And A Lot Of Red - Deadline"
-        }, 
-        {
             "url": "http://www.hollywoodreporter.com/tv/tv-news/disney-upfront-bob-iger-emma-stone-jimmy-kimmel-1235899498/", 
             "description": "Ryan Reynolds cracks jokes about cocaine and Jimmy Kimmel makes Sheryl Lee Ralph blush in the increasingly spicy House of Mouse.", 
             "title": "Inside the Racy Disney Upfront: Bob Iger and Amorous Golden Retrievers Take Center Stage - Hollywood Reporter"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/14/openai-co-founder-ilya-sutskever-says-he-will-leave-the-startup.html", 
-            "description": "OpenAI co-founder Ilya Sutskever said Tuesday that he's leaving the Microsoft-backed startup.", 
-            "title": "OpenAI co-founder Ilya Sutskever says he will leave the startup - CNBC"
+            "url": "https://apnews.com/article/rudy-giuliani-bankruptcy-judge-7ee7fa1fa5885e8114060a87b481f7b8", 
+            "description": "A New York bankruptcy judge has denied Rudy Giuliani a chance to pursue an appeal of a $148 million defamation judgment for spreading lies about the the 2020 election. The judge says Tuesday that he was \u201cdisturbed\u201d by the lack of progress in the case. Giulian\u2026", 
+            "title": "Giuliani bankruptcy judge frustrated with case, rebuffs attempt to challenge $148 million judgment - The Associated Press"
         }, 
         {
-            "url": "https://www.cbsnews.com/miami/news/boat-believed-to-have-hit-killed-ella-adler-while-she-was-water-skiing-in-biscayne-bay-has-been-found/", 
-            "description": "On Saturday afternoon, Adler was water skiing near the Nixon Beach sandbar when she fell and was struck by a boat", 
-            "title": "Vessel seized in investigation into death of Ella Adler, killed by boat in Biscayne Bay - CBS Miami"
+            "url": "https://www.cnbc.com/2024/05/14/cramer-warns-against-meme-stock-mania-says-to-sell-gamestop-and-amc.html", 
+            "description": "AMC and GameStop soared after \"Roaring Kitty,\" the man who helped bring on 2021's enormous short squeeze, posted online for the first time in about three years.", 
+            "title": "Cramer warns against 'meme stock mania,' says to sell GameStop and AMC - CNBC"
         }, 
         {
-            "url": "https://www.reuters.com/world/us/trumps-former-fixer-cohen-resume-testifying-about-hush-money-deal-with-porn-star-2024-05-14/", 
-            "description": null, 
-            "title": "Trump's lawyers assail estranged fixer Michael Cohen's credibility at hush money trial - Reuters"
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/14/baltimore-key-bridge-collapse-ntsb-report/", 
+            "description": "The preliminary report offers the first explanation of the problems that led to the Dali container ship\u2019s destruction of the Francis Scott Key Bridge in March.", 
+            "title": "Federal investigators release report into Baltimore bridge collapse - The Washington Post"
         }, 
         {
-            "url": "https://apnews.com/article/baltimore-bridge-collapse-safety-board-report-ntsb-b6d4797441350823adb7721164848c04", 
-            "description": "Investigators probing the March collapse of the Francis Scott Key Bridge in Baltimore said in a preliminary report the cargo ship Dali experienced an electrical blackout about 10 hours before leaving the Port of Baltimore and yet again shortly before it slamm\u2026", 
-            "title": "Cargo ship that caused Baltimore bridge collapse had power blackouts hours before leaving port - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/14/justice-department-says-boeing-breached-2021-agreement-that-shielded-it-from-criminal-charges-over-737-max-crashes.html", 
-            "description": "The Justice Department said Boeing violated a 2021 deferred prosecution agreement that protected it from criminal charges over the two fatal 737 Max crashes.", 
-            "title": "Justice Department says Boeing breached 2021 agreement that shielded it from criminal charges over 737 Max crashes - CNBC"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/health/2024/05/14/covid-variant-flirt-symptoms-vaccine/", 
-            "description": "The coronavirus has once again evolved. But this latest version does not appear to be sparking widespread illness.", 
-            "title": "What to know about covid variant \u2018FLiRT\u2019 symptoms, spread and vaccines - The Washington Post"
-        }, 
-        {
-            "url": "https://apnews.com/article/russia-ukraine-war-blinken-us-military-aid-41df75260903f6b9527fbf3a1a44c815", 
-            "description": "U.S. Secretary of State Antony Blinken is seeking to rally the spirits of glum Ukrainians facing a fierce new Russian offensive. In a visit to Kyiv on Tuesday, he assured them that they're not alone and that billions of dollars in American military aid that's\u2026", 
-            "title": "Russia-Ukraine war: Blinken visits Ukraine to affirm US support for Kyiv - The Associated Press"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-closes-at-record-high-meme-stocks-surge-again-ahead-of-inflation-data-200420429.html", 
-            "description": "Meme stocks soared again as US equities more broadly stayed muted in the countdown to fresh inflation data and a Jerome Powell speech.", 
-            "title": "Stock market today: Nasdaq closes at record high, meme stocks surge again ahead of inflation data - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.cbssports.com/wnba/news/caitlin-clarks-wnba-debut-game-indiana-fever-vs-connecticut-sun-start-time-where-to-watch-odds/", 
-            "description": "Clark officially begins her WNBA career on Tuesday night as she and the Fever play the first game of the season", 
-            "title": "Caitlin Clark's WNBA debut game -- Indiana Fever vs. Connecticut Sun: Start time, where to watch, odds - CBS Sports"
+            "url": "https://apnews.com/article/biden-china-tariffs-electric-vehicles-evs-solar-2024ba735c47e04a50898a88425c5e2c", 
+            "description": "President Joe Biden says in defending his new tariffs on Chinese products that China's government subsidies ensure its companies don\u2019t have to turn a profit, giving them an unfair advantage in global trade. The Democratic president on Tuesday slapped tariffs \u2026", 
+            "title": "Biden raises tariffs on Chinese EVs, chips and other goods - The Associated Press"
         }, 
         {
             "url": "https://removed.com", 
@@ -91,15 +81,25 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://abcnews.go.com/US/boat-custody-miami-teen-killed/story?id=110222544", 
+            "description": "Ella Adler, 15, was killed while wakeboarding in the Miami area, FWC said.", 
+            "title": "Boat found in connection with hit-and-run that killed Florida teen: Authorities - ABC News"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/solar-cycle-largest-flare-bursts-not-over-may-2024/", 
-            "description": "The large explosion of energy and light from the sun comes just days after Earth was slammed with the biggest geomagnetic storm in more than 20 years.", 
-            "title": "Sun emits its largest X-class flare of the solar cycle as officials warn bursts from massive sunspot \"not done yet\" - CBS News"
+            "url": "https://www.cnn.com/travel/inappropriate-behavior-shuts-down-dublin-new-york-portal/index.html", 
+            "description": "A livestream sculpture installation connecting Dublin, Ireland, and New York City has been temporarily shut down because of \u201cinappropriate behavior.\u201d", 
+            "title": "\u2018Inappropriate\u2019 behavior shuts down Dublin to New York City portal - CNN"
+        }, 
+        {
+            "url": "https://gizmodo.com/raw-milk-sales-up-bird-flu-h5n1-tiktok-usda-cdc-fda-1851476916", 
+            "description": "Pasteurization kills H5N1, but raw milk has \"high concentrations\" of the virus. Please don't drink raw milk.", 
+            "title": "Raw Milk Sales Skyrocket as Idiots Believe Drinking Bird Flu Will Give Them 'Immunity' - Gizmodo"
+        }, 
+        {
+            "url": "https://www.wesh.com/article/ocala-bus-crash/60788231", 
+            "description": "According to Marion County Public Schools, their school buses were used to transport victims to the hospital.", 
+            "title": "Florida bus crash: 8 people dead, 45 hospitalized in Ocala - WESH 2 Orlando"
         }
     ], 
-    "last_updated": "2024-05-16 03:08:48"
+    "last_updated": "2024-05-16 03:30:52"
 }
