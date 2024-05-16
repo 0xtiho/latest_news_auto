@@ -1,39 +1,9 @@
 {
     "news": [
         {
-            "url": "https://www.usatoday.com/story/sports/wnba/2024/05/14/indiana-connecticut-caitlin-clark-wnba-first-game-score-highlights/73684549007/", 
-            "description": "Caitlin Clark makes her official pro debut tonight as the Indiana Fever face the Sun in Connecticut in one of four WNBA season openers.", 
-            "title": "Caitlin Clark makes WNBA regular-season debut: Indiana Fever vs Connecticut Sun live updates - USA TODAY"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/14/politics/takeaways-day-17-trump-hush-money-trial-michael-cohen/index.html", 
-            "description": "Donald Trump\u2019s attorney Todd Blanche began his confrontation with Michael Cohen on Tuesday by throwing the former fixer\u2019s language back in his face.", 
-            "title": "Takeaways from the first day of Michael Cohen\u2019s cross-examination in the Trump hush money trial - CNN"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/walmart-lays-off-hundreds-employees-012657914.html", 
-            "description": "Walmart on Tuesday announced layoffs affecting several hundred jobs at the retail giant\u2019s campus offices.  It also said it will require most remote workers...", 
-            "title": "Walmart lays off hundreds of employees and requires others to relocate - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/14/politics/biden-administration-new-israel-arms-deal/index.html", 
-            "description": "The Biden administration on Tuesday began the early stages of a process to move ahead with a new $1 billion arms deal for Israel, according to two congressional sources.", 
-            "title": "Biden administration begins lengthy process to approve new $1 billion arms deal for Israel - CNN"
-        }, 
-        {
-            "url": "https://apnews.com/article/sun-solar-flare-earth-ed204eef352560f09b8366bee05e2381", 
-            "description": "The sun isn't done yet. That's the message from the National Oceanic and Atmospheric Administration, as the biggest flare in nearly two decades erupted on the sun Tuesday. A NASA spacecraft photographed the bright flash of the X-ray flare, which was classifie\u2026", 
-            "title": "Sun shoots out biggest solar flare in nearly a decade - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/14/business/boeing-justice-department-criminal-prosecution/index.html", 
-            "description": "The Justice Department on Tuesday notified Boeing Co. that it breached terms of\u00a0its\u00a02021 deferred prosecution agreement, under which the company avoided criminal prosecution for safety lapses in exchange for paying $2.5 billion in penalties and promised to im\u2026", 
-            "title": "Boeing may be prosecuted after breaking safety agreement that prevented criminal charges for 737 crashes, US DOJ says - CNN"
-        }, 
-        {
-            "url": "https://www.espn.com/nhl/story/_/id/40148473/bronny-james-focused-simply-getting-league", 
-            "description": "Speaking to reporters at the NBA combine on Tuesday, Bronny James, addressing the idea of playing with his father, LeBron James, said, \"That's not my mindset or not at all. I'm just trying to put in the work and see where it takes me from there.\"", 
-            "title": "Bronny James focused on simply 'getting to the league' - ESPN"
+            "url": "https://www.wesh.com/article/ocala-bus-crash/60788231", 
+            "description": "According to Marion County Public Schools, their school buses were used to transport victims to the hospital.", 
+            "title": "Florida bus crash: 8 people dead, 45 hospitalized in Ocala - WESH 2 Orlando"
         }, 
         {
             "url": "https://sports.yahoo.com/live/2024-nfl-schedule-release-live-updates-ahead-of-wednesdays-full-announcement-222736159.html", 
@@ -41,65 +11,95 @@
             "title": "2024 NFL schedule release: Live updates ahead of Wednesday's full announcement - Yahoo Sports"
         }, 
         {
-            "url": "https://apnews.com/article/maryland-west-virginia-senate-primary-republican-democrat-632750f07b79a9bd4922635fd07ca644", 
-            "description": "Republican voters have advanced strong Senate contenders in Maryland and West Virginia, giving the GOP a big boost in its push to claim control of Congress\u2019 upper chamber. Former Republican Gov. Larry Hogan claimed the Republican nomination in what will be a \u2026", 
-            "title": "Primaries in Maryland and West Virginia will shape the battle this fall for a Senate majority - The Associated Press"
+            "url": "https://6abc.com/post/aldi-cream-cheese-recall-schreiber-foods-hy-vee/14814486/", 
+            "description": "A total of four cream cheese spreads in 8-ounce cup containers sold under the Aldi brand name have been impacted by this recall: Regular cream cheese, Whipped cream cheese, Chive and onion, and Strawberry.", 
+            "title": "Cream cheese sold at Aldi, Hy-Vee recalled in 29 states over salmonella concerns - WPVI-TV"
         }, 
         {
-            "url": "https://abcnews.go.com/International/protesters-israel-arrested-after-attacking-gaza-aid-trucks/story?id=110220557", 
-            "description": "Footage shows protesters apparently destroying boxes of aid bound for Gaza.", 
-            "title": "Protesters in Israel arrested after attacking Gaza aid trucks - ABC News"
+            "url": "https://www.ft.com/content/ca009a44-d115-4e6d-9c0f-b4ec2f006084", 
+            "description": "Exit comes 6 months after Sutskever and others moved to oust CEO Sam Altman", 
+            "title": "OpenAI co-founder and chief scientist Ilya Sutskever departs - Financial Times"
         }, 
         {
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/disney-upfront-bob-iger-emma-stone-jimmy-kimmel-1235899498/", 
-            "description": "Ryan Reynolds cracks jokes about cocaine and Jimmy Kimmel makes Sheryl Lee Ralph blush in the increasingly spicy House of Mouse.", 
-            "title": "Inside the Racy Disney Upfront: Bob Iger and Amorous Golden Retrievers Take Center Stage - Hollywood Reporter"
+            "url": "https://www.jpost.com/israel-hamas-war/2024-05-15/live-updates-801199", 
+            "description": "US denies it withheld information about Hamas leaders' whereabouts \u2022 Hostage families criticize inaction by government", 
+            "title": "Israel-Hamas War Day 222: What is happening in Gaza, Lebanon? - The Jerusalem Post"
         }, 
         {
-            "url": "https://apnews.com/article/rudy-giuliani-bankruptcy-judge-7ee7fa1fa5885e8114060a87b481f7b8", 
-            "description": "A New York bankruptcy judge has denied Rudy Giuliani a chance to pursue an appeal of a $148 million defamation judgment for spreading lies about the the 2020 election. The judge says Tuesday that he was \u201cdisturbed\u201d by the lack of progress in the case. Giulian\u2026", 
-            "title": "Giuliani bankruptcy judge frustrated with case, rebuffs attempt to challenge $148 million judgment - The Associated Press"
+            "url": "https://www.cnn.com/2024/05/15/asia/thailand-lese-majeste-activist-death-netiporn-intl-hnk/index.html", 
+            "description": "Death of activist Netiporn \u201cBung\u201d Sanesangkhom following her prolonged hunger strike prompts outpouring of grief and renewed calls for justice reform in Thailand.", 
+            "title": "Young Thai activist\u2019s death in detention after 65-day hunger strike sparks calls for justice reform - CNN"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/14/cramer-warns-against-meme-stock-mania-says-to-sell-gamestop-and-amc.html", 
-            "description": "AMC and GameStop soared after \"Roaring Kitty,\" the man who helped bring on 2021's enormous short squeeze, posted online for the first time in about three years.", 
-            "title": "Cramer warns against 'meme stock mania,' says to sell GameStop and AMC - CNBC"
+            "url": "https://www.espn.com/nba/story/_/id/40149906/nikola-jokic-collects-mvp-trophy-scores-40-points-nuggets-game-5-win-vs-wolves", 
+            "description": "Nikola Jokic celebrated his third MVP award by scoring 40 points and outdueling Defensive Player of the Year Rudy Gobert in the Nuggets' Game 5 win over the Timberwolves on Tuesday night.", 
+            "title": "Nikola Jokic scores 40, lifts Nuggets to 3-2 lead vs. Wolves - ESPN"
         }, 
         {
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/14/baltimore-key-bridge-collapse-ntsb-report/", 
-            "description": "The preliminary report offers the first explanation of the problems that led to the Dali container ship\u2019s destruction of the Francis Scott Key Bridge in March.", 
-            "title": "Federal investigators release report into Baltimore bridge collapse - The Washington Post"
+            "url": "https://www.npr.org/2024/05/15/1251505500/walmart-lays-off-hundreds-of-employees-and-requires-others-to-relocate", 
+            "description": "Walmart said it will require most remote workers in its Dallas, Atlanta and Toronto offices to relocate to its offices in Bentonville, Arkansas; Hoboken, New Jersey; and the San Francisco Bay Area.", 
+            "title": "Walmart lays off hundreds of employees and requires others to relocate - NPR"
         }, 
         {
-            "url": "https://apnews.com/article/biden-china-tariffs-electric-vehicles-evs-solar-2024ba735c47e04a50898a88425c5e2c", 
-            "description": "President Joe Biden says in defending his new tariffs on Chinese products that China's government subsidies ensure its companies don\u2019t have to turn a profit, giving them an unfair advantage in global trade. The Democratic president on Tuesday slapped tariffs \u2026", 
-            "title": "Biden raises tariffs on Chinese EVs, chips and other goods - The Associated Press"
+            "url": "https://www.bbc.com/news/articles/c1030vvy0mzo", 
+            "description": "Ukraine says it has moved troops to \"advantageous positions\" as Russia intensifies its attacks on the region.", 
+            "title": "Ukraine troops pull back in Kharkiv after Russia offensive - BBC.com"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.cnbc.com/2024/05/15/putin-xi-meeting-russia-wants-3-things-from-china-says-fpri.html", 
+            "description": "Russian President\u00a0Vladimir Putin's meeting with Chinese leader Xi Jinping in China this week is the latest sign of the deepening strategic ties between both sides.", 
+            "title": "Putin wants 3 things from Xi as he seeks to deepen Russia-China ties, analyst says - CNBC"
         }, 
         {
-            "url": "https://abcnews.go.com/US/boat-custody-miami-teen-killed/story?id=110222544", 
-            "description": "Ella Adler, 15, was killed while wakeboarding in the Miami area, FWC said.", 
-            "title": "Boat found in connection with hit-and-run that killed Florida teen: Authorities - ABC News"
+            "url": "https://nypost.com/2024/05/15/sports/spike-lee-knicks-fans-go-wild-after-game-5-rout-of-pacers/", 
+            "description": "Knicks fans couldn\u2019t help but show pure jubilation after their team\u2019s Game 5 win on Tuesday night.", 
+            "title": "Spike Lee, Knicks fans go wild outside MSG after rout of Pacers: 'Knicks in six!' - New York Post "
         }, 
         {
-            "url": "https://www.cnn.com/travel/inappropriate-behavior-shuts-down-dublin-new-york-portal/index.html", 
-            "description": "A livestream sculpture installation connecting Dublin, Ireland, and New York City has been temporarily shut down because of \u201cinappropriate behavior.\u201d", 
-            "title": "\u2018Inappropriate\u2019 behavior shuts down Dublin to New York City portal - CNN"
+            "url": "https://www.foxnews.com/sports/connecticut-sun-rout-indiana-fever-spoil-caitlin-clarks-wnba-debut", 
+            "description": "The Indiana Fever suffered a double digit loss to the Connecticut Sun on Tuesday night, as Caitlin Clark scored 20 points in her WNBA debut.", 
+            "title": "Connecticut Sun rout Indiana Fever to spoil Caitlin Clark\u2019s WNBA debut - Fox News"
         }, 
         {
-            "url": "https://gizmodo.com/raw-milk-sales-up-bird-flu-h5n1-tiktok-usda-cdc-fda-1851476916", 
-            "description": "Pasteurization kills H5N1, but raw milk has \"high concentrations\" of the virus. Please don't drink raw milk.", 
-            "title": "Raw Milk Sales Skyrocket as Idiots Believe Drinking Bird Flu Will Give Them 'Immunity' - Gizmodo"
+            "url": "https://www.cnn.com/2024/05/14/politics/maryland-senate-race-democratic-primary/index.html", 
+            "description": "Angela Alsobrooks will win Maryland\u2019s Democratic nomination for US Senate, CNN projects, advancing\u00a0her potentially history-making candidacy\u00a0to\u00a0the\u00a0competitive general election with implications for control of the chamber next year.", 
+            "title": "Alsobrooks will win Maryland Democratic Senate nod, CNN projects, defeating a record-breaking self-funder - CNN"
         }, 
         {
-            "url": "https://www.wesh.com/article/ocala-bus-crash/60788231", 
-            "description": "According to Marion County Public Schools, their school buses were used to transport victims to the hospital.", 
-            "title": "Florida bus crash: 8 people dead, 45 hospitalized in Ocala - WESH 2 Orlando"
+            "url": "https://www.sciencealert.com/surprising-study-finds-men-with-low-testosterone-more-likely-to-die-early", 
+            "description": "It has long been thought that testosterone shortens men's lives.", 
+            "title": "Surprising Study Finds Men With Low Testosterone More Likely to Die Early - ScienceAlert"
+        }, 
+        {
+            "url": "https://www.msnbc.com/alex-wagner-tonight/watch/-utterly-humiliating-trump-sycophants-in-matching-suits-audition-for-trump-outside-trial-210954309549", 
+            "description": "Outside of the courthouse where Donald Trump's criminal trial is taking place, a gaggle of Republicans with aspirations of being Trump's new running mate dressed in curiously matching suits and parroted Trump's criticisms of the trial and the judge in a bizar\u2026", 
+            "title": "'Utterly humiliating': Trump sycophants in matching suits audition for Trump outside trial - MSNBC"
+        }, 
+        {
+            "url": "https://www.thecrimson.com/article/2024/5/15/hoekstra-harvard-yard-encampment/", 
+            "description": "Faculty of Arts and Sciences Dean Hopi E. Hoekstra praised interim University President Alan M. Garber \u201976 for his handling of the pro-Palestine encampment and called for \u201ctrue and meaningful dialogue\u201d in her first public statement about the nearly three-week\u2026", 
+            "title": "FAS Dean Hopi Hoekstra Takes Victory Lap After Peaceful End to Harvard Yard Encampment | News - Harvard Crimson"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/14/alameda-da-pamela-price-recall-vote-00157997", 
+            "description": null, 
+            "title": "Alameda DA Pamela Price faces recall vote in November - POLITICO"
+        }, 
+        {
+            "url": "https://apnews.com/article/us-israel-arms-gaza-ebe971ca8878ff430ce6458c04151585", 
+            "description": "The Biden administration has told key lawmakers it is sending a more than $1 billion in additional arms and ammunition to Israel. That's according to three congressional aides who spoke of condition of anonymity to discuss an arms transfer that has not yet be\u2026", 
+            "title": "Biden administration is sending $1 billion more in weapons, ammo to Israel, congressional aides say - The Associated Press"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/ship-struck-francis-scott-key-bridge-blackouts-10/story?id=110218718", 
+            "description": "Two incidents took place while the ship was docked in Baltimore, the NTSB said.", 
+            "title": "Ship that struck Francis Scott Key Bridge had blackouts 10 hours before crash, NTSB report finds - ABC News"
+        }, 
+        {
+            "url": "https://abcnews.go.com/Health/kp2-now-dominant-covid-variant-experts-us-summer/story?id=110166187", 
+            "description": "KP.2 currently makes up an estimated 28.2% of cases in the U.S., CDC data shows.", 
+            "title": "KP.2 is now the dominant COVID variant. Experts say US may see a summer increase in cases - ABC News"
         }
     ], 
-    "last_updated": "2024-05-16 04:39:01"
+    "last_updated": "2024-05-16 11:46:18"
 }
