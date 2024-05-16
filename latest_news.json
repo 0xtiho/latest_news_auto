@@ -1,34 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.nbcnews.com/news/us-news/barge-slams-galveston-bridge-texas-causing-partial-collapse-shutdown-rcna152425", 
-            "description": "A barge slammed into a bridge in Galveston on Wednesday, spilling oil into the bay and forcing a shutdown of the Texas span, officials said, in the latest accident involving prominent U.S. thoroughfares.", 
-            "title": "Barge slams into Galveston bridge in Texas, causing partial collapse and shutdown - NBC News"
+            "url": "https://www.eonline.com/news/1401688/sophie-turner-reveals-where-she-and-ex-joe-jonas-stand-after-breakup", 
+            "description": "Sophie Turner shared what her relationship with estranged husband Joe Jonas\u2014who share daughters Willa and Delphine Jonas\u2014looks like and what she sees for their future.", 
+            "title": "Sophie Turner Reveals Where She and Ex Joe Jonas Stand After Breakup - E! NEWS"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-breaches-5300-as-stocks-rally-to-records-after-cpi-163737320.html", 
+            "description": "Stocks edged higher on Wednesday as investors digested fresh readings on inflation and consumer spending.", 
+            "title": "Stock market today: S&P 500 breaches 5300 as stocks rally to records after CPI - Yahoo Finance"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jams0a3I0N21sdm_SAQA?oc=5", 
+            "description": null, 
+            "title": "Gaza war: US says floating aid pier operational 'in days' - BBC.com"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9mcmVuY2gtcG9saWNlLXNlYXJjaC10aGUtZmx5LWFmdGVyLWRlYWRseS1wcmlzb24tdmFuLWVzY2FwZS0yMDI0LTA1LTE1L9IBAA?oc=5", 
+            "description": null, 
+            "title": "French police search for 'The Fly' after deadly prison van escape - Reuters.com"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/furiosa-reactions-world-premiere-ovation-cannes-1235916996/", 
+            "description": "George Miller\u2019s Furiosa: A Mad Max Saga, the latest in his apocalyptic franchise, had its world premiere at the Cannes Film Festival on May 15.", 
+            "title": "\u2018Furiosa\u2019 Gets Nearly 8-Minute Standing Ovation After Its Cannes World Premiere - Deadline"
+        }, 
+        {
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-steelers-ravens-texans-will-play-on-christmas-day", 
+            "description": "The Chiefs and Ravens will both be playing on Dec. 25 for the second year in a row.", 
+            "title": "Chiefs-Steelers, Ravens-Texans will play on Christmas Day - NBC Sports"
+        }, 
+        {
+            "url": "https://www.wesh.com/article/mexican-consulate-florida-bus-crash-victims/60803562", 
+            "description": "The Mexican Consulate in Orlando said the victims of Tuesday's massive bus crash in Ocala are seeking legal and mental health support.", 
+            "title": "Mexican Consulate in Orlando expected to give update on Ocala bus crash victims - WESH 2 Orlando"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
             "url": "https://sports.yahoo.com/live/2024-nfl-schedule-release-live-updates-ahead-of-tonights-full-announcement-222736022.html", 
             "description": "Before Wednesday arrives, football fans got some appetizers as some games were formally announced.", 
-            "title": "2024 NFL schedule release: Live updates ahead of Wednesday's full announcement - Yahoo Sports"
+            "title": "2024 NFL schedule release: Live updates ahead of tonight's full announcement - Yahoo Sports"
         }, 
         {
-            "url": "https://www.wsj.com/livecoverage/cpi-report-today-inflation-stock-market-05-15-2024", 
-            "description": "The consumer-price index for April is out. Follow along for live updates on stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.", 
-            "title": "Stock Market Today: Dow Rises 300 Points After CPI Shows Inflation Eased in April -- Live Updates - The Wall Street Journal"
-        }, 
-        {
-            "url": "http://9to5google.com/2024/05/15/android-boosting-security-with-theft-detection-lock-factory-reset-protection/", 
-            "description": "In addition to Private Space, Android at I/O 2024 is really working to boost the mobile operating system\u2019s theft, security,...", 
-            "title": "Android boosting security with Theft Detection Lock, factory reset protection - 9to5Google"
-        }, 
-        {
-            "url": "https://techcrunch.com/2024/05/15/google-i-o-2024-everything-announced-so-far/", 
-            "description": "Here are quick hits of the biggest news from the Google I/O keynote as they are announced, all in an easy-to-digest, easy-to-skim list.", 
-            "title": "Google I/O 2024: Here's everything Google just announced - TechCrunch"
-        }, 
-        {
-            "url": "https://apnews.com/article/2024-election-presidential-debates-biden-trump-6b1d1dbb2ed61c7637041b23662d7da8", 
-            "description": "President Joe Biden and former President Donald Trump have agreed to hold two campaign debates, on June 27 hosted by CNN and on Sept. 10 hosted by ABC. CNN says its debate will be held in its Atlanta studios and \u201cno audience will be present.\u201d The Democratic p\u2026", 
-            "title": "Biden and Trump agree to 2 presidential debates, in June and in September - The Associated Press"
+            "url": "https://www.cnbc.com/2024/05/15/china-biden-ev-tariffs-may-not-be-enough-to-stave-off-growing-threat.html", 
+            "description": "Automotive and trade experts say the increased tariffs are a near-term protectionism act that may delay, but won't stop, Chinese EVs from coming to the U.S.", 
+            "title": "Biden's EV tariffs may not be enough to stave off the threat of Chinese vehicles in the U.S. - CNBC"
         }, 
         {
             "url": "https://www.bbc.com/news/science-environment-69012221", 
@@ -36,9 +56,24 @@
             "title": "Scientists solve mystery of ancient 'tree of life' - BBC.com"
         }, 
         {
-            "url": "https://www.france24.com/en/europe/20240515-what-we-know-about-france-the-fly-and-his-deadly-prison-van-escape", 
+            "url": "https://www.reuters.com/world/europe/dozens-countries-signing-up-ukraine-peace-summit-switzerland-says-2024-05-15/", 
             "description": null, 
-            "title": "What we know about France's 'The Fly' and his deadly prison van escape - FRANCE 24 English"
+            "title": "Dozens of countries signing up for Ukraine peace summit, Switzerland says - Reuters.com"
+        }, 
+        {
+            "url": "https://arstechnica.com/gadgets/2024/05/android-15-gets-private-space-theft-detection-and-av1-support/", 
+            "description": "Android 15 Beta 2 is out for Pixels and several third-party devices.", 
+            "title": "Android 15 gets \u201cPrivate Space,\u201d theft detection, and AV1 support - Ars Technica"
+        }, 
+        {
+            "url": "https://www.click2houston.com/news/local/2024/05/15/pelican-island-bridge-shut-down-after-barge-strike-in-galveston/", 
+            "description": "It's unclear what led up to the barge strike, but we're told no injuries have been reported, traffic has been shut down in both directions and classes at Texas A&M were canceled for the day.", 
+            "title": "Fuel barge crashes into Pelican Island Causeway in Galveston, spilling oil and shutting down access to Pelican Island - KPRC Click2Houston"
+        }, 
+        {
+            "url": "https://apnews.com/article/2024-election-presidential-debates-biden-trump-6b1d1dbb2ed61c7637041b23662d7da8", 
+            "description": "President Joe Biden and former President Donald Trump have agreed to hold two campaign debates, on June 27 hosted by CNN and on Sept. 10 hosted by ABC. CNN says its debate will be held in its Atlanta studios and \u201cno audience will be present.\u201d The Democratic p\u2026", 
+            "title": "Biden and Trump agree to 2 presidential debates, in June and in September - The Associated Press"
         }, 
         {
             "url": "https://variety.com/2024/film/news/megalopolis-francis-ford-coppola-cannes-premiere-controversy-1236004301/", 
@@ -61,45 +96,10 @@
             "title": "Apple Previews Three New CarPlay Features Coming With iOS 18 - MacRumors"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMTUvc3R5bGUvd2VzdG1pbnN0ZXItZG9nLXNob3ctYmVzdC1pbi1zaG93Lmh0bWzSAQA?oc=5", 
-            "description": null, 
-            "title": "Westminster Dog Show 2024: Unforgettable Dogs Like Sage, Monty and Mercedes - The New York Times"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-69016219", 
-            "description": "Senator Bob Menendez is accused of bribery and trading his influence for gold bars and luxury goods.", 
-            "title": "Bob Menendez corruption trial will soon hear opening remarks - BBC.com"
-        }, 
-        {
-            "url": "https://www.espn.com/nfl/story/_/id/40151971/giants-make-hard-knocks-debut-series-1st-offseason-edition", 
-            "description": "The Giants are finally going to be on the HBO docuseries \"Hard Knocks\" in the first offseason version of the long-standing franchise.", 
-            "title": "Giants to make 'Hard Knocks' debut on series' 1st offseason edition - ESPN"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/asia-deadly-heat-wave-india-bangladesh-climate-change/", 
-            "description": "Extreme heat is known as a \"silent killer,\" and in some areas across Asia, its intensity would have been impossible without one critical factor, a new study found.", 
-            "title": "Asia just had a deadly heat wave, and scientists say it could happen again. Here's what's making it much more likely. - CBS News"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/15/1251265727/un-gaza-death-toll-women-children", 
-            "description": "Here's a closer look at the United Nations' breakdown of casualties. The overall total of more than 35,000 Palestinians killed since Oct. 7, based on Gaza Health Ministry figures, has not declined.", 
-            "title": "Why U.N. lowered Gaza death toll for women and children - NPR"
-        }, 
-        {
-            "url": "https://apnews.com/article/us-israel-arms-gaza-ebe971ca8878ff430ce6458c04151585", 
-            "description": "The Biden administration has told key lawmakers it plans to move ahead on a more than $1 billion arms sales to Israel. That's according to three congressional aides who spoke of condition of anonymity to discuss an arms transfer that has not yet been made pub\u2026", 
-            "title": "Biden administration is moving ahead on new $1 billion arms sale to Israel, congressional aides say - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/15/world/first-warm-blooded-dinosaurs-scn/index.html", 
-            "description": "Dinosaurs were initially cold-blooded, but global warming 180 million years ago may have triggered the evolution of warm-blooded species, a new study found.", 
-            "title": "Did dinosaur blood run hot or cold? Both, according to a new study - CNN"
-        }, 
-        {
-            "url": "https://www.etonline.com/sophie-turner-says-she-didnt-know-if-i-was-going-to-make-it-amid-joe-jonas-split-225480", 
-            "description": "The 'Game of Thrones' star calls the time after her split from Joe Jonas 'the worst few days of my life.'", 
-            "title": "Sophie Turner Says She 'Didn't Know If I Was Going to Make It' Amid Joe Jonas Split - Entertainment Tonight"
+            "url": "https://www.cbssports.com/college-football/news/ranking-the-top-25-power-four-college-football-coaches-entering-the-2024-season/", 
+            "description": "The CBS Sports and 247Sports experts have ranked every Power Four coach from 1-68 as the season approaches", 
+            "title": "Ranking the top 25 Power Four college football coaches entering the 2024 season - CBS Sports"
         }
     ], 
-    "last_updated": "2024-05-16 23:17:11"
+    "last_updated": "2024-05-16 23:30:31"
 }
