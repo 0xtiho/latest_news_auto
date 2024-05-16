@@ -1,13 +1,88 @@
 {
     "news": [
         {
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNS9ldXJvcGUvc2xvdmFraWEtcHJpbWUtbWluaXN0ZXItZmljby1zaG9vdGluZy1pbnRsL2luZGV4Lmh0bWzSAQA?oc=5", 
-            "description": null, 
+            "url": "https://thehill.com/homenews/media/4665537-gayle-king-sports-illustrated-swimsuit-cover/", 
+            "description": "\u201cCBS Mornings\u201d co-host Gayle King revealed her shock when asked to pose for the Sports Illustrated Swimsuit\u2019s 60th anniversary edition, telling the magazine she thought was being pranked at the time. \u201cI honest to God thought I had been\u00a0\u2018Punk\u2019d,\u2019\u201d King, 69, to\u2026", 
+            "title": "Gayle King on Sports Illustrated Swimsuit cover: \u2018I \u2026 thought I had been Punk\u2019d\u2019 - The Hill"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/biden-willing-debate-trump-twice/", 
+            "description": "President Biden and former President Donald Trump will go head-to-head in presidential debates on June 27 and Sept. 10, their campaigns said Wednesday.", 
+            "title": "Biden and Trump agree to presidential debates on June 27 and Sept. 10 - CBS News"
+        }, 
+        {
+            "url": "https://bleacherreport.com/articles/10121164-nfl-schedule-release-2024-travel-mileage-totals-for-all-32-teams-ahead-of-reveal", 
+            "description": "The Los Angeles Chargers will need to find a way to beat jet lag in 2024. The Chargers are set to undergo an NFL-high 36 time zone changes while traveling for\u2026", 
+            "title": "NFL Schedule Release 2024: Travel Mileage Totals for All 32 Teams Ahead of Reveal - Bleacher Report"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/15/europe/slovakia-prime-minister-fico-shooting-intl/index.html", 
+            "description": "Slovakia\u2019s Prime Minister Robert Fico was shot multiple times after a government meeting and is in a life-threatening condition, according to a statement posted on his official Facebook page.", 
             "title": "Slovakia\u2019s Prime Minister Fico in life-threatening condition after being shot multiple times - CNN"
         }, 
         {
-            "url": "https://sports.yahoo.com/welcome-to-the-wnba-caitlin-clarks-regular-season-debut-anything-but-easy-044525295.html", 
+            "url": "https://www.reuters.com/world/asia-pacific/new-caledonia-riots-rage-after-paris-approves-voting-change-2024-05-15/", 
             "description": null, 
+            "title": "Four dead in New Caledonia riots, France to declare state of emergency - Reuters"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/15/1251265727/un-gaza-death-toll-women-children", 
+            "description": "Here's a closer look at the United Nations' breakdown of casualties. The overall total of more than 35,000 Palestinians killed since Oct. 7, based on Gaza Health Ministry figures, has not declined.", 
+            "title": "Why U.N. lowered Gaza death toll for women and children - NPR"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://apnews.com/article/us-israel-arms-gaza-ebe971ca8878ff430ce6458c04151585", 
+            "description": "The Biden administration has told key lawmakers it plans to move ahead on a more than $1 billion arms sales to Israel. That's according to three congressional aides who spoke of condition of anonymity to discuss an arms transfer that has not yet been made pub\u2026", 
+            "title": "Biden administration is moving ahead on new $1 billion arms sale to Israel, congressional aides say - The Associated Press"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1401646/sophie-turner-breaks-silence-on-shocking-aftermath-of-joe-jonas-divorce", 
+            "description": "Eight months after Sophie Turner and Joe Jonas' breakup, the Game of Thrones alum detailed the \"shocking\" aftermath that played out online and how Taylor Swift provided her a \"safe space.\"", 
+            "title": "Sophie Turner Breaks Silence on \"Shocking\" Aftermath of Joe Jonas Divorce - E! Online - E! NEWS"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/nbc-out/out-news/united-methodists-scrap-anti-gay-bans-pastor-defied-seeks-reinstatemen-rcna152359", 
+            "description": "Earlier this month, delegates at a United Methodist Church conference struck down the UMC\u2019s longstanding anti-LGBTQ policies and created a path for clergy ousted because of them to seek reinstatement.", 
+            "title": "United Methodists scrap their anti-gay bans. A pastor who defied them seeks reinstatement. - NBC News"
+        }, 
+        {
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-rise-less-than-expected-april-core-cpi-slows-2024-05-15/", 
+            "description": null, 
+            "title": "US consumer inflation cools in April; retail sales flat - Reuters.com"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=BqFtou3vcVk", 
+            "description": "On The Hoop Collective, Brian Windhorst and company talk through the \u201creliable connection\u201d between the huge impact from the duo of Jalen Brunson and Miles \u201cD...", 
+            "title": "Jalen Brunson & Deuce McBride\u2019s HUGE pick & roll impact for Knicks in Game 5 \ud83d\udcaa | The Hoop Collective - ESPN"
+        }, 
+        {
+            "url": "https://9to5mac.com/2024/05/15/as-m4-ipad-pro-arrives-joz-sets-the-record-straight-tablets-suck-and-ipads-dont/", 
+            "description": "Happy M4 iPad Pro launch day! Whether you\u2019re picking one up for yourself or dreaming about which configuration you\u2019d order,...", 
+            "title": "As M4 iPad Pro arrives, Joz sets the record straight: \u2018tablets suck, and iPads don\u2019t\u2019 - 9to5Mac"
+        }, 
+        {
+            "url": "https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/", 
+            "description": "Apple today announced new accessibility features coming later this year, including Eye Tracking, Music Haptics, and Vocal Shortcuts.", 
+            "title": "Apple announces new accessibility features, including Eye Tracking - Apple"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/health/2024/05/15/cervical-cancer-hpv-screening-test/", 
+            "description": "Women\u2019s health advocates view the move as crucial to stamping out the preventable disease.", 
+            "title": "FDA approves self-collection screening for virus that causes cervical cancer - The Washington Post"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/politics/2024/05/15/michael-cohen-trump-trial-transcript/", 
+            "description": "Cohen, a key witness in Donald Trump\u2019s hush money trial, was grilled during cross-examination on past lies and his colorful insults of the former president.", 
+            "title": "The lies and insults of Michael Cohen, from the Trump trial transcript - The Washington Post"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/welcome-to-the-wnba-caitlin-clarks-regular-season-debut-anything-but-easy-044525295.html", 
+            "description": "Clark set the Indiana Fever\u2019s franchise record for turnovers (10), shot 5-of-15 from the floor and struggled with the Connecticut Sun\u2019s physical defense.", 
             "title": "Welcome to the WNBA: Caitlin Clark's regular-season debut is anything but easy - Yahoo Sports"
         }, 
         {
@@ -21,85 +96,10 @@
             "title": "Sun shoots out biggest solar flare in almost 2 decades -- just days after solar storms pummeled Earth - New York Post "
         }, 
         {
-            "url": "https://bleacherreport.com/articles/10121133-nfl-schedule-2024-packers-vs-eagles-in-brazil-all-international-games-revealed", 
-            "description": "The NFL will release its full schedule Wednesday night, but that's not stopping the league from dropping off at least one more preview. This season's five NFL\u2026", 
-            "title": "NFL Schedule 2024: Packers vs. Eagles in Brazil, All International Games Revealed - Bleacher Report"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/15/1251520721/biden-proposes-debates-in-june-and-september-and-names-terms-trump-says-yes", 
-            "description": "President Biden's team says he won't be part of the Commission on Presidential Debates plan. But he said he would be open to two televised debates, in June and September.", 
-            "title": "Biden proposes debates in June and September, and names terms. Trump says yes - NPR"
-        }, 
-        {
             "url": "https://gizmodo.com/project-astra-hands-on-google-io-ai-assistant-1851477898", 
             "description": "Why bother pawing at your device when you can just talk to it and show it things?", 
             "title": "Google I/O: Hands-on With Project Astra, the AI Assistant of the Future - Gizmodo"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/nation/2024/05/15/portal-new-york-dublin-shut-down/73697103007/", 
-            "description": null, 
-            "title": "Portal connecting NYC and Dublin, Ireland shuts down over 'inappropriate behavior' - USA TODAY"
-        }, 
-        {
-            "url": "https://www.coindesk.com/business/2024/05/15/us-cpi-softer-than-expected-at-03-in-april-bitcoin-rises-to-635k/", 
-            "description": "In a year of mostly bad news on inflation, the government's Wednesday report gave some hope that Fed rate cuts might still be on the table.", 
-            "title": "U.S. CPI Softer Than Expected at 0.3% in April; Bitcoin Rises to $63.7K - CoinDesk"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXdhci1ibGlua2VuLWNyaW1lYS0zMGMxNTIxNDlmNjhiYmUwM2M0ODVjZTkxZGY2ZTdhZdIBAA?oc=5", 
-            "description": null, 
-            "title": "Ukrainian troops pull out of some areas and Zelenskyy postpones foreign trips amid Russian offensive - The Associated Press"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNS9hc2lhL25ldy1jYWxlZG9uaWEtdmlvbGVuY2UtZnJhbmNlLXZvdGUtaW50bC1obmsvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDUvMTUvYXNpYS9uZXctY2FsZWRvbmlhLXZpb2xlbmNlLWZyYW5jZS12b3RlLWludGwtaG5r?oc=5", 
-            "description": null, 
-            "title": "Why this French island in the Pacific is being roiled by violence over a vote held 10,000 miles away - CNN"
-        }, 
-        {
-            "url": "http://www.nbcboston.com/news/local/karen-read-trial-day-12/3369609/", 
-            "description": "Shocking testimony in the Karen Read trial is revealing new details from the night that Boston Police Officer John O'Keefe died.", 
-            "title": "Witness in Karen Read trial who said she saw object in snow outside Canton home to testify again - NBC Boston"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=iGVRQBg43qM", 
-            "description": null, 
-            "title": "OpenAI Chief Scientist Ilya Sutskever to Leave the Company - Bloomberg Television"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/15/1251517820/up-first-newsletter-american-credit-card-debt-tiny-desk-contest-winner", 
-            "description": "Nearly 1 in 5 Americans have maxed out their credit card borrowing, according to the Federal Reserve Bank in New York. Tiny Desk Contest crowns its 10th anniversary winner.", 
-            "title": "Up First briefing: American credit card debt; Tiny Desk 2024 winner - NPR"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNS9ldXJvcGUvYmxpbmtlbi1yb2NraW4tZnJlZS13b3JsZC1zY2xpLWludGwvaW5kZXguaHRtbNIBTWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDUvMTUvZXVyb3BlL2JsaW5rZW4tcm9ja2luLWZyZWUtd29ybGQtc2NsaS1pbnRs?oc=5", 
-            "description": null, 
-            "title": "Blinken plays \u2018Rockin\u2019 in the Free World\u2019 in Kyiv bar - CNN"
-        }, 
-        {
-            "url": "https://arstechnica.com/gaming/2024/05/virtual-boy-the-bizarre-rise-and-quick-fall-of-nintendos-enigmatic-red-console/", 
-            "description": "How Nintendo took a gamble on a new kind of gaming experience in the '90s.", 
-            "title": "Virtual Boy: The bizarre rise and quick fall of Nintendo's enigmatic red console - Ars Technica"
-        }, 
-        {
-            "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/wandavisions-agatha-spin-off-confirms-release-date-and-final-title-as-it-becomes-clear-the-marvel-show-really-was-trolling-us-all-along/", 
-            "description": "The studio unveiled the witch-centric sitcom's first trailer too", 
-            "title": "WandaVision's Agatha spin-off confirms release date and FINAL title, as it becomes clear the Marvel show really was trolling us all along - Gamesradar"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA1LzE1L2lzcmFlbC1oYW1hcy13YXItbmV3cy1nYXphLXBhbGVzdGluZS1yYWZhaC_SAQA?oc=5", 
-            "description": null, 
-            "title": "Latest Israel-Hamas war news and Gaza conflict updates - The Washington Post"
-        }, 
-        {
-            "url": "https://mashable.com/video/the-daily-show-chatgpt-ai-voice-assistant", 
-            "description": "\"You can clearly tell that a man built this tech.\"", 
-            "title": "'The Daily Show' mocks the horniness of ChatGPT's AI voice assistant - Mashable"
-        }, 
-        {
-            "url": "https://thehill.com/policy/healthcare/4657340-bird-flu-cows-spread-no-idea/", 
-            "description": "Avian flu is spreading rapidly among cattle, but public health and infectious disease experts are concerned the United States is too limited in its testing, leaving an incomplete picture of the virus\u2019s spread.\u00a0\u00a0 The threat to the general public is currently l\u2026", 
-            "title": "How fast is bird flu spreading in US cows? \u2018We have no idea\u2019 - The Hill"
         }
     ], 
-    "last_updated": "2024-05-16 17:30:05"
+    "last_updated": "2024-05-16 17:46:46"
 }
