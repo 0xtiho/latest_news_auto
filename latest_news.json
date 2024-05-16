@@ -1,24 +1,49 @@
 {
     "news": [
         {
-            "url": "https://www.eonline.com/news/1401688/sophie-turner-reveals-where-she-and-ex-joe-jonas-stand-after-breakup", 
-            "description": "Sophie Turner shared what her relationship with estranged husband Joe Jonas\u2014who share daughters Willa and Delphine Jonas\u2014looks like and what she sees for their future.", 
-            "title": "Sophie Turner Reveals Where She and Ex Joe Jonas Stand After Breakup - E! NEWS"
+            "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-louisiana-use-congressional-map-second-majority-b-rcna151955", 
+            "description": "The Supreme Court paved the way for Louisiana to use a congressional map in this year's election that includes two majority-Black districts.", 
+            "title": "Supreme Court allows Louisiana to use congressional map with second majority-Black district - NBC News"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-breaches-5300-as-stocks-rally-to-records-after-cpi-163737320.html", 
-            "description": "Stocks edged higher on Wednesday as investors digested fresh readings on inflation and consumer spending.", 
-            "title": "Stock market today: S&P 500 breaches 5300 as stocks rally to records after CPI - Yahoo Finance"
+            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-odds-picks-field-predictions-golf-insider-backing-brooks-koepka-at-valhalla/", 
+            "description": "Sia Nejad reveals his PGA Championship 2024 picks, props and sleepers for Valhalla Golf Club following Rory McIlroy's win at the Wells Fargo Championship", 
+            "title": "2024 PGA Championship odds, picks, field, predictions: Golf insider backing Brooks Koepka at Valhalla - CBS Sports"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jams0a3I0N21sdm_SAQA?oc=5", 
-            "description": null, 
-            "title": "Gaza war: US says floating aid pier operational 'in days' - BBC.com"
+            "url": "https://www.eonline.com/news/1401646/sophie-turner-breaks-silence-on-shocking-aftermath-of-joe-jonas-divorce", 
+            "description": "Eight months after Sophie Turner and Joe Jonas' breakup, the Game of Thrones alum detailed the \"shocking\" aftermath that played out online and how Taylor Swift provided her a \"safe space.\"", 
+            "title": "Sophie Turner Breaks Silence on \"Shocking\" Aftermath of Joe Jonas Divorce - E! Online - E! NEWS"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9mcmVuY2gtcG9saWNlLXNlYXJjaC10aGUtZmx5LWFmdGVyLWRlYWRseS1wcmlzb24tdmFuLWVzY2FwZS0yMDI0LTA1LTE1L9IBAA?oc=5", 
-            "description": null, 
-            "title": "French police search for 'The Fly' after deadly prison van escape - Reuters.com"
+            "url": "https://www.kcci.com/article/caitlin-clarks-wnba-debut-dwarfs-betting-on-last-years-clinching-game-in-the-finals/60804700", 
+            "description": "Caitlin Clark's much-anticipated WNBA debut\ufeff produced record betting, far larger than the amount of money wagered on last year's clinching game for the league championship.", 
+            "title": "Big money bet on Caitlin Clark's WNBA debut - KCCI Des Moines"
+        }, 
+        {
+            "url": "https://www.thestreet.com/investing/stocks/fed-gets-inflation-relief-as-cpi-slows-teeing-up-september-rate-cut", 
+            "description": "Stocks got a big boost from a softer-than-expected April inflation report, which showed slowing price pressures across the board.", 
+            "title": "CPI inflation report resets timing of Fed interest rate cuts - TheStreet"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cqene5z41y0o", 
+            "description": "The PM is known for his ability to reinvent his political career in the face of major setbacks.", 
+            "title": "How Robert Fico used Covid and Ukraine to gain power in Slovakia - BBC.com"
+        }, 
+        {
+            "url": "https://www.clickorlando.com/news/local/2024/05/14/heres-what-we-know-about-the-driver-arrested-in-deadly-bus-crash-that-killed-8-farmworkers/", 
+            "description": "Officials on Tuesday announced that Bryan Maclean Howard was arrested in connection to the fatal wreck that killed eight people and injured about 40 others Tuesday morning in Marion County.", 
+            "title": "Here's what we know about the driver arrested in Marion bus crash that killed 8 farmworkers - WKMG News 6 & ClickOrlando"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/wireStory/barge-hits-bridge-galveston-texas-damaging-structure-causing-110268879", 
+            "description": "Officials say a barge has hit a bridge in Galveston, Texas, spilling oil into surrounding waters and closing the only road connecting the city to Pelican Island", 
+            "title": "Barge hits bridge connecting Galveston and Pelican Island, causing partial collapse and oil spill - ABC News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/15/economy/consumer-price-index-inflation-april/index.html", 
+            "description": "Markets surged to record highs Wednesday after new data showed that inflation cooled in April after ticking up recently.", 
+            "title": "S&P 500, Nasdaq and Dow all hit record highs after encouraging inflation data - CNN"
         }, 
         {
             "url": "http://deadline.com/2024/05/furiosa-reactions-world-premiere-ovation-cannes-1235916996/", 
@@ -26,14 +51,19 @@
             "title": "\u2018Furiosa\u2019 Gets Nearly 8-Minute Standing Ovation After Its Cannes World Premiere - Deadline"
         }, 
         {
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-steelers-ravens-texans-will-play-on-christmas-day", 
-            "description": "The Chiefs and Ravens will both be playing on Dec. 25 for the second year in a row.", 
-            "title": "Chiefs-Steelers, Ravens-Texans will play on Christmas Day - NBC Sports"
+            "url": "https://www.reuters.com/world/asia-pacific/new-caledonia-riots-rage-after-paris-approves-voting-change-2024-05-15/", 
+            "description": null, 
+            "title": "Four dead in New Caledonia riots, France declares state of emergency - Reuters"
         }, 
         {
-            "url": "https://www.wesh.com/article/mexican-consulate-florida-bus-crash-victims/60803562", 
-            "description": "The Mexican Consulate in Orlando said the victims of Tuesday's massive bus crash in Ocala are seeking legal and mental health support.", 
-            "title": "Mexican Consulate in Orlando expected to give update on Ocala bus crash victims - WESH 2 Orlando"
+            "url": "https://www.washingtonpost.com/world/2024/05/15/blinken-announces-2-billion-aid-package-ukraine-russians-advance/", 
+            "description": "But the Biden administration remains opposed to allowing Ukraine to strike targets inside Russian territory with U.S. weaponry \u2014 something Ukrainian policymakers have been pushing for.", 
+            "title": "Blinken announces $2 billion aid package for Ukraine as Russians advance - The Washington Post"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
             "url": "https://removed.com", 
@@ -46,6 +76,11 @@
             "title": "2024 NFL schedule release: Live updates ahead of tonight's full announcement - Yahoo Sports"
         }, 
         {
+            "url": "https://www.cnn.com/2024/05/15/us/baltimore-bridge-collapse-house-hearing/index.html", 
+            "description": "The cargo ship Dali experienced two blackouts while moored in the Port of Baltimore a day before its catastrophic collision with the Francis Scott Key Bridge, and efforts to resolve those blackouts may have impacted the ship\u2019s operations, the head of the Nati\u2026", 
+            "title": "Cargo ship outages on the day before the Baltimore bridge collision may have impacted ship\u2019s operations, NTSB chief says - CNN"
+        }, 
+        {
             "url": "https://www.cnbc.com/2024/05/15/china-biden-ev-tariffs-may-not-be-enough-to-stave-off-growing-threat.html", 
             "description": "Automotive and trade experts say the increased tariffs are a near-term protectionism act that may delay, but won't stop, Chinese EVs from coming to the U.S.", 
             "title": "Biden's EV tariffs may not be enough to stave off the threat of Chinese vehicles in the U.S. - CNBC"
@@ -56,50 +91,15 @@
             "title": "Scientists solve mystery of ancient 'tree of life' - BBC.com"
         }, 
         {
+            "url": "https://www.nbcnews.com/news/world/massive-us-dock-deliver-food-humanitarian-aid-will-reach-gaza-tonight-rcna147623", 
+            "description": "The U.S. has begun towing a floating dock system for delivering humanitarian aid toward Gaza and expects the system to be installed in the next 24 hours.", 
+            "title": "A massive U.S. dock to deliver food and other humanitarian aid will reach Gaza tonight - NBC News"
+        }, 
+        {
             "url": "https://www.reuters.com/world/europe/dozens-countries-signing-up-ukraine-peace-summit-switzerland-says-2024-05-15/", 
             "description": null, 
             "title": "Dozens of countries signing up for Ukraine peace summit, Switzerland says - Reuters.com"
-        }, 
-        {
-            "url": "https://arstechnica.com/gadgets/2024/05/android-15-gets-private-space-theft-detection-and-av1-support/", 
-            "description": "Android 15 Beta 2 is out for Pixels and several third-party devices.", 
-            "title": "Android 15 gets \u201cPrivate Space,\u201d theft detection, and AV1 support - Ars Technica"
-        }, 
-        {
-            "url": "https://www.click2houston.com/news/local/2024/05/15/pelican-island-bridge-shut-down-after-barge-strike-in-galveston/", 
-            "description": "It's unclear what led up to the barge strike, but we're told no injuries have been reported, traffic has been shut down in both directions and classes at Texas A&M were canceled for the day.", 
-            "title": "Fuel barge crashes into Pelican Island Causeway in Galveston, spilling oil and shutting down access to Pelican Island - KPRC Click2Houston"
-        }, 
-        {
-            "url": "https://apnews.com/article/2024-election-presidential-debates-biden-trump-6b1d1dbb2ed61c7637041b23662d7da8", 
-            "description": "President Joe Biden and former President Donald Trump have agreed to hold two campaign debates, on June 27 hosted by CNN and on Sept. 10 hosted by ABC. CNN says its debate will be held in its Atlanta studios and \u201cno audience will be present.\u201d The Democratic p\u2026", 
-            "title": "Biden and Trump agree to 2 presidential debates, in June and in September - The Associated Press"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/news/megalopolis-francis-ford-coppola-cannes-premiere-controversy-1236004301/", 
-            "description": "Francis Ford Coppola prepares to unveil 'Megalopolis,' his 'batshit' epic, at Cannes as bad buzz and controversy mounts.", 
-            "title": "Can Cannes Save \u2018Megalopolis\u2019? Francis Ford Coppola Prepares to Unveil His $120 Million Epic as Controversy Builds - Variety"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-attempted-assassination-of-slovakia-prime-minister-robert-fico/", 
-            "description": "I am alarmed to hear reports of an attack on Slovak Prime Minister Robert Fico. \u00a0Jill and I are praying for a swift recovery, and\u00a0our thoughts are with his family\u00a0and the people of Slovakia. We condemn this horrific act\u00a0of violence. Our embassy is in close to\u2026", 
-            "title": "Statement from President Joe Biden on Attempted Assassination of Slovakia Prime Minister Robert Fico - The White House"
-        }, 
-        {
-            "url": "https://www.macrumors.com/2024/05/15/ios-18-accessibility-features-for-carplay/", 
-            "description": "Apple today previewed new accessibility features coming with iOS 18 later this year, and this includes some new options for CarPlay.   Apple...", 
-            "title": "Apple Previews Three New CarPlay Features Coming With iOS 18 - MacRumors"
-        }, 
-        {
-            "url": "https://www.cbssports.com/college-football/news/ranking-the-top-25-power-four-college-football-coaches-entering-the-2024-season/", 
-            "description": "The CBS Sports and 247Sports experts have ranked every Power Four coach from 1-68 as the season approaches", 
-            "title": "Ranking the top 25 Power Four college football coaches entering the 2024 season - CBS Sports"
         }
     ], 
-    "last_updated": "2024-05-17 01:17:20"
+    "last_updated": "2024-05-17 01:30:40"
 }
