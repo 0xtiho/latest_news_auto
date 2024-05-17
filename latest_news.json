@@ -1,29 +1,39 @@
 {
     "news": [
         {
-            "url": "https://apnews.com/article/israel-hamas-war-gaza-aid-us-pier-9414c4148285917f1c858b9590117a84", 
-            "description": "The Pentagon says that humanitarian aid will soon begin flowing onto the Gaza shore through the new pier that was anchored to the beach overnight and will reach those in need almost immediately. Trucks will drive the aid into the Palestinian enclave, besieged\u2026", 
-            "title": "Israel-Hamas war: US military finishes construction of floating pier for Gaza Strip - The Associated Press"
+            "url": "https://www.macrumors.com/2024/05/16/imessage-down-for-some/", 
+            "description": "The iMessage service that Apple users to send messages to one another appears to be down for some users, and messages are failing to go out or are...", 
+            "title": "iMessage Down for Some Users - MacRumors"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-trial-hush-money-michael-cohen-ec08be1219703deb3cd10604844deacb", 
+            "description": "Donald Trump\u2019s lawyers have sought to portray the star prosecution witness in his hush money trial as a serial fabulist who is bent on seeing the presumptive Republican presidential nominee behind bars. During hours of cross-examination on Thursday, defense a\u2026", 
+            "title": "Michael Cohen pressed on his crimes and lies as defense attacks key Trump hush money trial witness - The Associated Press"
+        }, 
+        {
+            "url": "https://scitechdaily.com/alarming-virus-evolution-scientists-identify-first-ever-mammal-to-human-bird-flu-case/", 
+            "description": "The Biological Threat Research Laboratory (BTRL) at Texas Tech University was instrumental in identifying the first case of highly pathogenic avian influenza (HPAI) A (H5N1) being transmitted from a mammal (dairy cow) to a human. The case was made public in a\u2026", 
+            "title": "Alarming Virus Evolution \u2013 Scientists Identify First-Ever Mammal-to-Human Bird Flu Case - SciTechDaily"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/16/us-news/house-passes-bill-forcing-us-supplied-weapons-to-israel-despite-bidens-veto-threat/", 
+            "description": "The House approved legislation Thursday that would force President Biden to swiftly send US weapons to Israel amid its war with Hamas terrorists in the Gaza Strip \u2014 in the face of a pause on at lea\u2026", 
+            "title": "House passes bill forcing US-supplied weapons to Israel \u2014 despite Biden veto threat - New York Post "
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html", 
+            "description": "The Texas Board of Pardons has recommended a full pardon to Daniel Perry,\u00a0a US Army sergeant who was sentenced to 25 years in prison after being\u00a0convicted of murdering a protester\u00a0at a Black Lives Matter rally in 2020.", 
+            "title": "Gov. Abbott pardons Daniel Perry for 2020 fatal Black Lives Matter protest shooting after recommendation from pardons board - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/detroit/news/detroit-population-increases-first-time-since-1957/", 
+            "description": "After decades of decline, Detroit's population population is finally growing once again, according to new estimates from the U.S. Census Bureau.", 
+            "title": "Detroit sees population growth for first time since 1957 - CBS News"
         }, 
         {
             "url": "http://www.hollywoodreporter.com/movies/movie-news/francis-ford-coppola-megalopolis-1235900890/", 
             "description": "The legendary filmmaker, 85, last had a film in competition at the fest 45 years ago \u2014 'Apocalypse Now,' for which he was awarded the Palme d'Or for the second time, five years after 'The Conversation' won it.", 
             "title": "Cannes: Francis Ford Coppola's Much-Discussed 'Megalopolis' Receives 10-Minute Standing Ovation - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://apnews.com/article/army-sergeant-murder-parole-black-lives-matter-4b1d0c54b0de451642bcf1e8cd75a7e5", 
-            "description": "Texas Gov. Greg Abbott has issued a full pardon to a former U.S. Army sergeant convicted of murder for fatally shooting an armed demonstrator in 2020 during nationwide protests against racial injustice. Abbott had previously ordered the board to review Daniel\u2026", 
-            "title": "Texas board recommends pardon for ex-Army sergeant convicted of killing Black Lives Matter protester - The Associated Press"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard", 
-            "description": "Amazon\u2019s AWS partnered with Harvard to test how far a quantum entangled photon could travel. It traveled 35 kilometers under the Boston area.", 
-            "title": "Quantum networks are closer to reality - The Verge"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-europe-69019121", 
-            "description": "Robert Fico's condition is still \"very serious\" after he was shot several times on Wednesday.", 
-            "title": "Slovakia PM Robert Fico in stable but serious condition after shooting, doctors say - BBC.com"
         }, 
         {
             "url": "https://variety.com/2024/tv/news/shogun-season-2-development-fx-hulu-1235999171/", 
@@ -36,19 +46,9 @@
             "title": "Israel-Gaza: What did the ICJ ruling really say? - BBC.com"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/16/politics/house-panels-contempt-garland-biden-audio/index.html", 
-            "description": "The House Judiciary Committee voted on Thursday to advance contempt proceedings against Attorney General Merrick Garland for his refusal to turn over audio recordings of President Joe Biden\u2019s interview with\u00a0special counsel Robert Hur.", 
-            "title": "House Judiciary committee votes to advance contempt proceedings against Garland over Biden audio files - CNN"
-        }, 
-        {
-            "url": "https://www.foxnews.com/politics/johnson-rebukes-biden-schumer-blocked-israel-aid-house-votes-force-bomb-deliveries", 
-            "description": "Speaker Mike Johnson, R-La., accused President Biden of \"using his authority to defend himself politically\" rather than defend Israel ahead of a House vote.", 
-            "title": "Johnson rebukes Biden, Schumer over blocked Israel aid as House votes to force bomb deliveries - Fox News"
-        }, 
-        {
-            "url": "https://www.newsnationnow.com/entertainment-news/jennifer-lopez-ben-affleck-not-divorcing-insiders/", 
-            "description": "As they say, where there\u2019s smoke, there\u2019s fire \u2013 but, at least with Ben Affleck and Jennifer Lopez, that\u2019s not the case\u2026 yet.", 
-            "title": "Jennifer Lopez and Ben Affleck not speaking to divorce attorneys: Insiders - NewsNation Now"
+            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-leaderboard-live-coverage-tiger-woods-score-golf-scores-today-in-round-1-at-valhalla/live/", 
+            "description": "Live scores, updates and highlights from the first round of action at the 106th PGA Championship", 
+            "title": "2024 PGA Championship leaderboard: Live coverage, Tiger Woods score, golf scores today in Round 1 at Valhalla - CBS Sports"
         }, 
         {
             "url": "https://www.washingtonpost.com/climate-environment/2024/05/16/coal-leasing-powder-river-basin-climate/", 
@@ -56,19 +56,19 @@
             "title": "U.S. to end coal leasing in nation's largest coal-producing region - The Washington Post"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/nadine-menendez-bob-menendez-wife-corruption-trial-allegations/", 
-            "description": "New Jersey Sen. Bob Menendez may argue his wife kept him in the dark about her dealings with three businessmen.", 
-            "title": "Who is Nadine Menendez? Sen. Bob Menendez's wife is at center of corruption allegations - CBS News"
+            "url": "https://www.youtube.com/watch?v=29FLBgPGmfU", 
+            "description": "Rory McIlroy's press conference following his strong start in the opening round of the 2024 PGA Championship at Valhalla. Subscribe now: https://bit.ly/PGACh...", 
+            "title": "Rory McIlroy Press Confererence | PGA Championship 2024 Round 1 - PGA Championship"
         }, 
         {
-            "url": "https://techcrunch.com/2024/05/16/microsofts-custom-cobalt-chips-will-come-to-azure-next-week/", 
-            "description": "Microsoft will launch its custom Cobalt 100 chips to customers as a public preview at its Build conference next week, TechCrunch has learned. In an", 
-            "title": "EXCLUSIVE: Microsoft's custom Cobalt chips will come to Azure next week - TechCrunch"
+            "url": "https://sports.yahoo.com/2024-nfl-schedule-everything-fantasy-football-managers-need-to-know-171434109.html", 
+            "description": "Scott Pianowski breaks down the recent NFL schedule release from a fantasy football perspective.", 
+            "title": "2024 NFL Schedule: Everything fantasy football managers need to know - Yahoo Sports"
         }, 
         {
-            "url": "https://markets.businessinsider.com/news/stocks/gamestop-keith-gill-roaring-kitty-memes-stocks-gme-reddit-2024-5", 
-            "description": "Questions about who is behind the @TheRoaringKitty X account were sparked by a tweet on Monday that claimed Keith Gill had sold his account.", 
-            "title": "GameStop Stock: Reddit Users Question If Roaring Kitty Is Really Behind Memes - Markets Insider"
+            "url": "https://www.ksn.com/news/local/spirit-aerosystems-to-lay-off-up-to-450/", 
+            "description": "In a message to workers, the company said it has \u201cmade the difficult decision\u201d to reduce the hourly production workforce by approximately 400-450 employees.", 
+            "title": "Spirit AeroSystems to lay off up to 450 - KSN-TV"
         }, 
         {
             "url": "https://finance.yahoo.com/news/israeli-cabinet-rifts-over-gaza-171533335.html", 
@@ -76,30 +76,30 @@
             "title": "Israeli cabinet rifts over Gaza break out into the open - Yahoo Finance"
         }, 
         {
-            "url": "https://bleacherreport.com/articles/10121324-bronny-james-rumors-jazz-eye-lebrons-son-amid-lakers-knicks-cavs-nba-draft-buzz", 
-            "description": "The Utah Jazz are reportedly interested in selecting Bronny James with the 32nd overall pick in the upcoming NBA draft, according to Krysten Peek of Yahoo\u2026", 
-            "title": "Bronny James Rumors: Jazz Eye LeBron's Son amid Lakers, Knicks, Cavs NBA Draft Buzz - Bleacher Report"
+            "url": "https://www.washingtonpost.com/politics/2024/05/16/supreme-court-cfpb-funding/", 
+            "description": "The Biden administration urged the Supreme Court to reject an appeals court decision that cast doubt on Congress\u2019s authority to decide how to fund an agency.", 
+            "title": "Supreme Court upholds CFPB funding mechanism, rejecting conservative challenge - The Washington Post"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.wmur.com/article/hollis-new-hampshire-fox-attack-rabies/60814704", 
+            "description": "Hollis police said a fox that attacked a 4-year-old child has tested positive for rabies.", 
+            "title": "Fox that attacked New Hampshire child tests positive for rabies - WMUR Manchester"
         }, 
         {
-            "url": "https://sports.yahoo.com/ranking-nfls-15-best-grudge-matches-from-russell-wilson-vs-sean-payton-to-the-harbaugh-brothers-051815181.html", 
-            "description": "From discarded players to discarded coaches, playoff pain to good old regular-season heartbreak, the grudge-match lineup is deep this season.", 
-            "title": "Ranking NFL's 15 best grudge matches from Russell Wilson vs. Sean Payton to the Harbaugh brothers - Yahoo Sports"
+            "url": "https://www.foxnews.com/media/jen-psaki-thinks-biden-trump-debate-could-collapse-im-still-skeptic", 
+            "description": "MSNBC host Jen Psaki said the debates between President Biden and former President Trump may not go forward as planned, despite enthusiasm from both candidates.", 
+            "title": "Jen Psaki thinks Biden-Trump debate could collapse: 'I'm still a skeptic' - Fox News"
         }, 
         {
-            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-leaderboard-live-coverage-tiger-woods-score-golf-scores-today-in-round-1-at-valhalla/live/", 
-            "description": "Live scores, updates and highlights from the first round of action at the 106th PGA Championship", 
-            "title": "2024 PGA Championship leaderboard: Live coverage, Tiger Woods score, golf scores today in Round 1 at Valhalla - CBS Sports"
+            "url": "https://www.reuters.com/markets/us/futures-edge-higher-softer-inflation-report-lifts-rate-cut-hopes-2024-05-16/", 
+            "description": null, 
+            "title": "Dow breaches 40000 mark as rate-cut hopes fuel fresh record high - Reuters"
         }, 
         {
-            "url": "https://futurism.com/nasa-concerned-billionaire-space-hubble", 
-            "description": "Billionaire and private astronaut Jared Isaacman\u00a0is willing to foot the bill of a maintenance mission to NASA's Hubble telescope.", 
-            "title": "NASA Experts Concerned Billionaire Space Tourist Will Accidentally Break Hubble Space Telescope While Trying to Fix It - Futurism"
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/andrea-arnold-bird-cannes-film-festival-standing-ovation-1235900944/", 
+            "description": "The new feature from the 'American Honey' director stars Barry Keoghan, Franz Rogowski, Nykiya Adams, and Jason Buda.", 
+            "title": "Andrea Arnold\u2019s \u2018Bird\u2019 Takes Flight at Cannes Film Festival With 7-Minute Standing Ovation - Hollywood Reporter"
         }
     ], 
-    "last_updated": "2024-05-17 23:30:33"
+    "last_updated": "2024-05-17 23:48:39"
 }
