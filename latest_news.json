@@ -1,39 +1,74 @@
 {
     "news": [
         {
+            "url": "https://apnews.com/article/robert-fico-slovakia-shot-prime-minister-751051f2a36391919790c62d664a5e6d", 
+            "description": "Prime Minister Robert Fico returned to power in Slovakia last year. Having previously served twice as prime minister, from 2006 to 2010 and again from 2012 to 2018, the 59-year-old's third term made him the longest-serving head of government in Slovakia\u2019s his\u2026", 
+            "title": "Who is Robert Fico? Slovakia Prime Minister shot multiple times - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/15/politics/us-gaza-pier-moving-construction/index.html", 
+            "description": "The floating pier that will allow for humanitarian aid to flow into Gaza from the sea is moving from the port of Ashdod toward Gaza, according to a US defense official.", 
+            "title": "US-built floating pier begins moving from Ashdod port to Gaza, defense official says - CNN"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/politics/2024/05/15/trump-michael-cohen-evidence-proof-credibility/", 
+            "description": "Donald Trump\u2019s ex-fixer offered key evidence about the former president\u2019s involvement in the New York hush money trial, but also has past credibility issues.", 
+            "title": "Why Michael Cohen\u2019s testimony, credibility will be key in Trump\u2019s trial - The Washington Post"
+        }, 
+        {
+            "url": "https://www.investors.com/news/warren-buffett-q1-stock-buys-sells-berkshire-hathaway-13f/", 
+            "description": "Investors finally know the identity of Warren Buffett's \"mystery stock\" purchase.", 
+            "title": "Here Are Warren Buffett's Top Q1 Stock Buys And Sells - Investor's Business Daily"
+        }, 
+        {
             "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-louisiana-use-congressional-map-second-majority-b-rcna151955", 
             "description": "The Supreme Court paved the way for Louisiana to use a congressional map in this year's election that includes two majority-Black districts.", 
             "title": "Supreme Court allows Louisiana to use congressional map with second majority-Black district - NBC News"
         }, 
         {
-            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-odds-picks-field-predictions-golf-insider-backing-brooks-koepka-at-valhalla/", 
-            "description": "Sia Nejad reveals his PGA Championship 2024 picks, props and sleepers for Valhalla Golf Club following Rory McIlroy's win at the Wells Fargo Championship", 
-            "title": "2024 PGA Championship odds, picks, field, predictions: Golf insider backing Brooks Koepka at Valhalla - CBS Sports"
+            "url": "https://www.tennessean.com/story/news/local/2024/05/15/aircraft-crash-natchez-trace-parkway-williamson-county/73703163007/", 
+            "description": "The Williamson County Sheriff's Office asked that motorists avoid the area of Bending Chestnut and Davis Hollow Roads after a small plane crash.", 
+            "title": "Middle Tennessee authorities report 3 killed in small plane crash near Natchez Trace Parkway - Tennessean"
         }, 
         {
-            "url": "https://www.eonline.com/news/1401646/sophie-turner-breaks-silence-on-shocking-aftermath-of-joe-jonas-divorce", 
-            "description": "Eight months after Sophie Turner and Joe Jonas' breakup, the Game of Thrones alum detailed the \"shocking\" aftermath that played out online and how Taylor Swift provided her a \"safe space.\"", 
-            "title": "Sophie Turner Breaks Silence on \"Shocking\" Aftermath of Joe Jonas Divorce - E! Online - E! NEWS"
+            "url": "https://www.cbsnews.com/boston/news/karen-read-live-stream-today-murder-trial-day-12/", 
+            "description": "The high-profile Karen Read murder trial resumed on Wednesday inside a Dedham, Massachusetts courtroom.", 
+            "title": "Karen Read murder trial witness Allie McCabe breaks down in tears describing harassment in case - CBS Boston"
         }, 
         {
-            "url": "https://www.kcci.com/article/caitlin-clarks-wnba-debut-dwarfs-betting-on-last-years-clinching-game-in-the-finals/60804700", 
-            "description": "Caitlin Clark's much-anticipated WNBA debut\ufeff produced record betting, far larger than the amount of money wagered on last year's clinching game for the league championship.", 
-            "title": "Big money bet on Caitlin Clark's WNBA debut - KCCI Des Moines"
+            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-weather-forecast-rain-and-thunderstorms-likely-to-delay-play-soften-valhalla-course/", 
+            "description": "Forecasts suggest another wet week in Louisville for the 106th PGA Championship", 
+            "title": "2024 PGA Championship weather forecast: Rain and thunderstorms likely to delay play, soften Valhalla course - CBS Sports"
         }, 
         {
-            "url": "https://www.thestreet.com/investing/stocks/fed-gets-inflation-relief-as-cpi-slows-teeing-up-september-rate-cut", 
-            "description": "Stocks got a big boost from a softer-than-expected April inflation report, which showed slowing price pressures across the board.", 
-            "title": "CPI inflation report resets timing of Fed interest rate cuts - TheStreet"
+            "url": "https://www.npr.org/2024/05/15/1250414032/new-caledonia-france-state-of-emergency", 
+            "description": "People in the French Pacific territory of New Caledonia are protesting a reform that would give voting rights to an increasing number of non-Indigenous residents of the archipelago.", 
+            "title": "France imposes a state of emergency in New Caledonia as unrest continues - NPR"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cqene5z41y0o", 
-            "description": "The PM is known for his ability to reinvent his political career in the face of major setbacks.", 
-            "title": "How Robert Fico used Covid and Ukraine to gain power in Slovakia - BBC.com"
+            "url": "http://www.hollywoodreporter.com/lists/planet-of-the-apes-movies-ranked/", 
+            "description": "The 10th film in the franchise, 'Kingdom of the Planet of the Apes,' brings further adventures in this strange, yet all-too familiar world.", 
+            "title": "'Planet of the Apes' Movies, Ranked - Hollywood Reporter"
         }, 
         {
-            "url": "https://www.clickorlando.com/news/local/2024/05/14/heres-what-we-know-about-the-driver-arrested-in-deadly-bus-crash-that-killed-8-farmworkers/", 
-            "description": "Officials on Tuesday announced that Bryan Maclean Howard was arrested in connection to the fatal wreck that killed eight people and injured about 40 others Tuesday morning in Marion County.", 
-            "title": "Here's what we know about the driver arrested in Marion bus crash that killed 8 farmworkers - WKMG News 6 & ClickOrlando"
+            "url": "https://www.cnn.com/2024/05/15/health/cervical-cancer-self-collection/index.html", 
+            "description": "Instead of a traditional speculum-involved pelvic exam to screen for cervical cancer, the US Food and Drug Administration has given the go-ahead for patients to have the option to collect their own vaginal samples for screening in a health care setting, such \u2026", 
+            "title": "FDA greenlights self-collection of vaginal samples for cervical cancer screening - CNN"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/15/us-news/romney-knocks-biden-for-enormous-error-in-not-pardoning-trump/", 
+            "description": "\u201cHe should have fought like crazy to keep this prosecution from going forward. It was a win-win for Donald Trump,\u201d the Utah senator said.", 
+            "title": "Mitt Romney knocks Biden for 'enormous error' in not pardoning Trump - New York Post "
+        }, 
+        {
+            "url": "https://fortune.com/2024/05/15/florida-hbcu-record-donation-hemp-millionaire-gregory-gerami/", 
+            "description": "Florida Agricultural and Mechanical University celebrated the largest-ever gift to an HBCU from a certain Gregory Gerami. Then the plot thickened.", 
+            "title": "Florida HBCU floored after record $238 million 'gift' from 30-year-old hemp mogul is put on hold and could be worthless - Fortune"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/georgia-parliament-passes-foreign-agent-law-tbilisi-protests/", 
+            "description": "Tens of thousands of people gathered in the Georgian capital of Tbilisi to protest the law's passage.", 
+            "title": "Georgia's parliament passes controversial \"foreign agent\" law amid protests, widespread criticism - CBS News"
         }, 
         {
             "url": "https://abcnews.go.com/US/wireStory/barge-hits-bridge-galveston-texas-damaging-structure-causing-110268879", 
@@ -41,34 +76,19 @@
             "title": "Barge hits bridge connecting Galveston and Pelican Island, causing partial collapse and oil spill - ABC News"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/15/economy/consumer-price-index-inflation-april/index.html", 
-            "description": "Markets surged to record highs Wednesday after new data showed that inflation cooled in April after ticking up recently.", 
-            "title": "S&P 500, Nasdaq and Dow all hit record highs after encouraging inflation data - CNN"
-        }, 
-        {
             "url": "http://deadline.com/2024/05/furiosa-reactions-world-premiere-ovation-cannes-1235916996/", 
             "description": "George Miller\u2019s Furiosa: A Mad Max Saga, the latest in his apocalyptic franchise, had its world premiere at the Cannes Film Festival on May 15.", 
             "title": "\u2018Furiosa\u2019 Gets Nearly 8-Minute Standing Ovation After Its Cannes World Premiere - Deadline"
         }, 
         {
-            "url": "https://www.reuters.com/world/asia-pacific/new-caledonia-riots-rage-after-paris-approves-voting-change-2024-05-15/", 
+            "url": "https://www.politico.com/news/2024/05/15/biden-proposes-2-debates-with-trump-ditching-bipartisan-commission-00158082", 
             "description": null, 
-            "title": "Four dead in New Caledonia riots, France declares state of emergency - Reuters"
+            "title": "Biden and Trump agree to debates. And then debate about more debates. - POLITICO"
         }, 
         {
-            "url": "https://www.washingtonpost.com/world/2024/05/15/blinken-announces-2-billion-aid-package-ukraine-russians-advance/", 
-            "description": "But the Biden administration remains opposed to allowing Ukraine to strike targets inside Russian territory with U.S. weaponry \u2014 something Ukrainian policymakers have been pushing for.", 
-            "title": "Blinken announces $2 billion aid package for Ukraine as Russians advance - The Washington Post"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-rise-less-than-expected-april-core-cpi-slows-2024-05-15/", 
+            "description": "U.S. consumer prices increased less than expected in April, suggesting that inflation resumed its downward trend at the start of the second quarter in a boost to financial market expectations for a September interest rate cut.", 
+            "title": "US consumer inflation resumes downward trend as domestic demand cools - Reuters.com"
         }, 
         {
             "url": "https://sports.yahoo.com/live/2024-nfl-schedule-release-live-updates-ahead-of-tonights-full-announcement-222736022.html", 
@@ -79,27 +99,7 @@
             "url": "https://www.cnn.com/2024/05/15/us/baltimore-bridge-collapse-house-hearing/index.html", 
             "description": "The cargo ship Dali experienced two blackouts while moored in the Port of Baltimore a day before its catastrophic collision with the Francis Scott Key Bridge, and efforts to resolve those blackouts may have impacted the ship\u2019s operations, the head of the Nati\u2026", 
             "title": "Cargo ship outages on the day before the Baltimore bridge collision may have impacted ship\u2019s operations, NTSB chief says - CNN"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/15/china-biden-ev-tariffs-may-not-be-enough-to-stave-off-growing-threat.html", 
-            "description": "Automotive and trade experts say the increased tariffs are a near-term protectionism act that may delay, but won't stop, Chinese EVs from coming to the U.S.", 
-            "title": "Biden's EV tariffs may not be enough to stave off the threat of Chinese vehicles in the U.S. - CNBC"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/science-environment-69012221", 
-            "description": "The iconic trees evolved on Madagascar 21 million years ago and later spread to other countries.", 
-            "title": "Scientists solve mystery of ancient 'tree of life' - BBC.com"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/world/massive-us-dock-deliver-food-humanitarian-aid-will-reach-gaza-tonight-rcna147623", 
-            "description": "The U.S. has begun towing a floating dock system for delivering humanitarian aid toward Gaza and expects the system to be installed in the next 24 hours.", 
-            "title": "A massive U.S. dock to deliver food and other humanitarian aid will reach Gaza tonight - NBC News"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/europe/dozens-countries-signing-up-ukraine-peace-summit-switzerland-says-2024-05-15/", 
-            "description": null, 
-            "title": "Dozens of countries signing up for Ukraine peace summit, Switzerland says - Reuters.com"
         }
     ], 
-    "last_updated": "2024-05-17 03:17:29"
+    "last_updated": "2024-05-17 03:30:50"
 }
