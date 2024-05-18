@@ -1,29 +1,59 @@
 {
     "news": [
         {
-            "url": "https://finance.yahoo.com/news/gamestop-amc-shares-rise-two-100723939.html", 
-            "description": "(Bloomberg) -- GameStop Corp. shares tumbled toward a third day of declines after the company said it may sell up to 45 million shares, further paring the...", 
-            "title": "GameStop Extends Rout on Plan to Sell Up to 45 Million Shares - Yahoo Finance"
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-stocks-tread-water-with-dow-poised-for-another-bid-for-40000-133352953.html", 
+            "description": "Stocks trod water as investors assess the chances of the Dow succeeding in another bid to cross 40,000 for the first time.", 
+            "title": "Stock market today: Stocks tread water with Dow poised for another bid for 40,000 - Yahoo Finance"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/17/health/flirt-covid-variants-summer-wave-risk/index.html", 
-            "description": "Covid-19 levels are about the lowest they\u2019ve ever been in the United States, but another new crop of virus variants once again threatens to disrupt the downward trend as the country heads into summer.", 
-            "title": "New virus variants threaten a summer Covid-19 wave, but experts say the risk remains uncertain - CNN"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/us/supreme-court-justice-alitos-home-flew-us-flag-upside-down-following-jan-6-nyt-2024-05-17/", 
+            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMTcvd29ybGQvZXVyb3BlL3NldmFzdG9wb2wtdWtyYWluZS1jcmltZWEtcnVzc2lhLmh0bWzSAQA?oc=5", 
             "description": null, 
-            "title": "Supreme Court Justice Alito's home flew US flag upside down following Jan. 6-NYT - Reuters"
+            "title": "Ukraine Hits Sevastopol Power Station With Huge Drone Attack, Russia Says - The New York Times"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c8vzd111r3lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D", 
-            "description": "Critics call the album \"explicit, sapphic and her best work yet\", plus \"confident and non-conformist\".", 
-            "title": "Rave reviews for 'bold, brilliant' Billie Eilish - Yahoo Entertainment"
+            "url": "https://www.macrumors.com/2024/05/17/oled-ipad-pro-grainy-display-reports/", 
+            "description": "Some new M4 iPad Pro models are exhibiting a visible static grain pattern across the OLED display, according to several user reports on Reddit (1, 2,...", 
+            "title": "OLED iPad Pro Users Report 'Grainy' Displays, But It May Not Be a Defect - MacRumors"
         }, 
         {
-            "url": "https://variety.com/2024/film/news/francis-ford-coppola-slams-studio-system-megalopolis-self-financed-1236007285/", 
-            "description": "Francis Ford Coppola shared his thoughts on the current studio system during the press conference for his self-financed epic 'Megalopolis.'", 
-            "title": "Francis Ford Coppola Slams Studio System After He Self-Financed \u2018Megalopolis\u2019: Execs \u2018Don\u2019t Make Good Movies \u2026 They Pay Their Debt Obligations\u2019 - Variety"
+            "url": "https://apnews.com/article/vatican-apparitions-pope-lourdes-fatima-f9b5659e2947e7eb966db2e491e17267", 
+            "description": "The Vatican has radically reformed its process for evaluating alleged visions of the Virgin Mary, weeping statues and other seemingly supernatural phenomena. The Vatican\u2019s doctrine office overhauled norms first issued in 1978, arguing that they were no longer\u2026", 
+            "title": "Vatican revamps norms to evaluate visions of Mary as it adapts to internet age and combats hoaxers - The Associated Press"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/megalopolis-donald-trump-francis-ford-coppola-jon-voight-cannes-1235920285/", 
+            "description": "\"To do a Roman epic set in modern America, I had no idea that the politics of today would make that so relevant,\" Francis Coppola said on Megalopolis.", 
+            "title": "Francis Ford Coppola Says \u201cMen Like Donald Trump Are Not At The Moment In Charge\u201d; Filmmaker Pulls Jon Voight Into Political Convo At \u2018Megalopolis\u2019 Cannes Presser - Deadline"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://scitechdaily.com/nasas-juno-spacecraft-reveals-dynamic-shifts-on-europas-frozen-surface/", 
+            "description": "NASA\u2019s Juno has provided images that support the theory of true polar wander on Europa, showing the moon\u2019s ice shell has shifted. Images from the solar-powered spacecraft revealed intriguing features on the ice-encased Jovian moon, including geological disrup\u2026", 
+            "title": "NASA's Juno Spacecraft Reveals Dynamic Shifts on Europa's Frozen Surface - SciTechDaily"
+        }, 
+        {
+            "url": "https://www.click2houston.com/news/local/2024/05/17/house-committee-meeting-devolves-into-chaos-amid-insults-between-rep-jasmine-crockett-rep-marjorie-taylor-greene/", 
+            "description": "The hearing was derailed when Rep. Marjorie Taylor Greene, R-Ga., responded to a question from Rep. Jasmine Crockett, D-Texas, by saying, \u201cI think your fake eyelashes are messing up what you\u2019re reading.\u201d", 
+            "title": "House committee meeting devolves into chaos amid insults between Rep. Jasmine Crockett, Rep. Marjorie Taylor Greene - KPRC Click2Houston"
+        }, 
+        {
+            "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-russell-and-sainz-during-first-practice-in-imola-as-albon.6YL4VSwWu9cBlkwgnOMLiZ", 
+            "description": "Charles Leclerc topped the timesheets during the opening practice session of the Emilia-Romagna Grand Prix weekend, with the Monegasque leading the way from George Russell and Carlos Sainz in a busy hour on track.", 
+            "title": "FP1: Leclerc leads Russell and Sainz during first practice in Imola as Albon brings out red flags | Formula 1\u00ae - Formula 1"
+        }, 
+        {
+            "url": "https://apnews.com/article/airman-shot-florida-deputy-roger-fortson-6decf235d8acee616daaa5b9a08f85c9", 
+            "description": "A funeral has begun for a Black U.S. Air Force senior airman who was shot and killed in his Florida home by a sheriff\u2019s deputy. Friday's funeral for Airman Roger Fortson, who died at age 23, comes a day after his mother vowed during an emotional news conferen\u2026", 
+            "title": "Funeral set for Roger Fortson, the Black US Air Force member killed in his home by Florida deputy - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/europe/france-armed-man-synagogue-rouen-intl-hnk/index.html", 
+            "description": "Police shot dead an armed attacker trying to set fire to a synagogue in the northern French city of Rouen on Friday, according to a spokesman for the country\u2019s interior ministry.", 
+            "title": "Police shoot dead armed attacker who started fire in Rouen synagogue - CNN"
         }, 
         {
             "url": "https://www.espn.com/golf/story/_/id/40162983/scottie-scheffler-detained-police-prior-start-pga-championship", 
@@ -31,19 +61,29 @@
             "title": "Scottie Scheffler arrested before start of PGA Championship - ESPN"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html", 
-            "description": "The Dow briefly crossed 40,000 for the first time on Thursday.", 
-            "title": "Dow futures are little changed after blue-chip average touches 40,000 for first time: Live updates - CNBC"
+            "url": "https://www.bbc.com/news/articles/cgrwlewjn7do", 
+            "description": "The latest instalment of the hugely popular series will be released in autumn 2025, its publisher says.", 
+            "title": "GTA 6: Countdown begins as Take Two firms up release date - BBC.com"
         }, 
         {
-            "url": "https://www.reuters.com/world/middle-east/israel-tells-world-court-south-africa-case-makes-mockery-genocide-2024-05-17/", 
+            "url": "https://www.reuters.com/technology/reddit-stock-jumps-after-openai-partnership-2024-05-17/", 
             "description": null, 
-            "title": "Israel tells World Court South Africa case makes a mockery of genocide - Reuters"
+            "title": "Reddit stock jumps after OpenAI partnership - Reuters"
         }, 
         {
-            "url": "https://www.foxbusiness.com/lifestyle/walmart-gains-high-income-shoppers-elevated-prices-persist", 
-            "description": "Walmart noted yet again that its continuing to gain even more higher-income shoppers. Executives say the driver isn't necessarily price but convenience.", 
-            "title": "Walmart gains high-income shoppers as elevated prices persist - Fox Business"
+            "url": "https://www.theringer.com/music/2024/5/17/24158566/i-saw-the-tv-glow-soundtrack-barbie-movie-music-phoebe-bridgers-caroline-polachek", 
+            "description": "On Jane Schoenbrun\u2019s new A24 film and the long-lost art of the compilation soundtrack", 
+            "title": "\u2018I Saw the TV Glow\u2019 Will Make You Care About Movie Soundtracks Again - The Ringer"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/sport/minnesota-timberwolves-blow-out-denver-nuggets-force-game-7-spt-intl/index.html", 
+            "description": "The Minnesota Timberwolves avoided elimination from the NBA playoffs in spectacular fashion on Thursday, blowing out defending champions the Denver Nuggets 115-70 to force a Game 7 back in Colorado.", 
+            "title": "How a \u2018hype video\u2019 led to Minnesota Timberwolves blowing out Denver Nuggets to force Game 7 - CNN"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9yZXZpdmFsLW1lbWUtc3RvY2stZnJlbnp5LXBvaW50cy0xMDAwMjQyMDIuaHRtbNIBAA?oc=5", 
+            "description": null, 
+            "title": "Revival of Meme-Stock Frenzy Points to a Frothy US Stock Market - Yahoo Finance"
         }, 
         {
             "url": "https://www.politico.com/news/2024/05/17/biden-trump-debate-2024-demands-00158586", 
@@ -51,55 +91,15 @@
             "title": "Biden's team had a few demands for a Trump debate. A major one: No crowd. - POLITICO"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cp3g8kl8dd5o", 
-            "description": "The man was armed with a knife and a metallic tool and was shot by an officer after he threatened the police.", 
-            "title": "Rouen: Man shot dead after French synagogue set on fire - BBC.com"
+            "url": "https://www.livescience.com/space/black-holes/scientists-discover-bizarre-region-around-black-holes-that-proves-einstein-right-yet-again", 
+            "description": "Einstein's general theory of relativity predicted that so-called 'plunging regions' around black holes would accelerate matter into them at the speed of light. Now, X-ray observations of a remote black hole have proved him right.", 
+            "title": "Scientists discover bizarre region around black holes that proves Einstein right yet again - Livescience.com"
         }, 
         {
-            "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/", 
-            "description": "Detroit gained 1,852 people from July 1, 2022 to July 1, 2023, according to the Census Bureau, the city's first population growth since 1957.", 
-            "title": "'Day of celebration': Detroit sees first population growth since 1957 - Detroit News"
-        }, 
-        {
-            "url": "https://apnews.com/article/houston-texas-severe-weather-storms-d14447267de0a8900e1475a8ad7ed8ba", 
-            "description": "Severe thunderstorms have hit southeastern Texas for the second time this month, and Houston's mayor says at least four people are dead. There have also been windows blown out of high-rise buildings, downed trees and power outages for more than 900,000 custom\u2026", 
-            "title": "Severe storms kill at least 4 in Houston, knock out power to 900000 homes and businesses - The Associated Press"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c2jd3k1zyjro", 
-            "description": "Russia has launched a push north of Kharkiv but its ultimate goal is so far unclear.", 
-            "title": "War in Ukraine: Key weeks ahead for Russia\u2019s offensive in Ukraine - BBC.com"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-ranking-10-must-see-games-including-jets-49ers-opener-harbaugh-bowl/", 
-            "description": "These dates are already etched into our calendar", 
-            "title": "2024 NFL schedule release: Ranking 10 must-see games, including Jets-49ers opener, Harbaugh Bowl - CBS Sports"
-        }, 
-        {
-            "url": "https://www.startribune.com/timberwolves-nuggets-game-6-blowout-anthony-edwards-karl-anthony-towns-target-center/600366609/", 
-            "description": "The Timberwolves trailed the Nuggets behind 9-2 in the first few minutes, but buried that slow start with a 20-point run that set the stage for one of the most successful games in the team\u2019s history.", 
-            "title": "Timberwolves beat Nuggets by 45 points, set up Game 7 on Sunday - Star Tribune"
-        }, 
-        {
-            "url": "https://www.hindustantimes.com/entertainment/music/jennifer-lopez-and-ben-affleck-wont-split-insider-speaks-out-amid-growing-divorce-tension-101715920652528.html", 
-            "description": "Jennifer Lopez and Ben Affleck's rekindled romance facing challenges as they seem to be on 'different pages' amid divorce rumours and tension.", 
-            "title": "Jennifer Lopez and Ben Affleck 'won't split', insider speaks out amid growing divorce tension - Hindustan Times"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/17/us-news/house-hearing-on-garland-devolves-into-chaos-involving-mtg-aoc-amp-crockett/", 
-            "description": "\u201cI think you know what you\u2019re here for,\u201d Rep. Marjorie Taylor Greene told Democratic Rep. Jasmine Crockett. \u201cI think your fake eyelashes are messing up what you\u2019re reading.\u201d", 
-            "title": "House hearing on Garland devolves into chaos involving AOC, MTG & Crockett: 'Are your feelings hurt? Aww' - New York Post "
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-69021543", 
-            "description": "Harrison Butker also attacked \"degenerate cultural values\" and \"the tyranny of diversity, equity and inclusion\".", 
-            "title": "Harrison Butker 'homemaker' speech sparks backlash - BBC.com"
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/young-sheldon-series-finale-producer-interview-1235919308/", 
-            "description": "The May 16 episode of Young Sheldon marked the end of The Big Bang Theory spinoff, with young Sheldon Cooper (Iain Armitage) heading off to California", 
-            "title": "\u2018Young Sheldon\u2019 Series Finale: EP Steve Holland Talks Return Of Mayim Bialik & Jim Parsons, Why The World Needs A Sheldon Cooper Memoir - Deadline"
+            "url": "https://www.axios.com/2024/05/16/greg-abbott-pardon-daniel-perry", 
+            "description": null, 
+            "title": "Gov. Greg Abbott pardons ex-U.S. sergeant who killed BLM protester - Axios"
         }
     ], 
-    "last_updated": "2024-05-18 17:00:03"
+    "last_updated": "2024-05-18 17:28:34"
 }
