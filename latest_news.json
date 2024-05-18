@@ -1,9 +1,59 @@
 {
     "news": [
         {
-            "url": "https://www.macrumors.com/2024/05/16/imessage-down-for-some/", 
-            "description": "The iMessage service that Apple users to send messages to one another appears to be down for some users, and messages are failing to go out or are...", 
-            "title": "iMessage Down for Some Users - MacRumors"
+            "url": "https://www.etonline.com/gallery/2024-acm-awards-red-carpet-arrivals-225529", 
+            "description": "See all the celebrities going to the big event -- the 2024 ACM Awards!", 
+            "title": "2024 ACM Awards: Red Carpet Arrivals - Entertainment Tonight"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/sports/wnba/2024/05/16/indiana-new-york-caitlin-clark-wnba-home-game-score-highlights/73708087007/", 
+            "description": "Caitlin Clark and the Indiana Fever play their WNBA home opener Thursday night against the New York Liberty. Follow along with USA TODAY Sports.", 
+            "title": "Liberty-Fever live score, updates: Caitlin Clark stats, highlights - USA TODAY"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/nation/2024/05/16/census-population-cities-pandemic/", 
+            "description": "More U.S. cities are either growing faster, making gains instead of declines, or experienced less severe shrinking -- all signs of possible progress.", 
+            "title": "U.S. cities see more post-pandemic population improvement, census shows - The Washington Post"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors", 
+            "description": "Ben Affleck and Jennifer Lopez were both seen wearing their wedding rings as they stepped out in Los Angeles May 16, amid rumors the couple was breaking up after two years of marriage.", 
+            "title": "Ben Affleck and Jennifer Lopez Step Out With Wedding Rings Amid Breakup Rumors - E! Online - E! NEWS"
+        }, 
+        {
+            "url": "https://www.politico.com/live-updates/2024/05/16/trump-hush-money-criminal-trial/trump-appeals-gag-order-00158308", 
+            "description": null, 
+            "title": "Trump has appealed his gag order to New York's top court - POLITICO"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-teams-with-easiest-road-to-playoffs-based-on-schedule-kirk-cousins-falcons-set-up-best/", 
+            "description": "A look at the teams with the most -- and least -- favorable schedules", 
+            "title": "2024 NFL schedule: Teams with easiest road to playoffs based on schedule; Kirk Cousins' Falcons set up best - CBS Sports"
+        }, 
+        {
+            "url": "https://abcnews.go.com/GMA/Family/kansas-city-chiefs-player-faces-backlash-graduation-speech/story?id=110262999", 
+            "description": "Harrison Butker delivered the commencement address at Benedictine College.", 
+            "title": "Kansas City Chiefs player faces backlash for graduation speech criticizing working women, calling Pride a 'deadly sin' - ABC News"
+        }, 
+        {
+            "url": "https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed", 
+            "description": "As bird flu continues to spread among cattle in the U.S., the CDC and WebMD joined forces on Thursday to present a live-streamed briefing on the status of the outbreak.", 
+            "title": "CDC, WebMD give update on current bird flu outbreak: 'Be alert, not alarmed' - Fox News"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/kevin-spacey-documentary-reaction-1235919627/", 
+            "description": "Having already achieved a number of wins in court the House of Cards star has received some big name support in the UK", 
+            "title": "Kevin Spacey Praised & Defended By Liam Neeson, Sharon Stone, & Stephen Fry In Wake Of Biting UK Documentary & New Trial; \u201cOur Industry Needs Him,\u201d Says \u2018Taken\u2019 Star - Deadline"
+        }, 
+        {
+            "url": "https://www.wsj.com/politics/policy/republicans-force-democrats-to-take-sides-on-bidens-israel-policy-61e84646", 
+            "description": null, 
+            "title": "Republicans Force Democrats to Take Sides on Biden's Israel Policy - The Wall Street Journal"
         }, 
         {
             "url": "https://apnews.com/article/trump-trial-hush-money-michael-cohen-ec08be1219703deb3cd10604844deacb", 
@@ -11,14 +61,14 @@
             "title": "Michael Cohen pressed on his crimes and lies as defense attacks key Trump hush money trial witness - The Associated Press"
         }, 
         {
-            "url": "https://scitechdaily.com/alarming-virus-evolution-scientists-identify-first-ever-mammal-to-human-bird-flu-case/", 
-            "description": "The Biological Threat Research Laboratory (BTRL) at Texas Tech University was instrumental in identifying the first case of highly pathogenic avian influenza (HPAI) A (H5N1) being transmitted from a mammal (dairy cow) to a human. The case was made public in a\u2026", 
-            "title": "Alarming Virus Evolution \u2013 Scientists Identify First-Ever Mammal-to-Human Bird Flu Case - SciTechDaily"
+            "url": "https://www.foxbusiness.com/real-estate/iconic-mirage-casino-las-vegas-closing-rebranding-guitar-shaped-hard-rock-hotel", 
+            "description": "The Mirage hotel-casino in Las Vegas, which ushered in a wave of megaresorts, will close its doors in July and it will then be refurbished and rebranded as a Hard Rock.", 
+            "title": "Iconic Mirage casino in Las Vegas closing, rebranding with guitar-shaped Hard Rock Hotel - Fox Business"
         }, 
         {
-            "url": "https://nypost.com/2024/05/16/us-news/house-passes-bill-forcing-us-supplied-weapons-to-israel-despite-bidens-veto-threat/", 
-            "description": "The House approved legislation Thursday that would force President Biden to swiftly send US weapons to Israel amid its war with Hamas terrorists in the Gaza Strip \u2014 in the face of a pause on at lea\u2026", 
-            "title": "House passes bill forcing US-supplied weapons to Israel \u2014 despite Biden veto threat - New York Post "
+            "url": "https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025", 
+            "description": "Rockstar Games\u2019 parent company, Take-Two, has confirmed the next Grand Theft Auto game will arrive toward the end of 2025, 12 years after the last new GTA game.", 
+            "title": "GTA 6 will be released in fall 2025 - The Verge"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html", 
@@ -26,80 +76,30 @@
             "title": "Gov. Abbott pardons Daniel Perry for 2020 fatal Black Lives Matter protest shooting after recommendation from pardons board - CNN"
         }, 
         {
-            "url": "https://www.cbsnews.com/detroit/news/detroit-population-increases-first-time-since-1957/", 
-            "description": "After decades of decline, Detroit's population population is finally growing once again, according to new estimates from the U.S. Census Bureau.", 
-            "title": "Detroit sees population growth for first time since 1957 - CBS News"
+            "url": "https://apnews.com/article/megalopolis-cannes-francis-ford-coppola-d965352b9f0f5d78d6c470beb801f6f8", 
+            "description": "Francis Ford Coppola on Thursday premiered his self-financed opus \u201cMegalopolis\u201d at the Cannes Film Festival, unveiling a wildly ambitious passion project the 85-year-old director has been pondering for decades. Reactions ranged from \u201ca folly of gargantuan pro\u2026", 
+            "title": "Francis Ford Coppola debuts 'Megalopolis' in Cannes, and the reviews are in - The Associated Press"
         }, 
         {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/francis-ford-coppola-megalopolis-1235900890/", 
-            "description": "The legendary filmmaker, 85, last had a film in competition at the fest 45 years ago \u2014 'Apocalypse Now,' for which he was awarded the Palme d'Or for the second time, five years after 'The Conversation' won it.", 
-            "title": "Cannes: Francis Ford Coppola's Much-Discussed 'Megalopolis' Receives 10-Minute Standing Ovation - Hollywood Reporter"
+            "url": "https://finance.yahoo.com/video/walmart-market-cap-tops-500b-195303479.html", 
+            "description": "Shares of Walmart (WMT) are trading higher Thursday, boosted by the company's first quarter earnings beat, which signaled consumer resilience on spending...", 
+            "title": "Walmart market cap tops $500B post Q1 results - Yahoo Finance"
         }, 
         {
-            "url": "https://variety.com/2024/tv/news/shogun-season-2-development-fx-hulu-1235999171/", 
-            "description": "FX, Hulu, and the James Clavell estate are working to develop potentially two more seasons of the critically acclaimed series \"Shogun\"", 
-            "title": "\u2018Shogun\u2019: FX Developing Two New Seasons With Estate of Original Author James Clavell - Variety"
+            "url": "https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard", 
+            "description": "Amazon\u2019s AWS partnered with Harvard to test how far a quantum entangled photon could travel. It traveled 35 kilometers under the Boston area.", 
+            "title": "Quantum networks are closer to reality - The Verge"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c3g9g63jl17o", 
-            "description": "The ICJ ruling has come under intense scrutiny, centring on the word \"plausible\". What did the court mean?", 
-            "title": "Israel-Gaza: What did the ICJ ruling really say? - BBC.com"
+            "url": "https://abc7.com/post/uc-irvine-classes-go-remote-thursday-after-police-clear-pro-palestinian-encampment-arrest-protesters/14826137/", 
+            "description": "Fifty people were arrested after police cleared a pro-Palestinian encampment on the UC Irvine campus Wednesday. Students and staff were informed classes will meet remotely Thursday.", 
+            "title": "UC Irvine classes go remote after police clear pro-Palestinian encampment; 50 protesters arrested - KABC-TV"
         }, 
         {
-            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-leaderboard-live-coverage-tiger-woods-score-golf-scores-today-in-round-1-at-valhalla/live/", 
-            "description": "Live scores, updates and highlights from the first round of action at the 106th PGA Championship", 
-            "title": "2024 PGA Championship leaderboard: Live coverage, Tiger Woods score, golf scores today in Round 1 at Valhalla - CBS Sports"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/climate-environment/2024/05/16/coal-leasing-powder-river-basin-climate/", 
-            "description": "The Biden administration\u2019s decision ends new leasing in the Powder River Basin in Wyoming and Montana, the nation\u2019s biggest coal-producing region.", 
-            "title": "U.S. to end coal leasing in nation's largest coal-producing region - The Washington Post"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=29FLBgPGmfU", 
-            "description": "Rory McIlroy's press conference following his strong start in the opening round of the 2024 PGA Championship at Valhalla. Subscribe now: https://bit.ly/PGACh...", 
-            "title": "Rory McIlroy Press Confererence | PGA Championship 2024 Round 1 - PGA Championship"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/2024-nfl-schedule-everything-fantasy-football-managers-need-to-know-171434109.html", 
-            "description": "Scott Pianowski breaks down the recent NFL schedule release from a fantasy football perspective.", 
-            "title": "2024 NFL Schedule: Everything fantasy football managers need to know - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.ksn.com/news/local/spirit-aerosystems-to-lay-off-up-to-450/", 
-            "description": "In a message to workers, the company said it has \u201cmade the difficult decision\u201d to reduce the hourly production workforce by approximately 400-450 employees.", 
-            "title": "Spirit AeroSystems to lay off up to 450 - KSN-TV"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/israeli-cabinet-rifts-over-gaza-171533335.html", 
-            "description": "Israeli government splits over the war in Gaza broke open this week, after the Defence Minister publicly demanded a clear strategy from Prime Minister...", 
-            "title": "Israeli cabinet rifts over Gaza break out into the open - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/politics/2024/05/16/supreme-court-cfpb-funding/", 
-            "description": "The Biden administration urged the Supreme Court to reject an appeals court decision that cast doubt on Congress\u2019s authority to decide how to fund an agency.", 
-            "title": "Supreme Court upholds CFPB funding mechanism, rejecting conservative challenge - The Washington Post"
-        }, 
-        {
-            "url": "https://www.wmur.com/article/hollis-new-hampshire-fox-attack-rabies/60814704", 
-            "description": "Hollis police said a fox that attacked a 4-year-old child has tested positive for rabies.", 
-            "title": "Fox that attacked New Hampshire child tests positive for rabies - WMUR Manchester"
-        }, 
-        {
-            "url": "https://www.foxnews.com/media/jen-psaki-thinks-biden-trump-debate-could-collapse-im-still-skeptic", 
-            "description": "MSNBC host Jen Psaki said the debates between President Biden and former President Trump may not go forward as planned, despite enthusiasm from both candidates.", 
-            "title": "Jen Psaki thinks Biden-Trump debate could collapse: 'I'm still a skeptic' - Fox News"
-        }, 
-        {
-            "url": "https://www.reuters.com/markets/us/futures-edge-higher-softer-inflation-report-lifts-rate-cut-hopes-2024-05-16/", 
-            "description": null, 
-            "title": "Dow breaches 40000 mark as rate-cut hopes fuel fresh record high - Reuters"
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/andrea-arnold-bird-cannes-film-festival-standing-ovation-1235900944/", 
-            "description": "The new feature from the 'American Honey' director stars Barry Keoghan, Franz Rogowski, Nykiya Adams, and Jason Buda.", 
-            "title": "Andrea Arnold\u2019s \u2018Bird\u2019 Takes Flight at Cannes Film Festival With 7-Minute Standing Ovation - Hollywood Reporter"
+            "url": "https://www.bbc.com/news/world-middle-east-69019655", 
+            "description": "The reported friendly-fire incident in Jabalia is one of the deadliest since the war began.", 
+            "title": "Gaza war: Israeli tank fire kills five soldiers in north Gaza, military says - BBC.com"
         }
     ], 
-    "last_updated": "2024-05-18 03:18:57"
+    "last_updated": "2024-05-18 03:30:51"
 }
