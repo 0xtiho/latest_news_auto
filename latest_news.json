@@ -1,19 +1,59 @@
 {
     "news": [
         {
-            "url": "https://www.cbsnews.com/news/nancy-pelosi-paul-pelosi-victim-statement-david-depape/", 
-            "description": "David DePape, convicted of trying to kidnap Pelosi and attacking her husband with a hammer in October 2022, was sentenced Friday to 30 years in prison.", 
-            "title": "Nancy Pelosi asks for \"very long\" sentence for David DePape, who attacked husband Paul Pelosi with hammer - CBS News"
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-closes-above-40000-for-first-time-to-cap-winning-week-for-stocks-200951979.html", 
+            "description": "Stocks trod water as investors assess the chances of the Dow succeeding in another bid to cross 40,000 for the first time.", 
+            "title": "Stock market today: Stocks tread water with Dow aiming for 40,000 - Yahoo Finance"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html", 
-            "description": "The Dow briefly crossed 40,000 for the first time on Thursday.", 
-            "title": "Dow rises, nears 40,000 again and heads for five-week advance: Live updates - CNBC"
+            "url": "https://variety.com/2024/film/news/yorgos-lanthimos-emma-stone-kinds-of-kindness-cannes-standing-ovation-1236007352/", 
+            "description": "Yorgos Lanthimos\u2019 \u2018Kinds of Kindness,\u2019 with Emma Stone and Jesse Plemons, earned a standing ovation at the 2024 Cannes Film Festival.", 
+            "title": "Emma Stone\u2019s Descent Into Sex Cults and Cannibalism in \u2018Kinds of Kindness\u2019 Lands 4.5-Minute Standing Ovation in Cannes - Variety"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/us-news/trails-carolina-wilderness-camp-boy-died-license-revoked-rcna146296", 
-            "description": "Trails Carolina, a wilderness camp for troubled adolescents where a 12-year-old boy died in February, is losing its license.", 
-            "title": "North Carolina will revoke license of wilderness camp where boy died - NBC News"
+            "url": "https://www.cnbc.com/2024/05/17/nvidias-earnings-will-be-in-focus-next-week-as-stocks-try-to-sustain-record-levels.html", 
+            "description": "The AI chipmaker could reinvigorate a trade that has the power to propel stocks higher at a time when market leadership has broadened.", 
+            "title": "Nvidia's earnings will be in focus next week as stocks try to sustain record levels - CNBC"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html", 
+            "description": "A 2016 surveillance video obtained exclusively by CNN shows Sean \u201cDiddy\u201d Combs grab, shove, drag and kick his then-girlfriend Cassie Ventura during an altercation that matches allegations in a now-settled federal lawsuit filed by Ventura in November.", 
+            "title": "Sean 'Diddy' Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
+        }, 
+        {
+            "url": "https://www.wtae.com/article/scottie-scheffler-detained-police-valhalla-louisville-pga/60823312", 
+            "description": "Masters champion Scottie Scheffler was arrested Friday morning on his way to the PGA Championship.", 
+            "title": "Scottie Scheffler arrested at PGA Championship for traffic violation - WTAE Pittsburgh"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/merrick-garland-contempt-of-congress-house/", 
+            "description": "The Justice Department said Thursday morning that the president was asserting executive privilege over the recordings with special counsel Robert Hur.", 
+            "title": "Garland contempt resolution clears House panels as Biden asserts privilege over recordings - CBS News"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/us/supreme-court-justice-alitos-home-flew-us-flag-upside-down-following-jan-6-nyt-2024-05-17/", 
+            "description": null, 
+            "title": "Supreme Court Justice Alito's home flew US flag upside down following Jan. 6-NYT - Reuters"
+        }, 
+        {
+            "url": "https://deadline.com/video/francis-ford-coppola-megalopolis-adam-driver-aubrey-plaza-nathalie-emmanuel-interview-cannes/", 
+            "description": "Francis Ford Coppola, Adam Driver, Aubrey Plaza and Nathalie Emmanuel", 
+            "title": "Francis Ford Coppola \"Not Interested\" In Streaming For 'Megalopolis' - Deadline"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-hamas-war-gaza-aid-us-pier-05-17-2024-336c810724d107a41bb6628c721aea7c", 
+            "description": "Trucks carrying badly needed aid for the Gaza Strip have rolled across a newly built U.S. pier and into the besieged enclave for the first time. Friday's shipment is the first in an operation that American military officials anticipate could scale up to 150 t\u2026", 
+            "title": "Israel-Hamas war: Gaza aid driven across new US-built pier. Challenges remain - The Associated Press"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/17/entertainment/joy-behar-warns-jennifer-lopez-to-be-quiet-amid-ben-affleck-split-rumors/", 
+            "description": "\u201cWhen you go around shouting your love from the rooftops, it gets tricky when things don\u2019t go well. My advice is keep your mouth shut,\u201d Joy Behar said to Jennifer Lopez.", 
+            "title": "'Addicted to marriage': Joy Behar warns Jennifer Lopez to keep her 'mouth shut' as Ben Affleck divorce rumors swirl - New York Post "
+        }, 
+        {
+            "url": "https://www.wlky.com/article/scottie-scheffler-detained-pga-championship-louisville/60823461", 
+            "description": "Scottie Scheffler, the No. 1 golfer in the world, has been detained by LMPD outside of Valhalla Golf Club, ESPN reports.", 
+            "title": "Scottie Scheffler arrested outside of PGA Championship in Louisville - WLKY Louisville"
         }, 
         {
             "url": "https://apnews.com/article/israel-hamas-war-gaza-hostages-shani-louk-a37e4fd656b46be36c4c659a9c2aac7d", 
@@ -31,75 +71,35 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcDNnOGtsOGRkNW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3AzZzhrbDhkZDVvLmFtcA?oc=5", 
+            "url": "https://www.usatoday.com/story/news/world/2024/05/17/bull-attacks-tourist-mexico-beach/73732636007/", 
             "description": null, 
+            "title": "Video shows bull attack tourist who was feeding the animal on a Mexico beach - USA TODAY"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=mQBcH_a7nLA", 
+            "description": "China Wants to Rescue its Housing Market. Will Beijing Succeed? | Vantage with Palki SharmaWith more than seven million homes sitting empty, China's housing ...", 
+            "title": "China Wants to Rescue its Housing Market. Will Beijing Succeed? | Vantage with Palki Sharma - Firstpost"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cp3g8kl8dd5o", 
+            "description": "The man was armed with a knife and a metallic tool and was shot by an officer after he threatened the police.", 
             "title": "Rouen: Man shot dead after French synagogue set on fire - BBC.com"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html", 
-            "description": "A 2016 surveillance video obtained exclusively by CNN shows Sean \u201cDiddy\u201d Combs grab, shove, drag and kick his then-girlfriend Cassie Ventura during an altercation that matches allegations in a now-settled federal lawsuit filed by Ventura in November.", 
-            "title": "Exclusive: Sean \u2018Diddy\u2019 Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
+            "url": "https://9to5mac.com/2024/05/17/iphone-plus-going-the-way-of-the-iphone-mini-after-final-update-this-fall/", 
+            "description": "Earlier this month we saw a report from Jeff Pu predicting that the iPhone 16 lineup will be the last...", 
+            "title": "iPhone Plus going the way of the iPhone mini after final update this fall - 9to5Mac"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/17/investing/boeing-shareholders-vote-to-approve-usd33-million-ceo-pay-package/index.html", 
-            "description": "Shareholders of embattled airplane maker Boeing have approved a pay package of nearly $33 million for outgoing CEO Dave Calhoun.", 
-            "title": "Boeing shareholders vote to approve $33 million CEO pay package - CNN"
+            "url": "https://apnews.com/article/pandas-atlanta-zoo-leaving-china-1f50b2f79b7d0ebc765acfff87f57bea", 
+            "description": "The last U.S. zoo to have pandas in its care is preparing to say goodbye to the four giant bears this fall. Officials at Zoo Atlanta said Friday they preparing to return panda parents Lun Lun and Yang Yang to China along with their American-born twins, Ya Lun\u2026", 
+            "title": "The last pandas at any US zoo are expected to leave Atlanta for China this fall - The Associated Press"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/17/campus-protests-on-gaza-call-for-schools-to-divest-from-israelhow-it-would-work.html", 
-            "description": "Protesters on campuses nationwide have called on universities to divest from Israel due to the war in Gaza. Here's how divestment would actually work.", 
-            "title": "Campus protests have called for schools to divest from Israel. Here's how that would actually work - CNBC"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/17/sport/scottie-scheffler-detained/index.html", 
-            "description": "World No. 1 golfer Scottie Scheffler was arrested and charged with a felony and other counts Friday morning outside the PGA Championship in Louisville, Kentucky, after allegedly injuring a police officer while trying to drive around the scene of a fatal crash.", 
-            "title": "Scottie Scheffler arrested in alleged assault on police officer outside PGA Championship, then returns to play - CNN"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/17/1252095266/rafah-is-running-out-of-food-even-as-the-u-s-pier-starts-operating-in-gaza", 
-            "description": "The first trucks of aid entered Gaza via a pier built by the U.S. But it's challenging to move aid around Gaza, and humanitarian groups operating in Rafah warn they don't have food to distribute.", 
-            "title": "Rafah is running out of food, even as the U.S. pier starts operating in Gaza - NPR"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/17/entertainment/what-ben-affleck-refused-to-do-in-jennifer-lopez-marriage-before-split-rumors/", 
-            "description": "Amid the rumors that Ben Affleck\u00a0 and Jennifer Lopez are on the rocks, a Prime Video documentary covers how Affleck had one demand when they rekindled their romance.", 
-            "title": "What Ben Affleck refused to do in Jennifer Lopez marriage before split rumors - New York Post "
-        }, 
-        {
-            "url": "https://abcnews.go.com/Politics/photo-upside-flag-supreme-court-justice-samuel-alitos/story?id=110339877", 
-            "description": "Sen. Dick Durbin called on Alito to recuse himself from election 2020 cases.", 
-            "title": "Photo of upside-down flag at Supreme Court Justice Samuel Alito's house raises concerns: Report - ABC News"
-        }, 
-        {
-            "url": "https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/", 
-            "description": "Slack is making it difficult for its customers if they want the company to stop using its data for model training.", 
-            "title": "Slack under attack over sneaky AI training policy - TechCrunch"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/europe/russias-tuapse-oil-refinery-halted-after-ukrainian-drone-attack-sources-say-2024-05-17/", 
-            "description": null, 
-            "title": "Russia's Tuapse oil refinery halted after Ukrainian drone attack, sources say - Reuters"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=lIyyg6VoOE8", 
-            "description": "On First Take, Stephen A. Smith, Monica McNutt and Tim Legler react to the Minnesota Timberwolves forcing a Game 7 after 115-70 blowout win in Game 6.#firstt...", 
-            "title": "JOKIC IS COMING! \ud83d\udde3\ufe0f - Stephen A. WARNS Anthony Edwards ahead of Game 7 \ud83d\udc40 | First Take - ESPN"
-        }, 
-        {
-            "url": "https://www.macrumors.com/2024/05/17/m4-ipad-pro-teardown/", 
-            "description": "YouTube channel Phone Repair Guru has shared a teardown video for the new 13-inch iPad Pro with the M4 chip, providing a first look at the...", 
-            "title": "New iPad Pro Teardown Reveals Internal Design Changes, Including Apple Logo With Copper - MacRumors"
-        }, 
-        {
-            "url": "https://www.ign.com/articles/young-sheldon-iain-armitage-bids-farewell-show-ends-7-seasons", 
-            "description": "Young Sheldon star Iain Armitage has shared a heartfelt Instagram post marking the end of the series and his run as the show's titular boy genius.", 
-            "title": "Young Sheldon Actor Iain Armitage Bids Farewell as Show Ends After 7 Seasons - IGN"
-        }, 
-        {
-            "url": "https://www.livescience.com/planet-earth/plants/bizarre-evolutionary-roots-of-africas-iconic-upside-down-baobab-trees-revealed", 
-            "description": "The baobab tree evolved on the island of Madagascar before eventually spreading to Africa and Australia, new research suggests.", 
-            "title": "Bizarre evolutionary roots of Africa's iconic upside-down baobab trees revealed - Livescience.com"
+            "url": "https://www.espn.com/soccer/story/_/id/40164590/lionel-messi-famous-barcelona-napkin-sold-auction", 
+            "description": "The famous napkin that linked a young Lionel Messi to Barcelona sold for \u00a3762,400 ($965,000) on Friday, British auction house Bonhams said.", 
+            "title": "Lionel Messi's famous Barcelona napkin sold for $965,000 - ESPN"
         }
     ], 
-    "last_updated": "2024-05-18 23:00:30"
+    "last_updated": "2024-05-18 23:29:02"
 }
