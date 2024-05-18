@@ -1,19 +1,34 @@
 {
     "news": [
         {
-            "url": "https://www.bbc.com/news/articles/cn037ry3r3zo", 
-            "description": "The BBC's Jonathan Beale joins Ukrainian forces in Kharkiv as they try to shore up a weakened frontline.", 
-            "title": "Ukraine's defence lines stretched as Russian troops advance - BBC.com"
+            "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/", 
+            "description": "Detroit gained 1,852 people from July 1, 2022 to July 1, 2023, according to the Census Bureau, the city's first population growth since 1957.", 
+            "title": "'Day of celebration': Detroit sees first population growth since 1957 - Detroit News"
         }, 
         {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-17/china-removes-mortgage-rate-floor-for-individual-homebuyers-lwa88d1y", 
-            "description": "China announced its most forceful attempt yet to shore up the beleaguered property market, easing mortgage rules and encouraging local governments to buy unsold homes from developers for conversion into affordable housing.", 
-            "title": "China Unveils Broad Rescue Package to Prop Up Housing Market - Bloomberg"
+            "url": "https://www.wsj.com/world/china/china-consumption-investment-slows-unexpectedly-d397cec6", 
+            "description": null, 
+            "title": "China Consumption and Investment Slow Unexpectedly - WSJ - The Wall Street Journal"
         }, 
         {
-            "url": "https://www.espn.com/wnba/story/_/id/40161747/caitlin-clark-scores-9-points-home-debut-fever-lose", 
-            "description": "Caitlin Clark scored 9 points in the Fever's 102-66 loss at home to the Liberty. It was the first time Clark was held to single digits in scoring since January 2021.", 
-            "title": "Caitlin Clark scores 9 points in home debut as Fever lose - ESPN"
+            "url": "https://www.reuters.com/markets/asia/china-new-home-prices-fall-fastest-pace-over-9-years-2024-05-17/", 
+            "description": null, 
+            "title": "China announces sweeping steps to stabilise property sector - Reuters"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMmpkM2sxenlqcm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJqZDNrMXp5anJvLmFtcA?oc=5", 
+            "description": null, 
+            "title": "War in Ukraine: Key weeks ahead for Russia\u2019s offensive in Ukraine - BBC.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/megalopolis-cannes-francis-ford-coppola-d965352b9f0f5d78d6c470beb801f6f8", 
+            "description": "Francis Ford Coppola on Thursday premiered his self-financed opus \u201cMegalopolis\u201d at the Cannes Film Festival, unveiling a wildly ambitious passion project the 85-year-old director has been pondering for decades. Reactions ranged from \u201ca folly of gargantuan pro\u2026", 
+            "title": "Francis Ford Coppola debuts 'Megalopolis' in Cannes, and the reviews are in - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cbssports.com/wnba/news/caitlin-clarks-home-debut-for-fever-spoiled-by-mvp-performance-from-libertys-breanna-stewart/", 
+            "description": "Stewart went off for 31 points, 10 rebounds, four assists, three steals and two blocks", 
+            "title": "Caitlin Clark's home debut for Fever spoiled by MVP performance from Liberty's Breanna Stewart - CBS Sports"
         }, 
         {
             "url": "https://www.bbc.com/news/world-us-canada-69021543", 
@@ -26,9 +41,9 @@
             "title": "Here Are the 2024 ACM Awards Winners: Complete List - Billboard"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=7uEhL2_K-iI", 
-            "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...", 
-            "title": "Anthony Edwards PROPELS The Timberwolves Into Game 7! \ud83d\udc40| May 16, 2024 - NBA"
+            "url": "https://apnews.com/article/biden-robert-hur-classified-documents-justice-department-edf67af3810ab877c7c195956b49b3a6", 
+            "description": "Two House committees have moved ahead with contempt charges against Attorney General Merrick Garland for refusing to turn over audio from President Joe Biden\u2019s interview with a special counsel. The votes Thursday follow the White House\u2019s decision to block the\u2026", 
+            "title": "Biden's special counsel interview audio release blocked by White House - The Associated Press"
         }, 
         {
             "url": "https://www.reuters.com/world/putin-push-growing-moscow-beijing-trade-chinas-northeast-2024-05-17/", 
@@ -36,19 +51,19 @@
             "title": "Putin to push growing Moscow-Beijing trade in China's northeast - Reuters"
         }, 
         {
-            "url": "https://abcnews.go.com/Politics/biden-asserts-executive-privilege-audio-interview-special-counsel/story?id=110298904", 
-            "description": "Republicans are still moving ahead with trying to hold AG Garland in contempt.", 
-            "title": "Biden asserts executive privilege over audio of interview with special counsel Hur - ABC News"
+            "url": "https://sports.yahoo.com/nba-playoffs-timberwolves-run-roughshod-over-nuggets-to-force-game-7-025711333.html", 
+            "description": "Anthony Edwards is ready for Game 7.", 
+            "title": "NBA playoffs: Timberwolves run roughshod over Nuggets to force Game 7 - Yahoo Sports"
         }, 
         {
-            "url": "https://apnews.com/article/pga-championship-valhalla-tiger-scheffler-mcilroy-koepka-d0421ebb2e61aeff9c95a1bb87ee1a72", 
-            "description": "Xander Schauffele has set the PGA Championship record with a 62. He also ties a major championship record that he shared last year in the U.S. Open. Schauffele took advantage of rain-softened conditions at Valhalla. And he's been playing some good golf. Schau\u2026", 
-            "title": "PGA Championship: Schauffele breaks scoring record with a 62 - The Associated Press"
+            "url": "https://www.bbc.com/news/articles/c3g9g63jl17o", 
+            "description": "The ICJ ruling has come under intense scrutiny, centring on the word \"plausible\". What did the court mean?", 
+            "title": "Israel-Gaza: What did the ICJ ruling really say? - BBC.com"
         }, 
         {
-            "url": "https://www.reuters.com/markets/asia/chinas-april-industrial-output-rises-67-beats-expectations-2024-05-17/", 
-            "description": null, 
-            "title": "China's factories fire up but consumer, property weakness persists - Reuters"
+            "url": "https://www.cnn.com/2024/05/16/politics/alito-upside-down-american-flag-house/index.html", 
+            "description": "An\u00a0upside-down\u00a0American flag \u2013 a symbol\u00a0used by some supporters of former President\u00a0Donald Trump\u00a0who challenged the legitimacy Joe Biden\u2019s 2020 victory\u00a0\u2013 hung outside the home of Supreme Court Justice Samuel Alito after the election,\u00a0The New York Times report\u2026", 
+            "title": "New York Times: Upside-down US flag flew at home of Justice Samuel Alito after 2020 election - CNN"
         }, 
         {
             "url": "https://removed.com", 
@@ -56,9 +71,9 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://apnews.com/article/new-caledonia-france-pacific-unrest-8c05588d36cdafebaa7df9392c20f175", 
-            "description": "Violence is raging across New Caledonia for the third consecutive day. France has imposed a state of emergency in the French Pacific territory. Authorities boosted security forces\u2019 powers to quell deadly unrest in the archipelago, where some residents have lo\u2026", 
-            "title": "Violence rages in New Caledonia as France rushes emergency reinforcements to its Pacific territory - The Associated Press"
+            "url": "https://www.cnn.com/2024/05/16/sport/xander-schauffele-pga-championship-score-record-spt-intl/index.html", 
+            "description": "Only four times in the history of all four men\u2019s major championships has a golfer shot 62. Xander Schauffele is now responsible for the last two.", 
+            "title": "PGA Championship: Xander Schauffele ties major record again as Scottie Scheffler eagles first hole as a Dad - CNN"
         }, 
         {
             "url": "https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors", 
@@ -71,35 +86,20 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.axios.com/2024/05/16/biden-border-immigration-asylum-fast-track-docket", 
-            "description": null, 
-            "title": "Biden takes another step to fast-track asylum process for border crossers - Axios"
+            "url": "https://nypost.com/2024/05/16/us-news/biden-speeds-up-asylum-process-for-migrants-headed-to-nyc-la-chicago-atlanta-boston/", 
+            "description": "The Biden administration is accelerating the asylum timeline for migrants who enter the US illegally en route to five major cities. Homeland Security Secretary Alejandro Mayorkas and Attorney Gener\u2026", 
+            "title": "Biden speeds up asylum process for migrants headed to NYC, LA, Chicago - New York Post "
         }, 
         {
             "url": "https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed", 
             "description": "As bird flu continues to spread among cattle in the U.S., the CDC and WebMD joined forces on Thursday to present a live-streamed briefing on the status of the outbreak.", 
-            "title": "CDC, WebMD give update on current bird flu outbreak: 'Be alert, not alarmed' - Fox News"
+            "title": "CDC, WebMD give update on current bird flu outbreak: \u2018Be alert, not alarmed\u2019 - Fox News"
         }, 
         {
-            "url": "https://techcrunch.com/2024/05/16/openai-inks-deal-to-train-ai-on-reddit-data/", 
-            "description": "OpenAI has inked a deal with Reddit to train its models on Reddit data. In return, OpenAI will become a Reddit ad partner -- and provide AI-powered tools.", 
-            "title": "OpenAI inks deal to train AI on Reddit data - TechCrunch"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/us/us-house-votes-force-weapons-shipments-israel-rebuking-biden-2024-05-16/", 
-            "description": null, 
-            "title": "US House votes to force weapons shipments to Israel, rebuking Biden - Reuters"
-        }, 
-        {
-            "url": "https://apnews.com/article/detroit-us-census-population-1f1f2ef32a46d4310e95dfc5e9c5a2c4", 
-            "description": "U.S. Census Bureau estimates show America's Northeast and Midwest cities are rebounding slightly from years of population drops, highlighted by modest growth in Detroit after decades of declines. Government figures released Thursday show Detroit saw its popul\u2026", 
-            "title": "Census Bureau estimates: Detroit population rises after decades of decline, South dominates growth - The Associated Press"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/video/walmart-market-cap-tops-500b-195303479.html", 
-            "description": "Shares of Walmart (WMT) are trading higher Thursday, boosted by the company's first quarter earnings beat, which signaled consumer resilience on spending...", 
-            "title": "Walmart market cap tops $500B post Q1 results - Yahoo Finance"
+            "url": "https://fortune.com/2024/05/16/sam-altman-openai-reddit-partner/", 
+            "description": "Altman, CEO of OpenAI, has a long history with Reddit and briefly served as its interim CEO in 2014.", 
+            "title": "Sam Altman, leader of OpenAI and one of Reddit's largest investors, is further aligning his interests with an alliance between the two - Fortune"
         }
     ], 
-    "last_updated": "2024-05-18 10:58:04"
+    "last_updated": "2024-05-18 11:28:07"
 }
