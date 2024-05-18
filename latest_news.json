@@ -1,34 +1,84 @@
 {
     "news": [
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jejk2ZDNkbjlqcm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3o5NmQzZG45anJvLmFtcA?oc=5", 
-            "description": null, 
-            "title": "US confirms first aid trucks arrive via Gaza pier - BBC.com"
+            "url": "https://www.cbsnews.com/news/nancy-pelosi-paul-pelosi-victim-statement-david-depape/", 
+            "description": "David DePape, convicted of trying to kidnap Pelosi and attacking her husband with a hammer in October 2022, was sentenced Friday to 30 years in prison.", 
+            "title": "Nancy Pelosi asks for \"very long\" sentence for David DePape, who attacked husband Paul Pelosi with hammer - CBS News"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=oOTZb6Zx1Zk", 
-            "description": null, 
-            "title": "$GME $AMC Live Trading With Benzinga + All-Access | May 17th, 2024 - Benzinga"
+            "url": "https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html", 
+            "description": "The Dow briefly crossed 40,000 for the first time on Thursday.", 
+            "title": "Dow rises, nears 40,000 again and heads for five-week advance: Live updates - CNBC"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNy9zcG9ydC9zY290dGllLXNjaGVmZmxlci1kZXRhaW5lZC9pbmRleC5odG1s0gFDaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8xNy9zcG9ydC9zY290dGllLXNjaGVmZmxlci1kZXRhaW5lZA?oc=5", 
+            "url": "https://www.nbcnews.com/news/us-news/trails-carolina-wilderness-camp-boy-died-license-revoked-rcna146296", 
+            "description": "Trails Carolina, a wilderness camp for troubled adolescents where a 12-year-old boy died in February, is losing its license.", 
+            "title": "North Carolina will revoke license of wilderness camp where boy died - NBC News"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-hamas-war-gaza-hostages-shani-louk-a37e4fd656b46be36c4c659a9c2aac7d", 
+            "description": "The Israeli military says its troops in Gaza found the bodies of three Israeli hostages killed by Hamas in its Oct. 7 attack, including German-Israeli Shani Louk. A photo of Louk\u2019s twisted body in the back of a pickup truck ricocheted around the world, bringi\u2026", 
+            "title": "Israeli military finds bodies of 3 hostages in Gaza, including Shani Louk - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/covid-likely-growing-states-cdc-estimates/", 
+            "description": "Health authorities are watching for signs the virus might be starting to accelerate again after a springtime lull in COVID rates.", 
+            "title": "COVID \"likely growing\" in D.C. and 12 states, CDC estimates - CBS News"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcDNnOGtsOGRkNW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3AzZzhrbDhkZDVvLmFtcA?oc=5", 
             "description": null, 
+            "title": "Rouen: Man shot dead after French synagogue set on fire - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html", 
+            "description": "A 2016 surveillance video obtained exclusively by CNN shows Sean \u201cDiddy\u201d Combs grab, shove, drag and kick his then-girlfriend Cassie Ventura during an altercation that matches allegations in a now-settled federal lawsuit filed by Ventura in November.", 
+            "title": "Exclusive: Sean \u2018Diddy\u2019 Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/investing/boeing-shareholders-vote-to-approve-usd33-million-ceo-pay-package/index.html", 
+            "description": "Shareholders of embattled airplane maker Boeing have approved a pay package of nearly $33 million for outgoing CEO Dave Calhoun.", 
+            "title": "Boeing shareholders vote to approve $33 million CEO pay package - CNN"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/17/campus-protests-on-gaza-call-for-schools-to-divest-from-israelhow-it-would-work.html", 
+            "description": "Protesters on campuses nationwide have called on universities to divest from Israel due to the war in Gaza. Here's how divestment would actually work.", 
+            "title": "Campus protests have called for schools to divest from Israel. Here's how that would actually work - CNBC"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/sport/scottie-scheffler-detained/index.html", 
+            "description": "World No. 1 golfer Scottie Scheffler was arrested and charged with a felony and other counts Friday morning outside the PGA Championship in Louisville, Kentucky, after allegedly injuring a police officer while trying to drive around the scene of a fatal crash.", 
             "title": "Scottie Scheffler arrested in alleged assault on police officer outside PGA Championship, then returns to play - CNN"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/17/frontier-airlines-change-fees-scrapped.html", 
-            "description": "The budget airline's changes come amid the Biden administration's crackdown on so-called \"junk fees.\"", 
-            "title": "Frontier Airlines does away with change fees in budget airline pricing overhaul - CNBC"
+            "url": "https://www.npr.org/2024/05/17/1252095266/rafah-is-running-out-of-food-even-as-the-u-s-pier-starts-operating-in-gaza", 
+            "description": "The first trucks of aid entered Gaza via a pier built by the U.S. But it's challenging to move aid around Gaza, and humanitarian groups operating in Rafah warn they don't have food to distribute.", 
+            "title": "Rafah is running out of food, even as the U.S. pier starts operating in Gaza - NPR"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/stock-market-today-stocks-tread-water-with-dow-aiming-for-40000-133352056.html", 
-            "description": null, 
-            "title": "Stock market today: Stocks tread water with Dow aiming for 40,000 - Yahoo Finance"
+            "url": "https://nypost.com/2024/05/17/entertainment/what-ben-affleck-refused-to-do-in-jennifer-lopez-marriage-before-split-rumors/", 
+            "description": "Amid the rumors that Ben Affleck\u00a0 and Jennifer Lopez are on the rocks, a Prime Video documentary covers how Affleck had one demand when they rekindled their romance.", 
+            "title": "What Ben Affleck refused to do in Jennifer Lopez marriage before split rumors - New York Post "
         }, 
         {
-            "url": "https://www.reuters.com/world/us/supreme-court-justice-alitos-home-flew-us-flag-upside-down-following-jan-6-nyt-2024-05-17/", 
+            "url": "https://abcnews.go.com/Politics/photo-upside-flag-supreme-court-justice-samuel-alitos/story?id=110339877", 
+            "description": "Sen. Dick Durbin called on Alito to recuse himself from election 2020 cases.", 
+            "title": "Photo of upside-down flag at Supreme Court Justice Samuel Alito's house raises concerns: Report - ABC News"
+        }, 
+        {
+            "url": "https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/", 
+            "description": "Slack is making it difficult for its customers if they want the company to stop using its data for model training.", 
+            "title": "Slack under attack over sneaky AI training policy - TechCrunch"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/europe/russias-tuapse-oil-refinery-halted-after-ukrainian-drone-attack-sources-say-2024-05-17/", 
             "description": null, 
-            "title": "Supreme Court Justice Alito's home flew US flag upside down following Jan. 6-NYT - Reuters"
+            "title": "Russia's Tuapse oil refinery halted after Ukrainian drone attack, sources say - Reuters"
         }, 
         {
             "url": "https://www.youtube.com/watch?v=lIyyg6VoOE8", 
@@ -36,70 +86,20 @@
             "title": "JOKIC IS COMING! \ud83d\udde3\ufe0f - Stephen A. WARNS Anthony Edwards ahead of Game 7 \ud83d\udc40 | First Take - ESPN"
         }, 
         {
+            "url": "https://www.macrumors.com/2024/05/17/m4-ipad-pro-teardown/", 
+            "description": "YouTube channel Phone Repair Guru has shared a teardown video for the new 13-inch iPad Pro with the M4 chip, providing a first look at the...", 
+            "title": "New iPad Pro Teardown Reveals Internal Design Changes, Including Apple Logo With Copper - MacRumors"
+        }, 
+        {
             "url": "https://www.ign.com/articles/young-sheldon-iain-armitage-bids-farewell-show-ends-7-seasons", 
             "description": "Young Sheldon star Iain Armitage has shared a heartfelt Instagram post marking the end of the series and his run as the show's titular boy genius.", 
             "title": "Young Sheldon Actor Iain Armitage Bids Farewell as Show Ends After 7 Seasons - IGN"
         }, 
         {
-            "url": "https://www.aljazeera.com/news/2024/5/17/french-police-kill-armed-man-suspected-of-setting-fire-to-synagogue", 
-            "description": "Local prosecutor says two investigations into arson attempt and death of unidentified suspect are under way.", 
-            "title": "French police kill man suspected of setting fire to synagogue in Rouen - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.wsj.com/tech/microsoft-call-of-duty-game-pass-53e8930c", 
-            "description": null, 
-            "title": "Exclusive | Microsoft Plans Boldest Games Bet Since Activision Deal, Changing How 'Call of Duty' Is Sold - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMTcvd29ybGQvZXVyb3BlL3NldmFzdG9wb2wtdWtyYWluZS1jcmltZWEtcnVzc2lhLmh0bWzSAQA?oc=5", 
-            "description": null, 
-            "title": "Ukraine Hits Sevastopol Power Station With Huge Drone Attack, Russia Says - The New York Times"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/north-carolina-masking-bill-pandemic-coronavirus-crime-campus-protest/", 
-            "description": "North Carolina Republicans are pushing forward with their plan to repeal a pandemic-era law, citing crime and recent campus protests.", 
-            "title": "Bill to ban most public mask wearing, including for health reasons, advances in North Carolina - CBS News"
-        }, 
-        {
-            "url": "https://apnews.com/article/vatican-apparitions-pope-lourdes-fatima-f9b5659e2947e7eb966db2e491e17267", 
-            "description": "The Vatican has radically reformed its process for evaluating alleged visions of the Virgin Mary, weeping statues and other seemingly supernatural phenomena. The Vatican\u2019s doctrine office overhauled norms first issued in 1978, arguing that they were no longer\u2026", 
-            "title": "Vatican revamps norms to evaluate visions of Mary as it adapts to internet age and combats hoaxers - The Associated Press"
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/megalopolis-donald-trump-francis-ford-coppola-jon-voight-cannes-1235920285/", 
-            "description": "\"To do a Roman epic set in modern America, I had no idea that the politics of today would make that so relevant,\" Francis Coppola said on Megalopolis.", 
-            "title": "Francis Ford Coppola Says \u201cMen Like Donald Trump Are Not At The Moment In Charge\u201d; Filmmaker Pulls Jon Voight Into Political Convo At \u2018Megalopolis\u2019 Cannes Presser - Deadline"
-        }, 
-        {
-            "url": "https://scitechdaily.com/nasas-juno-spacecraft-reveals-dynamic-shifts-on-europas-frozen-surface/", 
-            "description": "NASA\u2019s Juno has provided images that support the theory of true polar wander on Europa, showing the moon\u2019s ice shell has shifted. Images from the solar-powered spacecraft revealed intriguing features on the ice-encased Jovian moon, including geological disrup\u2026", 
-            "title": "NASA's Juno Spacecraft Reveals Dynamic Shifts on Europa's Frozen Surface - SciTechDaily"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/scottie-scheffler-detained-police-pga-championship-not-following-orders-after-traffic-fatality-espn-report/", 
-            "description": "Footage showed top-ranked golfer Scottie Scheffler handcuffed and walking toward a police car in the morning darkness. He later teed off at the PGA Championship.", 
-            "title": "Scottie Scheffler detained by police at PGA Championship for not following orders during traffic jam that followed a traffic fatality - CBS News"
-        }, 
-        {
-            "url": "https://www.cnet.com/tech/services-and-software/google-io-is-a-loud-ai-warning-shot-for-apple-weeks-before-wwdc/", 
-            "description": "Google keeps tossing out more AI toys. Apple hasn't added any to its products\u2026yet.", 
-            "title": "Google I/O Is a Loud AI Warning Shot for Apple Weeks Before WWDC - CNET"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNy9hbWVyaWNhcy9jaGlhcGFzLW1leGljby1raWxsaW5ncy1jYW1wYWlnbi1ldmVudC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNS8xNy9hbWVyaWNhcy9jaGlhcGFzLW1leGljby1raWxsaW5ncy1jYW1wYWlnbi1ldmVudA?oc=5", 
-            "description": null, 
-            "title": "Six people killed during campaign event in southern Mexico state of Chiapas - CNN"
-        }, 
-        {
-            "url": "https://www.forbes.com/sites/monicamercuri/2024/05/17/what-time-does-bridgerton-season-3-drop-on-netflix-see-the-release-schedule/", 
-            "description": "Ready to continue Polin's love story after watching \"Bridgerton\" Season 3, part one Here's the full release schedule for part two.", 
-            "title": "When Does 'Bridgerton' Season 3, Part 2 Come Out On Netflix? Release Schedule - Forbes"
-        }, 
-        {
-            "url": "https://www.newsweek.com/jasmine-crockett-marjorie-taylor-greene-diss-track-1901743", 
-            "description": "Moskowitz dubbed the diss track \"Oversight after dark.\"", 
-            "title": "Democrat Turns Attack on Marjorie Taylor Greene Into 'Diss Track' - Newsweek"
+            "url": "https://www.livescience.com/planet-earth/plants/bizarre-evolutionary-roots-of-africas-iconic-upside-down-baobab-trees-revealed", 
+            "description": "The baobab tree evolved on the island of Madagascar before eventually spreading to Africa and Australia, new research suggests.", 
+            "title": "Bizarre evolutionary roots of Africa's iconic upside-down baobab trees revealed - Livescience.com"
         }
     ], 
-    "last_updated": "2024-05-18 21:00:21"
+    "last_updated": "2024-05-18 21:28:53"
 }
