@@ -1,24 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/", 
-            "description": "Detroit gained 1,852 people from July 1, 2022 to July 1, 2023, according to the Census Bureau, the city's first population growth since 1957.", 
-            "title": "'Day of celebration': Detroit sees first population growth since 1957 - Detroit News"
+            "url": "https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html", 
+            "description": "The Dow briefly crossed 40,000 for the first time on Thursday.", 
+            "title": "Dow futures are little changed after blue-chip average touches 40,000 for first time: Live updates - CNBC"
         }, 
         {
-            "url": "https://www.wsj.com/world/china/china-consumption-investment-slows-unexpectedly-d397cec6", 
-            "description": null, 
-            "title": "China Consumption and Investment Slow Unexpectedly - WSJ - The Wall Street Journal"
+            "url": "https://apnews.com/article/france-synagogue-attack-suspect-killed-08a1aaf0f60d5aa4bee9ef2c5e48e411", 
+            "description": "French police have shot and killed a man armed with a knife and a metal bar who is suspected of having set fire to a synagogue in the Normandy city of Rouen. French police said officers were alerted early Friday morning that smoke was rising from the synagogu\u2026", 
+            "title": "French police killed suspect planning to burn synagogue in Rouen - The Associated Press"
         }, 
         {
-            "url": "https://www.reuters.com/markets/asia/china-new-home-prices-fall-fastest-pace-over-9-years-2024-05-17/", 
-            "description": null, 
-            "title": "China announces sweeping steps to stabilise property sector - Reuters"
+            "url": "https://www.cnn.com/2024/05/17/sport/caitlin-clark-indiana-fever-home-debut-wnba-spt-intl/index.html", 
+            "description": "Caitlin Clark struggled to make much of an impact in her home debut on Thursday, as the Indiana Fever fell to the New York Liberty 102-66.", 
+            "title": "Caitlin Clark struggles during Indiana Fever home debut - CNN"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMmpkM2sxenlqcm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJqZDNrMXp5anJvLmFtcA?oc=5", 
-            "description": null, 
+            "url": "https://www.foxnews.com/health/melanoma-patients-dramatic-stories-skin-cancer-awareness-month-thought-i-was-careful", 
+            "description": "For Skin Cancer Awareness Month, two melanoma patients shared their stories of how they overcame the invasive form of the disease. A dermatologist also revealed prevention tips.", 
+            "title": "Melanoma patients reveal dramatic stories for Skin Cancer Awareness Month: \u2018I thought I was careful\u2019 - Fox News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html", 
+            "description": "The Texas Board of Pardons has recommended a full pardon to Daniel Perry,\u00a0a US Army sergeant who was sentenced to 25 years in prison after being\u00a0convicted of murdering a protester\u00a0at a Black Lives Matter rally in 2020.", 
+            "title": "Former US Army sergeant released from prison after Gov. Abbott pardons him for 2020 fatal Black Lives Matter protest shooting - CNN"
+        }, 
+        {
+            "url": "https://apnews.com/article/houston-texas-severe-weather-storms-d14447267de0a8900e1475a8ad7ed8ba", 
+            "description": "Severe thunderstorms have hit southeastern Texas for the second time this month, and Houston's mayor says at least four people are dead. There have also been windows blown out of high-rise buildings, downed trees and power outages for more than 900,000 custom\u2026", 
+            "title": "Severe storms kill at least 4 in Houston, knock out power to 900000 homes and businesses - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/middleeast/gaza-floating-pier-aid-trucks-intl-hnk/index.html", 
+            "description": "Trucks carrying humanitarian aid into Gaza have begun moving ashore after arriving through the floating pier built by the US military, according to the US Central Command (CENTCOM).", 
+            "title": "US military starts delivering aid to Gaza through floating pier - CNN"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c2jd3k1zyjro", 
+            "description": "Russia has launched a push north of Kharkiv but its ultimate goal is so far unclear.", 
             "title": "War in Ukraine: Key weeks ahead for Russia\u2019s offensive in Ukraine - BBC.com"
+        }, 
+        {
+            "url": "https://abcnews.go.com/International/wireStory/massive-ukrainian-drone-attack-crimea-leaves-sevastopol-power-110329755", 
+            "description": "MOSCOW _ Russian President Vladimir Putin said Friday that Moscow\u2019s offensive in Ukraine\u2019s Kharkiv region aims to create a buffer zone but has no plans to capture the city", 
+            "title": "Massive Ukrainian drone attack on Crimea causes power cutoffs in Sevastopol - ABC News"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-us-canada-69023014", 
+            "description": "Instead of the usual TV spectacle of two autumn debates, this year the first one will come in summer.", 
+            "title": "Why Biden might be happy to debate Trump in June - BBC.com"
         }, 
         {
             "url": "https://apnews.com/article/megalopolis-cannes-francis-ford-coppola-d965352b9f0f5d78d6c470beb801f6f8", 
@@ -26,14 +56,24 @@
             "title": "Francis Ford Coppola debuts 'Megalopolis' in Cannes, and the reviews are in - The Associated Press"
         }, 
         {
-            "url": "https://www.cbssports.com/wnba/news/caitlin-clarks-home-debut-for-fever-spoiled-by-mvp-performance-from-libertys-breanna-stewart/", 
-            "description": "Stewart went off for 31 points, 10 rebounds, four assists, three steals and two blocks", 
-            "title": "Caitlin Clark's home debut for Fever spoiled by MVP performance from Liberty's Breanna Stewart - CBS Sports"
+            "url": "https://www.startribune.com/timberwolves-nuggets-game-6-blowout-anthony-edwards-karl-anthony-towns-target-center/600366609/", 
+            "description": "The Timberwolves trailed the Nuggets behind 9-2 in the first few minutes, but buried that slow start with a 20-point run that set the stage for one of the most successful games in the team\u2019s history.", 
+            "title": "Timberwolves beat Nuggets by 45 points, set up Game 7 on Sunday - Star Tribune"
         }, 
         {
-            "url": "https://www.bbc.com/news/world-us-canada-69021543", 
-            "description": "Harrison Butker also attacked \"degenerate cultural values\" and \"the tyranny of diversity, equity and inclusion\".", 
-            "title": "Harrison Butker 'homemaker' speech sparks backlash - BBC.com"
+            "url": "https://www.bloomberg.com/news/articles/2024-05-17/china-removes-mortgage-rate-floor-for-individual-homebuyers-lwa88d1y", 
+            "description": "China announced its most forceful attempt yet to shore up the beleaguered property market, easing mortgage rules and encouraging local governments to buy unsold homes from developers for conversion into affordable housing.", 
+            "title": "China Unveils Broad Rescue Package to Prop Up Housing Market - Bloomberg"
+        }, 
+        {
+            "url": "https://www.tomsguide.com/ai/chatgpt/ive-been-testing-openais-new-chatgpt-mac-app-this-is-what-spotlight-should-be", 
+            "description": "Slowly rolling out to users", 
+            "title": "I've been testing OpenAI's new ChatGPT-4o Mac app \u2014 this is a game changer - Tom's Guide"
+        }, 
+        {
+            "url": "https://thehill.com/homenews/house/4669653-chaos-erupts-in-hearing-as-greene-ocasio-cortez-clash-over-fake-eyelashes-jibe-at-crockett/", 
+            "description": "A House Oversight Committee hearing devolved into chaos Thursday night as Reps. Marjorie Taylor Greene (R-Ga.) and Alexandria Ocasio-Cortez (D-N.Y.) clashed after the firebrand Republican accused Rep. Jasmine Crockett (D-Texas) of wearing \u201cfake eyelashes.\u201d Th\u2026", 
+            "title": "Chaos erupts in hearing as Greene, Ocasio-Cortez clash over 'fake eyelashes' jibe at Crockett - The Hill"
         }, 
         {
             "url": "http://www.billboard.com/music/awards/2024-acm-awards-winners-list-1235685091/", 
@@ -41,19 +81,9 @@
             "title": "Here Are the 2024 ACM Awards Winners: Complete List - Billboard"
         }, 
         {
-            "url": "https://apnews.com/article/biden-robert-hur-classified-documents-justice-department-edf67af3810ab877c7c195956b49b3a6", 
-            "description": "Two House committees have moved ahead with contempt charges against Attorney General Merrick Garland for refusing to turn over audio from President Joe Biden\u2019s interview with a special counsel. The votes Thursday follow the White House\u2019s decision to block the\u2026", 
-            "title": "Biden's special counsel interview audio release blocked by White House - The Associated Press"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/putin-push-growing-moscow-beijing-trade-chinas-northeast-2024-05-17/", 
-            "description": null, 
-            "title": "Putin to push growing Moscow-Beijing trade in China's northeast - Reuters"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/nba-playoffs-timberwolves-run-roughshod-over-nuggets-to-force-game-7-025711333.html", 
-            "description": "Anthony Edwards is ready for Game 7.", 
-            "title": "NBA playoffs: Timberwolves run roughshod over Nuggets to force Game 7 - Yahoo Sports"
+            "url": "https://www.bbc.com/news/articles/cxe92v47850o", 
+            "description": "OpenAI and Reddit reach deal that will give ChatGPT access to content on the social media platform.", 
+            "title": "Reddit-OpenAI deal: ChatGPT gets access to social media platform - BBC.com"
         }, 
         {
             "url": "https://www.bbc.com/news/articles/c3g9g63jl17o", 
@@ -66,40 +96,10 @@
             "title": "New York Times: Upside-down US flag flew at home of Justice Samuel Alito after 2020 election - CNN"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/16/sport/xander-schauffele-pga-championship-score-record-spt-intl/index.html", 
-            "description": "Only four times in the history of all four men\u2019s major championships has a golfer shot 62. Xander Schauffele is now responsible for the last two.", 
-            "title": "PGA Championship: Xander Schauffele ties major record again as Scottie Scheffler eagles first hole as a Dad - CNN"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors", 
-            "description": "Ben Affleck and Jennifer Lopez were both seen wearing their wedding rings as they stepped out in Los Angeles May 16, amid rumors the couple was breaking up after two years of marriage.", 
-            "title": "Ben Affleck and Jennifer Lopez Step Out With Wedding Rings Amid Breakup Rumors - E! Online - E! NEWS"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/16/us-news/biden-speeds-up-asylum-process-for-migrants-headed-to-nyc-la-chicago-atlanta-boston/", 
-            "description": "The Biden administration is accelerating the asylum timeline for migrants who enter the US illegally en route to five major cities. Homeland Security Secretary Alejandro Mayorkas and Attorney Gener\u2026", 
-            "title": "Biden speeds up asylum process for migrants headed to NYC, LA, Chicago - New York Post "
-        }, 
-        {
-            "url": "https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed", 
-            "description": "As bird flu continues to spread among cattle in the U.S., the CDC and WebMD joined forces on Thursday to present a live-streamed briefing on the status of the outbreak.", 
-            "title": "CDC, WebMD give update on current bird flu outbreak: \u2018Be alert, not alarmed\u2019 - Fox News"
-        }, 
-        {
-            "url": "https://fortune.com/2024/05/16/sam-altman-openai-reddit-partner/", 
-            "description": "Altman, CEO of OpenAI, has a long history with Reddit and briefly served as its interim CEO in 2014.", 
-            "title": "Sam Altman, leader of OpenAI and one of Reddit's largest investors, is further aligning his interests with an alliance between the two - Fortune"
+            "url": "https://apnews.com/article/pga-championship-valhalla-tiger-scheffler-mcilroy-koepka-d0421ebb2e61aeff9c95a1bb87ee1a72", 
+            "description": "Xander Schauffele has set the PGA Championship record with a 62. He also ties a major championship record that he shared last year in the U.S. Open. Schauffele took advantage of rain-softened conditions at Valhalla. And he's been playing some good golf. Schau\u2026", 
+            "title": "PGA Championship: Schauffele breaks scoring record with a 62 - The Associated Press"
         }
     ], 
-    "last_updated": "2024-05-18 12:58:13"
+    "last_updated": "2024-05-18 13:28:16"
 }
