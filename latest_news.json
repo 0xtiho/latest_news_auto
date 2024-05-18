@@ -1,29 +1,64 @@
 {
     "news": [
         {
+            "url": "https://finance.yahoo.com/news/gamestop-amc-shares-rise-two-100723939.html", 
+            "description": "(Bloomberg) -- GameStop Corp. shares tumbled toward a third day of declines after the company said it may sell up to 45 million shares, further paring the...", 
+            "title": "GameStop Extends Rout on Plan to Sell Up to 45 Million Shares - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/health/flirt-covid-variants-summer-wave-risk/index.html", 
+            "description": "Covid-19 levels are about the lowest they\u2019ve ever been in the United States, but another new crop of virus variants once again threatens to disrupt the downward trend as the country heads into summer.", 
+            "title": "New virus variants threaten a summer Covid-19 wave, but experts say the risk remains uncertain - CNN"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/us/supreme-court-justice-alitos-home-flew-us-flag-upside-down-following-jan-6-nyt-2024-05-17/", 
+            "description": null, 
+            "title": "Supreme Court Justice Alito's home flew US flag upside down following Jan. 6-NYT - Reuters"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c8vzd111r3lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D", 
+            "description": "Critics call the album \"explicit, sapphic and her best work yet\", plus \"confident and non-conformist\".", 
+            "title": "Rave reviews for 'bold, brilliant' Billie Eilish - Yahoo Entertainment"
+        }, 
+        {
+            "url": "https://variety.com/2024/film/news/francis-ford-coppola-slams-studio-system-megalopolis-self-financed-1236007285/", 
+            "description": "Francis Ford Coppola shared his thoughts on the current studio system during the press conference for his self-financed epic 'Megalopolis.'", 
+            "title": "Francis Ford Coppola Slams Studio System After He Self-Financed \u2018Megalopolis\u2019: Execs \u2018Don\u2019t Make Good Movies \u2026 They Pay Their Debt Obligations\u2019 - Variety"
+        }, 
+        {
+            "url": "https://www.espn.com/golf/story/_/id/40162983/scottie-scheffler-detained-police-prior-start-pga-championship", 
+            "description": "World No. 1 golfer Scottie Scheffler was arrested by Louisville Metro Police on Friday morning after trying to drive into the entrance of Valhalla Golf Club, the site of this week's PGA Championship.", 
+            "title": "Scottie Scheffler arrested before start of PGA Championship - ESPN"
+        }, 
+        {
             "url": "https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html", 
             "description": "The Dow briefly crossed 40,000 for the first time on Thursday.", 
             "title": "Dow futures are little changed after blue-chip average touches 40,000 for first time: Live updates - CNBC"
         }, 
         {
-            "url": "https://apnews.com/article/france-synagogue-attack-suspect-killed-08a1aaf0f60d5aa4bee9ef2c5e48e411", 
-            "description": "French police have shot and killed a man armed with a knife and a metal bar who is suspected of having set fire to a synagogue in the Normandy city of Rouen. French police said officers were alerted early Friday morning that smoke was rising from the synagogu\u2026", 
-            "title": "French police killed suspect planning to burn synagogue in Rouen - The Associated Press"
+            "url": "https://www.reuters.com/world/middle-east/israel-tells-world-court-south-africa-case-makes-mockery-genocide-2024-05-17/", 
+            "description": null, 
+            "title": "Israel tells World Court South Africa case makes a mockery of genocide - Reuters"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/17/sport/caitlin-clark-indiana-fever-home-debut-wnba-spt-intl/index.html", 
-            "description": "Caitlin Clark struggled to make much of an impact in her home debut on Thursday, as the Indiana Fever fell to the New York Liberty 102-66.", 
-            "title": "Caitlin Clark struggles during Indiana Fever home debut - CNN"
+            "url": "https://www.foxbusiness.com/lifestyle/walmart-gains-high-income-shoppers-elevated-prices-persist", 
+            "description": "Walmart noted yet again that its continuing to gain even more higher-income shoppers. Executives say the driver isn't necessarily price but convenience.", 
+            "title": "Walmart gains high-income shoppers as elevated prices persist - Fox Business"
         }, 
         {
-            "url": "https://www.foxnews.com/health/melanoma-patients-dramatic-stories-skin-cancer-awareness-month-thought-i-was-careful", 
-            "description": "For Skin Cancer Awareness Month, two melanoma patients shared their stories of how they overcame the invasive form of the disease. A dermatologist also revealed prevention tips.", 
-            "title": "Melanoma patients reveal dramatic stories for Skin Cancer Awareness Month: \u2018I thought I was careful\u2019 - Fox News"
+            "url": "https://www.politico.com/news/2024/05/17/biden-trump-debate-2024-demands-00158586", 
+            "description": null, 
+            "title": "Biden's team had a few demands for a Trump debate. A major one: No crowd. - POLITICO"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html", 
-            "description": "The Texas Board of Pardons has recommended a full pardon to Daniel Perry,\u00a0a US Army sergeant who was sentenced to 25 years in prison after being\u00a0convicted of murdering a protester\u00a0at a Black Lives Matter rally in 2020.", 
-            "title": "Former US Army sergeant released from prison after Gov. Abbott pardons him for 2020 fatal Black Lives Matter protest shooting - CNN"
+            "url": "https://www.bbc.com/news/articles/cp3g8kl8dd5o", 
+            "description": "The man was armed with a knife and a metallic tool and was shot by an officer after he threatened the police.", 
+            "title": "Rouen: Man shot dead after French synagogue set on fire - BBC.com"
+        }, 
+        {
+            "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/", 
+            "description": "Detroit gained 1,852 people from July 1, 2022 to July 1, 2023, according to the Census Bureau, the city's first population growth since 1957.", 
+            "title": "'Day of celebration': Detroit sees first population growth since 1957 - Detroit News"
         }, 
         {
             "url": "https://apnews.com/article/houston-texas-severe-weather-storms-d14447267de0a8900e1475a8ad7ed8ba", 
@@ -31,29 +66,14 @@
             "title": "Severe storms kill at least 4 in Houston, knock out power to 900000 homes and businesses - The Associated Press"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/17/middleeast/gaza-floating-pier-aid-trucks-intl-hnk/index.html", 
-            "description": "Trucks carrying humanitarian aid into Gaza have begun moving ashore after arriving through the floating pier built by the US military, according to the US Central Command (CENTCOM).", 
-            "title": "US military starts delivering aid to Gaza through floating pier - CNN"
-        }, 
-        {
             "url": "https://www.bbc.com/news/articles/c2jd3k1zyjro", 
             "description": "Russia has launched a push north of Kharkiv but its ultimate goal is so far unclear.", 
             "title": "War in Ukraine: Key weeks ahead for Russia\u2019s offensive in Ukraine - BBC.com"
         }, 
         {
-            "url": "https://abcnews.go.com/International/wireStory/massive-ukrainian-drone-attack-crimea-leaves-sevastopol-power-110329755", 
-            "description": "MOSCOW _ Russian President Vladimir Putin said Friday that Moscow\u2019s offensive in Ukraine\u2019s Kharkiv region aims to create a buffer zone but has no plans to capture the city", 
-            "title": "Massive Ukrainian drone attack on Crimea causes power cutoffs in Sevastopol - ABC News"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-69023014", 
-            "description": "Instead of the usual TV spectacle of two autumn debates, this year the first one will come in summer.", 
-            "title": "Why Biden might be happy to debate Trump in June - BBC.com"
-        }, 
-        {
-            "url": "https://apnews.com/article/megalopolis-cannes-francis-ford-coppola-d965352b9f0f5d78d6c470beb801f6f8", 
-            "description": "Francis Ford Coppola on Thursday premiered his self-financed opus \u201cMegalopolis\u201d at the Cannes Film Festival, unveiling a wildly ambitious passion project the 85-year-old director has been pondering for decades. Reactions ranged from \u201ca folly of gargantuan pro\u2026", 
-            "title": "Francis Ford Coppola debuts 'Megalopolis' in Cannes, and the reviews are in - The Associated Press"
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-ranking-10-must-see-games-including-jets-49ers-opener-harbaugh-bowl/", 
+            "description": "These dates are already etched into our calendar", 
+            "title": "2024 NFL schedule release: Ranking 10 must-see games, including Jets-49ers opener, Harbaugh Bowl - CBS Sports"
         }, 
         {
             "url": "https://www.startribune.com/timberwolves-nuggets-game-6-blowout-anthony-edwards-karl-anthony-towns-target-center/600366609/", 
@@ -61,45 +81,25 @@
             "title": "Timberwolves beat Nuggets by 45 points, set up Game 7 on Sunday - Star Tribune"
         }, 
         {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-17/china-removes-mortgage-rate-floor-for-individual-homebuyers-lwa88d1y", 
-            "description": "China announced its most forceful attempt yet to shore up the beleaguered property market, easing mortgage rules and encouraging local governments to buy unsold homes from developers for conversion into affordable housing.", 
-            "title": "China Unveils Broad Rescue Package to Prop Up Housing Market - Bloomberg"
+            "url": "https://www.hindustantimes.com/entertainment/music/jennifer-lopez-and-ben-affleck-wont-split-insider-speaks-out-amid-growing-divorce-tension-101715920652528.html", 
+            "description": "Jennifer Lopez and Ben Affleck's rekindled romance facing challenges as they seem to be on 'different pages' amid divorce rumours and tension.", 
+            "title": "Jennifer Lopez and Ben Affleck 'won't split', insider speaks out amid growing divorce tension - Hindustan Times"
         }, 
         {
-            "url": "https://www.tomsguide.com/ai/chatgpt/ive-been-testing-openais-new-chatgpt-mac-app-this-is-what-spotlight-should-be", 
-            "description": "Slowly rolling out to users", 
-            "title": "I've been testing OpenAI's new ChatGPT-4o Mac app \u2014 this is a game changer - Tom's Guide"
+            "url": "https://nypost.com/2024/05/17/us-news/house-hearing-on-garland-devolves-into-chaos-involving-mtg-aoc-amp-crockett/", 
+            "description": "\u201cI think you know what you\u2019re here for,\u201d Rep. Marjorie Taylor Greene told Democratic Rep. Jasmine Crockett. \u201cI think your fake eyelashes are messing up what you\u2019re reading.\u201d", 
+            "title": "House hearing on Garland devolves into chaos involving AOC, MTG & Crockett: 'Are your feelings hurt? Aww' - New York Post "
         }, 
         {
-            "url": "https://thehill.com/homenews/house/4669653-chaos-erupts-in-hearing-as-greene-ocasio-cortez-clash-over-fake-eyelashes-jibe-at-crockett/", 
-            "description": "A House Oversight Committee hearing devolved into chaos Thursday night as Reps. Marjorie Taylor Greene (R-Ga.) and Alexandria Ocasio-Cortez (D-N.Y.) clashed after the firebrand Republican accused Rep. Jasmine Crockett (D-Texas) of wearing \u201cfake eyelashes.\u201d Th\u2026", 
-            "title": "Chaos erupts in hearing as Greene, Ocasio-Cortez clash over 'fake eyelashes' jibe at Crockett - The Hill"
+            "url": "https://www.bbc.com/news/world-us-canada-69021543", 
+            "description": "Harrison Butker also attacked \"degenerate cultural values\" and \"the tyranny of diversity, equity and inclusion\".", 
+            "title": "Harrison Butker 'homemaker' speech sparks backlash - BBC.com"
         }, 
         {
-            "url": "http://www.billboard.com/music/awards/2024-acm-awards-winners-list-1235685091/", 
-            "description": "The 2024 ACM Awards were May 16. Here's the winners list.", 
-            "title": "Here Are the 2024 ACM Awards Winners: Complete List - Billboard"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cxe92v47850o", 
-            "description": "OpenAI and Reddit reach deal that will give ChatGPT access to content on the social media platform.", 
-            "title": "Reddit-OpenAI deal: ChatGPT gets access to social media platform - BBC.com"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c3g9g63jl17o", 
-            "description": "The ICJ ruling has come under intense scrutiny, centring on the word \"plausible\". What did the court mean?", 
-            "title": "Israel-Gaza: What did the ICJ ruling really say? - BBC.com"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/16/politics/alito-upside-down-american-flag-house/index.html", 
-            "description": "An\u00a0upside-down\u00a0American flag \u2013 a symbol\u00a0used by some supporters of former President\u00a0Donald Trump\u00a0who challenged the legitimacy Joe Biden\u2019s 2020 victory\u00a0\u2013 hung outside the home of Supreme Court Justice Samuel Alito after the election,\u00a0The New York Times report\u2026", 
-            "title": "New York Times: Upside-down US flag flew at home of Justice Samuel Alito after 2020 election - CNN"
-        }, 
-        {
-            "url": "https://apnews.com/article/pga-championship-valhalla-tiger-scheffler-mcilroy-koepka-d0421ebb2e61aeff9c95a1bb87ee1a72", 
-            "description": "Xander Schauffele has set the PGA Championship record with a 62. He also ties a major championship record that he shared last year in the U.S. Open. Schauffele took advantage of rain-softened conditions at Valhalla. And he's been playing some good golf. Schau\u2026", 
-            "title": "PGA Championship: Schauffele breaks scoring record with a 62 - The Associated Press"
+            "url": "http://deadline.com/2024/05/young-sheldon-series-finale-producer-interview-1235919308/", 
+            "description": "The May 16 episode of Young Sheldon marked the end of The Big Bang Theory spinoff, with young Sheldon Cooper (Iain Armitage) heading off to California", 
+            "title": "\u2018Young Sheldon\u2019 Series Finale: EP Steve Holland Talks Return Of Mayim Bialik & Jim Parsons, Why The World Needs A Sheldon Cooper Memoir - Deadline"
         }
     ], 
-    "last_updated": "2024-05-18 14:58:23"
+    "last_updated": "2024-05-18 15:28:25"
 }
