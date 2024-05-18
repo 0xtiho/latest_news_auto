@@ -1,44 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.etonline.com/gallery/2024-acm-awards-red-carpet-arrivals-225529", 
-            "description": "See all the celebrities going to the big event -- the 2024 ACM Awards!", 
-            "title": "2024 ACM Awards: Red Carpet Arrivals - Entertainment Tonight"
+            "url": "https://www.bbc.com/news/articles/cn037ry3r3zo", 
+            "description": "The BBC's Jonathan Beale joins Ukrainian forces in Kharkiv as they try to shore up a weakened frontline.", 
+            "title": "Ukraine's defence lines stretched as Russian troops advance - BBC.com"
         }, 
         {
-            "url": "https://www.usatoday.com/story/sports/wnba/2024/05/16/indiana-new-york-caitlin-clark-wnba-home-game-score-highlights/73708087007/", 
-            "description": "Caitlin Clark and the Indiana Fever play their WNBA home opener Thursday night against the New York Liberty. Follow along with USA TODAY Sports.", 
-            "title": "Liberty-Fever live score, updates: Caitlin Clark stats, highlights - USA TODAY"
+            "url": "https://www.bloomberg.com/news/articles/2024-05-17/china-removes-mortgage-rate-floor-for-individual-homebuyers-lwa88d1y", 
+            "description": "China announced its most forceful attempt yet to shore up the beleaguered property market, easing mortgage rules and encouraging local governments to buy unsold homes from developers for conversion into affordable housing.", 
+            "title": "China Unveils Broad Rescue Package to Prop Up Housing Market - Bloomberg"
         }, 
         {
-            "url": "https://www.washingtonpost.com/nation/2024/05/16/census-population-cities-pandemic/", 
-            "description": "More U.S. cities are either growing faster, making gains instead of declines, or experienced less severe shrinking -- all signs of possible progress.", 
-            "title": "U.S. cities see more post-pandemic population improvement, census shows - The Washington Post"
+            "url": "https://www.espn.com/wnba/story/_/id/40161747/caitlin-clark-scores-9-points-home-debut-fever-lose", 
+            "description": "Caitlin Clark scored 9 points in the Fever's 102-66 loss at home to the Liberty. It was the first time Clark was held to single digits in scoring since January 2021.", 
+            "title": "Caitlin Clark scores 9 points in home debut as Fever lose - ESPN"
         }, 
         {
-            "url": "https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors", 
-            "description": "Ben Affleck and Jennifer Lopez were both seen wearing their wedding rings as they stepped out in Los Angeles May 16, amid rumors the couple was breaking up after two years of marriage.", 
-            "title": "Ben Affleck and Jennifer Lopez Step Out With Wedding Rings Amid Breakup Rumors - E! Online - E! NEWS"
+            "url": "https://www.bbc.com/news/world-us-canada-69021543", 
+            "description": "Harrison Butker also attacked \"degenerate cultural values\" and \"the tyranny of diversity, equity and inclusion\".", 
+            "title": "Harrison Butker 'homemaker' speech sparks backlash - BBC.com"
         }, 
         {
-            "url": "https://www.politico.com/live-updates/2024/05/16/trump-hush-money-criminal-trial/trump-appeals-gag-order-00158308", 
+            "url": "http://www.billboard.com/music/awards/2024-acm-awards-winners-list-1235685091/", 
+            "description": "The 2024 ACM Awards were May 16. Here's the winners list.", 
+            "title": "Here Are the 2024 ACM Awards Winners: Complete List - Billboard"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=7uEhL2_K-iI", 
+            "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...", 
+            "title": "Anthony Edwards PROPELS The Timberwolves Into Game 7! \ud83d\udc40| May 16, 2024 - NBA"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/putin-push-growing-moscow-beijing-trade-chinas-northeast-2024-05-17/", 
             "description": null, 
-            "title": "Trump has appealed his gag order to New York's top court - POLITICO"
+            "title": "Putin to push growing Moscow-Beijing trade in China's northeast - Reuters"
         }, 
         {
-            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-teams-with-easiest-road-to-playoffs-based-on-schedule-kirk-cousins-falcons-set-up-best/", 
-            "description": "A look at the teams with the most -- and least -- favorable schedules", 
-            "title": "2024 NFL schedule: Teams with easiest road to playoffs based on schedule; Kirk Cousins' Falcons set up best - CBS Sports"
+            "url": "https://abcnews.go.com/Politics/biden-asserts-executive-privilege-audio-interview-special-counsel/story?id=110298904", 
+            "description": "Republicans are still moving ahead with trying to hold AG Garland in contempt.", 
+            "title": "Biden asserts executive privilege over audio of interview with special counsel Hur - ABC News"
         }, 
         {
-            "url": "https://abcnews.go.com/GMA/Family/kansas-city-chiefs-player-faces-backlash-graduation-speech/story?id=110262999", 
-            "description": "Harrison Butker delivered the commencement address at Benedictine College.", 
-            "title": "Kansas City Chiefs player faces backlash for graduation speech criticizing working women, calling Pride a 'deadly sin' - ABC News"
+            "url": "https://apnews.com/article/pga-championship-valhalla-tiger-scheffler-mcilroy-koepka-d0421ebb2e61aeff9c95a1bb87ee1a72", 
+            "description": "Xander Schauffele has set the PGA Championship record with a 62. He also ties a major championship record that he shared last year in the U.S. Open. Schauffele took advantage of rain-softened conditions at Valhalla. And he's been playing some good golf. Schau\u2026", 
+            "title": "PGA Championship: Schauffele breaks scoring record with a 62 - The Associated Press"
         }, 
         {
-            "url": "https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed", 
-            "description": "As bird flu continues to spread among cattle in the U.S., the CDC and WebMD joined forces on Thursday to present a live-streamed briefing on the status of the outbreak.", 
-            "title": "CDC, WebMD give update on current bird flu outbreak: 'Be alert, not alarmed' - Fox News"
+            "url": "https://www.reuters.com/markets/asia/chinas-april-industrial-output-rises-67-beats-expectations-2024-05-17/", 
+            "description": null, 
+            "title": "China's factories fire up but consumer, property weakness persists - Reuters"
         }, 
         {
             "url": "https://removed.com", 
@@ -46,60 +56,50 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "http://deadline.com/2024/05/kevin-spacey-documentary-reaction-1235919627/", 
-            "description": "Having already achieved a number of wins in court the House of Cards star has received some big name support in the UK", 
-            "title": "Kevin Spacey Praised & Defended By Liam Neeson, Sharon Stone, & Stephen Fry In Wake Of Biting UK Documentary & New Trial; \u201cOur Industry Needs Him,\u201d Says \u2018Taken\u2019 Star - Deadline"
+            "url": "https://apnews.com/article/new-caledonia-france-pacific-unrest-8c05588d36cdafebaa7df9392c20f175", 
+            "description": "Violence is raging across New Caledonia for the third consecutive day. France has imposed a state of emergency in the French Pacific territory. Authorities boosted security forces\u2019 powers to quell deadly unrest in the archipelago, where some residents have lo\u2026", 
+            "title": "Violence rages in New Caledonia as France rushes emergency reinforcements to its Pacific territory - The Associated Press"
         }, 
         {
-            "url": "https://www.wsj.com/politics/policy/republicans-force-democrats-to-take-sides-on-bidens-israel-policy-61e84646", 
+            "url": "https://www.eonline.com/news/1401827/ben-affleck-and-jennifer-lopez-step-out-with-wedding-rings-amid-breakup-rumors", 
+            "description": "Ben Affleck and Jennifer Lopez were both seen wearing their wedding rings as they stepped out in Los Angeles May 16, amid rumors the couple was breaking up after two years of marriage.", 
+            "title": "Ben Affleck and Jennifer Lopez Step Out With Wedding Rings Amid Breakup Rumors - E! Online - E! NEWS"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/16/biden-border-immigration-asylum-fast-track-docket", 
             "description": null, 
-            "title": "Republicans Force Democrats to Take Sides on Biden's Israel Policy - The Wall Street Journal"
+            "title": "Biden takes another step to fast-track asylum process for border crossers - Axios"
         }, 
         {
-            "url": "https://apnews.com/article/trump-trial-hush-money-michael-cohen-ec08be1219703deb3cd10604844deacb", 
-            "description": "Donald Trump\u2019s lawyers have sought to portray the star prosecution witness in his hush money trial as a serial fabulist who is bent on seeing the presumptive Republican presidential nominee behind bars. During hours of cross-examination on Thursday, defense a\u2026", 
-            "title": "Michael Cohen pressed on his crimes and lies as defense attacks key Trump hush money trial witness - The Associated Press"
+            "url": "https://www.foxnews.com/health/cdc-webmd-give-update-current-bird-flu-outbreak-alert-not-alarmed", 
+            "description": "As bird flu continues to spread among cattle in the U.S., the CDC and WebMD joined forces on Thursday to present a live-streamed briefing on the status of the outbreak.", 
+            "title": "CDC, WebMD give update on current bird flu outbreak: 'Be alert, not alarmed' - Fox News"
         }, 
         {
-            "url": "https://www.foxbusiness.com/real-estate/iconic-mirage-casino-las-vegas-closing-rebranding-guitar-shaped-hard-rock-hotel", 
-            "description": "The Mirage hotel-casino in Las Vegas, which ushered in a wave of megaresorts, will close its doors in July and it will then be refurbished and rebranded as a Hard Rock.", 
-            "title": "Iconic Mirage casino in Las Vegas closing, rebranding with guitar-shaped Hard Rock Hotel - Fox Business"
+            "url": "https://techcrunch.com/2024/05/16/openai-inks-deal-to-train-ai-on-reddit-data/", 
+            "description": "OpenAI has inked a deal with Reddit to train its models on Reddit data. In return, OpenAI will become a Reddit ad partner -- and provide AI-powered tools.", 
+            "title": "OpenAI inks deal to train AI on Reddit data - TechCrunch"
         }, 
         {
-            "url": "https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025", 
-            "description": "Rockstar Games\u2019 parent company, Take-Two, has confirmed the next Grand Theft Auto game will arrive toward the end of 2025, 12 years after the last new GTA game.", 
-            "title": "GTA 6 will be released in fall 2025 - The Verge"
+            "url": "https://www.reuters.com/world/us/us-house-votes-force-weapons-shipments-israel-rebuking-biden-2024-05-16/", 
+            "description": null, 
+            "title": "US House votes to force weapons shipments to Israel, rebuking Biden - Reuters"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/16/us/daniel-perry-texas-pardon-recommendation/index.html", 
-            "description": "The Texas Board of Pardons has recommended a full pardon to Daniel Perry,\u00a0a US Army sergeant who was sentenced to 25 years in prison after being\u00a0convicted of murdering a protester\u00a0at a Black Lives Matter rally in 2020.", 
-            "title": "Gov. Abbott pardons Daniel Perry for 2020 fatal Black Lives Matter protest shooting after recommendation from pardons board - CNN"
-        }, 
-        {
-            "url": "https://apnews.com/article/megalopolis-cannes-francis-ford-coppola-d965352b9f0f5d78d6c470beb801f6f8", 
-            "description": "Francis Ford Coppola on Thursday premiered his self-financed opus \u201cMegalopolis\u201d at the Cannes Film Festival, unveiling a wildly ambitious passion project the 85-year-old director has been pondering for decades. Reactions ranged from \u201ca folly of gargantuan pro\u2026", 
-            "title": "Francis Ford Coppola debuts 'Megalopolis' in Cannes, and the reviews are in - The Associated Press"
+            "url": "https://apnews.com/article/detroit-us-census-population-1f1f2ef32a46d4310e95dfc5e9c5a2c4", 
+            "description": "U.S. Census Bureau estimates show America's Northeast and Midwest cities are rebounding slightly from years of population drops, highlighted by modest growth in Detroit after decades of declines. Government figures released Thursday show Detroit saw its popul\u2026", 
+            "title": "Census Bureau estimates: Detroit population rises after decades of decline, South dominates growth - The Associated Press"
         }, 
         {
             "url": "https://finance.yahoo.com/video/walmart-market-cap-tops-500b-195303479.html", 
             "description": "Shares of Walmart (WMT) are trading higher Thursday, boosted by the company's first quarter earnings beat, which signaled consumer resilience on spending...", 
             "title": "Walmart market cap tops $500B post Q1 results - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard", 
-            "description": "Amazon\u2019s AWS partnered with Harvard to test how far a quantum entangled photon could travel. It traveled 35 kilometers under the Boston area.", 
-            "title": "Quantum networks are closer to reality - The Verge"
-        }, 
-        {
-            "url": "https://abc7.com/post/uc-irvine-classes-go-remote-thursday-after-police-clear-pro-palestinian-encampment-arrest-protesters/14826137/", 
-            "description": "Fifty people were arrested after police cleared a pro-Palestinian encampment on the UC Irvine campus Wednesday. Students and staff were informed classes will meet remotely Thursday.", 
-            "title": "UC Irvine classes go remote after police clear pro-Palestinian encampment; 50 protesters arrested - KABC-TV"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-middle-east-69019655", 
-            "description": "The reported friendly-fire incident in Jabalia is one of the deadliest since the war began.", 
-            "title": "Gaza war: Israeli tank fire kills five soldiers in north Gaza, military says - BBC.com"
         }
     ], 
-    "last_updated": "2024-05-18 04:49:17"
+    "last_updated": "2024-05-18 09:27:56"
 }
