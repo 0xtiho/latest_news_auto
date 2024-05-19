@@ -1,39 +1,69 @@
 {
     "news": [
         {
-            "url": "https://sports.yahoo.com/live/pga-championship-round-3-live-updates-leaderboard-will-anyone-catch-xander-schauffele-on-moving-day-125427340.html", 
-            "description": "Xander Schauffele holds a one-shot lead entering play on Saturday at Valhalla.", 
-            "title": "PGA Championship Round 3 live updates, leaderboard: Will anyone catch Xander Schauffele on Moving Day? - Yahoo Sports"
+            "url": "https://sports.yahoo.com/how-to-watch-the-2024-preakness-stakes-race-today-start-time-channel-odds-where-to-stream-and-more-104549262.html", 
+            "description": "It's almost time for the 149th annual Preakness Stakes!", 
+            "title": "How to watch the 2024 Preakness Stakes race today: Start time, channel, odds, where to stream and more - Yahoo Sports"
         }, 
         {
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/18/virginia-youngkin-vetoes-skill-games-confederate-contraception/", 
-            "description": "Many of the vetoes were related to culture-war issues that could play into this fall\u2019s presidential and congressional contests.", 
-            "title": "Va. Gov. Youngkin vetoes bills on birth control, Confederate tax loopholes - The Washington Post"
+            "url": "https://www.ft.com/content/27041f14-3700-4f1d-add4-ba2ea97ee063", 
+            "description": "Ultimatum by member of Netanyahu\u2019s war cabinet brings to a head months of internal tension over Gaza", 
+            "title": "Gantz threatens to quit Israeli government if no new war plan by June 8 - Financial Times"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/17/europe/hostages-recovered-gaza-idf-intl/index.html", 
-            "description": "The Israeli military announced Saturday that it had recovered the body of a hostage from the Gaza Strip, one day after saying it had retrieved the remains of three others in the besieged territory.", 
-            "title": "IDF recovers hostage\u2019s body from Gaza one day after retrieving three others - CNN"
+            "url": "http://deadline.com/2024/05/sean-combs-video-assault-charges-cassie-da-1235922508/", 
+            "description": "The much accused ex-mogul may have slipped through the fingers of the law again, or not", 
+            "title": "Sean Combs Won\u2019t Face Charges For 2016 L.A. Beating Of Cassie, DA Says, Despite Video Evidence; \u201cCover-Up\u201d Could Warrant Possible Probe - Deadline"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/american-majd-kamalmaz-syria-texas-disappeared-presumed-dead/", 
-            "description": "Maryam Kamalmaz told the Associated Press that eight senior U.S. officials revealed earlier this month that they have specific and highly credible intelligence about the presumed death of her father, Majd.", 
-            "title": "American who disappeared in Syria in 2017 presumed dead, daughter says - CBS News"
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/emilia-perez-cannes-selena-gomez-zoe-saldana-1235903359/", 
+            "description": "French auteur Jacques Audiard's film landed the biggest response of the fest so far, and left Salda\u00f1a in tears.", 
+            "title": "Selena Gomez, Zoe Salda\u00f1a Deliver Cannes\u2019 First Hit With Trans Gangster Musical \u2018Emilia Perez\u2019 - Hollywood Reporter"
         }, 
         {
-            "url": "https://www.usatoday.com/story/sports/horseracing/2024/05/18/preakness-stakes-2024-live-updates/73712613007/", 
-            "description": "Mystik Dan has an opportunity to secure the second leg of the Triple Crown with a win on Saturday night. Here's what to know about the 2024 Preakness.", 
-            "title": "Preakness Stakes 2024 live updates: Time, TV, odds, results and more from Triple Crown race - USA TODAY"
+            "url": "https://www.bbc.com/news/articles/cxwwlnrgw7go", 
+            "description": "The Israeli military said Ron Benjamin was found alongside the bodies of three other hostages.", 
+            "title": "Body of hostage recovered from Gaza, says IDF - BBC.com"
         }, 
         {
-            "url": "https://www.cbssports.com/boxing/news/tyson-fury-vs-oleksandr-usyk-fight-predictions-odds-undercard-preview-start-time-expert-picks/", 
-            "description": "The undisputed heavyweight title is on the line in Saudi Arabia when these two behemoths meet", 
-            "title": "Tyson Fury vs. Oleksandr Usyk fight predictions, odds, undercard, preview, start time, expert picks - CBS Sports"
+            "url": "https://www.cbsnews.com/news/3-people-killed-in-western-new-york-after-vehicle-hit-by-amtrak-train/", 
+            "description": "Amtrak Train 281 was traveling from New York City to Niagara Falls.", 
+            "title": "3 killed in western New York after vehicle hit by Amtrak train - CBS News"
+        }, 
+        {
+            "url": "http://9to5google.com/2024/05/18/pixel-9-pro-fold-colors/", 
+            "description": "Going hand-in-hand with the wallpapers today is a look at the colors for the Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold...", 
+            "title": "Pixel 9, 9 Pro, 9 Pro XL, and 9 Pro Fold leak suggests muted colors - 9to5Google"
+        }, 
+        {
+            "url": "https://www.foxbusiness.com/business-leaders/boeing-reelects-outgoing-ceo-search-replacement-continues-safety-culture-crisis", 
+            "description": "Boeing's safety culture crisis has included multiple whistleblowers who have come forward after several incidents that have drawn public attention to potential issues with the company's planes.", 
+            "title": "Boeing re-elects outgoing CEO as search for replacement continues amid safety culture crisis - Fox Business"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/politics/politics-news/two-hours-mocking-arizonas-attorney-general-rudy-giuliani-served-birth-rcna152905", 
+            "description": "PHOENIX \u2014 Arizona\u2019s Democratic Attorney General Kris Mayes on Friday announced that Rudy Giuliani had been served with the notice of his indictment on charges related to a conspiracy to overturn the 2020 election results in Arizona.", 
+            "title": "Rudy Giuliani gets indictment papers at birthday party after mocking Arizona attorney general - NBC News"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c89z7ll532xo", 
+            "description": null, 
+            "title": "Slovakia at pivotal moment after Robert Fico shooting - BBC.com"
         }, 
         {
             "url": "https://www.courier-journal.com/story/news/local/2024/05/18/scottie-scheffler-arrest-louisville-mayor-says-no-body-cam-of-incident/73748175007/", 
-            "description": null, 
+            "description": "The mayor said other footage shot from another angle will be released in the coming days.", 
             "title": "Scottie Scheffler arrest: Louisville mayor says no body cam of incident - Courier Journal"
+        }, 
+        {
+            "url": "https://www.etonline.com/john-stamos-shares-new-pic-of-mary-kate-and-ashley-olsen-reuniting-with-full-house-cast-225732", 
+            "description": "John Stamos shared a new photo of the cast's reunion in honor of the late Bob Saget's birthday.", 
+            "title": "John Stamos Shares New Pic of Mary-Kate and Ashley Olsen Reuniting With 'Full House' Cast - Entertainment Tonight"
+        }, 
+        {
+            "url": "https://www.espn.com/boxing/story/_/id/40152003/tyson-fury-vs-oleksandr-usyk-live-boxing-results-analysis", 
+            "description": "Fury and Usyk fight Saturday to crown the first undisputed heavyweight champ in the four-belt era. Follow live.", 
+            "title": "Tyson Fury vs. Oleksandr Usyk live results and analysis - ESPN"
         }, 
         {
             "url": "https://www.politico.com/news/2024/05/18/upside-down-flag-at-justice-alitos-home-another-blow-for-supreme-court-under-fire-00158772", 
@@ -41,9 +71,14 @@
             "title": "Controversy over upside-down flag at Justice Alito's home another blow for Supreme Court under fire - POLITICO"
         }, 
         {
-            "url": "http://9to5google.com/2024/05/18/google-pixel-9-wallpapers-leak/", 
-            "description": "Ahead of their expected launch later this year, the wallpapers for the entire Google Pixel 9 series have leaked with...", 
-            "title": "Pixel 9 series wallpapers leak with 'Swirling Petals' design - 9to5Google"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/18/1252311564/nasa-boeing-starliner-launch-delayed-international-space-station", 
+            "description": "A helium leak pushed back a planned launch to May 25. Boeing's program that would shuttle astronauts to and from the International Space Station has been plagued with problems.", 
+            "title": "Boeing's troubled Starliner spacecraft launch delayed to May 25 - NPR"
         }, 
         {
             "url": "https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/", 
@@ -51,19 +86,9 @@
             "title": "Box Office: \u2018IF\u2019 Stumbles on Opening Day With $10.3 Million, \u2018The Strangers: Chapter 1\u2019 Unmasking Third Place - Variety"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.politico.eu/article/fico-shot-slovak-pm-positive-prognosis/", 
-            "description": "Fico underwent a second surgery on Friday to save his life after he was shot 4 times on Wednesday.", 
-            "title": "Slovak PM Fico has 'positive prognosis' as his attacker appears in court for first time - POLITICO Europe"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html", 
-            "description": "A 2016 surveillance video obtained exclusively by CNN shows Sean \u201cDiddy\u201d Combs grab, shove, drag and kick his then-girlfriend Cassie Ventura during an altercation that matches allegations in a now-settled federal lawsuit filed by Ventura in November.", 
-            "title": "Exclusive: Sean \u2018Diddy\u2019 Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
+            "url": "https://thehill.com/homenews/house/4671937-jamie-raskin-calls-marjorie-taylor-greene-house-oversight-brawl-failure-leadership/", 
+            "description": "House Oversight and Accountability Committee Ranking Member Jamie Raskin (R-Md.) called the recent verbal battle in his committee sparked by Rep. Marjorie Taylor Greene\u2019s (R-Ga.) words \u201ca failure of leadership.\u201d \u201cSo, this was a failure of leadership,\u201d Raskin \u2026", 
+            "title": "Raskin calls Greene House Oversight brawl \u2018a failure of leadership\u2019 - The Hill"
         }, 
         {
             "url": "https://www.space.com/nasa-prefire-polar-climate-cubesats", 
@@ -74,32 +99,7 @@
             "url": "https://apnews.com/article/houston-texas-storms-power-outages-86643a6d7decd28e971774e03b52e51d", 
             "description": "As the Houston area works to clean up and restore power to hundreds of thousands after deadly storms left at least seven people dead, it will do so amid a smog warning and rising Texas heat. The National Weather Service in Houston warned people to know the sy\u2026", 
             "title": "Houston weather: 7 dead as storm power outages raise heat risk - The Associated Press"
-        }, 
-        {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-16/boeing-chairman-mollenkopf-seeking-next-ceo-steps-into-spotlight", 
-            "description": "As Boeing's board searches for a CEO to steer it out of its worst crisis in years, directors are intent on finding a leader who can make a fresh start. Deep aerospace experience isn't necessarily required.", 
-            "title": "Boeing's low-key board chair steps into the spotlight with CEO hunt - The Seattle Times"
-        }, 
-        {
-            "url": "https://www.thestreet.com/investing/stocks/nvidia-earnings-are-key-to-market-zeitgeist", 
-            "description": "The S&P 500 has powered to an all-time high and faces a key test.", 
-            "title": "Nvidia earnings will be crucial to stock market zeitgeist this week - TheStreet"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/australians-stranded-new-caledonia-running-out-food-amid-civil-unrest-2024-05-18/", 
-            "description": null, 
-            "title": "Australians stranded in New Caledonia 'running out of food' amid civil unrest - Reuters"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/politics/elections/2024/05/18/aoc-john-fetterman-jerry-springer/73747073007/", 
-            "description": "Rep. Alexandria Ocasio-Cortez, D-N.Y., knocked Sen. John Fetterman, D-Pa., for comparing a House Oversight Committee to The Jerry Springer Show.", 
-            "title": "AOC knocks Fetterman after fight with MTG: 'I stand up to bullies, instead of becoming one.' - USA TODAY"
-        }, 
-        {
-            "url": "https://www.ft.com/content/ab18441b-f302-41e6-b825-4b7ffc778f28", 
-            "description": "President has shed support among Black voters who helped him defeat Trump in battleground state in 2020", 
-            "title": "'The house is on fire': Democrats fear Biden is losing pivotal Georgia - Financial Times"
         }
     ], 
-    "last_updated": "2024-05-19 23:00:31"
+    "last_updated": "2024-05-19 23:30:34"
 }
