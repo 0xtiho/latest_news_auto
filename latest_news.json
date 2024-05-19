@@ -1,19 +1,49 @@
 {
     "news": [
         {
+            "url": "https://sports.yahoo.com/live/pga-championship-round-3-live-updates-leaderboard-will-anyone-catch-xander-schauffele-on-moving-day-125427340.html", 
+            "description": "Xander Schauffele holds a one-shot lead entering play on Saturday at Valhalla.", 
+            "title": "PGA Championship Round 3 live updates, leaderboard: Will anyone catch Xander Schauffele on Moving Day? - Yahoo Sports"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/18/virginia-youngkin-vetoes-skill-games-confederate-contraception/", 
+            "description": "Many of the vetoes were related to culture-war issues that could play into this fall\u2019s presidential and congressional contests.", 
+            "title": "Va. Gov. Youngkin vetoes bills on birth control, Confederate tax loopholes - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/17/europe/hostages-recovered-gaza-idf-intl/index.html", 
+            "description": "The Israeli military announced Saturday that it had recovered the body of a hostage from the Gaza Strip, one day after saying it had retrieved the remains of three others in the besieged territory.", 
+            "title": "IDF recovers hostage\u2019s body from Gaza one day after retrieving three others - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/american-majd-kamalmaz-syria-texas-disappeared-presumed-dead/", 
+            "description": "Maryam Kamalmaz told the Associated Press that eight senior U.S. officials revealed earlier this month that they have specific and highly credible intelligence about the presumed death of her father, Majd.", 
+            "title": "American who disappeared in Syria in 2017 presumed dead, daughter says - CBS News"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/sports/horseracing/2024/05/18/preakness-stakes-2024-live-updates/73712613007/", 
+            "description": "Mystik Dan has an opportunity to secure the second leg of the Triple Crown with a win on Saturday night. Here's what to know about the 2024 Preakness.", 
+            "title": "Preakness Stakes 2024 live updates: Time, TV, odds, results and more from Triple Crown race - USA TODAY"
+        }, 
+        {
+            "url": "https://www.cbssports.com/boxing/news/tyson-fury-vs-oleksandr-usyk-fight-predictions-odds-undercard-preview-start-time-expert-picks/", 
+            "description": "The undisputed heavyweight title is on the line in Saudi Arabia when these two behemoths meet", 
+            "title": "Tyson Fury vs. Oleksandr Usyk fight predictions, odds, undercard, preview, start time, expert picks - CBS Sports"
+        }, 
+        {
+            "url": "https://www.courier-journal.com/story/news/local/2024/05/18/scottie-scheffler-arrest-louisville-mayor-says-no-body-cam-of-incident/73748175007/", 
+            "description": null, 
+            "title": "Scottie Scheffler arrest: Louisville mayor says no body cam of incident - Courier Journal"
+        }, 
+        {
             "url": "https://www.politico.com/news/2024/05/18/upside-down-flag-at-justice-alitos-home-another-blow-for-supreme-court-under-fire-00158772", 
             "description": null, 
             "title": "Controversy over upside-down flag at Justice Alito's home another blow for Supreme Court under fire - POLITICO"
         }, 
         {
-            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-tee-times-pairings-complete-schedule-on-tv-groups-for-round-3-on-friday-at-valhalla/", 
-            "description": "Golfers will look to position themselves for the weekend after Valhalla played well through the first 36 holes", 
-            "title": "2024 PGA Championship tee times, pairings: Complete schedule on TV, groups for Round 3 on Friday at Valhalla - CBS Sports"
-        }, 
-        {
-            "url": "https://apnews.com/article/israel-palestinians-gaza-war-05-18-2024-3ac9d8e59198d5884d0faa6649a53e4f", 
-            "description": "The first distribution of badly needed aid is expected to begin this weekend after rolling off a newly built U.S. pier off the coast of Gaza. But aid workers warn much more access is needed to the besieged territory where famine might be under way. United Nat\u2026", 
-            "title": "Aid from new pier off Gaza should be distributed this weekend, while pressure grows on Netanyahu - The Associated Press"
+            "url": "http://9to5google.com/2024/05/18/google-pixel-9-wallpapers-leak/", 
+            "description": "Ahead of their expected launch later this year, the wallpapers for the entire Google Pixel 9 series have leaked with...", 
+            "title": "Pixel 9 series wallpapers leak with 'Swirling Petals' design - 9to5Google"
         }, 
         {
             "url": "https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/", 
@@ -21,19 +51,14 @@
             "title": "Box Office: \u2018IF\u2019 Stumbles on Opening Day With $10.3 Million, \u2018The Strangers: Chapter 1\u2019 Unmasking Third Place - Variety"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/18/world/dinosaurs-warm-blooded-science-newsletter-wt-scn/index.html", 
-            "description": "This week, learn when warm-blooded dinosaurs first roamed, Harvard and Google scientists unveil a map of the human brain, AI helps decode whale calls, and more.", 
-            "title": "The evolutionary twist that could have helped dinosaurs rule Earth - CNN"
-        }, 
-        {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/18/weather/houston-storms-power-severe-weather-south/index.html", 
-            "description": "As officials assess the damage from destructive storms in the Houston area that killed at least seven people and knocked out power amid rising temperatures, residents in the Southeast and Gulf Coast face a severe weather threat through Saturday that could bri\u2026", 
-            "title": "Houston surveys destruction from deadly storms and races to restore power as Southeast and Gulf Coast face flood threat - CNN"
+            "url": "https://www.politico.eu/article/fico-shot-slovak-pm-positive-prognosis/", 
+            "description": "Fico underwent a second surgery on Friday to save his life after he was shot 4 times on Wednesday.", 
+            "title": "Slovak PM Fico has 'positive prognosis' as his attacker appears in court for first time - POLITICO Europe"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html", 
@@ -41,9 +66,14 @@
             "title": "Exclusive: Sean \u2018Diddy\u2019 Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
         }, 
         {
-            "url": "http://deadline.com/2024/05/bugonia-yorgos-lanthimos-emma-stone-movie-focus-features-1235917675/", 
-            "description": "The remake of the South Korean film is directed by 'Poor Things' helmer Yorgos Lantimos and stars Emma Stone and Jesse Plemons", 
-            "title": "Focus Features Takes Worldwide Rights To Yorgos Lanthimos\u2019 Next Movie \u2018Bugonia\u2019 With Emma Stone & Jesse Plemons \u2013 Cannes - Deadline"
+            "url": "https://www.space.com/nasa-prefire-polar-climate-cubesats", 
+            "description": "Heat emissions from Earth's poles are something we know surprisingly little about.", 
+            "title": "NASA's PREFIRE mission is ready to unlock the mysteries of Earth's poles - Space.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/houston-texas-storms-power-outages-86643a6d7decd28e971774e03b52e51d", 
+            "description": "As the Houston area works to clean up and restore power to hundreds of thousands after deadly storms left at least seven people dead, it will do so amid a smog warning and rising Texas heat. The National Weather Service in Houston warned people to know the sy\u2026", 
+            "title": "Houston weather: 7 dead as storm power outages raise heat risk - The Associated Press"
         }, 
         {
             "url": "https://www.bloomberg.com/news/articles/2024-05-16/boeing-chairman-mollenkopf-seeking-next-ceo-steps-into-spotlight", 
@@ -51,55 +81,25 @@
             "title": "Boeing's low-key board chair steps into the spotlight with CEO hunt - The Seattle Times"
         }, 
         {
-            "url": "https://www.wsj.com/sports/golf/scottie-scheffler-arrest-pga-championship-39b3576d", 
+            "url": "https://www.thestreet.com/investing/stocks/nvidia-earnings-are-key-to-market-zeitgeist", 
+            "description": "The S&P 500 has powered to an all-time high and faces a key test.", 
+            "title": "Nvidia earnings will be crucial to stock market zeitgeist this week - TheStreet"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/australians-stranded-new-caledonia-running-out-food-amid-civil-unrest-2024-05-18/", 
             "description": null, 
-            "title": "The Chaos That Led to Scottie Scheffler's Arrest - The Wall Street Journal"
+            "title": "Australians stranded in New Caledonia 'running out of food' amid civil unrest - Reuters"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html", 
-            "description": "Media companies charming advertisers during the Upfront meetings let sports take center stage as content slates still suffer from last year's Hollywood strikes.", 
-            "title": "Media giants lean on sports as Hollywood strikes still loom over content slates - CNBC"
+            "url": "https://www.usatoday.com/story/news/politics/elections/2024/05/18/aoc-john-fetterman-jerry-springer/73747073007/", 
+            "description": "Rep. Alexandria Ocasio-Cortez, D-N.Y., knocked Sen. John Fetterman, D-Pa., for comparing a House Oversight Committee to The Jerry Springer Show.", 
+            "title": "AOC knocks Fetterman after fight with MTG: 'I stand up to bullies, instead of becoming one.' - USA TODAY"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/18/us/baltimore-bridge-dali-ship-crew/index.html", 
-            "description": "It could be weeks or even months before crew members can leave, due to complications beyond their control. Here\u2019s why they\u2019re still confined \u2013 and how they\u2019re coping", 
-            "title": "They\u2019ve been stuck for 7 weeks on the ship that crashed into a Baltimore bridge. This is what life is like for the Dali crew - CNN"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/crgy4gkqkddo", 
-            "description": "Moscow continues to make military gains in the Kharkiv region as Ukraine struggles with resources.", 
-            "title": "Russia could increase Ukraine attacks, says Volodymyr Zelensky - BBC.com"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/how-to-watch-the-tyson-fury-vs-oleksandr-usyk-fight-today-full-card-where-to-stream-and-more-110129964.html", 
-            "description": "There's a showdown between Tyson Fury and Oleksandr Usyk set for Saturday night. Here's what to know.", 
-            "title": "How to watch the Tyson Fury vs. Oleksandr Usyk fight today: Full card, where to stream and more - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.businessinsider.com/shani-louk-symbol-music-festival-massacre-hamas-idf-recover-body-2024-5", 
-            "description": "The IDF recovered the bodies of three Israeli hostages taken to Gaza, including 22-year-old tattoo artist Shani Louk.", 
-            "title": "Shani Louk symbol of the music festival massacre by Hamas \u2014 IDF recovers body - Business Insider"
-        }, 
-        {
-            "url": "https://www.businessinsider.com/sam-altman-openai-gpt-4o-has-surprisingly-cool-use-work-2024-5", 
-            "description": null, 
-            "title": "Sam Altman says GPT-4o has a \"surprisingly cool\" use for him at work - Business Insider"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/money/lottery/2024/05/17/mega-millions-winning-numbers/73740484007/", 
-            "description": "Mega Millions players, are you feeling lucky? The winning numbers are in for the May 17 drawing.", 
-            "title": "Mega Millions winning numbers for 5/17/24 drawing: $393M jackpot - USA TODAY"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c89z7ll532xo", 
-            "description": null, 
-            "title": "Slovakia at pivotal moment after Robert Fico shooting - BBC.com"
-        }, 
-        {
-            "url": "https://gizmodo.com/raw-milk-sales-soar-as-misguided-notions-of-bird-flu-im-1851484879", 
-            "description": "Plus: The tech that got hit by the solar storm, orcas sink another yacht, and the truth behind Wegovy.", 
-            "title": "Raw Milk Sales Soar as Misguided Notions of Bird Flu Immunity Spread - Gizmodo"
+            "url": "https://www.ft.com/content/ab18441b-f302-41e6-b825-4b7ffc778f28", 
+            "description": "President has shed support among Black voters who helped him defeat Trump in battleground state in 2020", 
+            "title": "'The house is on fire': Democrats fear Biden is losing pivotal Georgia - Financial Times"
         }
     ], 
-    "last_updated": "2024-05-19 19:00:13"
+    "last_updated": "2024-05-19 19:30:15"
 }
