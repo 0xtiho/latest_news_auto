@@ -1,9 +1,44 @@
 {
     "news": [
         {
+            "url": "https://www.politico.com/news/2024/05/18/upside-down-flag-at-justice-alitos-home-another-blow-for-supreme-court-under-fire-00158772", 
+            "description": null, 
+            "title": "Controversy over upside-down flag at Justice Alito's home another blow for Supreme Court under fire - POLITICO"
+        }, 
+        {
+            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-tee-times-pairings-complete-schedule-on-tv-groups-for-round-3-on-friday-at-valhalla/", 
+            "description": "Golfers will look to position themselves for the weekend after Valhalla played well through the first 36 holes", 
+            "title": "2024 PGA Championship tee times, pairings: Complete schedule on TV, groups for Round 3 on Friday at Valhalla - CBS Sports"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-palestinians-gaza-war-05-18-2024-3ac9d8e59198d5884d0faa6649a53e4f", 
+            "description": "The first distribution of badly needed aid is expected to begin this weekend after rolling off a newly built U.S. pier off the coast of Gaza. But aid workers warn much more access is needed to the besieged territory where famine might be under way. United Nat\u2026", 
+            "title": "Aid from new pier off Gaza should be distributed this weekend, while pressure grows on Netanyahu - The Associated Press"
+        }, 
+        {
+            "url": "https://variety.com/2024/film/box-office/if-opening-day-ryan-reynolds-strangers-chapter-1-1236008141/", 
+            "description": "Ryan Reynolds and John Krasinski's imaginary friends comedy \"IF\" will open atop domestic charts, while \"The Strangers: Chapter 1\" also debuts.", 
+            "title": "Box Office: \u2018IF\u2019 Stumbles on Opening Day With $10.3 Million, \u2018The Strangers: Chapter 1\u2019 Unmasking Third Place - Variety"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/18/world/dinosaurs-warm-blooded-science-newsletter-wt-scn/index.html", 
+            "description": "This week, learn when warm-blooded dinosaurs first roamed, Harvard and Google scientists unveil a map of the human brain, AI helps decode whale calls, and more.", 
+            "title": "The evolutionary twist that could have helped dinosaurs rule Earth - CNN"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/18/weather/houston-storms-power-severe-weather-south/index.html", 
+            "description": "As officials assess the damage from destructive storms in the Houston area that killed at least seven people and knocked out power amid rising temperatures, residents in the Southeast and Gulf Coast face a severe weather threat through Saturday that could bri\u2026", 
+            "title": "Houston surveys destruction from deadly storms and races to restore power as Southeast and Gulf Coast face flood threat - CNN"
+        }, 
+        {
             "url": "https://www.cnn.com/2024/05/17/entertainment/sean-combs-cassie-ventura/index.html", 
             "description": "A 2016 surveillance video obtained exclusively by CNN shows Sean \u201cDiddy\u201d Combs grab, shove, drag and kick his then-girlfriend Cassie Ventura during an altercation that matches allegations in a now-settled federal lawsuit filed by Ventura in November.", 
-            "title": "Sean 'Diddy' Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
+            "title": "Exclusive: Sean \u2018Diddy\u2019 Combs seen physically assaulting Cassie Ventura in 2016 surveillance video obtained by CNN - CNN"
         }, 
         {
             "url": "http://deadline.com/2024/05/bugonia-yorgos-lanthimos-emma-stone-movie-focus-features-1235917675/", 
@@ -11,9 +46,14 @@
             "title": "Focus Features Takes Worldwide Rights To Yorgos Lanthimos\u2019 Next Movie \u2018Bugonia\u2019 With Emma Stone & Jesse Plemons \u2013 Cannes - Deadline"
         }, 
         {
-            "url": "https://www.ft.com/content/ab18441b-f302-41e6-b825-4b7ffc778f28", 
-            "description": "President has shed support among Black voters who helped him defeat Trump in battleground state in 2020", 
-            "title": "'The house is on fire': Democrats fear Biden is losing pivotal Georgia - Financial Times"
+            "url": "https://www.bloomberg.com/news/articles/2024-05-16/boeing-chairman-mollenkopf-seeking-next-ceo-steps-into-spotlight", 
+            "description": "As Boeing's board searches for a CEO to steer it out of its worst crisis in years, directors are intent on finding a leader who can make a fresh start. Deep aerospace experience isn't necessarily required.", 
+            "title": "Boeing's low-key board chair steps into the spotlight with CEO hunt - The Seattle Times"
+        }, 
+        {
+            "url": "https://www.wsj.com/sports/golf/scottie-scheffler-arrest-pga-championship-39b3576d", 
+            "description": null, 
+            "title": "The Chaos That Led to Scottie Scheffler's Arrest - The Wall Street Journal"
         }, 
         {
             "url": "https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html", 
@@ -26,80 +66,40 @@
             "title": "They\u2019ve been stuck for 7 weeks on the ship that crashed into a Baltimore bridge. This is what life is like for the Dali crew - CNN"
         }, 
         {
-            "url": "https://www.formula1.com/en/latest/article/fp3-piastri-fastest-during-final-practice-session-in-imola-after-alonso-and.4i2RfqtmOYJ68QqYqhguNv", 
-            "description": "Oscar Piastri interrupted Ferrari\u2019s run at the top of the timesheets at the Emilia-Romagna Grand Prix weekend by setting the pace in the third and final practice session, leading the way from Lando Norris and Carlos Sainz in a twice-red flagged hour.", 
-            "title": "2024 Emilia-Romagna Grand Prix FP3 report and highlights: Piastri fastest during final practice session in Imola after Alonso and Perez cause red flags | Formula 1\u00ae - Formula 1"
-        }, 
-        {
             "url": "https://www.bbc.com/news/articles/crgy4gkqkddo", 
             "description": "Moscow continues to make military gains in the Kharkiv region as Ukraine struggles with resources.", 
             "title": "Russia could increase Ukraine attacks, says Volodymyr Zelensky - BBC.com"
         }, 
         {
-            "url": "https://www.cbssports.com/golf/news/2024-pga-championship-tv-schedule-coverage-live-stream-channel-where-to-watch-online-golf-tee-times/", 
-            "description": "How to watch every memorable moment of the 2024 PGA Championship on TV or streaming live online", 
-            "title": "2024 PGA Championship TV schedule, coverage, live stream, channel, where to watch online, golf tee times - CBS Sports"
+            "url": "https://sports.yahoo.com/how-to-watch-the-tyson-fury-vs-oleksandr-usyk-fight-today-full-card-where-to-stream-and-more-110129964.html", 
+            "description": "There's a showdown between Tyson Fury and Oleksandr Usyk set for Saturday night. Here's what to know.", 
+            "title": "How to watch the Tyson Fury vs. Oleksandr Usyk fight today: Full card, where to stream and more - Yahoo Sports"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/spanish-tourists-killed-multiple-injured-during-attack-in-afghanistan/", 
-            "description": "Eight were wounded and according to preliminary information were from Norway, Australia, Lithuania and Spain.", 
-            "title": "3 Spanish tourists killed, multiple injured during attack in Afghanistan - CBS News"
+            "url": "https://www.businessinsider.com/shani-louk-symbol-music-festival-massacre-hamas-idf-recover-body-2024-5", 
+            "description": "The IDF recovered the bodies of three Israeli hostages taken to Gaza, including 22-year-old tattoo artist Shani Louk.", 
+            "title": "Shani Louk symbol of the music festival massacre by Hamas \u2014 IDF recovers body - Business Insider"
         }, 
         {
-            "url": "https://nypost.com/2024/05/18/world-news/german-climate-protests-arrested-after-breaching-runway-at-munich-airport/", 
-            "description": "An airport spokesperson said the airport had been fully closed to takeoffs and landings for nearly two hours.", 
-            "title": "German climate protests arrested after breaching runway at Munich airport - New York Post "
+            "url": "https://www.businessinsider.com/sam-altman-openai-gpt-4o-has-surprisingly-cool-use-work-2024-5", 
+            "description": null, 
+            "title": "Sam Altman says GPT-4o has a \"surprisingly cool\" use for him at work - Business Insider"
         }, 
         {
-            "url": "https://abcnews.go.com/Business/trump-trusted-biden-inflation-top-issue-voters-poll/story?id=110343680", 
-            "description": "Eighty-five percent of people surveyed said inflation is an important issue.", 
-            "title": "Trump trusted more than Biden on inflation, a top issue for voters, poll shows - ABC News"
+            "url": "https://www.usatoday.com/story/money/lottery/2024/05/17/mega-millions-winning-numbers/73740484007/", 
+            "description": "Mega Millions players, are you feeling lucky? The winning numbers are in for the May 17 drawing.", 
+            "title": "Mega Millions winning numbers for 5/17/24 drawing: $393M jackpot - USA TODAY"
         }, 
         {
-            "url": "https://www.reuters.com/world/australians-stranded-new-caledonia-running-out-food-amid-civil-unrest-2024-05-18/", 
-            "description": "Unrest in France's Pacific island territory has caused the deaths of at least six people.", 
-            "title": "Australians stranded in New Caledonia 'running out of food' amid civil unrest - Reuters.com"
+            "url": "https://www.bbc.com/news/articles/c89z7ll532xo", 
+            "description": null, 
+            "title": "Slovakia at pivotal moment after Robert Fico shooting - BBC.com"
         }, 
         {
-            "url": "https://www.newsweek.com/covid-flirt-vaccine-variant-strain-1901599", 
-            "description": "Experts have warned of a \"summer wave\" of COVID infections. Should we be concerned?", 
-            "title": "How COVID Vaccines Stand Up to New FLiRT Variants - Newsweek"
-        }, 
-        {
-            "url": "https://apnews.com/article/israel-hamas-war-gaza-hostages-shani-louk-a37e4fd656b46be36c4c659a9c2aac7d", 
-            "description": "The Israeli military says its troops in Gaza found the bodies of three Israeli hostages killed by Hamas in its Oct. 7 attack, including German-Israeli Shani Louk. A photo of Louk\u2019s twisted body in the back of a pickup truck ricocheted around the world, bringi\u2026", 
-            "title": "Israeli military finds bodies of 3 hostages in Gaza, including Shani Louk - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/18/health/alzheimers-blood-brain-improvement-wellness/index.html", 
-            "description": "A 55-year old man reduced signs of Alzheimer\u2019s in his blood through lifestyle changes and a personalized regime of supplements and medications.", 
-            "title": "Signs of Alzheimer\u2019s were everywhere. Then his brain improved - CNN"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-europe-69031772", 
-            "description": "It comes as a man charged with attempting to murder Robert Fico arrived in court on Saturday.", 
-            "title": "Slovakia PM Robert Fico 'approaching a positive prognosis' - BBC.com"
-        }, 
-        {
-            "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/16/spacex-falcon-9-starlink-spacex-friday-cape-canaveral-rocket-launch-space-force-coast/73703679007/", 
-            "description": "SpaceX is targeting an early Friday night launch of Starlink 6-59. Here's what to know.", 
-            "title": "SpaceX Falcon 9 will light up the sky late Friday over Space Coast - Florida Today"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c72pv86n5r3o", 
-            "description": "Boeing shareholders approved a $33m pay package for outgoing boss Dave Calhoun.", 
-            "title": "Boeing boss's $33m pay package approved - BBC.com"
-        }, 
-        {
-            "url": "https://www.espn.com/nba/story/_/id/40168537/pacers-stay-dominant-home-roll-knicks-force-game-7", 
-            "description": "Challenged by coach Rick Carlisle after a blowout loss in Game 5, the Pacers turned things around at home against the Knicks and forced a Game 7.", 
-            "title": "Pacers spurred by fiery Carlisle, roll past Knicks to force Game 7 - ESPN"
-        }, 
-        {
-            "url": "https://thehill.com/media/4671548-van-jones-marjorie-taylor-greene-jasmine-crockett-house-hearing-chaos/", 
-            "description": "CNN commentator Van Jones slammed Rep. Marjorie Taylor Greene (R-Ga.) following her personal attacks on a fellow member of Congress during a House Oversight Committee hearing Thursday night. The committee hearing, held to vote on whether to hold\u00a0Attorney Gene\u2026", 
-            "title": "Van Jones rails against Greene after spat with Dems: \u2018She\u2019s a disgrace to that Congress\u2019 - The Hill"
+            "url": "https://gizmodo.com/raw-milk-sales-soar-as-misguided-notions-of-bird-flu-im-1851484879", 
+            "description": "Plus: The tech that got hit by the solar storm, orcas sink another yacht, and the truth behind Wegovy.", 
+            "title": "Raw Milk Sales Soar as Misguided Notions of Bird Flu Immunity Spread - Gizmodo"
         }
     ], 
-    "last_updated": "2024-05-19 17:00:03"
+    "last_updated": "2024-05-19 17:30:06"
 }
