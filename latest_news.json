@@ -1,9 +1,79 @@
 {
     "news": [
         {
-            "url": "https://nypost.com/2024/05/19/world-news/meteor-lights-up-sky-bright-blue-over-spain-portugal/", 
-            "description": "The celestial object was seen streaking across the atmosphere, illuminating the clouds with a bright neon blue color for about 7 seconds.", 
-            "title": "Meteor lights up sky bright blue over Spain, Portugal - New York Post "
+            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-05-19-24/index.html", 
+            "description": "An Israeli airstrike on a refugee camp in central Gaza has killed at least 35 people, including seven children, according to hospital officials. Meanwhile, Israeli war cabinet divisions are spilling into the open. Follow live updates.", 
+            "title": "Devastation in Gaza as Israel wages war on Hamas: Live updates - CNN"
+        }, 
+        {
+            "url": "https://www.motorsport.com/f1/news/mclaren-unsure-norris-could-have-passed-verstappen-to-win-f1-imola-gp/10612986/", 
+            "description": "McLaren Formula 1 team principal Andrea Stella says he's unsure if he agrees that with a few more laps Lando Norris would have passed Max Verstappen to win in Imola.", 
+            "title": "McLaren unsure Norris could have passed Verstappen to win F1 Imola GP - Motorsport.com"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cyrr61417ylo", 
+            "description": "His statement comes after CCTV appeared to show him attacking singer Casandra \"Cassie\" Ventura.", 
+            "title": "Sean 'Diddy' Combs apologises for 'inexcusable' behaviour - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/19/world/blue-origin-rocket-ns-25-mission-scn/index.html", 
+            "description": "The NS-25 mission lifted off on Sunday, ending a lengthy hiatus from crewed launches prompted by a failed uncrewed test flight in 2022.", 
+            "title": "Blue Origin launches six tourists to the edge of space after nearly two-year hiatus - CNN"
+        }, 
+        {
+            "url": "https://www.aljazeera.com/sports/liveblog/2024/5/19/live-manchester-city-vs-west-ham-united-english-premier-league-football", 
+            "description": "Follow our build-up, team news and text commentary as Manchester City seek to secure a fourth successive Premier League.", 
+            "title": "LIVE: Manchester City vs West Ham United \u2013 English Premier League football - Al Jazeera English"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/19/biden-gets-mild-applause-but-no-jeers-in-commencement-speech-describing-heartbreaking-situation-in-gaza-00158794", 
+            "description": null, 
+            "title": "Biden gets mild applause but no jeers in commencement speech describing 'heartbreaking' situation in Gaza - POLITICO"
+        }, 
+        {
+            "url": "https://variety.com/2024/film/box-office/box-office-if-film-opening-weekend-underperform-john-krasinski-1236009476/", 
+            "description": "John Krasinski's \"IF\" fell slightly short of box office expectations but still topped the North American charts.", 
+            "title": "Box Office: John Krasinski\u2019s \u2018IF\u2019 Debuts at No. 1 With Soft $35 Million - Variety"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/19/jasmine-crockett-backs-claim-calling-mtg-racist-00158792", 
+            "description": null, 
+            "title": "Jasmine Crockett backs claim calling Marjorie Taylor Greene 'racist' - POLITICO"
+        }, 
+        {
+            "url": "https://apnews.com/article/iran-helicopter-raisi-b483ba75e4339cfb0fe00c7349d023b8", 
+            "description": "Iranian officials say a rescue operation is underway after a helicopter carrying Iranian President Ebrahim Raisi suffered a \u201chard landing.\" Raisi was traveling Sunday in Iran\u2019s East Azerbaijan province. State TV said the incident happening near Jolfa, a city \u2026", 
+            "title": "Helicopter carrying Iran's president suffers a 'hard landing,' state TV says, and rescue is underway - The Associated Press"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.foxnews.com/world/netanyahu-rival-threatens-quit-war-cabinet-gaza-strategy", 
+            "description": "Israeli Prime Minister Benjamin Netanyahu is facing a revolt from members of his war cabinet, with Benny Gantz demanding a new strategy by June 8.", 
+            "title": "Netanyahu rival threatens to quit war cabinet over Gaza strategy - Fox News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/19/sport/oleksandr-usyk-tyson-fury-reaction-spt-intl/index.html", 
+            "description": "Once the immediate shock and joy at becoming the undisputed heavyweight world champion had subsided, Oleksandr Usyk\u2019s thoughts turned to his late father who passed away in 2012.", 
+            "title": "Oleksandr Usyk pays tearful tribute to late father after becoming undisputed heavyweight world champion - CNN"
+        }, 
+        {
+            "url": "https://www.businessinsider.com/ukraine-bombs-port-where-russias-navy-took-refuge-crimea-attacks-2024-5", 
+            "description": "Ukraine missiles and drones hit the  Novorossiysk where Russia's Black Sea fleet took refuge after repeated attacks on its Crimea base, reports said.", 
+            "title": "Ukraine bombs port where Russia's navy took refuge after Crimea attacks: report - Business Insider"
+        }, 
+        {
+            "url": "https://www.space.com/meteor-green-fireball-spain-portugal-may-19-2024", 
+            "description": "The bright green fireball has stunned the internet and social media users.", 
+            "title": "Bright green fireball lights up the skies over Portugal and Spain (photos) - Space.com"
+        }, 
+        {
+            "url": "https://www.wsj.com/world/middle-east/leading-republican-lawmaker-chastises-biden-in-israels-parliament-92e15964", 
+            "description": null, 
+            "title": "Leading Republican Lawmaker Chastises Biden in Israel's Parliament - The Wall Street Journal"
         }, 
         {
             "url": "http://9to5google.com/2024/05/19/android-on-device-ai/", 
@@ -11,95 +81,25 @@
             "title": "Google on what on-device AI is good at, more Android apps that use Gemini Nano coming - 9to5Google"
         }, 
         {
-            "url": "https://www.politico.com/news/2024/05/19/trump-vaccine-rfk-jr-00158743", 
+            "url": "https://www.hindustantimes.com/world-news/us-news/houston-power-outages-thousands-remain-without-electricity-amid-scorching-heat-after-deadly-storm-101716117421602.html", 
+            "description": "In addition to the heat, the Houston area could face poor air quality during the weekend.", 
+            "title": "Houston power outages: Thousands remain without electricity amid scorching heat after deadly storm - Hindustan Times"
+        }, 
+        {
+            "url": "https://www.businessinsider.com/giuliani-boasted-he-would-avoid-indictment-officials-struck-at-his-80th-bday-party-2024-5", 
+            "description": "While celebrating his 80th birthday, Rudy Giuliani was served an indictment notice related to alleged efforts in Arizona to overturn the 2020 election.", 
+            "title": "Giuliani boasted he would avoid indictment \u2014 officials struck at his 80th b'day party - Business Insider"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/uk/uk-spend-127-bln-compensation-infected-blood-scandal-2024-05-19/", 
             "description": null, 
-            "title": "Trump amps up his vaccine rhetoric, guarding against RFK Jr. - POLITICO"
+            "title": "UK to spend $12.7 billion on compensation in infected-blood scandal - Reuters"
         }, 
         {
-            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-05-19-24/index.html", 
-            "description": "Gaza faces a \"dire\" food situation as barely more than 300 aid trucks have entered the strip since Israel began its offensive in Rafah, a UN agency said in a report published Friday. Follow live updates.", 
-            "title": "Devastation in Gaza as Israel wages war on Hamas: Live updates - CNN"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/19/politics/biden-morehouse-commencement/index.html", 
-            "description": "President Joe Biden on Sunday delivers his first commencement address of the 2024 season at Morehouse College, where the president may for the first time in months have to confront the angst that\u2019s been percolating on college campuses nationwide toward his ad\u2026", 
-            "title": "Biden to deliver commencement at Morehouse College amid campus division over his presence - CNN"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/ed-dwight-nasas-1st-black-astronaut-candidate-finally/story?id=110365447", 
-            "description": "Ed Dwight, 90, will also be the oldest man to travel to space.", 
-            "title": "Ed Dwight, NASA's 1st Black astronaut candidate, finally set to go to space on Blue Origin - ABC News"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/world/2024/05/19/ukraine-losing-war-with-russia/73730454007/", 
-            "description": null, 
-            "title": "Russia opens new front in Ukraine war. Is Ukraine losing the war with Russia? - USA TODAY"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/health-69027421", 
-            "description": "More than 12,000 people asked for tests in England after the BBC found 1,700 cases are undiagnosed.", 
-            "title": "Infected blood scandal: Surge in hepatitis C tests - BBC.com"
-        }, 
-        {
-            "url": "http://www.nbcchicago.com/news/local/bridgeview-man-arturo-cantu-shot-and-killed-by-girlfriends-lover-prosecutors-say-both-face-charges/3440898/", 
-            "description": "Bridgeview woman, lover charged after plotting to kill her boyfriend: prosecutors", 
-            "title": "Bridgeview man shot and killed by girlfriend's lover, both face charges: prosecutors - NBC Chicago"
-        }, 
-        {
-            "url": "https://www.thecrimson.com/article/2024/5/19/alice-stewart-iop-obituary/", 
-            "description": "Alice Stewart, a Republican political adviser and CNN commentator who was best known at Harvard for her dedication to undergraduate students as a member of the Institute of Politics Senior Advisory Committee, died early Saturday morning. She was 58.", 
-            "title": "Alice Stewart, CNN Political Commentator and Harvard Institute of Politics Board Member, Dead At 58 | News - Harvard Crimson"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/the-mavericks-major-gambles-pay-off-as-luka-doncic-kyrie-irving-lead-charge-to-west-finals-065927340.html", 
-            "description": "Shrewd moves and timely deals have the aggressive Mavericks moving on in the postseason \u2014 and perhaps to an even better tomorrow.", 
-            "title": "The Mavericks' major gambles pay off as Luka Don\u010di\u0107, Kyrie Irving lead charge to West finals - Yahoo Sports"
-        }, 
-        {
-            "url": "https://apnews.com/article/wikileaks-julian-assange-espionage-extradition-london-appeal-f46adda2a71c9f2bdd88eb16d8e606f7", 
-            "description": "WikiLeaks founder Julian Assange faces what could be his final court hearing in England over whether he should be extradited to the United States to face spying charges. The High Court will hear arguments Monday over whether Assange can seek an appeals court \u2026", 
-            "title": "WikiLeaks founder Julian Assange facing pivotal moment in long fight to stay out of US court - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnn.com/alzheimers-risk-test-sanjay-gupta/index.html", 
-            "description": "For the documentary \u201cThe Last Alzheimer\u2019s Patient\u201d, Dr. Sanjay Gupta underwent intensive testing of his own body and brain to understand his risk of dementia.", 
-            "title": "I have a family history of Alzheimer\u2019s disease. I wanted to understand my own risk - CNN"
-        }, 
-        {
-            "url": "https://chicago.suntimes.com/horoscopes/2024/05/19/horoscopes-today-sunday-may-19-2024", 
-            "description": null, 
-            "title": "Horoscope for Sunday, May 19, 2024 - Chicago Sun-Times"
-        }, 
-        {
-            "url": "https://variety.com/2024/tv/news/snl-trump-trial-vp-picks-1236009284/", 
-            "description": "In the cold open for the 'SNL' Season 49 finale, James Austin Johnson portrayed former president Donald Trump at his NYC trial.", 
-            "title": "\u2018SNL\u2019 Cold Open Riffs on Trump Trial and His VP Picks - Variety"
-        }, 
-        {
-            "url": "https://www.reuters.com/technology/musk-arrives-indonesias-bali-planned-starlink-launch-2024-05-19/", 
-            "description": "Elon Musk and Indonesian Health Minister Budi Gunadi Sadikin launched SpaceX's satellite internet service for the nation's health sector on Sunday, aiming to improve access in remote parts of the sprawling archipelago.", 
-            "title": "Musk arrives in Indonesia's Bali for planned Starlink launch - Reuters"
-        }, 
-        {
-            "url": "https://thehill.com/homenews/house/4672547-elise-stefanik-joe-biden-israel-weapons-hold-denouncement/", 
-            "description": null, 
-            "title": "Stefanik to slam Biden\u2019s weapons hold in remarks before Israel\u2019s government - The Hill"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/rudy-giuliani-served-indictment-arizona-fake-elector-case/", 
-            "description": "The former New York mayor was served after his 80th birthday celebration as he was walking to the car, a political adviser said.", 
-            "title": "Rudy Giuliani served indictment in Arizona fake elector case - CBS News"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/sports/columnist/dan-wolken/2024/05/18/preakness-2024-d-wayne-lukas-trainer-seize-the-grey/73755462007/", 
-            "description": "Legendary trainer D. Wayne Lukas, a few months shy of his 89th birthday, wins his 15th Triple Crown race Saturday at the Preakness.", 
-            "title": "D. Wayne Lukas, legendary Thoroughbred trainer, has still got it at 88 - USA TODAY"
-        }, 
-        {
-            "url": "https://golf.com/news/pga-championship-melee-guys-missing/", 
-            "description": "Three guys went missing from the PGA Championship on Saturday. But a list of compelling contenders promises good chaos come Sunday.", 
-            "title": "The PGA is a wide-open brawl. But 3 guys are missing - Golf.com"
+            "url": "https://www.space.com/nasa-pulsed-plasma-rocket-mars-2-months-howe-industries", 
+            "description": "\"The PPR enables a whole new era in space exploration.\"", 
+            "title": "NASA-funded pulsed plasma rocket concept aims to send astronauts to Mars in 2 months - Space.com"
         }
     ], 
-    "last_updated": "2024-05-20 17:07:31"
+    "last_updated": "2024-05-20 17:30:05"
 }
