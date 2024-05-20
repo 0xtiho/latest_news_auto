@@ -1,9 +1,29 @@
 {
     "news": [
         {
-            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-05-19-24/index.html", 
-            "description": "An Israeli airstrike on a refugee camp in central Gaza has killed at least 35 people, including seven children, according to hospital officials. Meanwhile, Israeli war cabinet divisions are spilling into the open. Follow live updates.", 
-            "title": "Devastation in Gaza as Israel wages war on Hamas: Live updates - CNN"
+            "url": "https://sports.yahoo.com/live/pga-championship-round-4-live-updates-leaderboard-who-will-emerge-from-the-logjam-atop-the-leaderboard-144601738.html", 
+            "description": "Fifteen players are within five shots of the lead entering the final round of the 2024 PGA Championship.", 
+            "title": "PGA Championship Round 4 live: Who will emerge from the logjam atop the leaderboard? - Yahoo Sports"
+        }, 
+        {
+            "url": "https://cleantechnica.com/2024/05/18/how-will-new-china-tariffs-affect-tesla-other-ev-makers/", 
+            "description": "New tariffs on Chinese electric vehicles aim to protect the US EV industry and its automotive labor force.", 
+            "title": "How Will New China Tariffs Affect Tesla & Other EV Makers? - CleanTechnica"
+        }, 
+        {
+            "url": "https://www.wsbtv.com/news/local/cobb-county/suspect-identified-after-student-shot-killed-kennesaw-state-universitys-campus/3BISD2BIN5AHPLQWI664AZGLIM/", 
+            "description": "A suspect wanted in connection with a shooting at Kennesaw State University has been arrested.", 
+            "title": "Suspect identified after student shot, killed on Kennesaw State University\u2019s campus - WSB Atlanta"
+        }, 
+        {
+            "url": "https://www.espn.com/soccer/report/_/gameId/671405", 
+            "description": "Expert recap and game analysis of the Manchester City vs. West Ham United English Premier League game from May 19, 2024 on ESPN.", 
+            "title": "Man City 3-1 West Ham (May 19, 2024) Game Analysis - ESPN"
+        }, 
+        {
+            "url": "https://www.cnn.com/politics/live-news/morehouse-college-graduation-biden-05-19-24/index.html", 
+            "description": "President Joe Biden gave a commencement speech at Morehouse, one of the country's preeminent historically Black colleges, as pro-Palestinian protests continue on campuses across the US.", 
+            "title": "Live updates: Biden speaks at Morehouse College commencement - CNN"
         }, 
         {
             "url": "https://www.motorsport.com/f1/news/mclaren-unsure-norris-could-have-passed-verstappen-to-win-f1-imola-gp/10612986/", 
@@ -11,24 +31,19 @@
             "title": "McLaren unsure Norris could have passed Verstappen to win F1 Imola GP - Motorsport.com"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cyrr61417ylo", 
-            "description": "His statement comes after CCTV appeared to show him attacking singer Casandra \"Cassie\" Ventura.", 
-            "title": "Sean 'Diddy' Combs apologises for 'inexcusable' behaviour - BBC.com"
+            "url": "https://finance.yahoo.com/news/dow-at-40000-why-stocks-still-have-plenty-of-room-to-run-160152850.html", 
+            "description": "Wall Street pros say there's more room to grow with stock markets around record highs.", 
+            "title": "Dow at 40,000: Why stocks still have 'plenty of room to run' - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/19/power-outage-heat-houston-kansas-florida-storms/73760179007/", 
+            "description": "More than 349,000 customers were without electricity in Houston as the heat index rises. Kansas and Florida also face a severe weather risk.", 
+            "title": "Power outage continues in Houston, storms threaten Kansas and Florida - USA TODAY"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/19/world/blue-origin-rocket-ns-25-mission-scn/index.html", 
             "description": "The NS-25 mission lifted off on Sunday, ending a lengthy hiatus from crewed launches prompted by a failed uncrewed test flight in 2022.", 
             "title": "Blue Origin launches six tourists to the edge of space after nearly two-year hiatus - CNN"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/sports/liveblog/2024/5/19/live-manchester-city-vs-west-ham-united-english-premier-league-football", 
-            "description": "Follow our build-up, team news and text commentary as Manchester City seek to secure a fourth successive Premier League.", 
-            "title": "LIVE: Manchester City vs West Ham United \u2013 English Premier League football - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/19/biden-gets-mild-applause-but-no-jeers-in-commencement-speech-describing-heartbreaking-situation-in-gaza-00158794", 
-            "description": null, 
-            "title": "Biden gets mild applause but no jeers in commencement speech describing 'heartbreaking' situation in Gaza - POLITICO"
         }, 
         {
             "url": "https://variety.com/2024/film/box-office/box-office-if-film-opening-weekend-underperform-john-krasinski-1236009476/", 
@@ -56,9 +71,14 @@
             "title": "Netanyahu rival threatens to quit war cabinet over Gaza strategy - Fox News"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/19/sport/oleksandr-usyk-tyson-fury-reaction-spt-intl/index.html", 
-            "description": "Once the immediate shock and joy at becoming the undisputed heavyweight world champion had subsided, Oleksandr Usyk\u2019s thoughts turned to his late father who passed away in 2012.", 
-            "title": "Oleksandr Usyk pays tearful tribute to late father after becoming undisputed heavyweight world champion - CNN"
+            "url": "https://www.usatoday.com/story/entertainment/tv/2024/05/19/jake-gyllenhaal-hosts-snl-michael-che-colin-jost-joke-swap/73759691007/", 
+            "description": "Jake Gyllenhaal sang Boyz II Men to bid farewell to Season 49 as Michael Che and Colin Jost made each other read offensive jokes in the \"SNL\" finale.", 
+            "title": "'SNL': Jake Gyllenhaal sings Boyz II Men as Colin Jost, Michael Che swap offensive jokes - USA TODAY"
+        }, 
+        {
+            "url": "https://thehill.com/policy/international/4672790-gop-lawmaker-sanctions-georgia-russian-inspired-law/", 
+            "description": null, 
+            "title": "GOP lawmaker proposes sanctions against Georgian officials over Russian-inspired law - The Hill"
         }, 
         {
             "url": "https://www.businessinsider.com/ukraine-bombs-port-where-russias-navy-took-refuge-crimea-attacks-2024-5", 
@@ -71,35 +91,15 @@
             "title": "Bright green fireball lights up the skies over Portugal and Spain (photos) - Space.com"
         }, 
         {
-            "url": "https://www.wsj.com/world/middle-east/leading-republican-lawmaker-chastises-biden-in-israels-parliament-92e15964", 
-            "description": null, 
-            "title": "Leading Republican Lawmaker Chastises Biden in Israel's Parliament - The Wall Street Journal"
+            "url": "https://www.mmafighting.com/2024/5/19/24159984/tyson-fury-vows-he-wouldve-chased-oleksandr-usyk-knockout-if-he-knew-he-was-down", 
+            "description": "Tyson Fury might have gone for the finish against Oleksandr Usyk if he knew the judges had the fight for Usyk heading into the last round.", 
+            "title": "Tyson Fury vows he would've chased Oleksandr Usyk knockout if he knew he was down - MMA Fighting"
         }, 
         {
-            "url": "http://9to5google.com/2024/05/19/android-on-device-ai/", 
-            "description": "On-device AI is a big priority for Android going forward, and Google shared more developer resources at I/O 2024...", 
-            "title": "Google on what on-device AI is good at, more Android apps that use Gemini Nano coming - 9to5Google"
-        }, 
-        {
-            "url": "https://www.hindustantimes.com/world-news/us-news/houston-power-outages-thousands-remain-without-electricity-amid-scorching-heat-after-deadly-storm-101716117421602.html", 
-            "description": "In addition to the heat, the Houston area could face poor air quality during the weekend.", 
-            "title": "Houston power outages: Thousands remain without electricity amid scorching heat after deadly storm - Hindustan Times"
-        }, 
-        {
-            "url": "https://www.businessinsider.com/giuliani-boasted-he-would-avoid-indictment-officials-struck-at-his-80th-bday-party-2024-5", 
-            "description": "While celebrating his 80th birthday, Rudy Giuliani was served an indictment notice related to alleged efforts in Arizona to overturn the 2020 election.", 
-            "title": "Giuliani boasted he would avoid indictment \u2014 officials struck at his 80th b'day party - Business Insider"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/uk/uk-spend-127-bln-compensation-infected-blood-scandal-2024-05-19/", 
-            "description": null, 
-            "title": "UK to spend $12.7 billion on compensation in infected-blood scandal - Reuters"
-        }, 
-        {
-            "url": "https://www.space.com/nasa-pulsed-plasma-rocket-mars-2-months-howe-industries", 
-            "description": "\"The PPR enables a whole new era in space exploration.\"", 
-            "title": "NASA-funded pulsed plasma rocket concept aims to send astronauts to Mars in 2 months - Space.com"
+            "url": "https://abcnews.go.com/Politics/rudy-giuliani-served-arizona-fake-electors-indictment-after/story?id=110365001", 
+            "description": "Giuliani had bragged he couldn't be found to be served the papers.", 
+            "title": "Rudy Giuliani served with Arizona fake electors indictment after 80th birthday party - ABC News"
         }
     ], 
-    "last_updated": "2024-05-20 19:07:40"
+    "last_updated": "2024-05-20 19:30:13"
 }
