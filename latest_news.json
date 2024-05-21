@@ -1,9 +1,64 @@
 {
     "news": [
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48", 
+            "description": "Iranian President Ebrahim Raisi and the country\u2019s foreign minister have been found dead hours after their helicopter crashed in fog. That leaves the Islamic Republic without two key leaders as extraordinary tensions grip the wider Middle East. Supreme Leader \u2026", 
+            "title": "Iran helicopter crash: Mohammad Mokhber becomes acting president - The Associated Press"
+        }, 
+        {
+            "url": "https://www.usatoday.com/videos/news/politics/2024/05/20/julian-assange-wins-right-appeal-extradition-us-face-espionage-charges/73772328007/", 
+            "description": null, 
+            "title": "Julian Assange wins right to appeal extradition to US to face espionage charges - USA TODAY"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/20/us/baltimore-bridge-collapse-ship-relocation/index.html", 
+            "description": "After 55 days stuck in the Patapsco River, the Dali cargo ship was hauled away from the site of\u00a0its catastrophic crash into the Francis Scott Key Bridge \u2013 a crucial step toward fully reopening the busy Port of Baltimore.", 
+            "title": "Almost 2 months after it destroyed Baltimore\u2019s Key Bridge, the Dali cargo ship has been moved and docked. Here\u2019s what\u2019s next - CNN"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/20/jpmorgan-ceo-jamie-dimon-retirement-approaching.html", 
+            "description": "The ambiguity of Dimon's plans has made succession timing at JPMorgan one of the persistent questions for the bank's investors and analysts. He is 68.", 
+            "title": "JPMorgan CEO Jamie Dimon signals retirement is closer than ever - CNBC"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/wellness/2024/05/20/heart-tests-echocardiograms-stress-test/", 
+            "description": "Some tests have been found to be used far too often, at little benefit.", 
+            "title": "Echocardiograms, cardiac calcium tests: Should you get these checkups? - The Washington Post"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai", 
+            "description": "Microsoft\u2019s new laptop / tablet hybrid device comes with improved processors, a new focus on AI, and new keyboard and stylus accessories.", 
+            "title": "Microsoft Surface Pro announced: price and release date - The Verge"
+        }, 
+        {
+            "url": "https://www.houstonchronicle.com/news/houston-weather/article/storm-tornado-live-updates-closures-outages-19466994.php", 
+            "description": "Follow along for the latest on power outages, road conditions, school closures and more following Houston's deadly May thunderstorm.", 
+            "title": "Live updates: AC issues affecting multiple Houston ISD schools - Houston Chronicle "
+        }, 
+        {
+            "url": "https://www.newsnationnow.com/crime/gilgo-beach-killings/police-search-heuermann-home/", 
+            "description": "Heuermann is currently awaiting trial in the deaths of four women whose bodies were found along Gilgo Beach.", 
+            "title": "Medical examiner arrives at Gilgo Beach suspect\u2019s house as search continues - NewsNation Now"
+        }, 
+        {
+            "url": "https://www.windowscentral.com/software-apps/windows-11/microsoft-ushers-in-new-era-of-windows-with-copilot-pcs-the-true-next-gen-ai-laptops-are-here", 
+            "description": "The next stage of the AI PC is here, and it comes in the form of Copilot+ PCs that are capable of some truly next-gen AI experiences.", 
+            "title": "Microsoft ushers in new era of Windows with 'Copilot+' PCs \u2014 the true next-gen AI laptops are here - Windows Central"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/us/trump-has-chance-testify-hush-money-trial-if-he-so-chooses-2024-05-20/", 
+            "description": null, 
+            "title": "Stealing from Trump was 'self-help,' Cohen testifies at hush money trial - Reuters"
+        }, 
+        {
+            "url": "https://www.wdrb.com/news/scottie-schefflers-arraignment-for-allegedly-assaulting-a-louisville-police-officer-delayed-until-june/article_6df4c3b4-16c8-11ef-a836-a78b4fa14e7b.html", 
+            "description": "Attorney Steve Romines, who is representing Scheffler, said he had scheduling issues requiring the delay. Scheffler, because he is charged with a felony, is expected to have to attend the", 
+            "title": "Scottie Scheffler's arraignment for allegedly assaulting a Louisville police officer delayed until June - WDRB"
+        }, 
+        {
+            "url": "https://www.scrippsnews.com/us-news/crime/public-health-alert-issued-after-hiv-positive-sex-worker-had-over-200-clients", 
+            "description": "Authorities in Ohio have released a public health warning after learning that an HIV-positive sex worker had interactions with over 200 clients spanning...", 
+            "title": "Public health alert issued after HIV-positive sex worker had over 200 clients - AOL"
         }, 
         {
             "url": "http://www.hollywoodreporter.com/movies/movie-news/kevin-costner-horizon-yellowstone-1235904037/", 
@@ -11,29 +66,19 @@
             "title": "Cannes: Kevin Costner Talks Passion Project \u2018Horizon,\u2019 \u2018Yellowstone\u2019 Standoff at Lively \u2018Awards Chatter\u2019 Podcast Taping - Hollywood Reporter"
         }, 
         {
-            "url": "https://www.cbssports.com/mlb/news/mlb-power-rankings-why-only-five-teams-including-the-yankees-are-in-baseballs-upper-tier-of-contenders/", 
-            "description": "What teams comprise the very top tier in baseball this season, and who sits at No. 1 right now?", 
-            "title": "MLB Power Rankings: Why only five teams, including the Yankees, are in baseball's upper tier of contenders - CBS Sports"
-        }, 
-        {
-            "url": "https://www.yahoo.com/news/cargo-ship-destroyed-baltimore-bridge-161445345.html", 
-            "description": null, 
-            "title": "Cargo ship that destroyed Baltimore bridge towed to port - Yahoo! Voices"
-        }, 
-        {
             "url": "https://www.cbsnews.com/news/red-lobster-bankruptcy-chapter-11-sale-restaurants/", 
             "description": "Red Lobster's owner has said the pandemic and rising costs hurt the seafood chain's financial performance.", 
             "title": "Red Lobster files for Chapter 11 bankruptcy protection - CBS News"
         }, 
         {
-            "url": "https://gizmodo.com/apple-openai-chatbot-ios18-1851487977", 
-            "description": "Reports say Apple will have its own in-house AI to improve Siri, and the makers of ChatGPT are working on a chatbot for iPhones.", 
-            "title": "Apple Is Teaming With Open AI to Put a Chatbot Into iOS 18 - Gizmodo"
+            "url": "https://www.cnn.com/2024/05/20/entertainment/american-idol-finale-katy-perry/index.html", 
+            "description": "Katy Perry said her goodbyes on \u201cAmerican Idol\u201d after seven seasons.", 
+            "title": "Katy Perry sings goodbye to \u2018American Idol\u2019 - CNN"
         }, 
         {
-            "url": "https://phys.org/news/2024-05-outlining-microscopic-black-hole-entropy.html", 
-            "description": "Black holes are intriguing astronomical objects that have a gravitational pull so strong that it prevents any object and even light from escaping. While black holes have been the topic of numerous astrophysical studies, their origins and underlying physics re\u2026", 
-            "title": "A model outlining the microscopic origin of black hole entropy - Phys.org"
+            "url": "https://www.usatoday.com/story/news/politics/elections/2024/05/20/trump-glitch-pause-during-nra-speech/73767035007/", 
+            "description": null, 
+            "title": "Trump glitch? Biden and Trump spar over Trump pause during NRA speech - USA TODAY"
         }, 
         {
             "url": "https://techcrunch.com/2024/05/20/chatgpts-mobile-app-revenue-saw-biggest-spike-yet-following-gpt-4o-launch/", 
@@ -41,14 +86,9 @@
             "title": "ChatGPT's mobile app revenue saw biggest spike yet following GPT-4o launch - TechCrunch"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/wall-streets-biggest-bear-flips-raises-sp-500-price-target-by-20-142228247.html", 
-            "description": "Morgan Stanley chief investment officer Mike Wilson believes an improving growth outlook and an earnings rebound will drive the S&P 500 higher over the next ...", 
-            "title": "Wall Street's biggest bear flips, raises S&P 500 price target by 20% - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/supreme-court-maryland-assault-weapons-ban/", 
-            "description": "The Supreme Court on Monday declined to take up a challenge to Maryland's ban on so-called assault weapons, allowing legal proceedings to play out.", 
-            "title": "Supreme Court turns away challenge to Maryland assault weapons ban - CBS News"
+            "url": "https://www.espn.com/soccer/story/_/id/40184389/man-city-premier-league-title-liverpool-jurgen-klopp-marcotti", 
+            "description": "It might take some time to appreciate what Man City have done under Pep Guardiola, while Juventus fired Max Allegri and Liverpool said goodbye to Jurgen Klopp.", 
+            "title": "Assessing Man City's four-peat, Liverpool's goodbye to Klopp, more: Marcotti recaps the weekend - ESPN"
         }, 
         {
             "url": "https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview", 
@@ -56,50 +96,10 @@
             "title": "Google CEO Sundar Pichai on AI-powered search and the future of the web - The Verge"
         }, 
         {
-            "url": "https://apnews.com/article/iran-ebrahim-raisi-obituary-helicopter-crash-107ffb888540ef022a84ec719b81398c", 
-            "description": "Iranian President Ebrahim Raisi has died. He was a hard-line protege of the country\u2019s supreme leader who helped oversee the mass executions of thousands in 1988 and later led the country as it enriched uranium near weapons-grade levels, launched a major attac\u2026", 
-            "title": "Iranian President Ebrahim Raisi, supreme leader's protege, dies at 63 in helicopter crash - The Associated Press"
-        }, 
-        {
-            "url": "https://www.bostonglobe.com/2024/05/20/metro/bird-flu-virus-milk-raw-milk/", 
-            "description": "What is pasteurization? How much testing does store-bought milk undergo? Is yogurt safe?", 
-            "title": "Bird flu virus in milk: Seven things to know - The Boston Globe"
-        }, 
-        {
-            "url": "https://abcnews.go.com/Politics/biden-silent-protest-morehouse-commencement/story?id=110376198", 
-            "description": "\"I support peaceful, nonviolent protests,\" Biden said.", 
-            "title": "Biden faces silent protests at Morehouse commencement - ABC News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html", 
-            "description": "The International Criminal Court is seeking the arrest warrants on charges of war crimes and crimes against humanity over the October 7 attacks on Israel and the subsequent war in Gaza.", 
-            "title": "EXCLUSIVE: ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes over October 7 attack and Gaza war - CNN"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/news/donald-trump-movie-the-apprentice-dan-snyder-feud-1236010060/", 
-            "description": "As \u2018The Apprentice,' a look at Donald Trump's early years, premieres in Cannes, one of its investors, Dan Snyder, is furious over the film", 
-            "title": "Inside the Legal Battle to Recut Trump Movie \u2018The Apprentice\u2019: Why Billionaire Investor Dan Snyder Is Furious With Ex-President\u2019s Portrayal (EXCLUSIVE) - Variety"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.space.com/space-trash-constellations-highlight-space-junk-problem", 
-            "description": "The Space Trash Signs project has created \"constellations\" made of defunct satellites and old rocket parts to draw attention to the worsening space debris problem.", 
-            "title": "Space Trash Signs project creates debris 'constellations' to highlight space junk problem (video) - Space.com"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cw44l170xdwo", 
-            "description": "The decision means Mr Assange will remain in the UK and be able to challenge US assurances over his prospective trial.", 
-            "title": "Julian Assange wins right to challenge US extradition - BBC.com"
-        }, 
-        {
-            "url": "https://www.etonline.com/katy-perry-talks-possibility-of-returning-to-american-idol-after-exit-hopes-for-her-replacement", 
-            "description": "Katy Perry told her fellow judges to keep her seat 'warm.'", 
-            "title": "Katy Perry Talks Possibility of Returning to 'American Idol' After Exit, Hopes for Her Replacement (Exclusive) - Entertainment Tonight"
+            "url": "https://www.foxnews.com/media/pope-francis-corrects-60-minutes-church-blessing-same-sex-unions-sacrament", 
+            "description": "Pope Francis corrected \"60 Minutes\" in an interview airing Sunday as he explained the Church did not sanction the blessings of same-sex unions.", 
+            "title": "Pope Francis corrects '60 Minutes' on Church not blessing same-sex unions: 'That is not the sacrament' - Fox News"
         }
     ], 
-    "last_updated": "2024-05-21 19:30:15"
+    "last_updated": "2024-05-21 19:47:36"
 }
