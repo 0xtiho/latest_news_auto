@@ -1,44 +1,64 @@
 {
     "news": [
         {
-            "url": "https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48", 
-            "description": "Iranian President Ebrahim Raisi and the country\u2019s foreign minister have been found dead hours after their helicopter crashed in fog. That leaves the Islamic Republic without two key leaders as extraordinary tensions grip the wider Middle East. Supreme Leader \u2026", 
-            "title": "Iran helicopter crash: Mohammad Mokhber becomes acting president after Raisi's death - The Associated Press"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/business/business-news/red-lobster-files-bankruptcy-rcna152437", 
-            "description": "Red Lobster has filed for voluntary Chapter 11 bankruptcy in Florida, the company confirmed in a statement late Sunday night \u2014 but it intends to keep its locations open.", 
-            "title": "Red Lobster files for bankruptcy, restaurants will stay open - NBC News"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-challenges-maryland-assault-weapon-bans-rcna152641", 
-            "description": "The Supreme Court on Monday declined to hear a challenge to a gun law in Maryland that bans assault-style weapons such as the AR-15 semiautomatic rifle, which has been used in various high-profile mass shootings.", 
-            "title": "Supreme Court rejects challenge to Maryland 'assault weapon' ban - NBC News"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/baltimore/news/dali-refloated-key-bridge-collapse-port-of-baltimore-access/", 
-            "description": "The Dali, the 948-foot-long cargo ship stuck in the Patapsco River for weeks since it felled the Francis Scott Key Bridge, was refloated Monday, before being transported to Seagirt Marine Terminal.", 
-            "title": "Dali refloated weeks after collapse of Key Bridge, a milestone in reopening access to the Port of Baltimore. Here's what happens next - CBS Baltimore"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/20/24160621/openai-chatgpt-gpt4o-sky-scarlett-johansson-voice-assistant-her", 
-            "description": "OpenAI is now pausing its \u201cSky\u201d voice profile for its new GPT-4o model chatbot after users noted it sounds remarkably similar to actor Scarlett Johansson.", 
-            "title": "OpenAI pulls its Scarlett Johansson-like voice for ChatGPT - The Verge"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/20/24160451/microsoft-surface-event-what-to-expect-ai", 
-            "description": "Microsoft is holding a press-only event to discuss its AI and Surface device plans on May 20th, ahead of its Microsoft Build 2024 conference.", 
-            "title": "What to expect from Microsoft's Surface event today - The Verge"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/wolves-anthony-edwards-shakes-off-disastrous-game-7-start-to-climb-yet-another-rung-on-nba-superstar-ladder/", 
-            "description": "Edwards showed maturity in leading Minnesota to a historic second half comeback over the Nuggets", 
-            "title": "Wolves' Anthony Edwards shakes off disastrous Game 7 start to climb yet another rung on NBA superstar ladder - CBS Sports"
-        }, 
-        {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/kevin-costner-horizon-yellowstone-1235904037/", 
+            "description": "During a career-spanning chat with Scott Feinberg, the Oscar-winning filmmaker opened up about a life-changing encounter with Richard Burton, what really happened with 'Waterworld' and investing chunks of his \"pile\" in films he believes in.", 
+            "title": "Cannes: Kevin Costner Talks Passion Project \u2018Horizon,\u2019 \u2018Yellowstone\u2019 Standoff at Lively \u2018Awards Chatter\u2019 Podcast Taping - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://www.cbssports.com/mlb/news/mlb-power-rankings-why-only-five-teams-including-the-yankees-are-in-baseballs-upper-tier-of-contenders/", 
+            "description": "What teams comprise the very top tier in baseball this season, and who sits at No. 1 right now?", 
+            "title": "MLB Power Rankings: Why only five teams, including the Yankees, are in baseball's upper tier of contenders - CBS Sports"
+        }, 
+        {
+            "url": "https://www.yahoo.com/news/cargo-ship-destroyed-baltimore-bridge-161445345.html", 
+            "description": null, 
+            "title": "Cargo ship that destroyed Baltimore bridge towed to port - Yahoo! Voices"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/red-lobster-bankruptcy-chapter-11-sale-restaurants/", 
+            "description": "Red Lobster's owner has said the pandemic and rising costs hurt the seafood chain's financial performance.", 
+            "title": "Red Lobster files for Chapter 11 bankruptcy protection - CBS News"
+        }, 
+        {
+            "url": "https://gizmodo.com/apple-openai-chatbot-ios18-1851487977", 
+            "description": "Reports say Apple will have its own in-house AI to improve Siri, and the makers of ChatGPT are working on a chatbot for iPhones.", 
+            "title": "Apple Is Teaming With Open AI to Put a Chatbot Into iOS 18 - Gizmodo"
+        }, 
+        {
+            "url": "https://phys.org/news/2024-05-outlining-microscopic-black-hole-entropy.html", 
+            "description": "Black holes are intriguing astronomical objects that have a gravitational pull so strong that it prevents any object and even light from escaping. While black holes have been the topic of numerous astrophysical studies, their origins and underlying physics re\u2026", 
+            "title": "A model outlining the microscopic origin of black hole entropy - Phys.org"
+        }, 
+        {
+            "url": "https://techcrunch.com/2024/05/20/chatgpts-mobile-app-revenue-saw-biggest-spike-yet-following-gpt-4o-launch/", 
+            "description": "The ChatGPT mobile app's net revenue first jumped 22% on the day of the GPT-4o launch and continued to grow in the following days.", 
+            "title": "ChatGPT's mobile app revenue saw biggest spike yet following GPT-4o launch - TechCrunch"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/wall-streets-biggest-bear-flips-raises-sp-500-price-target-by-20-142228247.html", 
+            "description": "Morgan Stanley chief investment officer Mike Wilson believes an improving growth outlook and an earnings rebound will drive the S&P 500 higher over the next ...", 
+            "title": "Wall Street's biggest bear flips, raises S&P 500 price target by 20% - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/supreme-court-maryland-assault-weapons-ban/", 
+            "description": "The Supreme Court on Monday declined to take up a challenge to Maryland's ban on so-called assault weapons, allowing legal proceedings to play out.", 
+            "title": "Supreme Court turns away challenge to Maryland assault weapons ban - CBS News"
+        }, 
+        {
+            "url": "https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview", 
+            "description": "Google\u2019s Sundar Pichai discusses the latest in AI, search, and what the web will like in the future.", 
+            "title": "Google CEO Sundar Pichai on AI-powered search and the future of the web - The Verge"
+        }, 
+        {
+            "url": "https://apnews.com/article/iran-ebrahim-raisi-obituary-helicopter-crash-107ffb888540ef022a84ec719b81398c", 
+            "description": "Iranian President Ebrahim Raisi has died. He was a hard-line protege of the country\u2019s supreme leader who helped oversee the mass executions of thousands in 1988 and later led the country as it enriched uranium near weapons-grade levels, launched a major attac\u2026", 
+            "title": "Iranian President Ebrahim Raisi, supreme leader's protege, dies at 63 in helicopter crash - The Associated Press"
         }, 
         {
             "url": "https://www.bostonglobe.com/2024/05/20/metro/bird-flu-virus-milk-raw-milk/", 
@@ -46,19 +66,9 @@
             "title": "Bird flu virus in milk: Seven things to know - The Boston Globe"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=fqjN7ijm53g", 
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.", 
-            "title": "'I'll wreck you in Charlotte' - Ricky Stenhouse Jr. to Kyle Busch after the All-Star fight | NASCAR - NASCAR"
-        }, 
-        {
-            "url": "https://www.foxbusiness.com/lifestyle/target-reduces-prices-5000-products-high-inflation-persists", 
-            "description": "Target is the latest company to announce that it's slashing prices as inflation continues to squeeze consumer wallets. The price cuts will take effect this summer.", 
-            "title": "Target reduces prices on 5,000 products as high inflation persists - Fox Business"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/morgan-stanley-wilson-capitulates-bearish-074726142.html", 
-            "description": "(Bloomberg) -- One of Wall Street\u2019s most prominent bears has just turned positive on the outlook for US stocks.Most Read from BloombergIran State TV Says \u2018No...", 
-            "title": "One of the last big bears on Wall Street turns bullish on US stocks - Yahoo Finance"
+            "url": "https://abcnews.go.com/Politics/biden-silent-protest-morehouse-commencement/story?id=110376198", 
+            "description": "\"I support peaceful, nonviolent protests,\" Biden said.", 
+            "title": "Biden faces silent protests at Morehouse commencement - ABC News"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html", 
@@ -66,29 +76,9 @@
             "title": "EXCLUSIVE: ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes over October 7 attack and Gaza war - CNN"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cw44l170xdwo", 
-            "description": "The decision means Mr Assange will remain in the UK and be able to challenge US assurances over his prospective trial.", 
-            "title": "Julian Assange wins right to challenge US extradition - BBC.com"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/politics/donald-trump/trump-hush-money-case-michael-cohen-testimony-trial-rcna152674", 
-            "description": "Michael Cohen will return to the witness stand in a New York courtroom for a third day of cross-examination by Donald Trump's lawyers Monday in what could be the final day of testimony in the first criminal trial of a former president.", 
-            "title": "Michael Cohen returns to witness stand as decision on Trump testimony in hush money trial looms - NBC News"
-        }, 
-        {
-            "url": "https://www.reuters.com/business/aerospace-defense/ryanair-sees-flat-modestly-higher-summer-fares-after-record-fy-profit-2024-05-20/", 
-            "description": "Ryanair CEO Michael O'Leary said on Monday that a \"recessionary feel around Europe\" could be a factor in slower-than-expected growth in airfares as the low-cost carrier posted record annual profits slightly ahead of expectations.", 
-            "title": "Ryanair boss says 'recessionary feel' may be limiting air ticket price rises - Reuters"
-        }, 
-        {
-            "url": "https://apnews.com/article/kevin-costner-2024-cannes-film-festival-horizon-528e240a45ff261242b44334316817a4", 
-            "description": "A month before Kevin Costner puts the first installment of his multi-chapter Western \u201cHorizon: An American Saga\u201d into theaters, the actor-director came to the Cannes Film Festival to unveil his self-financed passion project. The movie is actually two, or if C\u2026", 
-            "title": "Q&A: Kevin Costner on unveiling his Western saga 'Horizon' at Cannes - The Associated Press"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/australia-nz-unable-send-evacuation-flights-new-caledonia-2024-05-20/", 
-            "description": null, 
-            "title": "Protesters block New Caledonia roads as French police pour in - Reuters"
+            "url": "https://variety.com/2024/film/news/donald-trump-movie-the-apprentice-dan-snyder-feud-1236010060/", 
+            "description": "As \u2018The Apprentice,' a look at Donald Trump's early years, premieres in Cannes, one of its investors, Dan Snyder, is furious over the film", 
+            "title": "Inside the Legal Battle to Recut Trump Movie \u2018The Apprentice\u2019: Why Billionaire Investor Dan Snyder Is Furious With Ex-President\u2019s Portrayal (EXCLUSIVE) - Variety"
         }, 
         {
             "url": "https://removed.com", 
@@ -96,10 +86,20 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://variety.com/2024/film/festivals/demi-moore-full-frontal-nudity-the-substance-margaret-qualley-1236009594/", 
-            "description": "Demi Moore's new film, the feminist body horror \"The Substance,\" sees Demi Moore bare it all, with several scenes featuring full nudity.", 
-            "title": "Demi Moore on Full Frontal Nudity With Margaret Qualley in \u2018The Substance\u2019: \u2018A Very Vulnerable Experience\u2019 but I Had a \u2018Great Partner Who I Felt Very Safe With\u2019 - Variety"
+            "url": "https://www.space.com/space-trash-constellations-highlight-space-junk-problem", 
+            "description": "The Space Trash Signs project has created \"constellations\" made of defunct satellites and old rocket parts to draw attention to the worsening space debris problem.", 
+            "title": "Space Trash Signs project creates debris 'constellations' to highlight space junk problem (video) - Space.com"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cw44l170xdwo", 
+            "description": "The decision means Mr Assange will remain in the UK and be able to challenge US assurances over his prospective trial.", 
+            "title": "Julian Assange wins right to challenge US extradition - BBC.com"
+        }, 
+        {
+            "url": "https://www.etonline.com/katy-perry-talks-possibility-of-returning-to-american-idol-after-exit-hopes-for-her-replacement", 
+            "description": "Katy Perry told her fellow judges to keep her seat 'warm.'", 
+            "title": "Katy Perry Talks Possibility of Returning to 'American Idol' After Exit, Hopes for Her Replacement (Exclusive) - Entertainment Tonight"
         }
     ], 
-    "last_updated": "2024-05-21 17:30:06"
+    "last_updated": "2024-05-21 18:00:08"
 }
