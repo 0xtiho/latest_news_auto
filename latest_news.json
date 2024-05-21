@@ -1,24 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.reuters.com/world/europe/western-aid-ukraine-too-slow-risks-us-election-limited-zelenskiy-2024-05-20/", 
-            "description": null, 
-            "title": "Exclusive: Ukraine's Zelenskiy pushes allies to step up aid and involvement in war - Reuters"
+            "url": "https://www.wdrb.com/news/video-top-louisville-prosecutor-fights-delay-of-scottie-schefflers-arraignment-on-felony-assault-charge/article_6df4c3b4-16c8-11ef-a836-a78b4fa14e7b.html", 
+            "description": "\"This man should be treated like everyone else in this matter,\" Jefferson County Attorney Mike O'Connell told Jefferson District Court Judge Anne Delahanty.", 
+            "title": "VIDEO | Top Louisville prosecutor fights delay of Scottie Scheffler's arraignment on felony assault charge - WDRB"
         }, 
         {
-            "url": "https://apnews.com/live/helicopter-iranian-president-crash", 
-            "description": "Supreme Leader Ayatollah Ali Khamenei announced that Iran\u2019s first vice president, Mohammad Mokhber, would serve as the country\u2019s acting president until elections are held.", 
-            "title": "Live updates: Iran's president killed in helicopter crash, election set for next month - The Associated Press"
+            "url": "https://www.foxweather.com/weather-news/central-us-plains-midwest-severe-weather-threat-may-2024", 
+            "description": "Millions of people from the Plains to the Midwest will be on alert for powerful thunderstorms capable of producing damaging wind gusts, large hail and possible tornadoes on Monday, one day after the second derecho in a week blasted through Kansas and Missouri\u2026", 
+            "title": "Millions face severe weather threat Monday as storms target Great Lakes, central US - Fox Weather "
         }, 
         {
-            "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-teardown-finds-easier-to-access-battery-glimpses-of-tandem-oled-design/", 
-            "description": "Straightforward tablet teardown is followed by a comically difficult Pencil one.", 
-            "title": "M4 iPad Pro teardown finds easier-to-access battery, glimpses of Tandem OLED design - Ars Technica"
+            "url": "https://www.foxnews.com/world/jacob-zuma-former-south-african-president-disqualified-next-weeks-election", 
+            "description": "Jacob Zuma, the former president of South Africa who stepped down in 2018, has been barred from running for Parliament due to a previous criminal conviction.", 
+            "title": "Who is Jacob Zuma, the former South African president disqualified from next week's election? - Fox News"
         }, 
         {
-            "url": "https://www.houstonchronicle.com/business/energy/article/centerpoint-power-outage-monday-19467639.php", 
-            "description": null, 
-            "title": "CenterPoint: 216K customers without power in the Houston area Monday - Houston Chronicle "
+            "url": "https://finance.yahoo.com/video/zoom-tops-q1-estimates-disappoints-204629775.html", 
+            "description": "Zoom Video Communications (ZM) narrowly beat first-quarter revenue estimates \u2014 $11.4 billion against an expected $1.13 billion \u2014 while topping adjusted...", 
+            "title": "Zoom tops Q1 estimates, but disappoints on Q2 guidance - Yahoo Finance"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-trial-hush-money-michael-cohen-363a86879b97d2367831b1392f42689d", 
+            "description": "The judge overseeing Donald Trump\u2019s hush money trial briefly closed the courtroom, forcing reporters into the hallway after he admonished a defense witness for his behavior on the witness stand. It happened minutes into the testimony of Robert Costello, a for\u2026", 
+            "title": "Judge admonishes defense witness for his behavior after prosecution rests in Trump hush money trial - The Associated Press"
+        }, 
+        {
+            "url": "https://www.etonline.com/zac-browns-estranged-wife-kelly-yazdi-speaks-out-after-he-gets-temporary-restraining-order-225733", 
+            "description": "The couple announced their separation in December 2023 and last week, Brown was granted a temporary restraining order.", 
+            "title": "Zac Brown's Estranged Wife Kelly Yazdi Speaks Out After He Gets Temporary Restraining Order - Entertainment Tonight"
+        }, 
+        {
+            "url": "https://www.wkyt.com/2024/05/20/lfchd-declares-whooping-cough-an-outbreak/", 
+            "description": "The Lexington-Fayette County Health Department has declared pertussis or whooping cough in outbreak status.", 
+            "title": "LFCHD declares whooping cough an outbreak - WKYT"
+        }, 
+        {
+            "url": "https://www.foxbusiness.com/markets/jpmorgan-chase-ceo-jamie-dimon-signals-retirement-closer-ever", 
+            "description": "JPMorgan Chase CEO Jamie Dimon told analysts and investors at the firm's annual investor day that he expects to depart from his role within the next five years.", 
+            "title": "JPMorgan Chase CEO Jamie Dimon signals retirement is closer than ever - Fox Business"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=uHEPBzYick0", 
+            "description": "Microsoft\u2019s new Copilot+ PCs with Qualcomm chips and AI Windows features aim to beat Apple\u2019s MacBooks. WSJ\u2019s Joanna Stern tried out the new laptops and sat d...", 
+            "title": "Microsoft CEO on How New Windows AI Copilot+ PCs Beat Apple's Macs | WSJ - The Wall Street Journal"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/donald-trump-movie-the-apprentice-cannes-standing-ovation-1235904113/", 
+            "description": "\"There is no nice metaphorical way to deal with the rising wave of fascism,\" director Ali Abbasi said when asked why he wanted to make the film about the former president's rise to power in 1980s America. \"I think it's time to make movies relevant. It's time \u2026", 
+            "title": "Donald Trump Movie \u2018The Apprentice\u2019 Shocks Cannes, Receives Nearly Eight-Minute Standing Ovation - Hollywood Reporter"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html", 
@@ -26,34 +56,19 @@
             "title": "Ocean water is rushing miles underneath the \u2018Doomsday Glacier\u2019 with potentially dire impacts on sea level rise - CNN"
         }, 
         {
-            "url": "http://deadline.com/2024/05/the-apprentice-trump-movie-ovation-cannes-1235924376/", 
-            "description": "Ali Abbasi\u2019s The Apprentice, a Donald Trump origin story of sorts, world premiered in competition at the Cannes Film Festival on May 20.", 
-            "title": "Donald Trump Origin Tale \u2018The Apprentice\u2019 Gets 11-Minute Ovation At Its Cannes World Premiere - Deadline"
+            "url": "https://www.bbc.com/news/articles/c1rrnppp5lno", 
+            "description": "Shock and disbelief spread through social media as news about President Ebrahim Raisi\u2019s helicopter broke.", 
+            "title": "Iran helicopter crash: How Iranians reacted to president's crash - BBC.com"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.espn.com/nba/story/_/id/40186394/victor-wembanyama-chet-holmgren-headline-nba-all-rookie-team", 
+            "description": "The Spurs' Victor Wembanyama and Thunder's Chet Holmgren were unanimous selections for the NBA's All-Rookie team.", 
+            "title": "Victor Wembanyama, Chet Holmgren headline NBA All-Rookie team - ESPN"
         }, 
         {
-            "url": "https://abcnews.go.com/US/golfer-scottie-scheffler-charges-arraignment/story?id=110401748", 
-            "description": "Scheffler faces charges including second-degree assault of a police officer.", 
-            "title": "Star golfer Scottie Scheffler's arraignment postponed after arrest during PGA Championship - ABC News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/20/us/baltimore-bridge-collapse-ship-relocation/index.html", 
-            "description": "After 55 days stuck in the Patapsco River, the Dali cargo ship was hauled away from the site of\u00a0its catastrophic crash into the Francis Scott Key Bridge \u2013 a crucial step toward fully reopening the busy Port of Baltimore.", 
-            "title": "Almost 2 months after it destroyed Baltimore\u2019s Key Bridge, the Dali cargo ship has been moved and docked. Here\u2019s what\u2019s next - CNN"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/20/jpmorgan-ceo-jamie-dimon-retirement-approaching.html", 
-            "description": "The ambiguity of Dimon's plans has made succession timing at JPMorgan one of the persistent questions for the bank's investors and analysts. He is 68.", 
-            "title": "JPMorgan CEO Jamie Dimon signals retirement is closer than ever - CNBC"
-        }, 
-        {
-            "url": "https://bleacherreport.com/articles/10121666-victor-wembanyama-chet-holmgren-headline-2023-24-nba-all-rookie-team", 
-            "description": "The NBA honored the top first-year stars from the 2023-24 season, with the San Antonio Spurs' Victor Wembanyama and Oklahoma City Thunder's Chet Holmgren\u2026", 
-            "title": "Victor Wembanyama, Chet Holmgren Headline 2023-24 NBA All-Rookie Team - Bleacher Report"
+            "url": "https://www.bbc.com/news/health-69037200", 
+            "description": "PM truly sorry as inquiry finds authorities covered up scandal and exposed victims to unacceptable risks.", 
+            "title": "PM apologises after infected blood scandal cover-up - BBC.com"
         }, 
         {
             "url": "https://www.washingtonpost.com/wellness/2024/05/20/heart-tests-echocardiograms-stress-test/", 
@@ -67,7 +82,7 @@
         }, 
         {
             "url": "https://www.reuters.com/world/us/donald-trump-foreign-policy-advisers-met-israeli-pm-netanyahu-source-says-2024-05-20/", 
-            "description": null, 
+            "description": "Three former U.S. foreign policy officials in Donald Trump's administration met with Prime Minister Benjamin Netanyahu and other public figures in Israel on Monday, according to a person with direct knowledge of the matter.", 
             "title": "Exclusive: Donald Trump foreign policy advisers met Israeli PM Netanyahu, source says - Reuters"
         }, 
         {
@@ -84,22 +99,7 @@
             "url": "https://www.foxsports.com/stories/nascar/ricky-stenhouse-jr-kyle-busch-fight-fallout-nascar-punishment", 
             "description": "Following Sunday's postrace melee between Ricky Stenhouse Jr. and Kyle Busch, NASCAR must now decide whether to hand out penalties.", 
             "title": "Ricky Stenhouse Jr.-Kyle Busch fight fallout: How will NASCAR handle punishment? - FOX Sports"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/us/trump-has-chance-testify-hush-money-trial-if-he-so-chooses-2024-05-20/", 
-            "description": null, 
-            "title": "Stealing from Trump was 'self-help,' Cohen testifies at hush money trial - Reuters"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/20/business/target-to-slash-prices-on-5000-frequently-bought-products/", 
-            "description": "Shoppers who flock to Target will end up paying less for products such as milk, meat, bread, soda, fresh fruit and vegetables, according to the firm.", 
-            "title": "Target to slash prices on 5,000 frequently bought items to lure inflation-weary customers - New York Post "
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/kevin-costner-horizon-yellowstone-1235904037/", 
-            "description": "During a career-spanning chat with Scott Feinberg, the Oscar-winning filmmaker opened up about a life-changing encounter with Richard Burton, what really happened with 'Waterworld' and investing chunks of his \"pile\" in films he believes in.", 
-            "title": "Cannes: Kevin Costner Talks Passion Project \u2018Horizon,\u2019 \u2018Yellowstone\u2019 Standoff at Lively \u2018Awards Chatter\u2019 Podcast Taping - Hollywood Reporter"
         }
     ], 
-    "last_updated": "2024-05-21 23:17:53"
+    "last_updated": "2024-05-21 23:30:34"
 }
