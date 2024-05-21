@@ -1,24 +1,49 @@
 {
     "news": [
         {
-            "url": "https://www.wdrb.com/news/video-top-louisville-prosecutor-fights-delay-of-scottie-schefflers-arraignment-on-felony-assault-charge/article_6df4c3b4-16c8-11ef-a836-a78b4fa14e7b.html", 
-            "description": "\"This man should be treated like everyone else in this matter,\" Jefferson County Attorney Mike O'Connell told Jefferson District Court Judge Anne Delahanty.", 
-            "title": "VIDEO | Top Louisville prosecutor fights delay of Scottie Scheffler's arraignment on felony assault charge - WDRB"
+            "url": "https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48", 
+            "description": "Iranian President Ebrahim Raisi and the country\u2019s foreign minister have been found dead hours after their helicopter crashed in fog. That leaves the Islamic Republic without two key leaders as extraordinary tensions grip the wider Middle East. Supreme Leader \u2026", 
+            "title": "Iran helicopter crash: Mohammad Mokhber becomes acting president - The Associated Press"
         }, 
         {
-            "url": "https://www.foxweather.com/weather-news/central-us-plains-midwest-severe-weather-threat-may-2024", 
-            "description": "Millions of people from the Plains to the Midwest will be on alert for powerful thunderstorms capable of producing damaging wind gusts, large hail and possible tornadoes on Monday, one day after the second derecho in a week blasted through Kansas and Missouri\u2026", 
-            "title": "Millions face severe weather threat Monday as storms target Great Lakes, central US - Fox Weather "
+            "url": "https://www.cnn.com/2024/05/20/politics/trump-trial-takeaways/index.html", 
+            "description": "The prosecution rested their case against Donald J. Trump on Monday in the former president\u2019s hush money trial, which is barreling toward a conclusion as soon as next week.", 
+            "title": "Takeaways from a tense Day 19 of the Trump hush money trial - CNN"
         }, 
         {
-            "url": "https://www.foxnews.com/world/jacob-zuma-former-south-african-president-disqualified-next-weeks-election", 
-            "description": "Jacob Zuma, the former president of South Africa who stepped down in 2018, has been barred from running for Parliament due to a previous criminal conviction.", 
-            "title": "Who is Jacob Zuma, the former South African president disqualified from next week's election? - Fox News"
+            "url": "https://www.youtube.com/watch?v=sAewmh-Lu8U", 
+            "description": "Manchester City made history as we became the first ever men\u2019s team to win four titles in a row following our 3-1 win over West Ham United.Phil Foden took ju...", 
+            "title": "EXTENDED HIGHLIGHTS | 4-IN-A-ROW | Man City 3-1 West Ham | Premier League History Makers - Man City"
         }, 
         {
-            "url": "https://finance.yahoo.com/video/zoom-tops-q1-estimates-disappoints-204629775.html", 
-            "description": "Zoom Video Communications (ZM) narrowly beat first-quarter revenue estimates \u2014 $11.4 billion against an expected $1.13 billion \u2014 while topping adjusted...", 
-            "title": "Zoom tops Q1 estimates, but disappoints on Q2 guidance - Yahoo Finance"
+            "url": "https://www.reuters.com/business/red-lobster-probes-endless-shrimp-losses-after-bankruptcy-filing-2024-05-20/", 
+            "description": "Red Lobster, which filed for Chapter 11 bankruptcy in Florida on Sunday night, is investigating the role its majority owner Thai Union played in the restaurant chain's \"endless shrimp\" promotion that caused $11 million in losses, court documents showed.", 
+            "title": "Red Lobster probes \"endless shrimp\" losses after bankruptcy filing - Reuters"
+        }, 
+        {
+            "url": "https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/", 
+            "description": "Microsoft is going all in on AI, today introducing a series of Copilot+ PCs that have AI-focused hardware. The new Surface Pro is one of the first...", 
+            "title": "Microsoft Says New Surface Pro is Faster Than 15\" M3 MacBook Air - MacRumors"
+        }, 
+        {
+            "url": "https://www.mprnews.org/story/2024/05/20/severe-risk-and-flood-watch-tuesday", 
+            "description": "An unseasonably deep low-pressure storm is heading for Minnesota. Multiple waves of rain and thunderstorms will sweep across Minnesota from late Monday night through Tuesday.", 
+            "title": "Severe risk and flood watch Tuesday - MPR News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/20/economy/fdic-chair-gruenberg-resigns/index.html", 
+            "description": "Martin Gruenberg, head of the Federal Deposit Insurance Corporation, will step down following a scathing independent investigation detailing pervasive sexual harassment, discrimination and bullying at the agency charged with regulating the banking sector.", 
+            "title": "FDIC Chair Martin Gruenberg will resign following a scathing investigation that detailed a toxic workplace - CNN"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/black-astronauts-90-year-ed-dwights-1st-trip/story?id=110406706", 
+            "description": "\"I needed to finish it,\" Dwight said.", 
+            "title": "Black astronauts say 90-year-old Ed Dwight's 1st trip to space was 'justice' - Yahoo! Voices"
+        }, 
+        {
+            "url": "https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/", 
+            "description": "Trump Media and Technology Group reported $770,500 in revenue for the first quarter of 2024 and a net loss of $327.6 million.", 
+            "title": "Trump\u2019s Social Media Company Posts Q1 Revenue of $770,500 and Net Loss of $327.6 Million - Variety"
         }, 
         {
             "url": "https://apnews.com/article/trump-trial-hush-money-michael-cohen-363a86879b97d2367831b1392f42689d", 
@@ -36,19 +61,14 @@
             "title": "LFCHD declares whooping cough an outbreak - WKYT"
         }, 
         {
-            "url": "https://www.foxbusiness.com/markets/jpmorgan-chase-ceo-jamie-dimon-signals-retirement-closer-ever", 
-            "description": "JPMorgan Chase CEO Jamie Dimon told analysts and investors at the firm's annual investor day that he expects to depart from his role within the next five years.", 
-            "title": "JPMorgan Chase CEO Jamie Dimon signals retirement is closer than ever - Fox Business"
+            "url": "https://www.businessinsider.com/eminem-daughter-hailie-jade-scott-wedding-photos-2024-5", 
+            "description": "Eminem fans know his daughter Hailie Jade Scott as the featured artist on \"My Dad's Gone Crazy\" and the subject of \"Hailie's Song.\" Now, the podcaster is married.", 
+            "title": "Eminem's daughter Hailie Jade Scott is married: wedding photos - Business Insider"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=uHEPBzYick0", 
-            "description": "Microsoft\u2019s new Copilot+ PCs with Qualcomm chips and AI Windows features aim to beat Apple\u2019s MacBooks. WSJ\u2019s Joanna Stern tried out the new laptops and sat d...", 
-            "title": "Microsoft CEO on How New Windows AI Copilot+ PCs Beat Apple's Macs | WSJ - The Wall Street Journal"
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/donald-trump-movie-the-apprentice-cannes-standing-ovation-1235904113/", 
-            "description": "\"There is no nice metaphorical way to deal with the rising wave of fascism,\" director Ali Abbasi said when asked why he wanted to make the film about the former president's rise to power in 1980s America. \"I think it's time to make movies relevant. It's time \u2026", 
-            "title": "Donald Trump Movie \u2018The Apprentice\u2019 Shocks Cannes, Receives Nearly Eight-Minute Standing Ovation - Hollywood Reporter"
+            "url": "https://www.nhl.com/news/edmonton-oilers-vancouver-canucks-game-7-preview", 
+            "description": "Vancouver needs to score without Boeser, Edmonton counting on Skinner to lead way", 
+            "title": "3 Keys: Oilers at Canucks, Game 7 of Western 2nd Round - NHL.com"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html", 
@@ -56,9 +76,9 @@
             "title": "Ocean water is rushing miles underneath the \u2018Doomsday Glacier\u2019 with potentially dire impacts on sea level rise - CNN"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c1rrnppp5lno", 
-            "description": "Shock and disbelief spread through social media as news about President Ebrahim Raisi\u2019s helicopter broke.", 
-            "title": "Iran helicopter crash: How Iranians reacted to president's crash - BBC.com"
+            "url": "https://www.ign.com/articles/ninja-theory-studio-head-sends-heartfelt-message-to-hellblade-2-fans", 
+            "description": "A day before Hellblade 2 releases, Ninja Theory Studio head Dom Matthews shared a heartfelt message to fans for their support and excitement to play the next chapter in the Hellblade franchise.", 
+            "title": "Ninja Theory Studio Head Sends Heartfelt Message to Hellblade 2 Fans - IGN"
         }, 
         {
             "url": "https://www.espn.com/nba/story/_/id/40186394/victor-wembanyama-chet-holmgren-headline-nba-all-rookie-team", 
@@ -66,40 +86,20 @@
             "title": "Victor Wembanyama, Chet Holmgren headline NBA All-Rookie team - ESPN"
         }, 
         {
+            "url": "https://www.cnn.com/2024/05/20/us/baltimore-bridge-collapse-ship-relocation/index.html", 
+            "description": "After 55 days stuck in the Patapsco River, the Dali cargo ship was hauled away from the site of\u00a0its catastrophic crash into the Francis Scott Key Bridge \u2013 a crucial step toward fully reopening the busy Port of Baltimore.", 
+            "title": "Almost 2 months after it destroyed Baltimore\u2019s Key Bridge, the Dali cargo ship has been moved and docked. Here\u2019s what\u2019s next - CNN"
+        }, 
+        {
             "url": "https://www.bbc.com/news/health-69037200", 
             "description": "PM truly sorry as inquiry finds authorities covered up scandal and exposed victims to unacceptable risks.", 
             "title": "PM apologises after infected blood scandal cover-up - BBC.com"
         }, 
         {
-            "url": "https://www.washingtonpost.com/wellness/2024/05/20/heart-tests-echocardiograms-stress-test/", 
-            "description": "Some tests have been found to be used far too often, at little benefit.", 
-            "title": "Echocardiograms, cardiac calcium tests: Should you get these checkups? - The Washington Post"
-        }, 
-        {
             "url": "https://www.anandtech.com/show/21404/lenovo-unveils-yoga-slim-7x-14-gen-14-and-thinkpad-t14-gen-6-notebooks-powered-by-qualcomm-snapdragon-x-elite", 
             "description": "While we&#39;ve been expecting the availability of the Qualcomm Snapdragon X Elite processor to be around the middle of this year, Lenovo has announced...", 
             "title": "Lenovo Unveils Yoga Slim 7x 14 Gen 14 and ThinkPad T14 Gen 6 Notebooks Powered By Qualcomm Snapdragon X Elite - AnandTech"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/us/donald-trump-foreign-policy-advisers-met-israeli-pm-netanyahu-source-says-2024-05-20/", 
-            "description": "Three former U.S. foreign policy officials in Donald Trump's administration met with Prime Minister Benjamin Netanyahu and other public figures in Israel on Monday, according to a person with direct knowledge of the matter.", 
-            "title": "Exclusive: Donald Trump foreign policy advisers met Israeli PM Netanyahu, source says - Reuters"
-        }, 
-        {
-            "url": "https://www.ign.com/articles/esa-is-investigating-a-dramatic-fireball-that-exploded-over-spain-this-weekend", 
-            "description": "The European Space Agency\u2019s Planetary Defence Office is investigating the appearance of an enormous fireball that lit up the sky above Spain and Portugal late last week.", 
-            "title": "Social Media Flooded With Videos of a Dramatic Fireball Over Spain and Portugal - IGN"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/20/us-news/t-d-jakes-blasts-sean-diddy-combs-over-abuse-video/", 
-            "description": "\u201cWhen I saw the images that have been floating all over the news all week, it became difficult to watch \u2026 The atrocious, degrading, demeaning debauchery,\u201d Jakes told his congregat\u2026", 
-            "title": "Sean 'Diddy' Combs blasted by ex-spiritual adviser T.D. Jakes over leaked abuse video: 'Atrocious, degrading, demeaning' - New York Post "
-        }, 
-        {
-            "url": "https://www.foxsports.com/stories/nascar/ricky-stenhouse-jr-kyle-busch-fight-fallout-nascar-punishment", 
-            "description": "Following Sunday's postrace melee between Ricky Stenhouse Jr. and Kyle Busch, NASCAR must now decide whether to hand out penalties.", 
-            "title": "Ricky Stenhouse Jr.-Kyle Busch fight fallout: How will NASCAR handle punishment? - FOX Sports"
         }
     ], 
-    "last_updated": "2024-05-22 01:30:42"
+    "last_updated": "2024-05-22 01:48:03"
 }
