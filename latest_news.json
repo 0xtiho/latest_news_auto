@@ -1,14 +1,44 @@
 {
     "news": [
         {
-            "url": "https://apnews.com/article/iran-president-ebrahim-raisi-426c6f4ae2dd1f0801c73875bb696f48", 
-            "description": "Iranian President Ebrahim Raisi and the country\u2019s foreign minister have been found dead hours after their helicopter crashed in fog. That leaves the Islamic Republic without two key leaders as extraordinary tensions grip the wider Middle East. Supreme Leader \u2026", 
-            "title": "Iran helicopter crash: Mohammad Mokhber becomes acting president - The Associated Press"
+            "url": "https://www.reuters.com/world/europe/western-aid-ukraine-too-slow-risks-us-election-limited-zelenskiy-2024-05-20/", 
+            "description": null, 
+            "title": "Exclusive: Ukraine's Zelenskiy pushes allies to step up aid and involvement in war - Reuters"
         }, 
         {
-            "url": "https://www.usatoday.com/videos/news/politics/2024/05/20/julian-assange-wins-right-appeal-extradition-us-face-espionage-charges/73772328007/", 
+            "url": "https://apnews.com/live/helicopter-iranian-president-crash", 
+            "description": "Supreme Leader Ayatollah Ali Khamenei announced that Iran\u2019s first vice president, Mohammad Mokhber, would serve as the country\u2019s acting president until elections are held.", 
+            "title": "Live updates: Iran's president killed in helicopter crash, election set for next month - The Associated Press"
+        }, 
+        {
+            "url": "https://arstechnica.com/gadgets/2024/05/m4-ipad-pro-teardown-finds-easier-to-access-battery-glimpses-of-tandem-oled-design/", 
+            "description": "Straightforward tablet teardown is followed by a comically difficult Pencil one.", 
+            "title": "M4 iPad Pro teardown finds easier-to-access battery, glimpses of Tandem OLED design - Ars Technica"
+        }, 
+        {
+            "url": "https://www.houstonchronicle.com/business/energy/article/centerpoint-power-outage-monday-19467639.php", 
             "description": null, 
-            "title": "Julian Assange wins right to appeal extradition to US to face espionage charges - USA TODAY"
+            "title": "CenterPoint: 216K customers without power in the Houston area Monday - Houston Chronicle "
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html", 
+            "description": "Ocean water is pushing miles beneath Antarctica\u2019s \u201cDoomsday Glacier\u201d on a daily basis making it more vulnerable to melting than previously thought, according to new research, which used radar data from space to perform an X-ray of the crucial glacier.", 
+            "title": "Ocean water is rushing miles underneath the \u2018Doomsday Glacier\u2019 with potentially dire impacts on sea level rise - CNN"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/the-apprentice-trump-movie-ovation-cannes-1235924376/", 
+            "description": "Ali Abbasi\u2019s The Apprentice, a Donald Trump origin story of sorts, world premiered in competition at the Cannes Film Festival on May 20.", 
+            "title": "Donald Trump Origin Tale \u2018The Apprentice\u2019 Gets 11-Minute Ovation At Its Cannes World Premiere - Deadline"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/golfer-scottie-scheffler-charges-arraignment/story?id=110401748", 
+            "description": "Scheffler faces charges including second-degree assault of a police officer.", 
+            "title": "Star golfer Scottie Scheffler's arraignment postponed after arrest during PGA Championship - ABC News"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/20/us/baltimore-bridge-collapse-ship-relocation/index.html", 
@@ -21,29 +51,39 @@
             "title": "JPMorgan CEO Jamie Dimon signals retirement is closer than ever - CNBC"
         }, 
         {
+            "url": "https://bleacherreport.com/articles/10121666-victor-wembanyama-chet-holmgren-headline-2023-24-nba-all-rookie-team", 
+            "description": "The NBA honored the top first-year stars from the 2023-24 season, with the San Antonio Spurs' Victor Wembanyama and Oklahoma City Thunder's Chet Holmgren\u2026", 
+            "title": "Victor Wembanyama, Chet Holmgren Headline 2023-24 NBA All-Rookie Team - Bleacher Report"
+        }, 
+        {
             "url": "https://www.washingtonpost.com/wellness/2024/05/20/heart-tests-echocardiograms-stress-test/", 
             "description": "Some tests have been found to be used far too often, at little benefit.", 
             "title": "Echocardiograms, cardiac calcium tests: Should you get these checkups? - The Washington Post"
         }, 
         {
-            "url": "https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai", 
-            "description": "Microsoft\u2019s new laptop / tablet hybrid device comes with improved processors, a new focus on AI, and new keyboard and stylus accessories.", 
-            "title": "Microsoft Surface Pro announced: price and release date - The Verge"
+            "url": "https://www.anandtech.com/show/21404/lenovo-unveils-yoga-slim-7x-14-gen-14-and-thinkpad-t14-gen-6-notebooks-powered-by-qualcomm-snapdragon-x-elite", 
+            "description": "While we&#39;ve been expecting the availability of the Qualcomm Snapdragon X Elite processor to be around the middle of this year, Lenovo has announced...", 
+            "title": "Lenovo Unveils Yoga Slim 7x 14 Gen 14 and ThinkPad T14 Gen 6 Notebooks Powered By Qualcomm Snapdragon X Elite - AnandTech"
         }, 
         {
-            "url": "https://www.houstonchronicle.com/news/houston-weather/article/storm-tornado-live-updates-closures-outages-19466994.php", 
-            "description": "Follow along for the latest on power outages, road conditions, school closures and more following Houston's deadly May thunderstorm.", 
-            "title": "Live updates: AC issues affecting multiple Houston ISD schools - Houston Chronicle "
+            "url": "https://www.reuters.com/world/us/donald-trump-foreign-policy-advisers-met-israeli-pm-netanyahu-source-says-2024-05-20/", 
+            "description": null, 
+            "title": "Exclusive: Donald Trump foreign policy advisers met Israeli PM Netanyahu, source says - Reuters"
         }, 
         {
-            "url": "https://www.newsnationnow.com/crime/gilgo-beach-killings/police-search-heuermann-home/", 
-            "description": "Heuermann is currently awaiting trial in the deaths of four women whose bodies were found along Gilgo Beach.", 
-            "title": "Medical examiner arrives at Gilgo Beach suspect\u2019s house as search continues - NewsNation Now"
+            "url": "https://www.ign.com/articles/esa-is-investigating-a-dramatic-fireball-that-exploded-over-spain-this-weekend", 
+            "description": "The European Space Agency\u2019s Planetary Defence Office is investigating the appearance of an enormous fireball that lit up the sky above Spain and Portugal late last week.", 
+            "title": "Social Media Flooded With Videos of a Dramatic Fireball Over Spain and Portugal - IGN"
         }, 
         {
-            "url": "https://www.windowscentral.com/software-apps/windows-11/microsoft-ushers-in-new-era-of-windows-with-copilot-pcs-the-true-next-gen-ai-laptops-are-here", 
-            "description": "The next stage of the AI PC is here, and it comes in the form of Copilot+ PCs that are capable of some truly next-gen AI experiences.", 
-            "title": "Microsoft ushers in new era of Windows with 'Copilot+' PCs \u2014 the true next-gen AI laptops are here - Windows Central"
+            "url": "https://nypost.com/2024/05/20/us-news/t-d-jakes-blasts-sean-diddy-combs-over-abuse-video/", 
+            "description": "\u201cWhen I saw the images that have been floating all over the news all week, it became difficult to watch \u2026 The atrocious, degrading, demeaning debauchery,\u201d Jakes told his congregat\u2026", 
+            "title": "Sean 'Diddy' Combs blasted by ex-spiritual adviser T.D. Jakes over leaked abuse video: 'Atrocious, degrading, demeaning' - New York Post "
+        }, 
+        {
+            "url": "https://www.foxsports.com/stories/nascar/ricky-stenhouse-jr-kyle-busch-fight-fallout-nascar-punishment", 
+            "description": "Following Sunday's postrace melee between Ricky Stenhouse Jr. and Kyle Busch, NASCAR must now decide whether to hand out penalties.", 
+            "title": "Ricky Stenhouse Jr.-Kyle Busch fight fallout: How will NASCAR handle punishment? - FOX Sports"
         }, 
         {
             "url": "https://www.reuters.com/world/us/trump-has-chance-testify-hush-money-trial-if-he-so-chooses-2024-05-20/", 
@@ -51,55 +91,15 @@
             "title": "Stealing from Trump was 'self-help,' Cohen testifies at hush money trial - Reuters"
         }, 
         {
-            "url": "https://www.wdrb.com/news/scottie-schefflers-arraignment-for-allegedly-assaulting-a-louisville-police-officer-delayed-until-june/article_6df4c3b4-16c8-11ef-a836-a78b4fa14e7b.html", 
-            "description": "Attorney Steve Romines, who is representing Scheffler, said he had scheduling issues requiring the delay. Scheffler, because he is charged with a felony, is expected to have to attend the", 
-            "title": "Scottie Scheffler's arraignment for allegedly assaulting a Louisville police officer delayed until June - WDRB"
-        }, 
-        {
-            "url": "https://www.scrippsnews.com/us-news/crime/public-health-alert-issued-after-hiv-positive-sex-worker-had-over-200-clients", 
-            "description": "Authorities in Ohio have released a public health warning after learning that an HIV-positive sex worker had interactions with over 200 clients spanning...", 
-            "title": "Public health alert issued after HIV-positive sex worker had over 200 clients - AOL"
+            "url": "https://nypost.com/2024/05/20/business/target-to-slash-prices-on-5000-frequently-bought-products/", 
+            "description": "Shoppers who flock to Target will end up paying less for products such as milk, meat, bread, soda, fresh fruit and vegetables, according to the firm.", 
+            "title": "Target to slash prices on 5,000 frequently bought items to lure inflation-weary customers - New York Post "
         }, 
         {
             "url": "http://www.hollywoodreporter.com/movies/movie-news/kevin-costner-horizon-yellowstone-1235904037/", 
             "description": "During a career-spanning chat with Scott Feinberg, the Oscar-winning filmmaker opened up about a life-changing encounter with Richard Burton, what really happened with 'Waterworld' and investing chunks of his \"pile\" in films he believes in.", 
             "title": "Cannes: Kevin Costner Talks Passion Project \u2018Horizon,\u2019 \u2018Yellowstone\u2019 Standoff at Lively \u2018Awards Chatter\u2019 Podcast Taping - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/red-lobster-bankruptcy-chapter-11-sale-restaurants/", 
-            "description": "Red Lobster's owner has said the pandemic and rising costs hurt the seafood chain's financial performance.", 
-            "title": "Red Lobster files for Chapter 11 bankruptcy protection - CBS News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/20/entertainment/american-idol-finale-katy-perry/index.html", 
-            "description": "Katy Perry said her goodbyes on \u201cAmerican Idol\u201d after seven seasons.", 
-            "title": "Katy Perry sings goodbye to \u2018American Idol\u2019 - CNN"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/politics/elections/2024/05/20/trump-glitch-pause-during-nra-speech/73767035007/", 
-            "description": null, 
-            "title": "Trump glitch? Biden and Trump spar over Trump pause during NRA speech - USA TODAY"
-        }, 
-        {
-            "url": "https://techcrunch.com/2024/05/20/chatgpts-mobile-app-revenue-saw-biggest-spike-yet-following-gpt-4o-launch/", 
-            "description": "The ChatGPT mobile app's net revenue first jumped 22% on the day of the GPT-4o launch and continued to grow in the following days.", 
-            "title": "ChatGPT's mobile app revenue saw biggest spike yet following GPT-4o launch - TechCrunch"
-        }, 
-        {
-            "url": "https://www.espn.com/soccer/story/_/id/40184389/man-city-premier-league-title-liverpool-jurgen-klopp-marcotti", 
-            "description": "It might take some time to appreciate what Man City have done under Pep Guardiola, while Juventus fired Max Allegri and Liverpool said goodbye to Jurgen Klopp.", 
-            "title": "Assessing Man City's four-peat, Liverpool's goodbye to Klopp, more: Marcotti recaps the weekend - ESPN"
-        }, 
-        {
-            "url": "https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview", 
-            "description": "Google\u2019s Sundar Pichai discusses the latest in AI, search, and what the web will like in the future.", 
-            "title": "Google CEO Sundar Pichai on AI-powered search and the future of the web - The Verge"
-        }, 
-        {
-            "url": "https://www.foxnews.com/media/pope-francis-corrects-60-minutes-church-blessing-same-sex-unions-sacrament", 
-            "description": "Pope Francis corrected \"60 Minutes\" in an interview airing Sunday as he explained the Church did not sanction the blessings of same-sex unions.", 
-            "title": "Pope Francis corrects '60 Minutes' on Church not blessing same-sex unions: 'That is not the sacrament' - Fox News"
         }
     ], 
-    "last_updated": "2024-05-21 21:30:25"
+    "last_updated": "2024-05-21 21:47:45"
 }
