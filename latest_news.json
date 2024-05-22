@@ -1,9 +1,54 @@
 {
     "news": [
         {
+            "url": "https://www.wcvb.com/article/karen-read-trial-live-updates-may-21-2024/60854413", 
+            "description": "She's accused of killing her Boston police officer boyfriend by striking him with an SUV and leaving him to die in a snowbank.", 
+            "title": "Karen Read murder trial: Live updates as key witness returns to stand - WCVB Boston"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/singapore-airlines-severe-turbulence-flight-321-london-death-injures-bangkok-landing/", 
+            "description": "More than a dozen people on the Singapore Airlines Boeing 777 were also injured and it was forced to divert to Bangkok.", 
+            "title": "Severe turbulence on Singapore Airlines flight 321 from London leaves 1 dead, others injured, airline says - CBS News"
+        }, 
+        {
+            "url": "https://www.miamiherald.com/news/nation-world/world/article288608420.html", 
+            "description": null, 
+            "title": "Kensington Palace shares first official update regarding Princess Catherine\u2019s return - Miami Herald"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents", 
+            "description": "Microsoft is getting ready to use AI to automate the boring bits of jobs. New Copilot AI agents will work like virtual employees to automate tasks.", 
+            "title": "Microsoft's new Copilot AI agents act like virtual employees to automate tasks - The Verge"
+        }, 
+        {
+            "url": "https://decrypt.co/231602/ethereum-etf-applicants-ditch-staking-temporary-concession-sec", 
+            "description": "Spot Ethereum ETF filers have removed mentions of staking funds from their registration statements. One analyst says they \"bent the knee\" to the SEC.", 
+            "title": "Ethereum ETF Applicants Ditch Staking Language in 'Temporary Concession' to SEC: Analyst - Decrypt"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/weather/severe-thunderstorms-possible-tornadoes-giant-hail-high-winds-forecast-rcna153224", 
+            "description": "Severe thunderstorms are forecast to roll through the Midwest and the upper Great Lakes on Tuesday, bringing possible tornadoes, damaging winds and large hail.", 
+            "title": "Severe thunderstorms with possible tornadoes, giant hail and high winds forecast to rock the Midwest - NBC News"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/macys-beats-lowly-q1-estimates-as-it-weighs-between-a-turnaround-and-a-buyout-144307951.html", 
+            "description": "Macy\u2019s recorded another quarter of sales declines, but not as much as Wall Street feared.", 
+            "title": "Macy's beats lowly Q1 estimates, as it weighs a future between a turnaround or a buyout - Yahoo Finance"
+        }, 
+        {
             "url": "https://apnews.com/article/trump-trial-hush-money-robert-costello-b1beb56a666c398ae5393ede16c326da", 
             "description": "Donald Trump\u2019s lawyers have rested their defense without the ex-president taking the witness stand in his New York hush money trial. The jury was sent home Tuesday until May 28, when closing arguments are expected. Trump did not stop to speak as he left the c\u2026", 
             "title": "Defense rests without Trump taking the witness stand in his New York hush money trial - The Associated Press"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/21/1252616600/target-price-reductions-milk-butter", 
+            "description": "Target joins other retailers trying to draw inflation-weary shoppers to stores. The chain says reductions have already been reflected in about 1,500 products.", 
+            "title": "Target is cutting prices on 5000 items including milk, butter and pet food - NPR"
+        }, 
+        {
+            "url": "https://abcnews.go.com/Entertainment/wireStory/elvis-presleys-granddaughter-fights-companys-attempt-sell-graceland-110431683", 
+            "description": "The granddaughter of Elvis Presley is fighting plans to publicly auction his Graceland estate in Memphis after a company attempted to sell the property based on claims that a loan using it as collateral was not repaid", 
+            "title": "Graceland is not for sale, Elvis Presley's granddaughter Riley Keough says in lawsuit - ABC News"
         }, 
         {
             "url": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1wb2xpdGljcy02OTA0MzYxMdIBMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1wb2xpdGljcy02OTA0MzYxMS5hbXA?oc=5", 
@@ -11,44 +56,14 @@
             "title": "Move to extend police protest powers ruled unlawful - BBC.com"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://petapixel.com/2024/05/21/huge-adobe-lightroom-update-adds-ai-generative-remove-and-lens-blurring/", 
+            "description": "Use AI to remove unwanted objects or add realistic blur to your photos.", 
+            "title": "Huge Adobe Lightroom Update Adds AI Generative Remove and Lens Blurring - PetaPixel"
         }, 
         {
-            "url": "https://www.cbssports.com/nba/news/nba-predictions-conference-finals-expert-picks-for-celtics-vs-pacers-and-timberwolves-vs-mavericks/", 
-            "description": "After some surprising results in the second round, the conference finals tip off this week", 
-            "title": "NBA predictions: Conference finals expert picks for Celtics vs. Pacers and Timberwolves vs. Mavericks - CBS Sports"
-        }, 
-        {
-            "url": "https://www.theverge.com/24161498/microsoft-surface-pro-laptop-gpt-4o-voice-macbook-vergecast", 
-            "description": "The new Surfaces are here, Scarlett Johansson takes issue with GPT-4o, and the case for a touchscreen MacBook, on this episode of The Vergecast.", 
-            "title": "Microsoft\u2019s AI era: the Surface Pro, Surface Laptop, Copilot PCs, and more - The Verge"
-        }, 
-        {
-            "url": "https://cointelegraph.com/news/ether-etfs-eth-price-10k-approval-2025", 
-            "description": null, 
-            "title": "Ether ETFs could drive ETH price to $10K, but approval could take until 2025 - Cointelegraph"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/21/sonos-officially-unveils-ace-their-highly-anticipated-headphones-and-answer-to-airpods-max/", 
-            "description": "Here is everything you need to know about the brand new Sonos Ace headphones. We also have a hands on first impression!", 
-            "title": "Sonos unveils new Ace Headphones! - 9to5Mac"
-        }, 
-        {
-            "url": "https://www.nintendolife.com/reviews/nintendo-switch/paper-mario-the-thousand-year-door", 
-            "description": "Paper, un-jammed", 
-            "title": "Review: Paper Mario: The Thousand-Year Door (Switch) - Still The King Of Mario RPGs - Nintendo Life"
-        }, 
-        {
-            "url": "https://apnews.com/article/live-transmission-israel-associated-press-57e8f662907334ba3599156276381190", 
-            "description": "Israeli officials have seized a camera and broadcasting equipment belonging to The Associated Press in southern Israel. Officials accused the news organization of violating a new media law by providing images to Al Jazeera. The Qatari satellite channel is amo\u2026", 
-            "title": "Israeli officials seize AP equipment and take down live shot of northern Gaza, citing new media law - The Associated Press"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/lowes-beats-estimates-even-as-diy-consumers-pull-back-125204019.html", 
-            "description": "Home Depot earnings showed Wall Street with what to expect from Lowe's.", 
-            "title": "Lowe's beats estimates, even as DIY consumers pull back - Yahoo Finance"
+            "url": "https://nypost.com/2024/05/21/entertainment/jennifer-lopez-name-drops-ben-affleck-on-jkl-as-divorce-rumors-loom/", 
+            "description": "Jennifer Lopez went on \u201cJimmy Kimmel Live!\u201d the same day that Ben Affleck skipped the red carpet premiere for her new Netflix movie.", 
+            "title": "What Jennifer Lopez said about Ben Affleck on 'JKL!' as divorce rumors loom - New York Post "
         }, 
         {
             "url": "https://www.cnn.com/2024/05/21/health/nightmares-daymares-autoimmune-flares-wellness/index.html", 
@@ -56,50 +71,35 @@
             "title": "Horrific nightmares may signal oncoming flare of these chronic diseases, study says - CNN"
         }, 
         {
-            "url": "https://nypost.com/2024/05/21/us-news/diddys-ex-bodyguard-saw-rapper-get-really-physical-with-exes/", 
-            "description": "Sean \u201cDiddy\u201d Combs\u2019 former head of security said he had witnessed the rapper being violent toward women, namely his exes Cassie Ventura and Kim Porter, \u201cfour or five times&#\u2026", 
-            "title": "Diddy's former bodyguard claims he saw rapper 'get really physical' with exes 'four or five times' - New York Post "
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjEvdWtyYWluZS13YXItbGl2ZS11cGRhdGVzLWxhdGVzdC1uZXdzLW9uLXJ1c3NpYS1hbmQtdGhlLXdhci1pbi11a3JhaW5lLmh0bWzSAW5odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNS8yMS91a3JhaW5lLXdhci1saXZlLXVwZGF0ZXMtbGF0ZXN0LW5ld3Mtb24tcnVzc2lhLWFuZC10aGUtd2FyLWluLXVrcmFpbmUuaHRtbA?oc=5", 
+            "url": "https://www.axios.com/2024/05/21/israel-ap-equipment-seized-al-jazeera", 
             "description": null, 
-            "title": "Ukraine war live updates: Kremlin says Zelenskyy 'slipping into hysterics' wanting the West to get directly involved in the war - CNBC"
+            "title": "Israeli officials seize AP equipment, cut live feed citing new media law - Axios"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMjU1bmp6engybG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzI1NW5qenp4MmxvLmFtcA?oc=5", 
+            "url": "https://www.youtube.com/watch?v=pk0PYLbCcug", 
             "description": null, 
-            "title": "Greek court throws out shipwreck trial against nine Egyptians - BBC.com"
+            "title": "Andraya Carter outlines the SUCCESSES of Caitlin Clark in the WNBA so far | Get Up - ESPN"
         }, 
         {
-            "url": "https://www.aljazeera.com/news/2024/5/21/one-dead-as-london-to-singapore-flight-hit-by-turbulence", 
-            "description": "There were 211 passengers and 18 crew members on board the Boeing 777-300ER, which made an emergency landing in Bangkok.", 
-            "title": "One dead as Singapore Airlines flight from London hit by severe turbulence - Al Jazeera English"
+            "url": "https://www.cbsnews.com/news/stress-can-impact-your-skin-experts/", 
+            "description": "Stress can impact how your skin looks and feels, dermatologists say. Here's how \u2014 and what you can do about it.", 
+            "title": "Stress can be \"the triggering factor\" for skin problems. Dermatologists share their advice. - CBS News"
         }, 
         {
-            "url": "https://nypost.com/2024/05/21/world-news/doomsday-glacier-is-more-vulnerable-than-scientists-thought-study/", 
-            "description": "Dubbed the\u00a0\u201cDoomsday Glacier\u201d\u00a0by scientists, the Thwaites could raise global sea levels by up to two feet if it melts.", 
-            "title": "Doomsday glacier is more vulnerable than scientists thought: study - New York Post "
+            "url": "https://www.phillyvoice.com/report-eagles-news-wr-devante-parker-retire-nfl-depth-chart-britain-covey-ainias-smith-parris-campbell-johnny-wilson/", 
+            "description": "DeVante Parker, who played with the Patriots the last two seasons, had signed with the Eagles in free agency back in March.", 
+            "title": "Report: Eagles WR DeVante Parker retires from the NFL - PhillyVoice.com"
         }, 
         {
-            "url": "https://www.businessinsider.com/elon-musk-comments-on-scarlett-johansson-voice-imitation-dispute-openai-2024-5", 
-            "description": "The OpenAI cofounder said the use of a voice for ChatGPT that was \"eerily similar\" to Johansson's was like something out of the TV series \"Black Mirror.\"", 
-            "title": "Elon Musk wades in on Scarlett Johansson's dispute with OpenAI - Business Insider"
+            "url": "https://www.npr.org/2024/05/21/1252631480/up-first-newsletter-icc-israel-hamas-arrest-warrants-target-price-cuts", 
+            "description": "President Biden called an arrest warrant request for Israeli leaders \"outrageous.\"  Target is lowering prices on 5,000 common products.", 
+            "title": "Up First briefing: ICC Israel and Hamas arrest warrants; Target price cuts - NPR"
         }, 
         {
-            "url": "https://www.cnn.com/travel/fujikawaguchiko-japan-photo-blocking-barrier-intl-hnk/index.html", 
-            "description": "The Japanese town of Fujikawaguchiko has erected a giant black net to block views of Mount Fuji, a reaction to the town\u2019s huge popularity on Instagram and other social media platforms.", 
-            "title": "Japanese town overrun with tourists puts up view-blocking barrier near Mount Fuji - CNN"
-        }, 
-        {
-            "url": "https://scitechdaily.com/webb-space-telescope-cracks-case-of-puffy-microwaved-marshmallow-exoplanet/", 
-            "description": "A surprising deficiency of methane suggests that tidal heating has puffed up the atmosphere of the warm gas giant WASP-107 b. Why is the warm gas-giant exoplanet WASP-107 b so, so puffy? With a moderate temperature and an ultra-low density on par with a micro\u2026", 
-            "title": "Webb Space Telescope Cracks Case of Puffy \u201cMicrowaved Marshmallow\u201d Exoplanet - SciTechDaily"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=fpX39HY7ujI", 
-            "description": "Check out the gorgeous opening moments of Ninja Theory's long-anticipated Hellblade II, captured using a PC equipped with a GeForce RTX 4090 at full 4K 60fps...", 
-            "title": "Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay - IGN"
+            "url": "https://www.cnn.com/2024/05/21/politics/trump-unified-reich-video/index.html", 
+            "description": "Former President Donald Trump posted a video on Monday showing images of a fake newspaper article that references a \u201cunified Reich\u201d if he\u2019s reelected in 2024.", 
+            "title": "Trump posts video referencing \u2018unified Reich\u2019 if reelected - CNN"
         }
     ], 
-    "last_updated": "2024-05-22 17:30:11"
+    "last_updated": "2024-05-22 18:00:07"
 }
