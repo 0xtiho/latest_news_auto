@@ -1,29 +1,74 @@
 {
     "news": [
         {
+            "url": "https://www.bbc.com/news/articles/cg3340881p6o", 
+            "description": "The government announced what it calls a \"comprehensive\" compensation scheme on Tuesday.", 
+            "title": "'Blood compensation comes too late for my husband' - BBC.com"
+        }, 
+        {
+            "url": "https://www.forbes.com/sites/daniellechemtob/2024/05/21/forbes-daily-target-aims-for-discounts-as-inflation-hits-summer-staples/", 
+            "description": "Tuesday's edition of Forbes Daily covers Hims' new weight loss drug, Scarlett Johansson and OpenAI, Temu and Shein's impact on trade routes, Memorial Day prices and more.", 
+            "title": "Forbes Daily: Target Aims For Discounts As Inflation Hits Summer Staples - Forbes"
+        }, 
+        {
+            "url": "https://www.theringer.com/nba/2024/5/21/24161364/2024-nba-conference-finals-rudy-gobert-tyrese-haliburton", 
+            "description": "Sometimes, NBA playoff series come down to whichever team has the best player. Other times, they hinge on the performance of a key non-star.", 
+            "title": "The Four Biggest X Factors of the 2024 NBA Conference Finals - The Ringer"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-palestinians-west-bank-jenin-raid-a3320a77a3a6ccff41db2a4bc63e4aa3", 
+            "description": "Israel is seeking to contain the fallout from a request by the chief prosecutor of the world\u2019s top war crimes court for arrest warrants for Israeli and Hamas leaders. The move was supported by three European countries, including key ally France. Belgium, Slov\u2026", 
+            "title": "Israel forces kill at least 7 Palestinians in West Bank raid - The Associated Press"
+        }, 
+        {
+            "url": "https://www.aljazeera.com/news/2024/5/21/one-dead-as-london-to-singapore-flight-hit-by-turbulence", 
+            "description": "There were 211 passengers and 18 crew members on board the Boeing 777-300ER, which made an emergency landing in Bangkok.", 
+            "title": "One dead as Singapore Airlines flight from London hit by severe turbulence - Al Jazeera English"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/world-us-canada-69041617", 
+            "description": "On Monday, witness Robert Costello appeared frustrated on the stand, glaring at the judge.", 
+            "title": "Trump trial: Judge reprimands Trump witness Robert Costello over groans - BBC.com"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/grizzly-grand-teton-surprise-attack/", 
+            "description": "A grizzly bear attacked and seriously injured a man in western Wyoming's Grand Teton National Park, prompting closure of a mountain there.", 
+            "title": "Surprise attack by grizzly leads to closure of a Grand Teton National Park mountain - CBS News"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/macys-beats-lowly-q1-estimates-as-it-weighs-a-future-between-a-turnaround-or-a-buyout-110456567.html", 
+            "description": "Macy\u2019s recorded another quarter of sales declines, but not as much as Wall Street feared.", 
+            "title": "Macy's beats lowly Q1 estimates, as it weighs a future between a turnaround or a buyout - Yahoo Finance"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/21/world-news/doomsday-glacier-is-more-vulnerable-than-scientists-thought-study/", 
+            "description": "Dubbed the\u00a0\u201cDoomsday Glacier\u201d\u00a0by scientists, the Thwaites could raise global sea levels by up to two feet if it melts.", 
+            "title": "Doomsday glacier is more vulnerable than scientists thought: study - New York Post "
+        }, 
+        {
             "url": "https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html", 
             "description": "The home improvement retailer Lowe's said sales fell again year over year, and it reiterated its full-year earnings forecast.", 
             "title": "Lowe's beats on earnings and revenue, even as consumers spend less on DIY projects - CNBC"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/crgg821ezz8o", 
-            "description": "The French Pacific territory's airport has been closed since deadly unrest erupted last week.", 
-            "title": "New Caledonia: Australia and New Zealand send evacuation flights amid unrest - BBC.com"
+            "url": "http://9to5google.com/2024/05/21/android-15-pixel-volume-control-speaker-groups/", 
+            "description": "For the past few years, easy volume controls for speaker groups and other Cast devices from Pixel phones has been...", 
+            "title": "Pixel gets speaker group volume controls back in Android 15 - 9to5Google"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c3ggplvn5pzo", 
-            "description": "Critics broadly praise The Apprentice, but the former president threatens to sue over its content.", 
-            "title": "The Apprentice: Donald Trump film biopic causes a stir at Cannes - BBC.com"
+            "url": "https://nypost.com/2024/05/21/entertainment/ben-affleck-skips-jennifer-lopezs-atlas-premiere/", 
+            "description": "As the negative rumors about Jennifer Lopez and Ben Affleck\u2019s marriage continue to mount, the singer had the premiere for her new sci-fi Netflix movie, \u201cAtlas,\u201d on Monday night.", 
+            "title": "Ben Affleck skips Jennifer Lopez's 'Atlas' premiere amid rumored marriage woes - New York Post "
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbmV0YW55YWh1LWFycmVzdC13YXJyYW50LWlzcmFlbC1oYW1hcy13YXItaWNjLXJjbmExNDk3NDPSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTQ5NzQz?oc=5", 
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDUvZG9uYWxkLXRydW1wLXRoZS1hcHByZW50aWNlLWNhbm5lcy1zZWJhc3RpYW4tc3Rhbi0xMjM1OTI1MzEyL9IBXmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDUvZG9uYWxkLXRydW1wLXRoZS1hcHByZW50aWNlLWNhbm5lcy1zZWJhc3RpYW4tc3Rhbi0xMjM1OTI1MzEyL2FtcC8?oc=5", 
             "description": null, 
-            "title": "ICC prosecutor applies for arrest warrants for Netanyahu and Hamas leader Sinwar - NBC News"
+            "title": "\u2018The Apprentice\u2019 Filmmaker Isn\u2019t Scared By Donald Trump\u2019s Legal Threats, Says \u201cThey Don\u2019t Talk About His Success Rate\u201d With Lawsuits; Hopes For September Release Date Timed To Election Debates \u2013 Cannes - Deadline"
         }, 
         {
-            "url": "https://apnews.com/article/trump-trial-hush-money-robert-costello-b1beb56a666c398ae5393ede16c326da", 
-            "description": "A defense witness in Donald Trump\u2019s New York hush money case whom the judge threatened to remove over his behavior will return to the stand as the trial nears its end. Trump\u2019s lawyers are hoping Robert Costello\u2019s testimony Tuesday will help undermine the cred\u2026", 
-            "title": "Hush money trial: Trump witness Costello back on the stand after admonishment - The Associated Press"
+            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5obC5jb20vb2lsZXJzL25ld3MvZ2FtZS1yZWNhcC1vaWxlcnMtMy1jYW51Y2tzLTItZ2FtZS03LTA1LTIwLTI00gEA?oc=5", 
+            "description": null, 
+            "title": "GAME RECAP: Oilers 3, Canucks 2 (Game 7) | Edmonton Oilers - NHL.com"
         }, 
         {
             "url": "https://www.cnn.com/travel/fujikawaguchiko-japan-photo-blocking-barrier-intl-hnk/index.html", 
@@ -31,14 +76,14 @@
             "title": "Japanese town overrun with tourists puts up view-blocking barrier near Mount Fuji - CNN"
         }, 
         {
-            "url": "https://www.nhl.com/news/edmonton-oilers-vancouver-canucks-game-7-recap-may-20", 
-            "description": "Nugent-Hopkins has goal, assist for Edmonton; Boeser misses game with injury for Vancouver", 
-            "title": "Oilers hold off Canucks in Game 7, advance to Western Final - NHL.com"
-        }, 
-        {
             "url": "https://scitechdaily.com/webb-space-telescope-cracks-case-of-puffy-microwaved-marshmallow-exoplanet/", 
             "description": "A surprising deficiency of methane suggests that tidal heating has puffed up the atmosphere of the warm gas giant WASP-107 b. Why is the warm gas-giant exoplanet WASP-107 b so, so puffy? With a moderate temperature and an ultra-low density on par with a micro\u2026", 
             "title": "Webb Space Telescope Cracks Case of Puffy \u201cMicrowaved Marshmallow\u201d Exoplanet - SciTechDaily"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=fpX39HY7ujI", 
+            "description": "Check out the gorgeous opening moments of Ninja Theory's long-anticipated Hellblade II, captured using a PC equipped with a GeForce RTX 4090 at full 4K 60fps...", 
+            "title": "Senua's Saga: Hellblade 2 - The First 20 Minutes of Gameplay | 4K 60FPS PC Gameplay - IGN"
         }, 
         {
             "url": "https://removed.com", 
@@ -46,60 +91,15 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://abcnews.go.com/US/35-year-man-survives-grizzly-bear-attack-after/story?id=110424633", 
-            "description": "Officials believe this was a \u201csurprise encounter\" with two grizzly bears.", 
-            "title": "35-year-old man survives grizzly bear attack after encountering 2 of them at national park - ABC News"
+            "url": "https://www.aljazeera.com/news/2024/5/21/france-to-deploy-more-troops-to-troubled-pacific-territory-of-new-caledonia", 
+            "description": "Noumea\u2019s international airport remains closed; Australia and New Zealand to use military planes to evacuate tourists.", 
+            "title": "France to deploy more troops to troubled Pacific territory of New Caledonia - Al Jazeera English"
         }, 
         {
-            "url": "https://abcnews.go.com/US/climber-found-dead-after-falling-off-highest-peak/story?id=110424974", 
-            "description": "Since 1980, at least 14 climbers have died in falls on the West Buttress route.", 
-            "title": "Climber found dead after falling off highest peak in North America - ABC News"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/asml-tsmc-disable-chip-machines-072621845.html", 
-            "description": "(Bloomberg) -- ASML Holding NV and Taiwan Semiconductor Manufacturing Co. have ways to disable the world\u2019s most sophisticated chipmaking machines in the...", 
-            "title": "ASML and TSMC Can Disable Chip Machines If China Invades Taiwan - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.foxnews.com/world/british-court-rules-julian-assange-may-make-full-appeal-against-us-extradition-first-amendement-grounds", 
-            "description": "WikiLeaks founder Julian Assange may appeal an extradition order to the U.S. on espionage charges after a ruling in his favor was handed down Monday by the British High Court.", 
-            "title": "British court rules Julian Assange may make full appeal against US extradition on First Amendment grounds - Fox News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/21/world/iran-begins-days-of-funeral-ceremonies-for-president-raisi-as-investigators-probe-helicopter-crash/index.html", 
-            "description": "Iran will kick off funeral ceremonies for the late Iranian president Ebrahim Raisi on Tuesday following his death in a helicopter crash as authorities probe what caused the aircraft to smash into the side of a remote mountainside.", 
-            "title": "Iran begins days of funeral ceremonies for President Raisi as investigators probe helicopter crash - CNN"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/21/1252616600/target-price-reductions-milk-butter", 
-            "description": "Target said it is trying to help customers save money as well as stay competitive in its markets. Price reductions have already been reflected in about 1,500 products.", 
-            "title": "Target is reducing prices on 5000 common goods, including milk, butter and pet food - NPR"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL255cG9zdC5jb20vMjAyNC8wNS8yMS93b3JsZC1uZXdzL3NsYWluLWxlYWRlci1vZi1mYWlsZWQtZHItY29uZ28tY291cC1jaHJpc3RpYW4tbWFsYW5nYS1zb2xkLWNhcnMtaW4tdXRhaC13aGVuLWhlLWxpdmVkLWluLXRoZS11cy_SAQA?oc=5", 
-            "description": null, 
-            "title": "Christian Malanga, slain leader of failed DR Congo coup, sold cars in Utah when he lived in the US - New York Post "
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cv2237rplg8o", 
-            "description": "The car makers used parts made by a supplier banned over alleged links to Chinese forced labour.", 
-            "title": "BMW, Jaguar and VW imported banned Xinjiang parts - Senate probe - BBC.com"
-        }, 
-        {
-            "url": "https://apnews.com/article/uk-infected-blood-inquiry-report-cc37acdc60798c7af82131efce63b6f1", 
-            "description": "An inquiry has found that British authorities and the public health service knowingly exposed tens of thousands of patients to deadly infections through contaminated blood and blood products and hid the truth about the disaster for decades. An estimated 3,000\u2026", 
-            "title": "Britain slammed in inquiry for infecting thousands with tainted blood and covering up the scandal - The Associated Press"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1402026/jennifer-lopez-puts-her-wedding-ring-on-display-on-red-carpet-amid-ben-affleck-breakup-rumors", 
-            "description": "Jennifer Lopez was spotted with her wedding ring from husband Ben Affleck amid rumors that the couple are experiencing marital troubles. See her on the red carpet at the Atlas premiere.", 
-            "title": "Jennifer Lopez Puts Her Wedding Ring on Display on Red Carpet Amid Ben Affleck Breakup Rumors - E! Online - E! NEWS"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/20/biden-trump-campaign-finance-reports-00159060", 
-            "description": null, 
-            "title": "Warning signs for Biden and Trump in latest campaign finance reports - POLITICO"
+            "url": "https://www.bbc.com/news/articles/cm559l5g529o", 
+            "description": "The star says she is \"shocked\" after OpenAI launched a chatbot with a voice \"eerily similar\" to hers.", 
+            "title": "ChatGPT: Scarlett Johansson left 'angered' by chatbot imitation - BBC.com"
         }
     ], 
-    "last_updated": "2024-05-22 13:29:54"
+    "last_updated": "2024-05-22 13:59:56"
 }
