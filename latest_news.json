@@ -1,14 +1,69 @@
 {
     "news": [
         {
-            "url": "https://www.eonline.com/news/1402049/jennifer-lopez-briefly-brings-up-ben-affleck-amid-split-rumors", 
-            "description": "While neither Jennifer Lopez nor Ben Affleck have publicly commented on where their marriage stands, the singer did quickly mention the Oscar winner during her recent interview with Jimmy Kimmel.", 
-            "title": "Jennifer Lopez Briefly Brings Up Ben Affleck Amid Split Rumors - E! NEWS"
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-pop-to-records-as-wall-street-waits-for-nvidia-earnings-200120991.html", 
+            "description": "Investors biding their time for Nvidia results looked to retail earnings and Fedspeak for clues to the economy.", 
+            "title": "Stock market today: Nasdaq, S&P pop to records as Wall Street waits for Nvidia earnings - Yahoo Finance"
         }, 
         {
-            "url": "https://www.washingtonpost.com/weather/2024/05/21/tornado-thunderstorm-midwest-severe-weather/", 
-            "description": "Widespread damaging winds and tornadoes are possible across Midwest regions from Kansas City to Milwaukee today, with moderate risk across much of Iowa.", 
-            "title": "Tornadoes, severe storms possible across Midwest: See maps of risk areas - The Washington Post"
+            "url": "https://www.reuters.com/world/us/trumps-lawyers-mount-defense-hush-money-trial-if-case-is-not-dismissed-2024-05-21/", 
+            "description": null, 
+            "title": "Trump opts not to take witness stand in hush money case as testimony ends - Reuters"
+        }, 
+        {
+            "url": "https://arstechnica.com/space/2024/05/surviving-reentry-is-the-key-goal-for-spacexs-fourth-starship-test-flight/", 
+            "description": "Elon Musk says SpaceX aims to launch the fourth Starship test flight in about two weeks.", 
+            "title": "Surviving reentry is the key goal for SpaceX's fourth Starship test flight - Ars Technica"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8yMS9tZWRpYS9pc3JhZWwtZ2F6YS1saXZlLWNhbWVyYS1zaHV0LWRvd24vaW5kZXguaHRtbNIBSmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDUvMjEvbWVkaWEvaXNyYWVsLWdhemEtbGl2ZS1jYW1lcmEtc2h1dC1kb3du?oc=5", 
+            "description": null, 
+            "title": "Israel cancels order to cut AP live feed, will return camera equipment it seized - CNN"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/uk-politics-69037424", 
+            "description": "Craig Mackinlay was given a 5% chance of survival after being rushed to hospital in September.", 
+            "title": "My feet and hands were amputated after sepsis, says MP - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnet.com/tech/mobile/scarlett-johansson-angered-over-openais-chatbot-mimicking-her-voice/", 
+            "description": "The actor accused OpenAI of building a virtual assistant voice that sounds \"eerily similar\" to her own -- without her permission.", 
+            "title": "Scarlett Johansson 'Angered' Over OpenAI's Chatbot Mimicking 'Her' Voice - CNET"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=vip_Ss-9BLI", 
+            "description": "Russell Wilson vs. Justin Fields: Battle for the QB1 spot \ud83d\ude24 | SportsCenterTim Hasselbeck joins SportsCenter to discuss whether Russell Wilson or Justin Fiel...", 
+            "title": "Russell Wilson vs. Justin Fields: Battle for the QB1 spot \ud83d\ude24 | SportsCenter - ESPN"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/5-states-tornado-watch-severe-weather-continues/story?id=110428733", 
+            "description": "More than 100 severe storms were reported on Monday.", 
+            "title": "Multiple states under tornado watch as severe weather continues - ABC News"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/singapore-airlines-severe-turbulence-flight-321-london-death-injures-bangkok-landing/", 
+            "description": "Dozens of people on the Singapore Airlines Boeing 777 were also injured and it was forced to divert to Bangkok.", 
+            "title": "Severe turbulence on Singapore Airlines flight 321 from London leaves 1 dead, others injured, airline says - CBS News"
+        }, 
+        {
+            "url": "https://arstechnica.com/gadgets/2024/05/comcasts-streamsaver-plan-is-15-month-if-you-like-cable-bundles-and-ads/", 
+            "description": "It's $25 or $10 cheaper than separate subs, but note the plans you're getting.", 
+            "title": "Comcast's streaming bundle is $15/month for Netflix, Peacock, Apple TV+, and ads - Ars Technica"
+        }, 
+        {
+            "url": "https://www.espn.com/golf/story/_/id/40192233/police-probe-protocols-scottie-scheffler-arrest", 
+            "description": "The Louisville Metro Police Department will investigate whether its officers followed proper protocols when world No. 1 golfer Scottie Scheffler was arrested Friday outside Valhalla Golf Club.", 
+            "title": "Police to probe protocols during Scheffler arrest - ESPN"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
             "url": "https://www.theverge.com/2024/5/21/24161688/microsoft-windows-copilot-runtime-build-2024", 
@@ -16,14 +71,14 @@
             "title": "Microsoft's new Windows Copilot Runtime aims to win over AI developers - The Verge"
         }, 
         {
+            "url": "https://www.cbsnews.com/news/fulton-county-d-a-fani-willis-georgia-primary-reelection/", 
+            "description": "Fulton County D.A. Fani Willis is running for reelection in the Democratic primary in Georgia today as her prosecution of Donald Trump remains tied up in a state appellate court.", 
+            "title": "Fulton County D.A. Fani Willis fights to keep her job as Georgia primary reelection battle draws attention - CBS News"
+        }, 
+        {
             "url": "https://www.nbcnews.com/politics/2024-election/primary-elections-today-what-know-rcna152830", 
             "description": "Four states are holding primaries Tuesday, while California voters will select a replacement for former Speaker Kevin McCarthy, giving Republicans a little more breathing room in the House.", 
             "title": "Kevin McCarthy's replacement and down-ballot drama: What to watch for in Tuesday's elections - NBC News"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/21/biden-takes-credit-for-target-grocery-price-cuts.html", 
-            "description": "Target announced price cuts on roughly 5,000 items, which Biden says is because of his administration's pressure campaign.", 
-            "title": "Biden takes credit for Target grocery price cuts: 'They're answering the call' - CNBC"
         }, 
         {
             "url": "https://www.cbsnews.com/boston/news/karen-read-live-stream-today-murder-trial-day-15/", 
@@ -36,70 +91,15 @@
             "title": "Ex-NYC Mayor Rudy Giuliani pleads not guilty to felony charges in Arizona election interference case - The Associated Press"
         }, 
         {
-            "url": "https://apnews.com/article/graceland-auction-elvis-presley-359098fd64877f2e826b7309dba2bbb3", 
-            "description": "The granddaughter of Elvis Presley is fighting an attempt to publicly auction his Graceland estate in Memphis. A lawsuit from Presley's granddaughter Riley Keough alleges that a company\u2019s claims that the king of rock \u2019n\u2019 roll\u2019s former home was used as collate\u2026", 
-            "title": "Elvis' granddaughter Riley Keough fights Graceland estate auction - The Associated Press"
+            "url": "https://www.politico.eu/article/putin-starts-tactical-nuke-tests/", 
+            "description": "Russia amps up nuclear threat.", 
+            "title": "Putin starts tactical nuke drills near Ukraine - POLITICO Europe"
         }, 
         {
-            "url": "https://www.theverge.com/2024/5/21/24161650/pixar-layoffs-disney-cost-cutting", 
-            "description": "Disney\u2019s layoffs have now impacted Inside Out studio Pixar, which has cut 14 percent of its workforce as it shifts its focus back to feature films and away from streaming series.", 
-            "title": "Pixar cuts 14 percent of workforce, shifts focus back to feature films - The Verge"
-        }, 
-        {
-            "url": "https://www.reuters.com/technology/cryptocurrencies-gain-investors-turn-optimistic-ether-etfs-2024-05-21/", 
-            "description": "Ether was set for its largest two-day gain in nearly two years on Tuesday amid speculation about the outcome of applications for U.S. spot exchange-traded funds that track the world's second-biggest cryptocurrency, while bitcoin also approached a record high.", 
-            "title": "Cryptocurrencies gain as investors turn optimistic on ether ETFs - Reuters"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/21/world/singapore-airlines-turbulence-bangkok/index.html", 
-            "description": "One person has died on board a Singapore Airlines flight that the airline said Tuesday encountered severe turbulence on a flight from London to Singapore.", 
-            "title": "One dead after severe turbulence hits Singapore Airlines flight - CNN"
-        }, 
-        {
-            "url": "https://www.ign.com/articles/microplastics-found-in-every-human-testicle-examined-in-new-study", 
-            "description": "Scientists have discovered significant quantities of microplastics present in human and canine testicles, raising concerns around the potential impact of the pollutant on the human reproductive system.", 
-            "title": "Microplastics Found in Every Human Testicle Examined in New Study - IGN"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/world-us-canada-69041617", 
-            "description": "On Monday, witness Robert Costello appeared frustrated on the stand, glaring at the judge.", 
-            "title": "Trump trial: Judge reprimands Trump witness Robert Costello over groans - BBC.com"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/microsoft-unveils-gpt-4o-for-azure-new-ai-apps-in-fight-against-google-amazon-153044478.html", 
-            "description": "Microsoft debuted a litany of new AI offerings as part of its Build developer conference as its fight with Google and Amazon continues to heat up.", 
-            "title": "Microsoft unveils GPT-4o for Azure, new AI apps in fight against Google, Amazon - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.espn.com/nfl/story/_/id/40190812/police-man-want-rashee-rice-charged-alleged-assault", 
-            "description": "The injured person in an alleged May 6 assault at a Dallas nightclub in which Kansas City Chiefs wide receiver Rashee Rice is reportedly a suspect has asked police not to file charges, according to police.", 
-            "title": "Cops: Man doesn't want Rice charged for assault - ESPN"
-        }, 
-        {
-            "url": "https://apnews.com/article/trump-election-2024-rhetoric-germany-antisemitism-31002afb91b642c0314223d19e51f427", 
-            "description": "It\u2019s now been taken down, but a video posted to Donald Trump\u2019s account on his social media network included references to a \u201cunified Reich.\u201d The headline appears among messages flashing across the screen such as \u201cTrump wins!!\u201d Other headlines appear to be ref\u2026", 
-            "title": "Trump campaign video includes references to a 'unified Reich' - The Associated Press"
-        }, 
-        {
-            "url": "https://wccftech.com/senuas-saga-hellblade-ii-performance-analysis-xbox-series-x-can-not-maintain-30fps/", 
-            "description": "Senua's Saga: Hellblade II is only 30fps on Xbox Series X/S, but at least it's a consistent 30fps, right? Well, about that...", 
-            "title": "Senua\u2019s Saga: Hellblade II Can\u2019t Consistently Maintain its 30fps Target on Xbox Series X/S - Wccftech"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/tech/sag-aftra-applauds-scarlett-johansson-rebuking-openai-voice-sounded-rcna153256", 
-            "description": "SAG-AFTRA, the union that represents Hollywood actors, commended Scarlett Johansson for calling out OpenAI for using a voice that sounded \"eerily similar\" to hers.", 
-            "title": "SAG-AFTRA applauds Scarlett Johansson for rebuking OpenAI over voice that sounded like her - NBC News"
-        }, 
-        {
-            "url": "https://kdvr.com/news/colorado/us-news-2-colorado-cities-make-top-10-best-places-to-live/", 
-            "description": "A new report found 150 of the best cities to live in, and two Colorado cities were named among the top 10.", 
-            "title": "US News: 2 Colorado cities make top 10 best places to live - FOX 31 Denver"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/politics/2024-election/trump-shares-video-unified-reich-social-media-rcna153214", 
-            "description": "Former President Donald Trump's account shared a video on social media Monday that referred to a \"unified Reich\" among possible developments if he were to win re-election in November, drawing criticism from the Biden campaign.", 
-            "title": "Trump shares video referencing 'unified Reich' to social media - NBC News"
+            "url": "https://nypost.com/2024/05/21/business/inflation-still-causing-pain-for-americans-especially-parents-fed-survey/", 
+            "description": "Inflation remained the top financial concern, the report said. Sixty-five percent of adults said high prices had made their situations worse.", 
+            "title": "Inflation still causing pain for Americans \u2014 with parents hit harder: Fed survey - New York Post "
         }
     ], 
-    "last_updated": "2024-05-22 23:30:37"
+    "last_updated": "2024-05-23 00:00:33"
 }
