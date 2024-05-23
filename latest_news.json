@@ -1,24 +1,54 @@
 {
     "news": [
         {
+            "url": "https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html", 
+            "description": "The Federal Reserve on Wednesday released minutes from its April 30-May 1 policy meeting.", 
+            "title": "Federal Reserve minutes indicate worries over lack of progress on inflation - CNBC"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/22/uk/uk-early-elections-sunak-conservatives-intl/index.html", 
+            "description": "UK Prime Minister Rishi Sunak announced a snap general election for July\u00a04 in a statement outside Downing Street on Wednesday evening, as his Conservative party faces an uphill struggle to extend its 14 years in power.", 
+            "title": "UK PM Rishi Sunak calls surprise July election as his party seeks to defy dire polls - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/uvalde-school-shooting-settlement-texas-city-lawsuits/", 
+            "description": "Family members of Uvalde school shooting victims also said they're filing lawsuits against dozens of Texas Department of Public Safety officers and Uvalde's school district.", 
+            "title": "Uvalde school shooting victims' families announce $2 million settlement with Texas city and new lawsuits - CBS News"
+        }, 
+        {
+            "url": "http://www.nbcphiladelphia.com/news/local/chester-shooting-business/3865307/", 
+            "description": "At least two workers were killed and three others were hurt in a workplace shooting at a family-owned linen business in Chester, Pennsylvania, Wednesday, Delaware County authorities said.", 
+            "title": "\u2018Absolute tragedy': 2 dead, 3 hurt in Chester workplace shooting - NBC Philadelphia"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/judicial-nominations-200-senate-confirmation-biden/", 
+            "description": "The milestone comes with the confirmation of two judges to the federal district court in Arizona.", 
+            "title": "Senate confirms 200th Biden judge as Democrats tout \"major milestone\" - CBS News"
+        }, 
+        {
             "url": "https://abcnews.go.com/US/tennessee-judge-blocks-effort-sell-graceland/story?id=110448166", 
             "description": "A notary said the signature on a document was not actually hers.", 
             "title": "Tennessee judge blocks effort to sell Elvis Presley's Graceland - ABC News"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjEvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gEA?oc=5", 
+            "url": "https://apnews.com/article/norway-palestinian-state-ddfd774a23d39f77f5977b9c89c43dbc", 
+            "description": "Norway, Ireland and Spain say they will recognize a Palestinian state. The historic but largely symbolic move further deepens Israel\u2019s isolation more than seven months into its grinding war against Hamas in Gaza. Israel immediately denounced Wednesday's decis\u2026", 
+            "title": "Norway, Ireland and Spain say they will recognize a Palestinian state, deepening Israel's isolation - The Associated Press"
+        }, 
+        {
+            "url": "https://www.desmoinesregister.com/story/weather/2024/05/21/iowa-national-weather-service-severe-weather-outlook-des-moines-readar/73783200007/", 
             "description": null, 
-            "title": "Stock market today: Live updates - CNBC"
+            "title": "Several tornadoes touch down; deaths, injuries confirmed in Greenfield - Des Moines Register"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/us-existing-home-sales-fall-140156904.html", 
-            "description": "WASHINGTON (Reuters) -U.S. existing home sales unexpectedly fell in April as higher mortgage rates and house prices weighed on demand, dealing another...", 
-            "title": "US home sales post second straight monthly drop; house prices jump - Yahoo Finance"
+            "url": "https://www.bbc.com/news/articles/c3gglgwe49zo", 
+            "description": "Prosecutors allege a \u201cscramble\" to ensure boxes containing sensitive material were moved \u201coff-camera\" at Mar-a-Lago.", 
+            "title": "Classified files found in Trump bedroom at Mar-a-Lago - BBC.com"
         }, 
         {
-            "url": "https://www.steelers.com/news/pittsburgh-selected-to-host-the-2026-nfl-draft", 
-            "description": "Global, fan-favorite event set to welcome hundreds of thousands to the City of Champions", 
-            "title": "Pittsburgh Selected to Host the 2026 NFL Draft - Steelers.com"
+            "url": "https://www.ft.com/content/e3b5c1a0-48ac-4922-970a-8b9ca7c2539e", 
+            "description": "Analysts see Target and Walmart setting a new tone for sector after years of increases", 
+            "title": "Biggest US retailers cut prices as inflation hits shoppers - Financial Times"
         }, 
         {
             "url": "https://apnews.com/article/wegovy-ozempic-teens-young-adults-24047516e0c3b4f678c3e91f4ed6face", 
@@ -26,34 +56,24 @@
             "title": "Use of Wegovy and other weight-loss drugs soars among kids and young adults - The Associated Press"
         }, 
         {
-            "url": "https://www.barrons.com/articles/target-earnings-stock-price-f6bb3aff", 
+            "url": "https://techcrunch.com/2024/05/22/boeing-nasa-indefinitely-delay-crewed-starliner-launch/", 
+            "description": "If you've been looking forward to seeing Boeing\u2019s Starliner capsule carry two astronauts to the International Space Station for the first time, you'll", 
+            "title": "Boeing, NASA indefinitely delay crewed Starliner launch - TechCrunch"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/22/1252872978/russia-assets-aid-ukraine-eu-war-sanctions", 
+            "description": "Under the plan, the European Union will send as much as $3.25 billion in profits from frozen Russian assets to Ukraine to help finance its military and reconstruction efforts.", 
+            "title": "Billions from Russia's frozen assets will go to help Ukraine's military, the EU says - NPR"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/22/altman-openai-chatgpt-scarlet-johansson", 
             "description": null, 
-            "title": "Target Earnings Miss as Consumers Pull Back. The Stock Tumbles. - Barron's"
+            "title": "Scarlett Johansson scandal is putting OpenAI's Sam Altman in the hot seat - Axios"
         }, 
         {
-            "url": "https://6abc.com/post/multiple-people-shot-4th-street-chester-pennsylvania/14857019/", 
-            "description": "An employee of a business in Chester, Pennsylvania opened fire on Wednesday morning, killing two people and leaving three others injured.", 
-            "title": "2 dead, 3 injured after shooting at Delaware County Linen in Chester, Pennsylvania - WPVI-TV"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/world/2024/05/22/humanitarian-aid-trucks-gaza-hijacked/73800804007/", 
-            "description": null, 
-            "title": "Humanitarian aid trucks traveling to Gaza hijacked - USA TODAY"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvYmxvZy1icmllZmluZy1yb29tLzQ2NzkyOTktcm5jLWhlYWRxdWFydGVycy1sb2NrZWQtZG93bi1yZWNlaXZlZC12aWFscy1ibG9vZC_SAWtodHRwczovL3RoZWhpbGwuY29tL2Jsb2dzL2Jsb2ctYnJpZWZpbmctcm9vbS80Njc5Mjk5LXJuYy1oZWFkcXVhcnRlcnMtbG9ja2VkLWRvd24tcmVjZWl2ZWQtdmlhbHMtYmxvb2QvYW1wLw?oc=5", 
-            "description": null, 
-            "title": "RNC headquarters locked down after receiving vials of blood - The Hill"
-        }, 
-        {
-            "url": "https://www.space.com/boeing-starliner-1st-astronaut-mission-no-launch-date", 
-            "description": "\"The next possible launch opportunity is still being discussed.\"", 
-            "title": "Boeing Starliner's 1st astronaut launch delayed again over helium leak, this time with no new flight date - Space.com"
-        }, 
-        {
-            "url": "https://abcnews.go.com/International/pentagon-russia-likely-launched-counter-space-weapon-low-earth-orbit/story?id=110448171", 
-            "description": "It's now in the same orbit as a U.S. government satellite, the Pentagon said.", 
-            "title": "Pentagon: Russia likely launched counter space weapon into low Earth orbit last week - ABC News"
+            "url": "https://9to5mac.com/2024/05/22/t-mobile-price-raise/", 
+            "description": "You might need to prepare yourself for a T-Mobile price increase, if you\u2019re on one of the company\u2019s older plans....", 
+            "title": "T-Mobile price increase of $2 or $5 per line for some older plans - 9to5Mac"
         }, 
         {
             "url": "https://gizmodo.com/humane-ai-pin-selling-billion-1851493143", 
@@ -61,45 +81,25 @@
             "title": "One Month After Launch, AI Pin Maker Humane Seeks a Billion Dollar Sale - Gizmodo"
         }, 
         {
-            "url": "https://www.seattletimes.com/seattle-news/a-mysterious-fireball-dazzled-inland-northwest-onlookers/", 
-            "description": null, 
-            "title": "A mysterious fireball dazzled Inland Northwest onlookers - The Seattle Times"
-        }, 
-        {
             "url": "https://www.eonline.com/news/1402143/ben-affleck-goes-out-to-dinner-solo-amid-jennifer-lopez-split-rumors", 
             "description": "Ben Affleck attended dinner in Los Angeles without Jennifer Lopez amid breakup rumors surrounding the couple, who tied the knot in 2022.", 
             "title": "Ben Affleck Goes Out to Dinner Solo Amid Jennifer Lopez Split Rumors - E! NEWS"
         }, 
         {
-            "url": "https://www.cnet.com/tech/mobile/t-mobile-is-raising-prices-on-some-of-its-older-plans-starting-with-your-next-bill/", 
-            "description": "Those on older plans can expect a $2 or $5 per line increase, with notifications to affected customers going out on Wednesday.", 
-            "title": "T-Mobile Is Raising Prices on Some of Its Older Plans, Starting With Your Next Bill - CNET"
+            "url": "https://www.cbssports.com/nba/news/lebron-james-calls-out-pacers-for-not-fouling-up-by-3-points-in-game-1-loss-vs-celtics/", 
+            "description": "LeBron said teams should foul 'every single time' after Jaylen Brown's game-tying triple", 
+            "title": "LeBron James calls out Pacers for not fouling up by 3 points in Game 1 loss vs. Celtics - CBS Sports"
+        }, 
+        {
+            "url": "https://ktla.com/news/local-news/spacex-rocket-loaded-with-spy-satellites-seen-over-downtown-l-a/", 
+            "description": "A SpaceX rocket carrying a set of spy satellites for the U.S. government was seen flying over downtown Los Angeles overnight. The Falcon 9 rocket lifted off from Vandenberg Space Force Base in Santa Barbara County around 1 a.m. The launch was part of a Nation\u2026", 
+            "title": "SpaceX rocket loaded with spy satellites seen over downtown L.A. - KTLA Los Angeles"
         }, 
         {
             "url": "http://www.hollywoodreporter.com/movies/movie-features/glen-powell-interview-hit-man-movie-texas-move-1235905159/", 
             "description": "The red hot star of \u2018Top Gun\u2019 and \u2018Anyone But You\u2019 \u2014 mentored by Tom Cruise and on every studio wish list \u2014 is returning to his native Texas to party with his folks, escape the L.A. fishbowl and finally graduate college. But don\u2019t worry, you\u2019ll still be seein\u2026", 
-            "title": "Glen Powell on Hit Man, Tom Cruise, Texas Move, Sydney Sweeney - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/how-pacers-tyrese-haliburton-threw-away-game-1-vs-celtics-with-uncharacteristic-turnovers/", 
-            "description": "The ball slipped away from the Pacers on Tuesday, and so did the chance for a Game 1 upset", 
-            "title": "How Pacers, Tyrese Haliburton threw away Game 1 vs. Celtics with uncharacteristic turnovers - CBS Sports"
-        }, 
-        {
-            "url": "https://www.espn.com/racing/nascar/story/_/id/40196145/ricky-stenhouse-jr-fined-nascar-kyle-busch-fight", 
-            "description": "Ricky Stenhouse Jr. was fined $75,000 by NASCAR for fighting with Kyle Busch after the All-Star Race at North Wilkesboro Speedway.", 
-            "title": "Ricky Stenhouse Jr. fined by NASCAR for Kyle Busch fight - ESPN"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/uk/uk-pm-sunak-asked-about-summer-election-rumours-says-vote-will-be-second-half-2024-05-22/", 
-            "description": null, 
-            "title": "Sunak says UK election will be in the second half of the year - Reuters UK"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjIvd29ybGQvbWlkZGxlZWFzdC9pcmFuLXByZXNpZGVudC1yYWlzaS1mdW5lcmFsLmh0bWzSAQA?oc=5", 
-            "description": null, 
-            "title": "Iran\u2019s Supreme Leader Leads Funeral Prayers for President - The New York Times"
+            "title": "Glen Powell Finally Conquered Hollywood. So Why Is He Leaving? - Hollywood Reporter"
         }
     ], 
-    "last_updated": "2024-05-23 19:30:15"
+    "last_updated": "2024-05-23 20:00:17"
 }
