@@ -1,19 +1,74 @@
 {
     "news": [
         {
-            "url": "https://www.cnn.com/2024/05/22/world/boeing-starliner-crewed-launch-delayed-indefinitely-scn/index.html", 
-            "description": "After reporting a helium leak in the spacecraft, NASA has taken the next target date for the highly anticipated launch off the table \u2014 without immediately naming a new one.", 
-            "title": "Boeing Starliner historic crewed launch delayed again indefinitely - CNN"
+            "url": "https://abcnews.go.com/US/tennessee-judge-blocks-effort-sell-graceland/story?id=110448166", 
+            "description": "A notary said the signature on a document was not actually hers.", 
+            "title": "Tennessee judge blocks effort to sell Elvis Presley's Graceland - ABC News"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/us-news/deadly-tornado-devastates-iowa-town-severe-weather-moves-south-rcna153430", 
-            "description": "Central Iowa was reeling Wednesday morning after what police described as a \"devastating\" tornado laid waste to rural communities and killed an unknown number of people.", 
-            "title": "Deadly tornado devastates Iowa town as severe weather moves east - NBC News"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9uZmwtcy10b3AtMTAtbW9zdC1jb21wbGV0ZS10ZWFtcy1mb3ItMjAyNC1zZWFzb27SAQA?oc=5", 
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjEvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gEA?oc=5", 
             "description": null, 
-            "title": "NFL's top 10 most complete teams for 2024 season: 49ers robust; Browns, Jets could contend - NFL.com"
+            "title": "Stock market today: Live updates - CNBC"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/us-existing-home-sales-fall-140156904.html", 
+            "description": "WASHINGTON (Reuters) -U.S. existing home sales unexpectedly fell in April as higher mortgage rates and house prices weighed on demand, dealing another...", 
+            "title": "US home sales post second straight monthly drop; house prices jump - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.steelers.com/news/pittsburgh-selected-to-host-the-2026-nfl-draft", 
+            "description": "Global, fan-favorite event set to welcome hundreds of thousands to the City of Champions", 
+            "title": "Pittsburgh Selected to Host the 2026 NFL Draft - Steelers.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/wegovy-ozempic-teens-young-adults-24047516e0c3b4f678c3e91f4ed6face", 
+            "description": "Use of diabetes and obesity medications such as Ozempic, Wegovy and other so-called GLP-1 drugs has soared among teens and young adults. New research shows that the number of 12- to 25-year-olds who used the medications climbed from about 8,700 a month in 202\u2026", 
+            "title": "Use of Wegovy and other weight-loss drugs soars among kids and young adults - The Associated Press"
+        }, 
+        {
+            "url": "https://www.barrons.com/articles/target-earnings-stock-price-f6bb3aff", 
+            "description": null, 
+            "title": "Target Earnings Miss as Consumers Pull Back. The Stock Tumbles. - Barron's"
+        }, 
+        {
+            "url": "https://6abc.com/post/multiple-people-shot-4th-street-chester-pennsylvania/14857019/", 
+            "description": "An employee of a business in Chester, Pennsylvania opened fire on Wednesday morning, killing two people and leaving three others injured.", 
+            "title": "2 dead, 3 injured after shooting at Delaware County Linen in Chester, Pennsylvania - WPVI-TV"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/news/world/2024/05/22/humanitarian-aid-trucks-gaza-hijacked/73800804007/", 
+            "description": null, 
+            "title": "Humanitarian aid trucks traveling to Gaza hijacked - USA TODAY"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vdGhlaGlsbC5jb20vYmxvZ3MvYmxvZy1icmllZmluZy1yb29tLzQ2NzkyOTktcm5jLWhlYWRxdWFydGVycy1sb2NrZWQtZG93bi1yZWNlaXZlZC12aWFscy1ibG9vZC_SAWtodHRwczovL3RoZWhpbGwuY29tL2Jsb2dzL2Jsb2ctYnJpZWZpbmctcm9vbS80Njc5Mjk5LXJuYy1oZWFkcXVhcnRlcnMtbG9ja2VkLWRvd24tcmVjZWl2ZWQtdmlhbHMtYmxvb2QvYW1wLw?oc=5", 
+            "description": null, 
+            "title": "RNC headquarters locked down after receiving vials of blood - The Hill"
+        }, 
+        {
+            "url": "https://www.space.com/boeing-starliner-1st-astronaut-mission-no-launch-date", 
+            "description": "\"The next possible launch opportunity is still being discussed.\"", 
+            "title": "Boeing Starliner's 1st astronaut launch delayed again over helium leak, this time with no new flight date - Space.com"
+        }, 
+        {
+            "url": "https://abcnews.go.com/International/pentagon-russia-likely-launched-counter-space-weapon-low-earth-orbit/story?id=110448171", 
+            "description": "It's now in the same orbit as a U.S. government satellite, the Pentagon said.", 
+            "title": "Pentagon: Russia likely launched counter space weapon into low Earth orbit last week - ABC News"
+        }, 
+        {
+            "url": "https://gizmodo.com/humane-ai-pin-selling-billion-1851493143", 
+            "description": "The company is reportedly in the early stages of looking at a sale a few weeks after critics widely panned the $700 AI-centric wearable.", 
+            "title": "One Month After Launch, AI Pin Maker Humane Seeks a Billion Dollar Sale - Gizmodo"
+        }, 
+        {
+            "url": "https://www.seattletimes.com/seattle-news/a-mysterious-fireball-dazzled-inland-northwest-onlookers/", 
+            "description": null, 
+            "title": "A mysterious fireball dazzled Inland Northwest onlookers - The Seattle Times"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1402143/ben-affleck-goes-out-to-dinner-solo-amid-jennifer-lopez-split-rumors", 
+            "description": "Ben Affleck attended dinner in Los Angeles without Jennifer Lopez amid breakup rumors surrounding the couple, who tied the knot in 2022.", 
+            "title": "Ben Affleck Goes Out to Dinner Solo Amid Jennifer Lopez Split Rumors - E! NEWS"
         }, 
         {
             "url": "https://www.cnet.com/tech/mobile/t-mobile-is-raising-prices-on-some-of-its-older-plans-starting-with-your-next-bill/", 
@@ -21,14 +76,9 @@
             "title": "T-Mobile Is Raising Prices on Some of Its Older Plans, Starting With Your Next Bill - CNET"
         }, 
         {
-            "url": "https://ktla.com/news/local-news/spacex-rocket-loaded-with-spy-satellites-seen-over-downtown-l-a/", 
-            "description": "A SpaceX rocket carrying a set of spy satellites for the U.S. government was seen flying over downtown Los Angeles overnight. The Falcon 9 rocket lifted off from Vandenberg Space Force Base in Santa Barbara County around 1 a.m. The launch was part of a Nation\u2026", 
-            "title": "SpaceX rocket loaded with spy satellites seen over downtown L.A. - KTLA Los Angeles"
-        }, 
-        {
             "url": "http://www.hollywoodreporter.com/movies/movie-features/glen-powell-interview-hit-man-movie-texas-move-1235905159/", 
             "description": "The red hot star of \u2018Top Gun\u2019 and \u2018Anyone But You\u2019 \u2014 mentored by Tom Cruise and on every studio wish list \u2014 is returning to his native Texas to party with his folks, escape the L.A. fishbowl and finally graduate college. But don\u2019t worry, you\u2019ll still be seein\u2026", 
-            "title": "Glen Powell Finally Conquered Hollywood. So Why Is He Leaving? - Hollywood Reporter"
+            "title": "Glen Powell on Hit Man, Tom Cruise, Texas Move, Sydney Sweeney - Hollywood Reporter"
         }, 
         {
             "url": "https://www.cbssports.com/nba/news/how-pacers-tyrese-haliburton-threw-away-game-1-vs-celtics-with-uncharacteristic-turnovers/", 
@@ -36,9 +86,9 @@
             "title": "How Pacers, Tyrese Haliburton threw away Game 1 vs. Celtics with uncharacteristic turnovers - CBS Sports"
         }, 
         {
-            "url": "https://www.nascar.com/news-media/2024/05/22/ricky-stenhouse-jr-fined-75k-for-sparking-all-star-brawl-two-crew-members-suspended/", 
-            "description": null, 
-            "title": "Ricky Stenhouse Jr. fined $75K for sparking All-Star brawl, two crew members suspended - NASCAR"
+            "url": "https://www.espn.com/racing/nascar/story/_/id/40196145/ricky-stenhouse-jr-fined-nascar-kyle-busch-fight", 
+            "description": "Ricky Stenhouse Jr. was fined $75,000 by NASCAR for fighting with Kyle Busch after the All-Star Race at North Wilkesboro Speedway.", 
+            "title": "Ricky Stenhouse Jr. fined by NASCAR for Kyle Busch fight - ESPN"
         }, 
         {
             "url": "https://www.reuters.com/world/uk/uk-pm-sunak-asked-about-summer-election-rumours-says-vote-will-be-second-half-2024-05-22/", 
@@ -46,60 +96,10 @@
             "title": "Sunak says UK election will be in the second half of the year - Reuters UK"
         }, 
         {
-            "url": "https://techcrunch.com/2024/05/22/humane-the-creator-of-the-700-ai-pin-is-reportedly-seeking-a-buyer/", 
-            "description": "Humane, the company behind the hyped Ai Pin that launched to less-than-glowing reviews last month, is reportedly on the hunt for a buyer.", 
-            "title": "Humane, the creator of the $700 Ai Pin, is reportedly seeking a buyer - TechCrunch"
-        }, 
-        {
-            "url": "https://www.npr.org/sections/health-shots/2024/05/22/1252831827/microplastics-testicles-humans-health", 
-            "description": "The new study has scientists concerned that microplastics may be contributing to reproductive health issues.", 
-            "title": "Microplastics detected in human testicles, troubling researchers : Shots - Health News - NPR"
-        }, 
-        {
-            "url": "https://www.foxnews.com/entertainment/diddys-ex-heartbroken-cassie-hotel-attack-video-leak-i-know-exactly-how-she-feels", 
-            "description": "Sean \"Diddy\" Combs' ex-girlfriend, Misa Hylton, admitted she is \"praying\" for the rapper's help after being triggered by video showing Cassie hotel assault.", 
-            "title": "Diddy's ex 'heartbroken' for Cassie after hotel attack video leak: 'I know exactly how she feels' - Fox News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/22/politics/video/biden-trump-unified-reich-post-reax-ctm-sot-digvid", 
-            "description": "President Joe Biden weighs in on a video posted by Donald Trump showing images of a fake newspaper article that references a \u201cunified Reich\u201d if he\u2019s reelected in 2024. The video was removed from Trump\u2019s Truth Social account Tuesday morning.", 
-            "title": "\u2018That\u2019s Hitler\u2019s language\u2019: Biden responds to Trump\u2019s \u2018unified Reich\u2019 post - CNN"
-        }, 
-        {
-            "url": "https://www.etonline.com/taylor-swift-rips-open-her-dress-on-stage-in-eras-tour-performance-wardrobe-malfunction-225947", 
-            "description": "Taylor Swift handled a sound issue like a pro as she performed in Sweden over the weekend.", 
-            "title": "Taylor Swift Rips Open Her Dress on Stage in Eras Tour Performance Wardrobe Malfunction - Entertainment Tonight"
-        }, 
-        {
-            "url": "https://abcnews.go.com/International/1-dead-amid-severe-turbulence-singapore-airlines-flight/story?id=110016611", 
-            "description": "Singapore Airlines flight SQ 321 was traveling from London to Singapore.", 
-            "title": "1 dead, 6 critically injured amid 'severe' turbulence on Singapore Airlines flight, carrier says - ABC News"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html", 
-            "description": "U.S. stock futures slipped Wednesday as investors looked ahead to the widely-anticipated release of Nvidia's latest earnings report.", 
-            "title": "Stock futures slip as Nvidia earnings loom: Live updates - CNBC"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/22/1252736063/buy-now-pay-later-bnpl-returns-federal-rule-cfpb", 
-            "description": "The Consumer Financial Protection Bureau is requiring buy-now, pay-later lenders to provide the same protections to shoppers as credit card companies do.", 
-            "title": "Buy-now, pay-later refunds get oversight by CFPB, the consumer watchdog agency - NPR"
-        }, 
-        {
-            "url": "https://www.marketwatch.com/story/targets-stock-dives-after-profit-misses-the-mark-amid-weakness-in-sales-of-discretionary-items-5802a931", 
-            "description": "Target\u2019s sales weakness contrasts with Walmart\u2019s growth, but Target sells a much higher percentage of discretionary items", 
-            "title": "Target\u2019s stock dives after profit misses the mark, as sales fall again - MarketWatch"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LndpcmVkLmNvbS9zdG9yeS9zY2FybGV0dC1qb2hhbnNzb24tdi1vcGVuYWktY291bGQtbG9vay1saWtlLWluLWNvdXJ0L9IBAA?oc=5", 
+            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMjIvd29ybGQvbWlkZGxlZWFzdC9pcmFuLXByZXNpZGVudC1yYWlzaS1mdW5lcmFsLmh0bWzSAQA?oc=5", 
             "description": null, 
-            "title": "What Scarlett Johansson v. OpenAI Could Look Like in Court - WIRED"
-        }, 
-        {
-            "url": "https://www.ajc.com/politics/fulton-da-willis-easily-defeats-primary-challenger/EDRDKE26CZFNPDLWLI7HUDVUOU/", 
-            "description": "", 
-            "title": "Fulton DA Willis easily defeats primary challenger -  The Atlanta Journal Constitution"
+            "title": "Iran\u2019s Supreme Leader Leads Funeral Prayers for President - The New York Times"
         }
     ], 
-    "last_updated": "2024-05-23 17:30:05"
+    "last_updated": "2024-05-23 18:00:08"
 }
