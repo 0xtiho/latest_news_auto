@@ -1,34 +1,79 @@
 {
     "news": [
         {
-            "url": "https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html", 
-            "description": "The Federal Reserve on Wednesday released minutes from its April 30-May 1 policy meeting.", 
-            "title": "Federal Reserve minutes indicate worries over lack of progress on inflation - CNBC"
+            "url": "https://www.cnn.com/2024/05/22/world/sun-magnetic-field-scn/index.html", 
+            "description": "The sun\u2019s powerful magnetic field has long puzzled scientists. A new study suggests the source of its magnetic field is nearer the surface than first thought.", 
+            "title": "Scientists a step closer to unraveling mystery of sun\u2019s magnetic field - CNN"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/22/uk/uk-early-elections-sunak-conservatives-intl/index.html", 
-            "description": "UK Prime Minister Rishi Sunak announced a snap general election for July\u00a04 in a statement outside Downing Street on Wednesday evening, as his Conservative party faces an uphill struggle to extend its 14 years in power.", 
-            "title": "UK PM Rishi Sunak calls surprise July election as his party seeks to defy dire polls - CNN"
+            "url": "https://www.cnn.com/2024/05/22/us/uvalde-shooting-victims-lawsuit/index.html", 
+            "description": "Nineteen families of the students and teachers killed or injured at Robb Elementary School in Uvalde, Texas, announced Wednesday they have settled a lawsuit with the city for $2 million and said they are suing 92 officers with Texas Department of Public Safet\u2026", 
+            "title": "Uvalde families reach $2M settlement with city and say they are suing school district and 92 officers over shooting response - CNN"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/uvalde-school-shooting-settlement-texas-city-lawsuits/", 
-            "description": "Family members of Uvalde school shooting victims also said they're filing lawsuits against dozens of Texas Department of Public Safety officers and Uvalde's school district.", 
-            "title": "Uvalde school shooting victims' families announce $2 million settlement with Texas city and new lawsuits - CBS News"
+            "url": "https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html", 
+            "description": "The major averages declined Wednesday after the latest Fed meeting minutes indicated the central bank is apprehensive about when to cut rates.", 
+            "title": "Dow closes 200 points lower for worst day in May as Fed reignites inflation worries: Live updates - CNBC"
         }, 
         {
-            "url": "http://www.nbcphiladelphia.com/news/local/chester-shooting-business/3865307/", 
-            "description": "At least two workers were killed and three others were hurt in a workplace shooting at a family-owned linen business in Chester, Pennsylvania, Wednesday, Delaware County authorities said.", 
-            "title": "\u2018Absolute tragedy': 2 dead, 3 hurt in Chester workplace shooting - NBC Philadelphia"
+            "url": "https://www.nbcnews.com/health/health-news/second-human-case-bird-flu-linked-dairy-cows-found-michigan-rcna153536", 
+            "description": "A second person in the U.S. has been infected with bird flu linked to dairy cows, the Michigan Department of Health and Human Services reported Wednesday.", 
+            "title": "Second human case of bird flu linked to dairy cows found in Michigan - NBC News"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/judicial-nominations-200-senate-confirmation-biden/", 
-            "description": "The milestone comes with the confirmation of two judges to the federal district court in Arizona.", 
-            "title": "Senate confirms 200th Biden judge as Democrats tout \"major milestone\" - CBS News"
+            "url": "https://www.nbcnews.com/business/personal-finance/biden-grants-legal-protections-buy-now-pay-later-customers-rcna153441", 
+            "description": "The Biden administration announced Wednesday that consumers who use \"buy now, pay later\" (BNPL) services for purchases are entitled to the same legal protections as consumers who use credit cards.", 
+            "title": "Buy now, pay later customers granted legal protections through Consumer Financial Protection Bureau - NBC News"
         }, 
         {
-            "url": "https://abcnews.go.com/US/tennessee-judge-blocks-effort-sell-graceland/story?id=110448166", 
-            "description": "A notary said the signature on a document was not actually hers.", 
-            "title": "Tennessee judge blocks effort to sell Elvis Presley's Graceland - ABC News"
+            "url": "https://www.bbc.com/news/articles/cx99lnn2kn4o", 
+            "description": "Protesters clashed for hours while police waited to intervene, prompting a university investigation.", 
+            "title": "UCLA removes police chief after protesters clashed over Gaza war - BBC.com"
+        }, 
+        {
+            "url": "https://www.foxnews.com/entertainment/jennifer-lopez-ben-affleck-living-separately-whirlwind-love-over-real-life-sets-source", 
+            "description": "A source confirms to Fox News Digital that Ben Affleck and Jennifer Lopez are living separately, nearly two years after tying the knot.", 
+            "title": "Jennifer Lopez, Ben Affleck living separately as 'whirlwind of love' is over and 'real life' sets in: source - Fox News"
+        }, 
+        {
+            "url": "https://www.huffpost.com/entry/kate-middleton-return-to-work_n_664e0b46e4b048d73b54ff93", 
+            "description": "The Princess of Wales revealed on March 22 that she had been diagnosed with an unspecified kind of cancer.", 
+            "title": "Kensington Palace Clarifies Kate Middleton's Return To Work Timeline - HuffPost"
+        }, 
+        {
+            "url": "https://www.nfl.com/news/roger-goodell-addresses-potential-18-game-schedule-private-equity-in-ownership-at-spring-league-meeting", 
+            "description": "Commissioner Roger Goodell on Wednesday addressed the possibility of an 18-game regular-season schedule in the future and the prospect of private equity in ownership among other topics at the conclusion of the Spring League Meeting in Nashville, Tenn.", 
+            "title": "Roger Goodell addresses potential 18-game schedule, private equity in ownership at Spring League Meeting - NFL.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/22/investing/graceland-foreclosure-hearing/index.html", 
+            "description": "Graceland can stay in the hands of Elvis Presley\u2019s family for the time being, after a Tennessee court chancellor ruled Wednesday that a mysterious company trying to sell it likely committed fraud.", 
+            "title": "Court rules Elvis\u2019 Graceland mansion cannot be foreclosed upon \u2013 for now - CNN"
+        }, 
+        {
+            "url": "https://www.foxbusiness.com/lifestyle/red-lobster-bankruptcy-how-get-your-fix-chains-famed-biscuits", 
+            "description": "Red Lobster said there were \"no current changes\" to the Red Lobster At Home offerings that the chain sells at retailers, despite the retailer filing for bankruptcy.", 
+            "title": "Red Lobster bankruptcy: How to get your fix of chain\u2019s famed biscuits - Fox Business"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/uk/rishi-sunak-calls-uk-national-election-july-4-2024-05-22/", 
+            "description": null, 
+            "title": "Rishi Sunak calls UK national election for July 4 - Reuters UK"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/india-teen-drunk-driving-deaths-bail-terms-essay-changed-amid-outrage/", 
+            "description": "The son of a wealthy businessman in India, accused of killing 2 people in a Porsche, was initially told he'd be bailed if he wrote a short essay and spent some time with local police.", 
+            "title": "Officials change course amid outrage over bail terms for Indian teen accused in fatal drunk driving accident - CBS News"
+        }, 
+        {
+            "url": "http://9to5google.com/2024/05/22/android-find-my-device-trackers-shipping/", 
+            "description": "After Google announced the launch of the Find My Device network on Android last month, the first trackers are finally...", 
+            "title": "Android Find My Device trackers are starting to ship - 9to5Google"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/doomsday-glacier-ice-melt-sea-level-rise-projections/", 
+            "description": "The \"doomsday glacier\" packs so much ice that if it were to completely collapse, it could singlehandedly cause global sea levels to rise by more than two feet.", 
+            "title": "The doomsday glacier is undergoing \"vigorous ice melt\" that could reshape sea level rise projections - CBS News"
         }, 
         {
             "url": "https://apnews.com/article/norway-palestinian-state-ddfd774a23d39f77f5977b9c89c43dbc", 
@@ -36,14 +81,14 @@
             "title": "Norway, Ireland and Spain say they will recognize a Palestinian state, deepening Israel's isolation - The Associated Press"
         }, 
         {
-            "url": "https://www.desmoinesregister.com/story/weather/2024/05/21/iowa-national-weather-service-severe-weather-outlook-des-moines-readar/73783200007/", 
-            "description": null, 
-            "title": "Several tornadoes touch down; deaths, injuries confirmed in Greenfield - Des Moines Register"
+            "url": "https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html", 
+            "description": "Nvidia reported earnings after the bell. Here are the results.", 
+            "title": "Nvidia reports a 262% jump in sales, signals continuing AI boom - CNBC"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c3gglgwe49zo", 
-            "description": "Prosecutors allege a \u201cscramble\" to ensure boxes containing sensitive material were moved \u201coff-camera\" at Mar-a-Lago.", 
-            "title": "Classified files found in Trump bedroom at Mar-a-Lago - BBC.com"
+            "url": "https://nypost.com/2024/05/22/world-news/sickening-new-video-shows-hamas-line-up-female-israeli-soldiers-on-oct-7-here-are-the-girls-who-can-get-pregnant/", 
+            "description": "The five bloodied women, who are still hostages of Hamas, were filmed surrounded by the bodies of their slain comrades.", 
+            "title": "Sickening new video shows Hamas line up female Israeli soldiers on Oct. 7: 'Here are the girls who can get pregnant' - New York Post "
         }, 
         {
             "url": "https://www.ft.com/content/e3b5c1a0-48ac-4922-970a-8b9ca7c2539e", 
@@ -51,55 +96,10 @@
             "title": "Biggest US retailers cut prices as inflation hits shoppers - Financial Times"
         }, 
         {
-            "url": "https://apnews.com/article/wegovy-ozempic-teens-young-adults-24047516e0c3b4f678c3e91f4ed6face", 
-            "description": "Use of diabetes and obesity medications such as Ozempic, Wegovy and other so-called GLP-1 drugs has soared among teens and young adults. New research shows that the number of 12- to 25-year-olds who used the medications climbed from about 8,700 a month in 202\u2026", 
-            "title": "Use of Wegovy and other weight-loss drugs soars among kids and young adults - The Associated Press"
-        }, 
-        {
-            "url": "https://techcrunch.com/2024/05/22/boeing-nasa-indefinitely-delay-crewed-starliner-launch/", 
-            "description": "If you've been looking forward to seeing Boeing\u2019s Starliner capsule carry two astronauts to the International Space Station for the first time, you'll", 
-            "title": "Boeing, NASA indefinitely delay crewed Starliner launch - TechCrunch"
-        }, 
-        {
-            "url": "https://www.npr.org/2024/05/22/1252872978/russia-assets-aid-ukraine-eu-war-sanctions", 
-            "description": "Under the plan, the European Union will send as much as $3.25 billion in profits from frozen Russian assets to Ukraine to help finance its military and reconstruction efforts.", 
-            "title": "Billions from Russia's frozen assets will go to help Ukraine's military, the EU says - NPR"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/22/altman-openai-chatgpt-scarlet-johansson", 
-            "description": null, 
-            "title": "Scarlett Johansson scandal is putting OpenAI's Sam Altman in the hot seat - Axios"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/22/t-mobile-price-raise/", 
-            "description": "You might need to prepare yourself for a T-Mobile price increase, if you\u2019re on one of the company\u2019s older plans....", 
-            "title": "T-Mobile price increase of $2 or $5 per line for some older plans - 9to5Mac"
-        }, 
-        {
-            "url": "https://gizmodo.com/humane-ai-pin-selling-billion-1851493143", 
-            "description": "The company is reportedly in the early stages of looking at a sale a few weeks after critics widely panned the $700 AI-centric wearable.", 
-            "title": "One Month After Launch, AI Pin Maker Humane Seeks a Billion Dollar Sale - Gizmodo"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1402143/ben-affleck-goes-out-to-dinner-solo-amid-jennifer-lopez-split-rumors", 
-            "description": "Ben Affleck attended dinner in Los Angeles without Jennifer Lopez amid breakup rumors surrounding the couple, who tied the knot in 2022.", 
-            "title": "Ben Affleck Goes Out to Dinner Solo Amid Jennifer Lopez Split Rumors - E! NEWS"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/lebron-james-calls-out-pacers-for-not-fouling-up-by-3-points-in-game-1-loss-vs-celtics/", 
-            "description": "LeBron said teams should foul 'every single time' after Jaylen Brown's game-tying triple", 
-            "title": "LeBron James calls out Pacers for not fouling up by 3 points in Game 1 loss vs. Celtics - CBS Sports"
-        }, 
-        {
-            "url": "https://ktla.com/news/local-news/spacex-rocket-loaded-with-spy-satellites-seen-over-downtown-l-a/", 
-            "description": "A SpaceX rocket carrying a set of spy satellites for the U.S. government was seen flying over downtown Los Angeles overnight. The Falcon 9 rocket lifted off from Vandenberg Space Force Base in Santa Barbara County around 1 a.m. The launch was part of a Nation\u2026", 
-            "title": "SpaceX rocket loaded with spy satellites seen over downtown L.A. - KTLA Los Angeles"
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/movies/movie-features/glen-powell-interview-hit-man-movie-texas-move-1235905159/", 
-            "description": "The red hot star of \u2018Top Gun\u2019 and \u2018Anyone But You\u2019 \u2014 mentored by Tom Cruise and on every studio wish list \u2014 is returning to his native Texas to party with his folks, escape the L.A. fishbowl and finally graduate college. But don\u2019t worry, you\u2019ll still be seein\u2026", 
-            "title": "Glen Powell Finally Conquered Hollywood. So Why Is He Leaving? - Hollywood Reporter"
+            "url": "https://www.nbcnews.com/news/world/singapore-airlines-severe-turbulence-passengers-emergency-landing-rcna153435", 
+            "description": "Passengers on board a Singapore Airlines flight that hit \u201csevere turbulence\u201d have described their terror as the plane dropped thousands of feet.", 
+            "title": "Singapore Airlines turbulence left blood 'everywhere'; 20 remain in ICU - NBC News"
         }
     ], 
-    "last_updated": "2024-05-23 21:30:24"
+    "last_updated": "2024-05-23 22:00:26"
 }
