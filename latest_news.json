@@ -1,64 +1,59 @@
 {
     "news": [
         {
+            "url": "https://www.cnn.com/2024/05/21/politics/mar-a-lago-documents-walt-nauta-donald-trump/index.html", 
+            "description": "Months before Donald Trump was indicted for mishandling classified documents, a federal judge said that investigators had \u201cstrong evidence\u201d that the former president \u201cintended\u201d to hide classified documents at his Mar-a-Lago\u00a0resort, according to newly released\u2026", 
+            "title": "Federal judge found \u2018strong evidence\u2019 of crimes before Trump was charged in classified documents case - CNN"
+        }, 
+        {
+            "url": "https://www.foxweather.com/weather-news/severe-weather-outbreak-midwest-tuesday", 
+            "description": "A series of large, violent tornadoes struck the Hawkeye State on Tuesday, causing significant destruction in some rural communities.", 
+            "title": "Tornadoes cause destruction in Iowa as deadly storms race across state - Fox Weather "
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=wM7Uk5l1S-k", 
+            "description": "HOOP STREAMS IS BACK! Will the Celtics or Pacers come out of the East? Gary Striewski and Cassidy Hubbarth, break down which team has the best odds to advanc...", 
+            "title": "Boston Celtics vs Indiana Pacers ECF preview: Can the Pacers steal game 1? | Hoop Streams \ud83c\udfc0 - ESPN"
+        }, 
+        {
+            "url": "https://apnews.com/article/singapore-airlines-flight-turbulence-5a9a268e1a6a6fb9ece7e58b5ea9231b", 
+            "description": "Singapore Airlines says one of its flights hit severe turbulence over the Indian Ocean and descended 6,000 feet in about three minutes. Authorities say a British man died, possibly after a heart attack, and several people were severely injured. The flight fro\u2026", 
+            "title": "Singapore Airlines flight: 1 dead, dozens injured after severe turbulence - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/rudy-giuliani-arraignment-arizona-elector-scheme-2020-election/", 
+            "description": "Arizona is one of seven states that Trump lost in 2020 where his allies are accused of schemes to put up alternate electors.", 
+            "title": "Rudy Giuliani pleads not guilty as Trump allies are arraigned in Arizona 2020 election case - CBS News"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/21/biden-trump-unified-reich-nazi-germany", 
+            "description": null, 
+            "title": "Biden blasts Trump's \"unified Reich\" video: \"That's Hitler's language\" - Axios"
+        }, 
+        {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=ySwrWtDIOmo", 
-            "description": "Bob Myers, Michael Wilbon and Chris Paul join Malika Andrews on NBA Countdown to discuss which players are under the most pressure during the Eastern Confere...", 
-            "title": "Bob Myers on the ECF \ud83d\udde3\ufe0f 'Lights CANNOT BE TOO BRIGHT for Jayson Tatum & Celtics!' | NBA Countdown - ESPN"
+            "url": "https://spacenews.com/spacex-nears-next-starship-test-flight-as-starbase-expansion-continues/", 
+            "description": "As SpaceX prepares for its next Starship test flight, the company is also working to scale up facilities in Texas to build and launch those vehicles.", 
+            "title": "SpaceX nears next Starship test flight as Starbase expansion continues - SpaceNews"
         }, 
         {
-            "url": "https://www.11alive.com/article/news/politics/elections/county-by-county-live-election-results-georgia-may-primary/85-af6dec49-c61b-46ae-b33c-41abbb747d6c", 
-            "description": "Use the interactive map below to see how your county voted in this election.", 
-            "title": "County-by-county | Live election results for Georgia May Primary - 11Alive.com WXIA"
+            "url": "https://www.si.com/golf/louisville-police-say-internal-investigation-ongoing-scottie-scheffler-arrest", 
+            "description": "The police chief said in a statement that any policy violations \u201cwill be appropriately addressed\u201d and that an update on the investigation will be provided Thursday.", 
+            "title": "Louisville Police Says Internal Investigation 'Ongoing' After Scheffler Arrest - Sports Illustrated"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html", 
-            "description": "Traders are eagerly anticipating Nvidia's latest quarterly earnings, due out Wednesday afternoon.", 
-            "title": "Stock futures are little changed after S&P 500 closes at a record, Nvidia earnings loom: Live updates - CNBC"
+            "url": "https://www.nbcnews.com/business/real-estate/rents-are-rising-falling-rcna153402", 
+            "description": "Driven by the work-from-home dynamic, as well as by new migration patterns, both single-family and multifamily rent prices were red-hot during the first years of the pandemic.", 
+            "title": "Here's where rents are rising \u2014 and where they're falling - NBC News"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/trump-mar-a-lago-documents/", 
-            "description": "Former President Donald Trump has pleaded not guilty to all charges related to his alleged mishandling of sensitive government documents after leaving office.", 
-            "title": "Unsealed court records offer new insight into Trump classified documents probe - CBS News"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c8889d7x8j4o", 
-            "description": "One person has died, with several injured, after severe turbulence on a London to Singapore flight.", 
-            "title": "Singapore Airlines: Passengers recall horror as turbulence hit flight - BBC.com"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://apnews.com/article/trump-trial-hush-money-robert-costello-b1beb56a666c398ae5393ede16c326da", 
-            "description": "Donald Trump\u2019s hush money trial has moved into a new phase, drawing closer to the moment when the jury will begin deciding his fate. Testimony concluded Tuesday, and the former president did not take the witness stand in his own defense. The jury was sent hom\u2026", 
-            "title": "Trump hush money trial: Defense rests without Donald Trump taking the stand - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/21/politics/rudy-giuliani-arizona-election-subversion/index.html", 
-            "description": "Rudy Giuliani and 10 others pleaded not guilty in an Arizona court Tuesday to charges of allegedly conspiring to overturn the 2020 presidential election results.", 
-            "title": "Rudy Giuliani and 10 others plead not guilty to charges of conspiring to overturn the 2020 presidential election in Arizona - CNN"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/politics/2024-election/kevin-mccarthy-seat-california-house-republicans-rcna152829", 
-            "description": "California voters are set to choose a replacement for former Speaker Kevin McCarthy in a special election Tuesday that will pad the House GOP's slim majority.", 
-            "title": "California voters set to choose Kevin McCarthy's replacement and pad House GOP's slim majority - NBC News"
-        }, 
-        {
-            "url": "https://www.desmoinesregister.com/story/weather/2024/05/21/iowa-national-weather-service-severe-weather-outlook-des-moines-readar/73783200007/", 
-            "description": "Multiple rounds of storms brought winds, hail and tornadoes to damage on Tuesday. Follow updates.", 
-            "title": "Tornadoes touch down in Iowa during 'very dangerous' storms - Des Moines Register"
-        }, 
-        {
-            "url": "https://www.tmz.com/2024/05/21/diddy-sued-model-sexual-assault-drugging-oral-sex/", 
-            "description": "Diddy is facing yet another lawsuit filed by a former model who claims the disgraced mogul enticed her with promises of career advancement, but she claims his plan was far more sinister.", 
-            "title": "Diddy Sued By Model Who Claims Sexual Assault After Drugging - TMZ"
+            "url": "https://www.wsoctv.com/news/local/family-says-hornets-star-lamelo-ball-drove-over-her-sons-foot-sues-player-team/NNDHLNYVTJHCBE53VOEEYIMBKE/", 
+            "description": "A local family is suing Charlotte Hornets star LaMelo Ball claiming he drove over their son's foot and broke it.", 
+            "title": "Family says Hornets star LaMelo Ball drove over her son\u2019s foot, sues player and team - WSOC Charlotte"
         }, 
         {
             "url": "https://techcrunch.com/2024/05/21/microsoft-build-2024-windows-ai-operating-system-copilot-plus-pcs/", 
@@ -66,9 +61,9 @@
             "title": "Microsoft wants to make Windows an AI operating system, launches Copilot+ PCs - TechCrunch"
         }, 
         {
-            "url": "https://www.nascar.com/news-media/2024/05/21/carl-edwards-ricky-rudd-ralph-moody-elected-to-nascar-hall-of-fame/", 
-            "description": null, 
-            "title": "Carl Edwards, Ricky Rudd, Ralph Moody elected to NASCAR Hall of Fame - NASCAR"
+            "url": "https://www.usatoday.com/story/money/2024/05/21/trump-media-truth-social-stock-price/73788529007/", 
+            "description": "Trump Media, the parent company of Truth Social, trading on the stock market as DJT, reported more than $300 million in losses in Q1 of 2024.", 
+            "title": "Truth Social lost more than $300 million. Stock prices falling - USA TODAY"
         }, 
         {
             "url": "https://www.space.com/dream-chaser-space-plane-arrives-florida", 
@@ -76,14 +71,19 @@
             "title": "Dream Chaser space plane arrives in Florida ahead of 1st launch to ISS (photo) - Space.com"
         }, 
         {
+            "url": "https://www.wsj.com/us-news/trump-testimony-unlikely-hush-money-trial-736af137", 
+            "description": null, 
+            "title": "Donald Trump Decides Against Testifying in Hush-Money Trial, Defense Rests - The Wall Street Journal"
+        }, 
+        {
             "url": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/south-carolina-governor-signs-ban-gender-affirming-care-transgender-mi-rcna153382", 
             "description": "Gov. Henry McMaster signed into law a ban on gender-affirming care for transgender minors, making South Carolina the 25th state to restrict or ban such care.", 
             "title": "South Carolina governor signs ban on gender-affirming care for transgender minors - NBC News"
         }, 
         {
-            "url": "https://www.eonline.com/news/1401944/inside-carolyn-bessettes-final-days-heartbreaking-revelations-about-her-life-with-john-f-kennedy-jr", 
-            "description": "The truth about Carolyn Bessette, who died in a 1999 plane crash with husband John F. Kennedy Jr. and her sister Lauren, is explored in Elizabeth Beller's new book Once Upon a Time.", 
-            "title": "Inside Carolyn Bessette's Final Days: Heartbreaking Revelations About Her Life With John F. Kennedy Jr. - E! Online - E! NEWS"
+            "url": "https://www.foxnews.com/us/virginia-father-detained-turks-caicos-stray-ammo-pleads-guilty", 
+            "description": "Turks and Caicos police arrested Tyler Wenrich on April 20 after airport security they found two stray bullets in his luggage before his flight home. He pleaded guilty on Monday.", 
+            "title": "Virginia father detained in Turks and Caicos for stray ammo pleads guilty - Fox News"
         }, 
         {
             "url": "https://www.npr.org/2024/05/21/1252727848/antarctica-thwaites-glacier-climate-change-sea-level-rise", 
@@ -96,10 +96,10 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.espn.com/nfl/story/_/id/40192447/aaron-rodgers-embraces-pressure-jets-do-die-season", 
-            "description": "Aaron Rodgers is back as the Jets' starting quarterback -- healthy, confident and ready for a potential do-or-die season for himself and the entire organization.", 
-            "title": "Rodgers embraces pressure of do-or-die season - ESPN"
+            "url": "https://www.fox5atlanta.com/election/georgia-2024-primary-election-results-fulton-county", 
+            "description": "This story features results for the 2024 Georgia Democratic and Republican primaries held May 21, including District Attorney Fani Willis.", 
+            "title": "Fulton County Georgia 2024 primary election results - FOX 5 Atlanta"
         }
     ], 
-    "last_updated": "2024-05-23 03:30:54"
+    "last_updated": "2024-05-23 04:00:51"
 }
