@@ -1,14 +1,49 @@
 {
     "news": [
         {
-            "url": "https://www.washingtonpost.com/world/2024/05/23/keir-starmer-rishi-sunak-what-to-know/", 
-            "description": "With Britain\u2019s elections coming on July 4, how different are Prime Minister Rishi Sunak and Labour Party leader Keir Starmer?", 
-            "title": "Starmer vs. Sunak: What to know about the U.K. prime minister contenders - The Washington Post"
+            "url": "https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html", 
+            "description": "All three major indexes ended Thursday's trading lower, even as Nvidia soared.", 
+            "title": "Stock futures are little changed after Dow posts worst session since March 2023: Live updates - CNBC"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405060.html", 
-            "description": "Nvidia reported its fiscal first quarter earnings after the bell on Wednesday, beating analysts' expectations on the top and bottom lines while raising its...", 
-            "title": "Nvidia stock pops 9%, tops $1,000 after earnings beat forecasts, announces stock split and dividend hike - Yahoo Finance"
+            "url": "https://www.yahoo.com/entertainment/riley-keoughs-battle-over-graceland-ends-company-drops-plans-for-foreclosure-sale-and-is-now-under-investigation-170228560.html", 
+            "description": "The Memphis landmark won't be changing hands after all. Here are the latest twists and turns in the unusual legal battle.", 
+            "title": "Riley Keough's battle over Graceland ends: Company drops plans for foreclosure sale and is now under investigation - Yahoo Entertainment"
+        }, 
+        {
+            "url": "https://apnews.com/article/2024-election-ohio-ballot-biden-dbed6f0c5ec75d1aa7c7ef2ca81657fa", 
+            "description": "Ohio\u2019s Republican Gov. Mike DeWine is calling a rare special session of the General Assembly next Tuesday to pass legislation ensuring that President Joe Biden is on the state\u2019s 2024 ballot. DeWine said Thursday that Ohio is \u201crunning out of time\u201d to get Biden\u2026", 
+            "title": "Ohio governor calls special session to pass legislation ensuring President Biden is on 2024 ballot - The Associated Press"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/23/world-news/us-service-member-critically-injured-2-other-troops-hurt-at-gaza-aid-pier-report/", 
+            "description": "The troops had been working to deliver humanitarian aid in Gaza, US Vice Admiral Brad Cooper, deputy commander of US Central Command, told Reuters.", 
+            "title": "US service member critically injured at Gaza aid pier: report - New York Post "
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/entertainment/2024/05/23/cassie-response-diddy-hotel-assault-video/", 
+            "description": "Cassie Ventura posted a statement to Instagram on Thursday, days after the release of 2016 footage that showed her being brutally assaulted by Sean \u201cDiddy\u201d Combs.", 
+            "title": "Cassie speaks out after Diddy assault video: \u2018Domestic violence is THE issue\u2019 - The Washington Post"
+        }, 
+        {
+            "url": "https://www.sammobile.com/news/serious-leak-shows-samsung-made-repair-shops-report-customer-data-kill-devices/", 
+            "description": "How Samsung handles repairs for its devices has come under the spotlight after iFixit announced today that it's ending its ...", 
+            "title": "Serious leak shows Samsung made repair shops report customer data, kill devices - SamMobile - Samsung news"
+        }, 
+        {
+            "url": "https://www.wsj.com/business/media/ticketmaster-live-nation-sued-justice-department-monopoly-d9442a75", 
+            "description": null, 
+            "title": "U.S. Says Live Nation and Ticketmaster Are Monopoly, Seeks Breakup - WSJ - The Wall Street Journal"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/mavericks-take-game-1-cavaliers-fire-jb-bickerstaff--76ers-plan-to-pursue-third-star--no-cap-room-204654624.html", 
+            "description": "Dan Devine and Jake Fischer recap the action from Game 1 of the Western Conference Finals, the Cavaliers firing J.B. Bickerstaff and the 76ers plans to...", 
+            "title": "Mavericks take Game 1, Cavaliers fire J.B. Bickerstaff & 76ers plan to pursue third star | No Cap Room - Yahoo Sports"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/flags-alitos-houses-political-backlash-supreme-court-nears-end-of-term/", 
+            "description": "Justice Samuel Alito has come under scrutiny after the New York Times reported two instances of controversial flags flown outside his Virginia and New Jersey houses.", 
+            "title": "Flags outside of Alito's houses spark political backlash as Supreme Court nears end of term - CBS News"
         }, 
         {
             "url": "https://apnews.com/article/supreme-court-redistricting-south-carolina-black-voters-864d1609b74ad74980604c26e9bfac52", 
@@ -16,9 +51,19 @@
             "title": "Supreme Court finds no bias against Black voters in a South Carolina congressional district - The Associated Press"
         }, 
         {
-            "url": "https://www.nbcnews.com/politics/congress/senate-republicans-block-border-security-bill-campaign-border-chaos-rcna153607", 
-            "description": "Senate Democrats failed to advance a bipartisan border security bill Thursday, with nearly every Republican voting against it Donald Trump wields border chaos in the 2024 election.", 
-            "title": "Senate Republicans block border security bill as they campaign on border chaos - NBC News"
+            "url": "https://www.dw.com/en/biden-says-kenya-in-line-to-be-first-sub-saharan-nato-ally/a-69161316", 
+            "description": "Kenyan President William Ruto is the first African leader to make a state visit to Washington since 2008. US President Joe Biden announced Kenya would be made a major non-NATO ally .", 
+            "title": "Biden says Kenya in line to be first sub-Saharan NATO ally - DW (English)"
+        }, 
+        {
+            "url": "https://techcrunch.com/2024/05/23/spotify-to-shut-off-car-thing-for-good-leading-users-to-demand-refunds/", 
+            "description": "Spotify is notifying users of its Car Thing product that the devices will stop working after December 9, 2024.", 
+            "title": "Spotify to shut off Car Thing for good, leading users to demand refunds - TechCrunch"
+        }, 
+        {
+            "url": "https://apnews.com/article/ncaa-settlement-3e26c017980afe0ee1c6a28f77abcf5a", 
+            "description": "The NCAA and Southeastern Conference leadership have approved a $2.8 billion settlement of antitrust claims, moving college athletics closer to some of the most sweeping changes in its history. The Big Ten, ACC and Big 12 have also backed the plan. Leadership\u2026", 
+            "title": "NCAA votes to accept $2.8 billion settlement that could usher in dramatic change for college sports - The Associated Press"
         }, 
         {
             "url": "https://removed.com", 
@@ -31,9 +76,14 @@
             "title": "Louisville police detective disciplined for failing to turn on body camera during Scottie Scheffler's arrest - WDRB"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/22/asia/china-military-drills-taiwan-punishment-intl-hnk/index.html", 
-            "description": "China has launched two days of military drills surrounding Taiwan\u00a0in\u00a0what it called \u201cpunishment\u201d for \u201cseparatist acts,\u201d days after the self-ruling island swore in a new democratically elected leader.", 
-            "title": "China starts \u2018punishment\u2019 military drills around Taiwan days after island swears in new leader - CNN"
+            "url": "https://www.bbc.com/news/articles/c900qz4wll4o", 
+            "description": "Russia's president seems to be acting on the late Wagner chief's warnings, but in his own time.", 
+            "title": "Rosenberg: Russian President Putin's military purge echoes Prigozhin's call to act - BBC.com"
+        }, 
+        {
+            "url": "https://www.sciencealert.com/crows-can-actually-count-out-loud-amazing-new-study-shows", 
+            "description": "It's no secret that corvids are capable of some amazing feats of creative and intelligent thinking, but a newly discovered ability has us stunned.", 
+            "title": "Crows Can Actually Count Out Loud, Amazing New Study Shows - ScienceAlert"
         }, 
         {
             "url": "https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper", 
@@ -41,65 +91,15 @@
             "title": "Daylight DC1: a new tablet with a better screen and no blue backlight - The Verge"
         }, 
         {
-            "url": "https://www.npr.org/2024/05/23/1251003581/2024-atlantic-hurricane-season-noaa-forecast", 
-            "description": "The National Hurricane Center is predicting the largest number of storms ever forecast for the Atlantic, putting tens of millions of Americans at risk.", 
-            "title": "2024 will be the most active hurricane season in the Atlantic - NPR"
+            "url": "https://www.reuters.com/markets/us/nasdaq-sp-500-futures-pop-nvidia-fuels-chip-stocks-rally-2024-05-23/", 
+            "description": null, 
+            "title": "Nasdaq jumps on Nvidia results cheer, inflation woes drag broader market - Reuters.com"
         }, 
         {
-            "url": "https://apnews.com/article/iran-president-raisi-helicopter-crash-funerals-aa975288bab8a63af93c8c5f9a31a615", 
-            "description": "Iran has interred late President Ebrahim Raisi at the holiest Shiite shrine in the nation, days after a fatal helicopter crash killed him, the country\u2019s foreign minister and six others. Raisi was placed Thursday inside a tomb at the Imam Reza Shrine in Mashha\u2026", 
-            "title": "Ebrahim Raisi funeral: Iran prepares to bury late president killed in helicopter crash - The Associated Press"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c511mnxyj33o", 
-            "description": "Michigan worker develops mild symptoms after exposure to infected cows, but wider public risk remains low.", 
-            "title": "Bird flu: Second US worker catches infection on dairy farm - BBC.com"
-        }, 
-        {
-            "url": "https://www.space.com/gliese-12-b-tess-exoplanet-hunt-for-life", 
-            "description": "Gliese 12 b is tantalizingly close and moderately warm, situated just 40 light-years away around a red dwarf star.", 
-            "title": "NASA's TESS exoplanet-hunter finds tantalizingly close Earth-size world with moderate temperature - Space.com"
-        }, 
-        {
-            "url": "http://9to5google.com/2024/05/23/spotify-car-thing-dead/", 
-            "description": "After discontinuing the device in 2022, Spotify has confirmed that it will kill any remaining Car Thing units by the end of the year.", 
-            "title": "Spotify will kill Car Thing units later this year, tells owners to throw them away - 9to5Google"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/nasa-announces-new-launch-date-boeings-starliner-astronaut/story?id=110496677", 
-            "description": "The mission was most recently delayed due to a small helium leak.", 
-            "title": "NASA announces new launch date for Boeing's Starliner astronaut-crewed mission after several delays - ABC News"
-        }, 
-        {
-            "url": "https://fortune.com/2024/05/23/jamie-dimon-jerome-powell-base-rate-cut-could-raise/", 
-            "description": "Wall Street may be holding out for Jerome Powell and the Fed to reduce the base rate, but JPMorgan Chase CEO Jamie Dimon isn\u2019t convinced.", 
-            "title": "JPMorgan CEO Jamie Dimon: Fed's Jerome Powell could hike rates - Fortune"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html", 
-            "description": "The S&P 500 declined Thursday as Wall Street assessed the latest quarterly results from market bellwether Nvidia.", 
-            "title": "Nasdaq boosted to a record by Nvidia, but the rest of the market is struggling Thursday: Live updates - CNBC"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/ticketmaster-livenation-antitrust-action-justice-department/", 
-            "description": "The Justice Department filed a federal lawsuit accusing Ticketmaster and its parent company Live Nation of illegally monopolizing the live entertainment industry.", 
-            "title": "Justice Department sues Live Nation and Ticketmaster for monopolizing concert industry - CBS News"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/23/lifestyle/1-in-9-us-children-diagnosed-with-adhd/", 
-            "description": "The kids are not alright.", 
-            "title": "1 in 9 US children diagnosed with ADHD - New York Post "
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=xJ0UYuNhfos", 
-            "description": "Microsoft is leaning even more into AI after launching a new Copilot+ AI PC initiative earlier this year. It's a new set of standards for PCs with powerful n...", 
-            "title": "Microsoft's Copilot+ Plans + Surface Pro and Laptop | Engadget Podcast - Engadget"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/23/politics/biden-kenya-president-state-visit-china/index.html", 
-            "description": "When Kenyan President William Ruto touched down in Beijing seven months ago, he was welcomed on the tarmac with a red carpet and cordons of Chinese troops standing at attention. Among the goals of his three-day state visit in October: Securing another $1 bill\u2026", 
-            "title": "Biden looks to counter China\u2019s influence as he rolls out red carpet for Kenya - CNN"
+            "url": "https://www.theverge.com/2024/5/23/24162627/euclid-space-telescope-images-dark-matter-rogue-planet", 
+            "description": "The first science release from the Euclid space telescope showcases tens of thousands of galaxies and other celestial phenomenons.", 
+            "title": "Euclid space telescope captures tens of thousands of glittering galaxies - The Verge"
         }
     ], 
-    "last_updated": "2024-05-25 01:00:40"
+    "last_updated": "2024-05-25 01:30:34"
 }
