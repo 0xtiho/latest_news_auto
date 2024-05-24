@@ -1,19 +1,54 @@
 {
     "news": [
         {
-            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wNS9uZXh0LXVwLWluLWdvb2dsZXMtZHJhbWF0aWMtb3ZlcmhhdWwtb2Ytc2VhcmNoLWFpLW92ZXJ2aWV3LWFkcy_SAQA?oc=5", 
-            "description": null, 
-            "title": "Next up in Google's dramatic overhaul of search: AI Overview ads - Ars Technica"
+            "url": "https://www.washingtonpost.com/world/2024/05/23/keir-starmer-rishi-sunak-what-to-know/", 
+            "description": "With Britain\u2019s elections coming on July 4, how different are Prime Minister Rishi Sunak and Labour Party leader Keir Starmer?", 
+            "title": "Starmer vs. Sunak: What to know about the U.K. prime minister contenders - The Washington Post"
         }, 
         {
-            "url": "https://apnews.com/article/abortion-pills-louisiana-legislature-controlled-substance-06ea3e8df86b72b473efe8fc71054ddf", 
-            "description": "Louisiana lawmakers have approved a first-of-its-kind bill that would classify two abortion-inducing drugs as a controlled and dangerous substances. The final Senate vote Thursday came despite widespread criticism from doctors, who note that the drugs have ot\u2026", 
-            "title": "Louisiana Legislature approves bill classifying abortion pills as controlled dangerous substances - The Associated Press"
+            "url": "https://finance.yahoo.com/news/nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405060.html", 
+            "description": "Nvidia reported its fiscal first quarter earnings after the bell on Wednesday, beating analysts' expectations on the top and bottom lines while raising its...", 
+            "title": "Nvidia stock pops 9%, tops $1,000 after earnings beat forecasts, announces stock split and dividend hike - Yahoo Finance"
         }, 
         {
-            "url": "https://abcnews.go.com/Politics/garland-calls-trumps-false-claim-biden-doj-plan/story?id=110504598", 
-            "description": "He noted the FBI had a similar policy during the search of Biden's home.", 
-            "title": "Garland calls Trump's false claim of Biden DOJ plan to potentially assassinate him during FBI's Mar-a-Lago search 'extremely dangerous' - ABC News"
+            "url": "https://apnews.com/article/supreme-court-redistricting-south-carolina-black-voters-864d1609b74ad74980604c26e9bfac52", 
+            "description": "The Supreme Court has preserved a Republican-held South Carolina congressional district, rejecting a lower-court ruling that the district discriminated against Black voters. The justices said Thursday the Republican-controlled state legislature did nothing wr\u2026", 
+            "title": "Supreme Court finds no bias against Black voters in a South Carolina congressional district - The Associated Press"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/politics/congress/senate-republicans-block-border-security-bill-campaign-border-chaos-rcna153607", 
+            "description": "Senate Democrats failed to advance a bipartisan border security bill Thursday, with nearly every Republican voting against it Donald Trump wields border chaos in the 2024 election.", 
+            "title": "Senate Republicans block border security bill as they campaign on border chaos - NBC News"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.wdrb.com/in-depth/louisville-police-detective-disciplined-for-failing-to-turn-on-body-camera-during-scottie-schefflers-arrest/article_4bea068e-1912-11ef-8067-37ffc723ae29.html", 
+            "description": "Louisville Metro Police Detective Bryan Gillis should have had his body camera turned on when he arrested pro golfer Scottie Scheffler last week and has been disciplined, Chief Jacquelyn Gwinn-Villaroel", 
+            "title": "Louisville police detective disciplined for failing to turn on body camera during Scottie Scheffler's arrest - WDRB"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/22/asia/china-military-drills-taiwan-punishment-intl-hnk/index.html", 
+            "description": "China has launched two days of military drills surrounding Taiwan\u00a0in\u00a0what it called \u201cpunishment\u201d for \u201cseparatist acts,\u201d days after the self-ruling island swore in a new democratically elected leader.", 
+            "title": "China starts \u2018punishment\u2019 military drills around Taiwan days after island swears in new leader - CNN"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper", 
+            "description": "Daylight Computer is claiming to have invented a new kind of display, which it calls LivePaper, and has built a new tablet that it says will help reset our relationship with tech.", 
+            "title": "Daylight DC1: a new tablet with a better screen and no blue backlight - The Verge"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/23/1251003581/2024-atlantic-hurricane-season-noaa-forecast", 
+            "description": "The National Hurricane Center is predicting the largest number of storms ever forecast for the Atlantic, putting tens of millions of Americans at risk.", 
+            "title": "2024 will be the most active hurricane season in the Atlantic - NPR"
+        }, 
+        {
+            "url": "https://apnews.com/article/iran-president-raisi-helicopter-crash-funerals-aa975288bab8a63af93c8c5f9a31a615", 
+            "description": "Iran has interred late President Ebrahim Raisi at the holiest Shiite shrine in the nation, days after a fatal helicopter crash killed him, the country\u2019s foreign minister and six others. Raisi was placed Thursday inside a tomb at the Imam Reza Shrine in Mashha\u2026", 
+            "title": "Ebrahim Raisi funeral: Iran prepares to bury late president killed in helicopter crash - The Associated Press"
         }, 
         {
             "url": "https://www.bbc.com/news/articles/c511mnxyj33o", 
@@ -21,24 +56,34 @@
             "title": "Bird flu: Second US worker catches infection on dairy farm - BBC.com"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVzcG4uY29tL2dvbGYvc3RvcnkvXy9pZC80MDIwNDIyMi9vZmZpY2VyLWRpc2NpcGxpbmVkLWJvZHljYW0tYmVpbmctc2NvdHRpZS1zY2hlZmZsZXItaW5jaWRlbnTSAQA?oc=5", 
-            "description": null, 
-            "title": "Cop disciplined for bodycam being off in Scottie Scheffler case - ESPN"
+            "url": "https://www.space.com/gliese-12-b-tess-exoplanet-hunt-for-life", 
+            "description": "Gliese 12 b is tantalizingly close and moderately warm, situated just 40 light-years away around a red dwarf star.", 
+            "title": "NASA's TESS exoplanet-hunter finds tantalizingly close Earth-size world with moderate temperature - Space.com"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=CyZhcyoS7HE", 
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.", 
-            "title": "SWAT team seen at South Florida home of rapper Sean Kingston - WPLG Local 10"
+            "url": "http://9to5google.com/2024/05/23/spotify-car-thing-dead/", 
+            "description": "After discontinuing the device in 2022, Spotify has confirmed that it will kill any remaining Car Thing units by the end of the year.", 
+            "title": "Spotify will kill Car Thing units later this year, tells owners to throw them away - 9to5Google"
         }, 
         {
-            "url": "https://www.washingtonpost.com/business/2024/05/23/live-nation-ticketmaster-lawsuit-antitrust/", 
-            "description": "In an antitrust lawsuit, the government says Live Nation leveraged its sprawling footprint to box out rivals, undermining consumer choice and pushing up prices.", 
-            "title": "U.S., states sue Ticketmaster parent Live Nation over antitrust - The Washington Post - The Washington Post"
+            "url": "https://abcnews.go.com/US/nasa-announces-new-launch-date-boeings-starliner-astronaut/story?id=110496677", 
+            "description": "The mission was most recently delayed due to a small helium leak.", 
+            "title": "NASA announces new launch date for Boeing's Starliner astronaut-crewed mission after several delays - ABC News"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/23/nvidia-stock-pops-10percent-to-record-high.html", 
-            "description": "Nvidia shares jumped Thursday to record highs after the company topped Wall Street estimates for the fiscal first quarter.", 
-            "title": "Nvidia shares pop 10% to record high after forecast signals unwavering demand for AI chips - CNBC"
+            "url": "https://fortune.com/2024/05/23/jamie-dimon-jerome-powell-base-rate-cut-could-raise/", 
+            "description": "Wall Street may be holding out for Jerome Powell and the Fed to reduce the base rate, but JPMorgan Chase CEO Jamie Dimon isn\u2019t convinced.", 
+            "title": "JPMorgan CEO Jamie Dimon: Fed's Jerome Powell could hike rates - Fortune"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html", 
+            "description": "The S&P 500 declined Thursday as Wall Street assessed the latest quarterly results from market bellwether Nvidia.", 
+            "title": "Nasdaq boosted to a record by Nvidia, but the rest of the market is struggling Thursday: Live updates - CNBC"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/ticketmaster-livenation-antitrust-action-justice-department/", 
+            "description": "The Justice Department filed a federal lawsuit accusing Ticketmaster and its parent company Live Nation of illegally monopolizing the live entertainment industry.", 
+            "title": "Justice Department sues Live Nation and Ticketmaster for monopolizing concert industry - CBS News"
         }, 
         {
             "url": "https://nypost.com/2024/05/23/lifestyle/1-in-9-us-children-diagnosed-with-adhd/", 
@@ -54,52 +99,7 @@
             "url": "https://www.cnn.com/2024/05/23/politics/biden-kenya-president-state-visit-china/index.html", 
             "description": "When Kenyan President William Ruto touched down in Beijing seven months ago, he was welcomed on the tarmac with a red carpet and cordons of Chinese troops standing at attention. Among the goals of his three-day state visit in October: Securing another $1 bill\u2026", 
             "title": "Biden looks to counter China\u2019s influence as he rolls out red carpet for Kenya - CNN"
-        }, 
-        {
-            "url": "https://apnews.com/article/trump-bronx-rally-minority-voters-00fae754f78333111c508d6e740a3610", 
-            "description": "President Joe Biden\u2019s campaign is releasing two ads aimed at undercutting former President Donald Trump\u2019s attempts to make inroads with Black voters \u2014 highlighting Trump's \u201cbirther\u201d conspiracy against former President Barack Obama and his calls for the death \u2026", 
-            "title": "Trump is holding a rally in the South Bronx as he tries to woo Black and Hispanic voters - The Associated Press"
-        }, 
-        {
-            "url": "https://www.yahoo.com/entertainment/cassie-breaks-silence-on-sean-diddy-combs-assault-video-as-his-legal-troubles-grow-214154449.html", 
-            "description": "What we know about Sean Combs's legal problems in the wake of the 2016 hotel assault video surfacing and the March raid of his homes.", 
-            "title": "Cassie breaks silence on Sean 'Diddy' Combs assault video as his legal troubles grow - Yahoo Entertainment"
-        }, 
-        {
-            "url": "https://www.bbc.com/articles/crggmgdrny0o", 
-            "description": "Three university presidents are testifying before Congress in the aftermath of pro-Palestinian protests.", 
-            "title": "Gaza protests: US university leaders grilled in Congress - BBC.com"
-        }, 
-        {
-            "url": "https://www.investing.com/news/stock-market-news/nvidia-snowflake-news-corp-and-dupont-rise-premarket-live-nation-falls-3454053", 
-            "description": "Midday movers: Nvidia, Dell rise; Live Nation, Boeing fall", 
-            "title": "Midday movers: Nvidia, Dell rise; Live Nation, Boeing fall - Investing.com"
-        }, 
-        {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-23/treasury-yields-plow-higher-as-traders-see-first-fed-cut-later", 
-            "description": "Treasury yields surged as data showing strength in US business activity and a tight labor market sparked traders to push back the timing for Federal Reserve interest-rate cuts until the end of this year.", 
-            "title": "Treasury Yields Plow Higher as Traders See First Fed Cut Later - Bloomberg"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/23/families-of-israeli-captives-show-video-of-female-soldiers-taken-by-hamas", 
-            "description": "Video released by Israeli families shows several of the young soldiers bloody and wounded near the Gaza fence.", 
-            "title": "Families of Israeli captives show video of female soldiers taken by Hamas - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/supreme-court-south-carolina-gerrymandering-opinion/", 
-            "description": "The Supreme Court reversed a decision from lower court that found GOP lawmakers improperly used race when designing one of South Carolina's congressional districts.", 
-            "title": "Supreme Court sides with South Carolina Republicans in redistricting dispute - CBS News"
-        }, 
-        {
-            "url": "https://phys.org/news/2024-05-potentially-habitable-exo-venus-earth.html", 
-            "description": "Astronomers have made the rare and tantalizing discovery of an Earth-like exoplanet 40 light-years away that may be just a little warmer than our own world. The new paper \"Gliese 12 b, A Temperate Earth-sized Planet at 12 Parsecs Discovered with TESS and CHEO\u2026", 
-            "title": "Potentially habitable 'exo-Venus' with Earth-like temperature discovered - Phys.org"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/celtics-pacers-5-things-to-watch-in-game-2-including-how-boston-handles-al-horford-being-hunted-132550670.html", 
-            "description": "Here are a few things to keep an eye on as the Boston Celtics and Indiana Pacers get set to tip off Game 2 at TD Garden on Thursday.", 
-            "title": "Celtics-Pacers: 5 things to watch in Game 2, including how Boston handles Al Horford being hunted - Yahoo Sports"
         }
     ], 
-    "last_updated": "2024-05-24 23:00:31"
+    "last_updated": "2024-05-24 23:30:25"
 }
