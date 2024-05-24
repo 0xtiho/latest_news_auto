@@ -1,24 +1,59 @@
 {
     "news": [
         {
-            "url": "https://www.cbsnews.com/philadelphia/news/delaware-county-linen-shooting-pennsylvania/", 
-            "description": "A suspect is in custody after five people were shot, two fatally, in a workplace shooting today at Delaware County Linen in Chester, Pennsylvania, the DA said.", 
-            "title": "5 people shot, 2 dead in Chester, Pennsylvania shooting at workplace, DA says - CBS News"
+            "url": "https://www.washingtonpost.com/business/2024/05/22/live-nation-doj-antitrust/", 
+            "description": "Live Nation is the parent company of Ticketmaster and also owns concert venues and promotes shows.", 
+            "title": "DOJ to announce antitrust lawsuit against Live Nation as soon as Thursday - The Washington Post"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/mvp-nikola-jokic-headlines-all-nba-teams-alongside-shai-gilgeous-alexander-luka-doncic-235645290.html", 
+            "description": "The All-NBA selection was the sixth for Joki\u0107, who was awarded his third MVP trophy in four seasons on May 8.", 
+            "title": "MVP Nikola Joki\u0107 headlines All-NBA teams alongside Shai Gilgeous-Alexander, Luka Don\u010di\u0107 - Yahoo Sports"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/graceland-sale-halted-judge-tennessee-elvis-presley-granddaughter-alleges-fraud/", 
+            "description": "A company claimed Elvis Presley's estate failed to repay a loan that used the Graceland property as collateral.", 
+            "title": "Graceland sale halted by judge in Tennessee after Elvis Presley's granddaughter alleges fraud - CBS News"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/ireland-spain-norway-recognizing-palestinian-state/", 
+            "description": "Ireland, Spain and Norway are recognizing a Palestinian state, the three announced in rapid succession. The move will take effect May 28.", 
+            "title": "Ireland, Spain and Norway recognizing a Palestinian state - CBS News"
+        }, 
+        {
+            "url": "https://www.foxbusiness.com/economy/sheer-terror-passengers-singapore-airlines-flight-describe-nightmare-after-plane-hit-severe-turbulence", 
+            "description": "Passengers on the Singapore Airlines flight that descended sharply after encountering severe turbulence described the \u201csheer terror\" of the aircraft \"shuddering\" midair.", 
+            "title": "Passengers describe 'sheer terror' after Singapore-bound flight hits turbulence - Fox Business"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cgrr70zm41mo", 
+            "description": "A clash with the actor has echoes of the macho tech giants of the past, says Zoe Kleinman.", 
+            "title": "Scarlett Johansson's AI row has echoes of Silicon Valley's bad old days - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html", 
+            "description": "Stocks are coming off a losing session Wednesday, and Wall Street is assessing the latest quarterly results from market bellwether Nvidia.", 
+            "title": "Nasdaq 100 futures rise after Nvidia posts quarterly earnings beat: Live updates - CNBC"
+        }, 
+        {
+            "url": "https://www.desmoinesregister.com/story/weather/2024/05/22/iowa-may-21-tornado-ratings-ef-scale-greenfield-nevada/73804505007/", 
+            "description": "National Weather Service teams are conducting surveys Wednesday after tornadoes hit Iowa. An initial survey showed at least EF3 damage in Greenfield.", 
+            "title": "Two tornadoes confirmed in Iowa: EF3 in Greenfield, EF2 in Johnston - Des Moines Register"
+        }, 
+        {
+            "url": "https://www.startribune.com/timberwolves-mavericks-western-conference-playoffs-target-center-game-one/600367978/", 
+            "description": "The Wolves knocked off the Suns in four and the Nuggets in seven to get within a step of the NBA Finals.", 
+            "title": "Live from Game 1: Timberwolves, Mavericks meet at Target Center in opener of Western Conference finals - Star Tribune"
+        }, 
+        {
+            "url": "https://apnews.com/article/supreme-court-flag-stop-steal-alito-trump-1842c40b833637c981c59c3f39bc4669", 
+            "description": "A second flag of a type carried by rioters during the attack on the U.S. Capitol on Jan. 6, 2021, was displayed outside a house owned by Supreme Court Justice Samuel Alito. That's according to a report published Wednesday by The New York Times. An \u201cAppeal to \u2026", 
+            "title": "Second flag carried by Jan. 6 rioters displayed outside house owned by Justice Alito, report says - The Associated Press"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/22/politics/nikki-haley-donald-trump/index.html", 
             "description": "Former South Carolina Gov. Nikki Haley is supporting former President Donald Trump\u2019s 2024 bid, she said Wednesday in her first public remarks since exiting the Republican presidential primary more than two months ago.", 
             "title": "Nikki Haley says she\u2019s voting for Trump in November - CNN"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/uvalde-school-shooting-settlement-texas-city-lawsuits/", 
-            "description": "Family members of Uvalde school shooting victims also said they're filing lawsuits against dozens of Texas Department of Public Safety officers and Uvalde's school district.", 
-            "title": "Uvalde school shooting victims' families announce $2 million settlement with Texas city and new lawsuits - CBS News"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers", 
-            "description": "OpenAI might find itself in legal trouble if Scarlett Johansson decides to use California\u2019s right to publicity rules to protect her voice and identity against ChatGPT.", 
-            "title": "Lawyers say OpenAI could be in real trouble with Scarlett Johansson - The Verge"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/22/world/sun-magnetic-field-scn/index.html", 
@@ -31,39 +66,29 @@
             "title": "Healthy diets with only 10% ultraprocessed foods may raise risk of cognitive decline, stroke - CNN"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/nvidia-stock-pops-4-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405628.html", 
-            "description": "Nvidia reported its fiscal first quarter earnings after the bell on Wednesday, beating analysts' expectations on the top and bottom lines while raising its...", 
-            "title": "Nvidia stock pops 4% after earnings beat forecasts, announces stock split and dividend hike - Yahoo Finance"
+            "url": "https://abcnews.go.com/US/garbage-argument-classified-docs-hearing-gets-heated-charges/story?id=110467763", 
+            "description": "Nauta is accused of obstructing the government's classified documents probe.", 
+            "title": "'Garbage argument': Classified docs hearing gets heated over charges against Trump co-defendant Walt Nauta - ABC News"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cg33j53qe31o", 
-            "description": "New harrowing footage shows the moment Naama Levy and other women were seized by Hamas gunmen.", 
-            "title": "Israeli hostage's family hopes video is reminder of need for deal - BBC.com"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.espn.com/nfl/story/_/id/40198510/chiefs-patrick-mahomes-weighs-rashee-rice-harrison-butker", 
-            "description": "Patrick Mahomes defended the character of Chiefs kicker Harrison Butker and also offered encouragement for wide receiver Rashee Rice after his two off-field incidents.", 
-            "title": "Chiefs' Patrick Mahomes weighs in on Rashee Rice, Harrison Butker - ESPN"
+            "url": "https://www.youtube.com/watch?v=Ev5eS8fsosM", 
+            "description": "NBA Today\u2019s Malika Andrews, Chiney Ogwumike, Kendrick Perkins and Richard Jefferson debate what the Boston Celtics Game 1 OT win over the Indiana Pacers prov...", 
+            "title": "The Celtics WERE NOT PREPARED for the Pacers! \u2013 Perk reacts to Game 1 of the ECF | NBA Today - ESPN"
         }, 
         {
-            "url": "https://www.theverge.com/24162621/google-search-ai-overviews-get-rid-of", 
-            "description": "Google\u2019s AI Overviews offer AI-generated answers before your search results. There isn\u2019t a way to turn them off, but there are a few methods you can try to get around them.", 
-            "title": "You can get rid of AI Overviews in Google Search - The Verge"
+            "url": "https://www.nbcnews.com/business/consumer/target-mcdonalds-others-are-offering-value-lose-ground-bargain-hunters-rcna153584", 
+            "description": "Target\u2019s weak quarterly earnings underscored why it cut prices on thousands of household staples: it\u2019s struggling to win over bargain hunters.", 
+            "title": "Target, McDonald's and others are offering value as they lose ground with bargain hunters - NBC News"
         }, 
         {
             "url": "https://www.yahoo.com/entertainment/jennifer-lopez-ben-affleck-living-191628295.html", 
             "description": "A source confirms to Fox News Digital that Ben Affleck and Jennifer Lopez are living separately, nearly two years after tying the knot.", 
             "title": "Jennifer Lopez, Ben Affleck living separately as 'whirlwind of love' is over and 'real life' sets in: source - Yahoo Entertainment"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=awQSXHsgWA4", 
-            "description": null, 
-            "title": "Fed minutes indicate worries over the lack of progress on inflation - CNBC Television"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/22/investing/graceland-foreclosure-hearing/index.html", 
-            "description": "Graceland can stay in the hands of Elvis Presley\u2019s family for the time being, after a Tennessee court chancellor ruled Wednesday that a mysterious company trying to sell it likely committed fraud.", 
-            "title": "Court rules Elvis\u2019 Graceland mansion cannot be foreclosed upon \u2013 for now - CNN"
         }, 
         {
             "url": "https://www.usatoday.com/story/money/food/2024/05/22/red-lobster-closings-full-list/73802650007/", 
@@ -74,32 +99,7 @@
             "url": "https://thehill.com/policy/healthcare/4679900-fish-oil-may-increase-risk-of-stroke-heart-conditions-study/", 
             "description": "Fish oil may increase the risk of stroke and heart conditions like atrial fibrillation, a new study found. The study, published Tuesday in the journal BMJ Medicine, followed more than 400,000 people in the United Kingdom aged 40 to 69 for 12 years. Those peop\u2026", 
             "title": "Fish oil may increase risk of stroke, heart conditions: Study - The Hill"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/uk/rishi-sunak-calls-uk-national-election-july-4-2024-05-22/", 
-            "description": "British Prime Minister Rishi Sunak called a national election on Wednesday for July 4, saying Britons would be able to choose their future in a vote his Conservatives are widely expected to lose to the opposition Labour Party after 14 years in power.", 
-            "title": "Rishi Sunak calls UK national election for July 4 - Reuters UK"
-        }, 
-        {
-            "url": "https://9to5mac.com/2024/05/22/sonos-ace-vs-airpods-max/", 
-            "description": "This detailed comparison looks at the Sonos Ace vs AirPods Max headphones for audio specs, features, battery, price, and more.", 
-            "title": "Sonos Ace vs AirPods Max - 9to5Mac"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/22/israel-lobbies-german-officials-to-condemn-icc-arrest-warrants", 
-            "description": "Israeli embassy emails politicians as Berlin says it would arrest Netanyahu if warrant comes into force.", 
-            "title": "Israel lobbies German officials to \u2018condemn\u2019 ICC arrest warrants - Al Jazeera English"
-        }, 
-        {
-            "url": "https://toofab.com/2024/05/22/nicole-brown-simpsons-sisters-react-to-oj-simpsons-death/", 
-            "description": "The Brown sister's comments come more than a month after the former football star died following a battle with cancer.", 
-            "title": "Nicole Brown Simpson's Sisters React to OJ Simpson's Death - TooFab"
-        }, 
-        {
-            "url": "http://9to5google.com/2024/05/22/android-find-my-device-trackers-shipping/", 
-            "description": "After Google announced the launch of the Find My Device network on Android last month, the first trackers are finally...", 
-            "title": "Android Find My Device trackers are starting to ship - 9to5Google"
         }
     ], 
-    "last_updated": "2024-05-24 03:12:05"
+    "last_updated": "2024-05-24 03:30:51"
 }
