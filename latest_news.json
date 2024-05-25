@@ -1,9 +1,49 @@
 {
     "news": [
         {
+            "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2xpdmVjb3ZlcmFnZS9zdG9jay1tYXJrZXQtdG9kYXktMDUyNDI00gEA?oc=5", 
+            "description": null, 
+            "title": "Dow Rises Today Ahead of Memorial Day Weekend; Nasdaq and Chip Stocks Jump; and Other Stock Market News - Barron's"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nfl/news/travis-kelce-joins-andy-reid-patrick-mahomes-in-defending-harrison-butker-calls-chiefs-kicker-great-person/", 
+            "description": "The NFL commissioner spoke about the matter Wednesday", 
+            "title": "Travis Kelce joins Andy Reid, Patrick Mahomes in defending Harrison Butker, calls Chiefs kicker 'great person' - CBS Sports"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/us-tourist-facing-jail-turks-caicos-possessing-ammunition-released-rcna153874", 
+            "description": "An American man who was facing up to 12 years in jail on this Caribbean island for bringing 20 rounds of ammunition on a vacation has been freed after a court ruling Friday.", 
+            "title": "U.S. tourist facing jail in Turks and Caicos for possessing ammunition is released - NBC News"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/minnesota/news/brain-worms-bear-meat-south-dakota-family-gathering-minnesota-arizona/", 
+            "description": "At least six family members who shared a meal of bear meat that one of the family members had harvested earlier were subsequently infected with brain worms, the CDC reports.", 
+            "title": "Family members infected with brain worms after eating undercooked bear meat - CBS News"
+        }, 
+        {
+            "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/23/spacex-starlink-falcon-9-rocket-booster-night-launch-space-coast-cape-canaveral-florida/73769537007/", 
+            "description": "On Wednesday night, SpaceX launched the first of a Starlink double-header.", 
+            "title": "SpaceX Falcon 9 rocket lights up night sky over Space Coast, Florida - Florida Today"
+        }, 
+        {
             "url": "https://apnews.com/article/israel-gaza-palestinians-court-ceasefire-01d093d21a1eadaa31af5708cf1cbf38", 
             "description": "The top United Nations court has ordered Israel to immediately halt its military offensive in the southern Gaza city of Rafah \u2014 but stopped short of ordering a full cease-fire. While Israel is unlikely to comply with Friday's order, it will ratchet up the pre\u2026", 
             "title": "ICJ orders Israel to halt Gaza offensive; Israel unlikely to comply - The Associated Press"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjQvZ29vZ2xlLWNyaXRpY2l6ZWQtYXMtYWktb3ZlcnZpZXctbWFrZXMtZXJyb3JzLWxpa2Utc2F5aW5nLXByZXNpZGVudC1vYmFtYS1pcy1tdXNsaW0uaHRtbNIBfGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI0L2dvb2dsZS1jcml0aWNpemVkLWFzLWFpLW92ZXJ2aWV3LW1ha2VzLWVycm9ycy1saWtlLXNheWluZy1wcmVzaWRlbnQtb2JhbWEtaXMtbXVzbGltLmh0bWw?oc=5", 
+            "description": null, 
+            "title": "Google criticized as AI Overview makes obvious errors, saying President Obama is Muslim and that it's safe to leave dogs in hot cars - CNBC"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/storms-will-rumble-memorial-day-weekend-nearly-44-million-travel-holid-rcna153890", 
+            "description": "Nearly 44 million people are traveling this Memorial Day weekend, but severe spring weather will put a damper on some of the festivities with showers and thunderstorms forecast across the country along with scorching heat in South Texas and Florida.", 
+            "title": "Storms will rumble into Memorial Day weekend as nearly 44 million travel for the holiday - NBC News"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/ncaa-settlement-qa-how-will-schools-distribute-revenue-what-is-the-future-of-nil-collectives-and-more-125519681.html", 
+            "description": "The landmark $2.8B deal topples the NCAA\u2019s long-standing rules around amateurism and could help protect the organization from future legal challenges. But...", 
+            "title": "NCAA settlement Q&A: How will schools distribute revenue, what is the future of NIL collectives and more - Yahoo Sports"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/24/health/new-experiments-milk-h5n1-infected-cows-raise-questions-flash-pasteurization/index.html", 
@@ -16,90 +56,50 @@
             "title": "Morgan Spurlock, \u2018Super Size Me\u2019 Director, Dies at 53 - Variety"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/world/israeli-military-recovers-bodies-3-hostages-killed-oct-7-gaza-hamas-rcna153869", 
-            "description": "TEL AVIV, Israel \u2014 The bodies of three more hostages who were killed in Hamas' Oct. 7 attacks were recovered from the Gaza Strip, the Israeli military said Friday, as the CIA chief headed to Europe in a bid to revive cease-fire talks and as the top United Nat\u2026", 
-            "title": "Israeli military recovers bodies of 3 more hostages from Gaza - NBC News"
-        }, 
-        {
-            "url": "https://www.ksl.com/article/51022735/cdc-warns-of-multi-state-salmonella-outbreak-linked-to-backyard-poultry-including-utah", 
-            "description": "The Centers for Disease Control and Prevention said on Thursday that public health officials are investigating multi-state outbreaks of salmonella linked to contact with backyard poultry.", 
-            "title": "CDC warns of multi-state salmonella outbreak linked to backyard poultry, including Utah - KSL.com"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BhcHVhLW5ldy1ndWluZWEtbGFuZHNsaWRlLTg2ZmNmNDFlNjAwMTIyZmQ1NGRkY2ZiNTZiY2FiNDAz0gEA?oc=5", 
+            "url": "https://www.politico.com/news/2024/05/23/3-billion-secret-program-undermining-bidens-tech-policy-00158757", 
             "description": null, 
+            "title": "'I don't know how this happened': A $3B secret program undermining Biden's tech policy - POLITICO"
+        }, 
+        {
+            "url": "http://9to5google.com/2024/05/24/samsung-galaxy-watch-7-ultra-leak-renders/", 
+            "description": "Samsung is gearing up to launch three different versions of its upcoming Galaxy Watch 7, and that apparently includes a...", 
+            "title": "Galaxy Watch 7 Ultra leaks with round display, squarish body, and maybe a rotating crown? [Gallery] - 9to5Google"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/italian-millennial-catholic-sainthood-internet-pope-francis-vatican-miracle/", 
+            "description": "Carlo Acutis died of leukemia in 2006 at age 15. The Catholic Church has attributed two miracles to him, which means he can be elevated to sainthood.", 
+            "title": "Italian teenager Carlo Acutis to become first millennial Catholic saint after second miracle attributed to him - CBS News"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5mbC5jb20vbmV3cy9jYW4tY2FsZWItd2lsbGlhbXMtbGVkLWJlYXJzLWxpdmUtdXAtdG8taHlwZS13aWxsLXNlYWhhd2tzLXNvYXItYWdhaW4tYmVoaW5kLWhvdC1kZWZlbnNpdmUtc2NoZW1l0gEA?oc=5", 
+            "description": null, 
+            "title": "Can Caleb Williams-led Bears live up to hype? Will Seahawks soar again behind hot defensive scheme? - NFL.com"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/24/eli-lilly-invests-to-increase-mounjaro-zepbound-supply.html", 
+            "description": "Demand for the drugs Mounjaro and Zepbound has far outpaced supply over the last year, forcing Eli Lilly to invest heavily to scale up its manufacturing.", 
+            "title": "Eli Lilly to invest another $5.3 billion in Indiana plant to expand Mounjaro, Zepbound supply - CNBC"
+        }, 
+        {
+            "url": "https://apnews.com/article/diddy-sean-combs-sexual-assault-lawsuit-3a64e5b28d87fb76051865b9e47eba67", 
+            "description": "A woman who says Sean \u201cDiddy\u201d Combs subjected her to violence and abuse over several years in the 1990s has filed a lawsuit in New York accusing the rapper of sexual assault, battery and gender-motivated violence. The woman describes in the lawsuit several \u201ct\u2026", 
+            "title": "New lawsuit accuses Sean 'Diddy' Combs of sexually abusing college student in the 1990s - The Associated Press"
+        }, 
+        {
+            "url": "https://apnews.com/article/papua-new-guinea-landslide-86fcf41e600122fd54ddcfb56bcab403", 
+            "description": "More than 100 people are believed to have been killed in a landslide that buried a village in a remote, mountainous part of Papua New Guinea. An emergency response is underway. The landslide hit at about 3 a.m. Friday in an area about 370 miles northwest of t\u2026", 
             "title": "More than 100 people believed killed by a landslide in Papua New Guinea, Australian media report - The Associated Press"
         }, 
         {
-            "url": "https://www.cbssports.com/college-football/news/house-v-ncaa-settlement-winners-and-losers-athletes-take-monumental-step-non-revenue-sports-at-risk/", 
-            "description": "Here are the winners and losers from the House v. NCAA settlement", 
-            "title": "House v. NCAA settlement winners and losers: Athletes take monumental step, non-revenue sports at risk - CBS Sports"
-        }, 
-        {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://arstechnica.com/space/2024/05/daily-telescope-observing-a-distant-star-nursery-in-unprecedented-detail/", 
-            "description": "\"Euclid\u2019s instruments can detect objects just a few times the mass of Jupiter.\"", 
-            "title": "Daily Telescope: Observing a distant star nursery in unprecedented detail - Ars Technica"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/24/politics/video/trump-bronx-black-hispanic-voters-ctm-sot-digvid", 
-            "description": "Former President Donald Trump made a campaign stop in the Bronx Thursday in an effort to appeal to Black and Hispanic voters. David Levinthal, editor-in-chief of Raw Story, joins CNN\u2019s Jessica Dean to discuss.", 
-            "title": "There are two reasons why Trump held a rally in the Bronx, panelist says - CNN"
-        }, 
-        {
-            "url": "https://www.businessinsider.com/russia-disrupting-elon-musk-starlink-satellite-service-ukraine-jamming-report-2024-5", 
-            "description": "For the first time, the Russian military has caused widespread disruptions to Starlink in Ukraine, according to The New York Times.", 
-            "title": "Russia has figured out how to mess up Ukraine's Starlink internet: NYT - Business Insider"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/video/nvidia-ceo-jensen-huang-were-110014107.html", 
-            "description": "It's hard to find a company that has gained more from the AI boom than Nvidia (NVDA). In the first quarter, the company posted a 262% rise in revenue. Its...", 
-            "title": "Nvidia CEO Jensen Huang: We're building AI factories - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/23/asia/china-taiwan-drills-explainer-intl-hnk/index.html", 
-            "description": "Tensions are once again ratcheting up in the Taiwan Strait, with China launching military drills encircling Taiwan just days after the democracy swore in a new leader long loathed by Beijing.", 
-            "title": "China has launched new drills encircling Taiwan. Why now? - CNN"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/families-marines-died-osprey-crash-file-suit-boeing-makers-aircraft-rcna153792", 
-            "description": "Families of Marines who died in a V-22 Osprey crash in California in June 2022 have filed a lawsuit accusing the makers of the twin-rotor aircraft of negligence.", 
-            "title": "Families of Marines who died in an Osprey crash sue Bell Textron, Boeing and Rolls-Royce, makers of the aircraft - NBC News"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbNIBe2h0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5", 
-            "description": null, 
-            "title": "Celtics star takes surprise shot at players after All-NBA snub - MassLive.com"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/24/europe/carlo-acutis-first-catholic-millennial-saint-intl-scli/index.html", 
-            "description": "Carlo Acutis, an Italian teenager and computer prodigy who earned the nickname \u201cGod\u2019s influencer,\u201d is set to become the Catholic Church\u2019s first millennial saint.", 
-            "title": "Italian teenager nicknamed \u2018God\u2019s influencer\u2019 set to become Catholic Church\u2019s first millennial saint - CNN"
-        }, 
-        {
-            "url": "https://www.reuters.com/markets/us/nvidias-split-soaring-stock-could-boost-retail-investor-appeal-dow-chances-2024-05-23/", 
-            "description": null, 
-            "title": "Nvidia's split of soaring stock could boost retail investor appeal, Dow chances - Reuters"
+            "url": "https://www.al.com/life/2024/05/wheel-of-fortune-contestants-answer-shocks-host-pat-sajak-stuns-others.html", 
+            "description": "The long-time host didn't really know what to say.", 
+            "title": "\u2018Wheel of Fortune\u2019 contestant\u2019s answer shocks host Pat Sajak, stuns others - AL.com"
         }
     ], 
-    "last_updated": "2024-05-25 17:30:05"
+    "last_updated": "2024-05-25 18:00:08"
 }
