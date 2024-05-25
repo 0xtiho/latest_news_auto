@@ -1,9 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.vaticannews.va/en/pope/news/2024-05/pope-francis-saints-decrees-miracle-acutis-allamano.html", 
-            "description": "Pope Francis recognizes a miracle attributed to Blessed Carlo Acutis and another to Blessed Giuseppe Allamano, and approves the canonization of 11 martyrs in Syria.", 
-            "title": "Pope Francis clears path for canonization of Blessed Carlo Acutis - Vatican News - English"
+            "url": "https://www.forbes.com/sites/caileygleeson/2024/05/24/us-missionary-couple-killed-in-haiti-amid-gang-violence-heres-what-we-know/", 
+            "description": "Two of the victims were the daughter and son-in-law of a Missouri state representative.", 
+            "title": "What We Know About Missionaries Killed In Haiti: David Lloyd III, Natalie Lloyd, Jude Montis - Forbes"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/uaw-asks-us-board-unionization-185209287.html", 
+            "description": "DETROIT (Reuters) -The United Auto Workers (UAW) union is seeking a new election at a Mercedes-Benz plant in Alabama after losing a vote there last week...", 
+            "title": "UAW asks US board for new unionization vote at Mercedes' Alabama plant - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/24/americas/turks-and-caicos-ammunition-american-sentencing/index.html", 
+            "description": "The first of several Americans recently charged with possession of ammunition in Turks and Caicos was heading home Friday after getting a suspended 52-week sentence and a $6,700 fine, his representatives said.", 
+            "title": "American who carried ammunition in Turks and Caicos gets suspended sentence and heads home. Fate of others charged is unclear - CNN"
+        }, 
+        {
+            "url": "https://www.statnews.com/2024/05/24/bird-flu-raw-milk-nejm-study-unpasteurized-h5n1-virus-made-mice-sick/", 
+            "description": "A new study provides more evidence of the potential danger of drinking unpasteurized, or raw, milk containing H5N1 avian flu viruses.", 
+            "title": "Bird flu makes raw milk dangerous to consume, mouse study finds - STAT - STAT"
+        }, 
+        {
+            "url": "https://www.espn.com/mlb/story/_/id/40211868/source-mlb-questions-ump-game-ending-call", 
+            "description": "The Orioles escaped Chicago last night on a game-ending interference call, but sources say that it didn't have to go that way.", 
+            "title": "Source - MLB questions ump's game-ending call in White Sox loss - ESPN"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1402371/millie-bobby-brown-marries-jake-bongiovi-in-private-ceremony", 
+            "description": "Stranger Things actress Millie Bobby Brown married Jake Bongiovi, the son of singer Jon Bon Jovi, during a private ceremony one year after getting engaged.", 
+            "title": "Millie Bobby Brown Marries Jake Bongiovi in Private Ceremony - E! NEWS"
+        }, 
+        {
+            "url": "https://variety.com/2024/film/awards/2024-cannes-palme-dor-predictions-1236010817/", 
+            "description": "2024 Cannes Palme d'Or predictions include \"Emilia Perez\" and \"Seed of the Sacred Fig\" with acting possibilities for Demi Moore and Ben Whishaw.", 
+            "title": "Will Demi Moore Kick Off an Awards Run, and Which Film Could Win Cannes Palme d\u2019Or? - Variety"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/24/world/crows-can-count-study-scn/index.html", 
+            "description": "Crows can vocally count up to four. The intelligent birds recognize and react to numbers in a process similar to that of human cognition, according to a new study.", 
+            "title": "Crows can count much in the same way as human toddlers, study finds - CNN"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964", 
+            "description": "\"Morgan gave so much through his art, ideas, and generosity,\" his brother said.", 
+            "title": "Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer - ABC News"
+        }, 
+        {
+            "url": "https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/", 
+            "description": "Clearing blocked filters and clogged valves is the order of the day.", 
+            "title": "SpaceX sets date for next Starship flight, explains what went wrong the last time - Ars Technica"
         }, 
         {
             "url": "https://abcnews.go.com/US/memorial-day-weekend-forecast-bring-severe-weather-tornadoes/story?id=110528770", 
@@ -16,14 +61,9 @@
             "title": "Watch Live: \"Flirty\" texts between Karen Read, Brian Higgins revealed in murder trial testimony - CBS Boston"
         }, 
         {
-            "url": "https://www.washingtonpost.com/technology/2024/05/24/kabosu-doge-meme-shiba-inu-dead/", 
-            "description": "Rescued from a dog shelter, Kabosu was an enduring meme of the 2010s, her skeptical glance inspiring a new type of online lingo and a cryptocurrency.", 
-            "title": "Kabosu, Shiba Inu dog who inspired \u2018Doge\u2019 meme, dies at 18 - The Washington Post"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cn00rj76xd4o", 
-            "description": "Tens of thousands of people have been forced to flee from months of widespread gang violence in Haiti.", 
-            "title": "US missionaries killed in Haiti gang violence - BBC.com"
+            "url": "https://www.cbsnews.com/news/nikki-haley-trump-vote-biden-campaign-woos-supporters/", 
+            "description": "After Nikki Haley announced she'd vote for Donald Trump, the Biden campaign met with her supporters that very evening.", 
+            "title": "Soon after Nikki Haley said she'd vote for Trump, Biden campaign met with her supporters - CBS News"
         }, 
         {
             "url": "https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html", 
@@ -31,9 +71,9 @@
             "title": "Stocks rise slightly, but the Dow is set to snap a 5-week winning streak: Live updates - CNBC"
         }, 
         {
-            "url": "https://www.eonline.com/news/1398331/sofia-richie-gives-birth-welcomes-first-baby-with-elliot-grainge", 
-            "description": "After announcing her pregnancy back in January, Sofia Richie welcomed her first child\u2014a baby girl\u2014with husband Elliot Grainge. Find out her name.", 
-            "title": "Sofia Richie Gives Birth, Welcomes First Baby With Elliot Grainge - E! NEWS"
+            "url": "https://www.ft.com/content/13b5b637-f2bb-4208-bed4-2fa760adfb7f", 
+            "description": "\u2018Hallucinations\u2019 in new feature provoke ridicule and raise questions about betting core business on an experimental product", 
+            "title": "Google's AI search tool tells users to 'eat rocks' - Financial Times"
         }, 
         {
             "url": "https://www.cnbc.com/2024/05/24/boeing-nasa-starliner-astronaut-launch-moving-forward.html", 
@@ -41,65 +81,25 @@
             "title": "Boeing, NASA say Starliner astronaut launch will move forward despite spacecraft helium leak - CNBC"
         }, 
         {
+            "url": "https://www.ft.com/content/5fdb360d-bdf0-4de0-acf1-c6e17f203cd6", 
+            "description": "Opposition seeks to curb new president\u2019s administration while Beijing sends fighters, bombers and navy to patrol around island", 
+            "title": "Taiwan in political turmoil as China steps up military intimidation - Financial Times"
+        }, 
+        {
+            "url": "https://www.kcra.com/article/uc-davis-ucla-uaw-strike-perb-issues-complaint/60896496", 
+            "description": "More academic workers with the University of California system are set to join an ongoing strike, the union announced Thursday.", 
+            "title": "As UC Davis, UCLA academic workers prepare to join strike, state mediation board files complaint - KCRA Sacramento"
+        }, 
+        {
             "url": "https://www.cbssports.com/nfl/news/travis-kelce-joins-andy-reid-patrick-mahomes-in-defending-harrison-butker-calls-chiefs-kicker-great-person/", 
             "description": "The NFL commissioner spoke about the matter Wednesday", 
             "title": "Travis Kelce joins Andy Reid, Patrick Mahomes in defending Harrison Butker, calls Chiefs kicker 'great person' - CBS Sports"
         }, 
         {
-            "url": "https://www.nbcnews.com/news/us-news/us-tourist-facing-jail-turks-caicos-possessing-ammunition-released-rcna153874", 
-            "description": "An American man who was facing up to 12 years in jail on this Caribbean island for bringing 20 rounds of ammunition on a vacation has been freed after a court ruling Friday.", 
-            "title": "U.S. tourist facing jail in Turks and Caicos for possessing ammunition is released - NBC News"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/minnesota/news/brain-worms-bear-meat-south-dakota-family-gathering-minnesota-arizona/", 
-            "description": "At least six family members who shared a meal of bear meat that one of the family members had harvested earlier were subsequently infected with brain worms, the CDC reports.", 
-            "title": "Family members infected with brain worms after eating undercooked bear meat - CBS News"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/24/24163954/spacex-starship-fourth-test-flight-june", 
-            "description": "The fourth test flight of SpaceX\u2019s Starship rocket could occur on June 5th, as long as regulators sign off on it. The test will focus on returning and reusing the rocket.", 
-            "title": "SpaceX's Starship is getting ready to take off again in June - The Verge"
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/box-office-furiosa-garfield-memorial-day-1235938017/", 
-            "description": "Despite more movies in the marketplace, we\u2019re still feeling the aftermath of the strikes. How is that? Many aren\u2019t in the habit of moviegoing yet, and while content is king, neither of this weekend\u2019s releases are expected to create a stampede: one is a preque\u2026", 
-            "title": "\u2018Furiosa\u2019 Sees $3.5M, \u2018Garfield The Movie\u2019 $1.9M In Previews As Memorial Day Weekend Box Office Begins - Deadline"
-        }, 
-        {
-            "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/23/spacex-starlink-falcon-9-rocket-booster-night-launch-space-coast-cape-canaveral-florida/73769537007/", 
-            "description": "On Wednesday night, SpaceX launched the first of a Starlink double-header.", 
-            "title": "SpaceX Falcon 9 rocket lights up night sky over Space Coast, Florida - Florida Today"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/24/google-criticized-as-ai-overview-makes-errors-like-saying-president-obama-is-muslim.html", 
-            "description": "Public criticism has mounted over Google's AI Overview feature in Search, which has returned inaccurate or nonsensical results, according to screenshots.", 
-            "title": "Google criticized as AI Overview makes obvious errors, saying President Obama is Muslim and that it's safe to leave dogs in hot cars - CNBC"
-        }, 
-        {
-            "url": "https://www.wthr.com/article/money/business/eli-lilly-manufacturing-site-lebanon-9-billion-dollars-zepbound-mounjaro-boost-production/531-0d350c2d-6045-4636-9288-a9180f0a0fef", 
-            "description": "The site will bring 900 full-time jobs and more than 5,000 construction jobs.", 
-            "title": "Lilly increases investment to Lebanon manufacturing site to $9B - WTHR"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/2024-nba-draft-big-board-ranking-the-top-40-players-142413978.html", 
-            "description": "Yahoo Sports breaks down the best prospects in the 2024 NBA Draft after the combine and pre-draft testing.", 
-            "title": "2024 NBA Draft Big Board: Ranking the top 40 players - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.macrumors.com/2024/05/24/best-buys-memorial-day-sale/", 
-            "description": "Best Buy today kicked off its Memorial Day weekend sale, and it has some of the best prices we've tracked in weeks on iPads and MacBooks....", 
-            "title": "Best Buy's Memorial Day Sale Has Record Low Prices on iPads, MacBooks, and Much More - MacRumors"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/23/3-billion-secret-program-undermining-bidens-tech-policy-00158757", 
-            "description": null, 
-            "title": "'I don't know how this happened': A $3B secret program undermining Biden's tech policy - POLITICO"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/obituaries-people-news/morgan-spurlock-dead-super-size-me-1236015338/", 
-            "description": "Morgan Spurlock, a documentary filmmaker whose McDonald's takedown \"Super Size Me\" captured the zeitgeist and an Oscar nomination, has died of cancer.", 
-            "title": "Morgan Spurlock, \u2018Super Size Me\u2019 Director, Dies at 53 - Variety"
+            "url": "https://www.foxbusiness.com/markets/tesla-ceo-elon-musk-opposes-ev-tax-incentives-tariffs-chinese-evs", 
+            "description": "Tesla CEO Elon Musk on Thursday said that the Biden administration's tariffs on Chinese electric vehicles were not necessary in order for his company to remain competitive.", 
+            "title": "Tesla CEO Elon Musk says he opposes EV tax incentives, tariffs on Chinese EVs - Fox Business"
         }
     ], 
-    "last_updated": "2024-05-25 23:00:31"
+    "last_updated": "2024-05-25 23:30:33"
 }
