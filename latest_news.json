@@ -1,89 +1,29 @@
 {
     "news": [
         {
-            "url": "https://sports.yahoo.com/ncaa-power-five-conferences-vote-to-approve-28b-settlement-in-house-hubbard-and-carter-cases-001736810.html", 
-            "description": "In a landmark agreement that will transform the course of major college athletics, the NCAA has left behind its archaic rules and changed the way it's going ...", 
-            "title": "NCAA, Power Five conferences vote to approve $2.8B settlement in House, Hubbard and Carter cases - Yahoo Sports"
+            "url": "https://apnews.com/article/israel-gaza-palestinians-court-ceasefire-01d093d21a1eadaa31af5708cf1cbf38", 
+            "description": "The top United Nations court has ordered Israel to immediately halt its military offensive in the southern Gaza city of Rafah \u2014 but stopped short of ordering a full cease-fire. While Israel is unlikely to comply with Friday's order, it will ratchet up the pre\u2026", 
+            "title": "ICJ orders Israel to halt Gaza offensive; Israel unlikely to comply - The Associated Press"
         }, 
         {
-            "url": "https://www.cbsnews.com/video/justice-department-files-sweeping-antitrust-lawsuit-against-live-nation/", 
-            "description": "The Justice Department on Thursday filed an antitrust lawsuit against Ticketmaster and its parent company Live Nation, accusing the concert giant of running an illegal monopoly and driving up prices. The lawsuit, which seeks to break up Live Nation, also accu\u2026", 
-            "title": "Justice Department files sweeping antitrust lawsuit against Live Nation - CBS News"
+            "url": "https://www.cnn.com/2024/05/24/health/new-experiments-milk-h5n1-infected-cows-raise-questions-flash-pasteurization/index.html", 
+            "description": "New experiments confirm milk from H5N1-infected cows can make other animals sick \u2014\u00a0and raise questions about flash pasteurization", 
+            "title": "New tests confirm milk from flu-infected cows can make other animals sick \u2014 and raise questions about flash pasteurization - CNN"
         }, 
         {
-            "url": "https://apnews.com/article/trump-bronx-rally-minority-voters-00fae754f78333111c508d6e740a3610", 
-            "description": "Former President Donald Trump is campaigning in one of the most Democratic counties in the nation Thursday, holding a rally in the South Bronx. He's hoping to woo minority voters by appearing in one of the most diverse and impoverished neighborhoods in the ci\u2026", 
-            "title": "Election 2024: Trump campaigns in the South Bronx, trying to woo Black and Hispanic voters - The Associated Press"
+            "url": "https://variety.com/2024/film/obituaries-people-news/morgan-spurlock-dead-super-size-me-1236015338/", 
+            "description": "Morgan Spurlock, a documentary filmmaker whose McDonald's takedown \"Super Size Me\" captured the zeitgeist and an Oscar nomination, has died of cancer.", 
+            "title": "Morgan Spurlock, \u2018Super Size Me\u2019 Director, Dies at 53 - Variety"
         }, 
         {
-            "url": "https://www.cbssports.com/nba/news/celtics-vs-pacers-odds-prediction-2024-nba-eastern-conference-finals-picks-game-2-bets-by-proven-model/", 
-            "description": "SportsLine's model has made its NBA picks and predictions for Game 2 of Indiana Pacers vs. Boston Celtics in the 2024 Eastern Conference finals on Thursday", 
-            "title": "Celtics vs. Pacers odds, prediction: 2024 NBA Eastern Conference finals picks, Game 2 bets by proven model - CBS Sports"
+            "url": "https://www.nbcnews.com/news/world/israeli-military-recovers-bodies-3-hostages-killed-oct-7-gaza-hamas-rcna153869", 
+            "description": "TEL AVIV, Israel \u2014 The bodies of three more hostages who were killed in Hamas' Oct. 7 attacks were recovered from the Gaza Strip, the Israeli military said Friday, as the CIA chief headed to Europe in a bid to revive cease-fire talks and as the top United Nat\u2026", 
+            "title": "Israeli military recovers bodies of 3 more hostages from Gaza - NBC News"
         }, 
         {
-            "url": "https://www.foxnews.com/health/fish-oil-supplements-linked-greater-first-time-heart-attack-risk-not-universally-good-bad", 
-            "description": "Taking fish oil supplements could raise the risk of heart attack and stroke, a new study suggests. A cardiologist and two dietitians discuss the potential effects.", 
-            "title": "Fish oil supplements linked to greater first-time heart attack risk in study: \u2018Not universally good or bad' - Fox News"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/politics/2024/05/23/ohio-biden-ballot/", 
-            "description": "The Republican governor took the move after fellow GOP members in the state assembly were at an impasse to ensure President Biden would be on the November election ballot in his state.", 
-            "title": "Ohio governor calls special session to ensure Biden gets on ballot - The Washington Post"
-        }, 
-        {
-            "url": "https://www.foxnews.com/world/us-service-members-injured-working-gaza-humanitarian-aid-critical-condition-defense-officials", 
-            "description": "One U.S. service member is in critical condition, while two others sustained injuries unrelated to combat while working a mission to provide humanitarian aid to Gaza.", 
-            "title": "3 US service members injured on Gaza humanitarian aid mission, 1 in critical condition: Defense officials - Fox News"
-        }, 
-        {
-            "url": "https://people.com/kelly-rowland-explains-viral-confrontation-cannes-red-carpet-8653403", 
-            "description": "\"I have a boundary, and I stand by those boundaries, and that is it,\" said Kelly Rowland regarding recent footage of her in a heated exchange with security at the 2024 Cannes Film Festival.", 
-            "title": "Kelly Rowland Explains Viral Confrontation with Security on Cannes Red Carpet: 'I Stood My Ground' - PEOPLE"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/entertainment/2024/05/23/cassie-response-diddy-hotel-assault-video/", 
-            "description": "Cassie Ventura posted a statement to Instagram on Thursday, days after the release of 2016 footage that showed her being brutally assaulted by Sean \u201cDiddy\u201d Combs.", 
-            "title": "Cassie speaks out after Diddy assault video: \u2018Domestic violence is THE issue\u2019 - The Washington Post"
-        }, 
-        {
-            "url": "https://apnews.com/article/cavaliers-bickerstaff-fired-e1dbec3e48892d523f30484307183918", 
-            "description": "J.B. Bickerstaff has been fired as Cleveland\u2019s coach despite leading the Cavaliers through a major rebuild, an injury-ravaged season and into the second round of the NBA playoffs. Bickerstaff\u2019s dismissal came one week after the Cavs were eliminated in five ga\u2026", 
-            "title": "Cavaliers fire coach J.B. Bickerstaff despite back-to-back playoff appearances and steady progress - The Associated Press"
-        }, 
-        {
-            "url": "https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/", 
-            "description": "Spotify stopped making Car Things in July 2022 but kept selling them.", 
-            "title": "\u201cUnacceptable\u201d: Spotify bricking Car Thing devices in Dec. without refunds - Ars Technica"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/flags-alitos-houses-political-backlash-supreme-court-nears-end-of-term/", 
-            "description": "Justice Samuel Alito has come under scrutiny after the New York Times reported two instances of controversial flags flown outside his Virginia and New Jersey houses.", 
-            "title": "Flags outside of Alito's houses spark political backlash as Supreme Court nears end of term - CBS News"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/23/business/dow-plunges-over-600-points-as-chance-of-fed-rate-cut-diminishes/", 
-            "description": "The Dow had its worst day of 2024. The weakness was widespread and overshadowed\u00a0another blowout profit report\u00a0from market heavyweight Nvidia.", 
-            "title": "Dow plunges over 600 points as chance of Fed rate cut diminishes - New York Post "
-        }, 
-        {
-            "url": "https://ktla.com/news/local-news/watch-live-police-work-to-clear-new-pro-palestinian-protest-encampment-at-ucla/", 
-            "description": "Law enforcement officers in riot gear took quick action to dismantle another encampment built by pro-Palestinian demonstrators on the campus of UCLA on Thursday. Sky5 aerial footage showed the encampment on Kerckhoff Patio, which involved wood barricades and \u2026", 
-            "title": "WATCH LIVE: Police work to clear new pro-Palestinian protest encampment at UCLA - KTLA Los Angeles"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405060.html", 
-            "description": "Nvidia reported its fiscal first quarter earnings after the bell on Wednesday, beating analysts' expectations on the top and bottom lines while raising its...", 
-            "title": "Nvidia stock pops 9%, tops $1,000 after earnings beat forecasts, announces stock split and dividend hike - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/23/clarence-thomas-supreme-court-racial-segregation", 
-            "description": null, 
-            "title": "Clarence Thomas attacks Brown v. Board ruling in South Carolina voting map opinion - Axios"
-        }, 
-        {
-            "url": "https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c", 
-            "description": "A former New Hampshire Democratic Party chair whose phone number was spoofed in artificial intelligence-generated robocalls mimicking President Joe Biden's voice ahead of New Hampshire's presidential primary says today's charges related to the case show the s\u2026", 
-            "title": "Political consultant behind fake Biden robocalls faces $6 million fine and criminal charges - The Associated Press"
+            "url": "https://www.ksl.com/article/51022735/cdc-warns-of-multi-state-salmonella-outbreak-linked-to-backyard-poultry-including-utah", 
+            "description": "The Centers for Disease Control and Prevention said on Thursday that public health officials are investigating multi-state outbreaks of salmonella linked to contact with backyard poultry.", 
+            "title": "CDC warns of multi-state salmonella outbreak linked to backyard poultry, including Utah - KSL.com"
         }, 
         {
             "url": "https://removed.com", 
@@ -91,15 +31,75 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c900qz4wll4o", 
-            "description": "Russia's president seems to be acting on the late Wagner chief's warnings, but in his own time.", 
-            "title": "Rosenberg: Russian President Putin's military purge echoes Prigozhin's call to act - BBC.com"
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BhcHVhLW5ldy1ndWluZWEtbGFuZHNsaWRlLTg2ZmNmNDFlNjAwMTIyZmQ1NGRkY2ZiNTZiY2FiNDAz0gEA?oc=5", 
+            "description": null, 
+            "title": "More than 100 people believed killed by a landslide in Papua New Guinea, Australian media report - The Associated Press"
         }, 
         {
-            "url": "https://www.espn.com/nfl/story/_/id/40204970/giants-daniel-jones-no-doubt-ready-week-1", 
-            "description": "Giants quarterback Daniel Jones is already back on the field practicing during OTAs and has no doubt he will be ready for Week 1 against the Vikings.", 
-            "title": "Giants' Daniel Jones has no doubt he'll be ready for Week 1 - ESPN"
+            "url": "https://www.cbssports.com/college-football/news/house-v-ncaa-settlement-winners-and-losers-athletes-take-monumental-step-non-revenue-sports-at-risk/", 
+            "description": "Here are the winners and losers from the House v. NCAA settlement", 
+            "title": "House v. NCAA settlement winners and losers: Athletes take monumental step, non-revenue sports at risk - CBS Sports"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://arstechnica.com/space/2024/05/daily-telescope-observing-a-distant-star-nursery-in-unprecedented-detail/", 
+            "description": "\"Euclid\u2019s instruments can detect objects just a few times the mass of Jupiter.\"", 
+            "title": "Daily Telescope: Observing a distant star nursery in unprecedented detail - Ars Technica"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/24/politics/video/trump-bronx-black-hispanic-voters-ctm-sot-digvid", 
+            "description": "Former President Donald Trump made a campaign stop in the Bronx Thursday in an effort to appeal to Black and Hispanic voters. David Levinthal, editor-in-chief of Raw Story, joins CNN\u2019s Jessica Dean to discuss.", 
+            "title": "There are two reasons why Trump held a rally in the Bronx, panelist says - CNN"
+        }, 
+        {
+            "url": "https://www.businessinsider.com/russia-disrupting-elon-musk-starlink-satellite-service-ukraine-jamming-report-2024-5", 
+            "description": "For the first time, the Russian military has caused widespread disruptions to Starlink in Ukraine, according to The New York Times.", 
+            "title": "Russia has figured out how to mess up Ukraine's Starlink internet: NYT - Business Insider"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/video/nvidia-ceo-jensen-huang-were-110014107.html", 
+            "description": "It's hard to find a company that has gained more from the AI boom than Nvidia (NVDA). In the first quarter, the company posted a 262% rise in revenue. Its...", 
+            "title": "Nvidia CEO Jensen Huang: We're building AI factories - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/23/asia/china-taiwan-drills-explainer-intl-hnk/index.html", 
+            "description": "Tensions are once again ratcheting up in the Taiwan Strait, with China launching military drills encircling Taiwan just days after the democracy swore in a new leader long loathed by Beijing.", 
+            "title": "China has launched new drills encircling Taiwan. Why now? - CNN"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/families-marines-died-osprey-crash-file-suit-boeing-makers-aircraft-rcna153792", 
+            "description": "Families of Marines who died in a V-22 Osprey crash in California in June 2022 have filed a lawsuit accusing the makers of the twin-rotor aircraft of negligence.", 
+            "title": "Families of Marines who died in an Osprey crash sue Bell Textron, Boeing and Rolls-Royce, makers of the aircraft - NBC News"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbNIBe2h0dHBzOi8vd3d3Lm1hc3NsaXZlLmNvbS9jZWx0aWNzLzIwMjQvMDUvY2VsdGljcy1zdGFyLXRha2VzLXN1cnByaXNlLXNob3QtYXQtcGxheWVycy1hZnRlci1hbGwtbmJhLXNudWIuaHRtbD9vdXRwdXRUeXBlPWFtcA?oc=5", 
+            "description": null, 
+            "title": "Celtics star takes surprise shot at players after All-NBA snub - MassLive.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/24/europe/carlo-acutis-first-catholic-millennial-saint-intl-scli/index.html", 
+            "description": "Carlo Acutis, an Italian teenager and computer prodigy who earned the nickname \u201cGod\u2019s influencer,\u201d is set to become the Catholic Church\u2019s first millennial saint.", 
+            "title": "Italian teenager nicknamed \u2018God\u2019s influencer\u2019 set to become Catholic Church\u2019s first millennial saint - CNN"
+        }, 
+        {
+            "url": "https://www.reuters.com/markets/us/nvidias-split-soaring-stock-could-boost-retail-investor-appeal-dow-chances-2024-05-23/", 
+            "description": null, 
+            "title": "Nvidia's split of soaring stock could boost retail investor appeal, Dow chances - Reuters"
         }
     ], 
-    "last_updated": "2024-05-25 04:30:57"
+    "last_updated": "2024-05-25 17:00:03"
 }
