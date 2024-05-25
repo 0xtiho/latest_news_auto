@@ -1,24 +1,44 @@
 {
     "news": [
         {
-            "url": "https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html", 
-            "description": "All three major indexes ended Thursday's trading lower, even as Nvidia soared.", 
-            "title": "Stock futures are little changed after Dow posts worst session since March 2023: Live updates - CNBC"
+            "url": "https://sports.yahoo.com/ncaa-power-five-conferences-vote-to-approve-28b-settlement-in-house-hubbard-and-carter-cases-001736810.html", 
+            "description": "In a landmark agreement that will transform the course of major college athletics, the NCAA has left behind its archaic rules and changed the way it's going ...", 
+            "title": "NCAA, Power Five conferences vote to approve $2.8B settlement in House, Hubbard and Carter cases - Yahoo Sports"
         }, 
         {
-            "url": "https://www.yahoo.com/entertainment/riley-keoughs-battle-over-graceland-ends-company-drops-plans-for-foreclosure-sale-and-is-now-under-investigation-170228560.html", 
-            "description": "The Memphis landmark won't be changing hands after all. Here are the latest twists and turns in the unusual legal battle.", 
-            "title": "Riley Keough's battle over Graceland ends: Company drops plans for foreclosure sale and is now under investigation - Yahoo Entertainment"
+            "url": "https://www.cbsnews.com/video/justice-department-files-sweeping-antitrust-lawsuit-against-live-nation/", 
+            "description": "The Justice Department on Thursday filed an antitrust lawsuit against Ticketmaster and its parent company Live Nation, accusing the concert giant of running an illegal monopoly and driving up prices. The lawsuit, which seeks to break up Live Nation, also accu\u2026", 
+            "title": "Justice Department files sweeping antitrust lawsuit against Live Nation - CBS News"
         }, 
         {
-            "url": "https://apnews.com/article/2024-election-ohio-ballot-biden-dbed6f0c5ec75d1aa7c7ef2ca81657fa", 
-            "description": "Ohio\u2019s Republican Gov. Mike DeWine is calling a rare special session of the General Assembly next Tuesday to pass legislation ensuring that President Joe Biden is on the state\u2019s 2024 ballot. DeWine said Thursday that Ohio is \u201crunning out of time\u201d to get Biden\u2026", 
-            "title": "Ohio governor calls special session to pass legislation ensuring President Biden is on 2024 ballot - The Associated Press"
+            "url": "https://apnews.com/article/trump-bronx-rally-minority-voters-00fae754f78333111c508d6e740a3610", 
+            "description": "Former President Donald Trump is campaigning in one of the most Democratic counties in the nation Thursday, holding a rally in the South Bronx. He's hoping to woo minority voters by appearing in one of the most diverse and impoverished neighborhoods in the ci\u2026", 
+            "title": "Election 2024: Trump campaigns in the South Bronx, trying to woo Black and Hispanic voters - The Associated Press"
         }, 
         {
-            "url": "https://nypost.com/2024/05/23/world-news/us-service-member-critically-injured-2-other-troops-hurt-at-gaza-aid-pier-report/", 
-            "description": "The troops had been working to deliver humanitarian aid in Gaza, US Vice Admiral Brad Cooper, deputy commander of US Central Command, told Reuters.", 
-            "title": "US service member critically injured at Gaza aid pier: report - New York Post "
+            "url": "https://www.cbssports.com/nba/news/celtics-vs-pacers-odds-prediction-2024-nba-eastern-conference-finals-picks-game-2-bets-by-proven-model/", 
+            "description": "SportsLine's model has made its NBA picks and predictions for Game 2 of Indiana Pacers vs. Boston Celtics in the 2024 Eastern Conference finals on Thursday", 
+            "title": "Celtics vs. Pacers odds, prediction: 2024 NBA Eastern Conference finals picks, Game 2 bets by proven model - CBS Sports"
+        }, 
+        {
+            "url": "https://www.foxnews.com/health/fish-oil-supplements-linked-greater-first-time-heart-attack-risk-not-universally-good-bad", 
+            "description": "Taking fish oil supplements could raise the risk of heart attack and stroke, a new study suggests. A cardiologist and two dietitians discuss the potential effects.", 
+            "title": "Fish oil supplements linked to greater first-time heart attack risk in study: \u2018Not universally good or bad' - Fox News"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/politics/2024/05/23/ohio-biden-ballot/", 
+            "description": "The Republican governor took the move after fellow GOP members in the state assembly were at an impasse to ensure President Biden would be on the November election ballot in his state.", 
+            "title": "Ohio governor calls special session to ensure Biden gets on ballot - The Washington Post"
+        }, 
+        {
+            "url": "https://www.foxnews.com/world/us-service-members-injured-working-gaza-humanitarian-aid-critical-condition-defense-officials", 
+            "description": "One U.S. service member is in critical condition, while two others sustained injuries unrelated to combat while working a mission to provide humanitarian aid to Gaza.", 
+            "title": "3 US service members injured on Gaza humanitarian aid mission, 1 in critical condition: Defense officials - Fox News"
+        }, 
+        {
+            "url": "https://people.com/kelly-rowland-explains-viral-confrontation-cannes-red-carpet-8653403", 
+            "description": "\"I have a boundary, and I stand by those boundaries, and that is it,\" said Kelly Rowland regarding recent footage of her in a heated exchange with security at the 2024 Cannes Film Festival.", 
+            "title": "Kelly Rowland Explains Viral Confrontation with Security on Cannes Red Carpet: 'I Stood My Ground' - PEOPLE"
         }, 
         {
             "url": "https://www.washingtonpost.com/entertainment/2024/05/23/cassie-response-diddy-hotel-assault-video/", 
@@ -26,19 +46,14 @@
             "title": "Cassie speaks out after Diddy assault video: \u2018Domestic violence is THE issue\u2019 - The Washington Post"
         }, 
         {
-            "url": "https://www.sammobile.com/news/serious-leak-shows-samsung-made-repair-shops-report-customer-data-kill-devices/", 
-            "description": "How Samsung handles repairs for its devices has come under the spotlight after iFixit announced today that it's ending its ...", 
-            "title": "Serious leak shows Samsung made repair shops report customer data, kill devices - SamMobile - Samsung news"
+            "url": "https://apnews.com/article/cavaliers-bickerstaff-fired-e1dbec3e48892d523f30484307183918", 
+            "description": "J.B. Bickerstaff has been fired as Cleveland\u2019s coach despite leading the Cavaliers through a major rebuild, an injury-ravaged season and into the second round of the NBA playoffs. Bickerstaff\u2019s dismissal came one week after the Cavs were eliminated in five ga\u2026", 
+            "title": "Cavaliers fire coach J.B. Bickerstaff despite back-to-back playoff appearances and steady progress - The Associated Press"
         }, 
         {
-            "url": "https://www.wsj.com/business/media/ticketmaster-live-nation-sued-justice-department-monopoly-d9442a75", 
-            "description": null, 
-            "title": "U.S. Says Live Nation and Ticketmaster Are Monopoly, Seeks Breakup - WSJ - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/mavericks-take-game-1-cavaliers-fire-jb-bickerstaff--76ers-plan-to-pursue-third-star--no-cap-room-204654624.html", 
-            "description": "Dan Devine and Jake Fischer recap the action from Game 1 of the Western Conference Finals, the Cavaliers firing J.B. Bickerstaff and the 76ers plans to...", 
-            "title": "Mavericks take Game 1, Cavaliers fire J.B. Bickerstaff & 76ers plan to pursue third star | No Cap Room - Yahoo Sports"
+            "url": "https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/", 
+            "description": "Spotify stopped making Car Things in July 2022 but kept selling them.", 
+            "title": "\u201cUnacceptable\u201d: Spotify bricking Car Thing devices in Dec. without refunds - Ars Technica"
         }, 
         {
             "url": "https://www.cbsnews.com/news/flags-alitos-houses-political-backlash-supreme-court-nears-end-of-term/", 
@@ -46,24 +61,29 @@
             "title": "Flags outside of Alito's houses spark political backlash as Supreme Court nears end of term - CBS News"
         }, 
         {
-            "url": "https://apnews.com/article/supreme-court-redistricting-south-carolina-black-voters-864d1609b74ad74980604c26e9bfac52", 
-            "description": "The Supreme Court has preserved a Republican-held South Carolina congressional district, rejecting a lower-court ruling that the district discriminated against Black voters. The justices said Thursday the Republican-controlled state legislature did nothing wr\u2026", 
-            "title": "Supreme Court finds no bias against Black voters in a South Carolina congressional district - The Associated Press"
+            "url": "https://nypost.com/2024/05/23/business/dow-plunges-over-600-points-as-chance-of-fed-rate-cut-diminishes/", 
+            "description": "The Dow had its worst day of 2024. The weakness was widespread and overshadowed\u00a0another blowout profit report\u00a0from market heavyweight Nvidia.", 
+            "title": "Dow plunges over 600 points as chance of Fed rate cut diminishes - New York Post "
         }, 
         {
-            "url": "https://www.dw.com/en/biden-says-kenya-in-line-to-be-first-sub-saharan-nato-ally/a-69161316", 
-            "description": "Kenyan President William Ruto is the first African leader to make a state visit to Washington since 2008. US President Joe Biden announced Kenya would be made a major non-NATO ally .", 
-            "title": "Biden says Kenya in line to be first sub-Saharan NATO ally - DW (English)"
+            "url": "https://ktla.com/news/local-news/watch-live-police-work-to-clear-new-pro-palestinian-protest-encampment-at-ucla/", 
+            "description": "Law enforcement officers in riot gear took quick action to dismantle another encampment built by pro-Palestinian demonstrators on the campus of UCLA on Thursday. Sky5 aerial footage showed the encampment on Kerckhoff Patio, which involved wood barricades and \u2026", 
+            "title": "WATCH LIVE: Police work to clear new pro-Palestinian protest encampment at UCLA - KTLA Los Angeles"
         }, 
         {
-            "url": "https://techcrunch.com/2024/05/23/spotify-to-shut-off-car-thing-for-good-leading-users-to-demand-refunds/", 
-            "description": "Spotify is notifying users of its Car Thing product that the devices will stop working after December 9, 2024.", 
-            "title": "Spotify to shut off Car Thing for good, leading users to demand refunds - TechCrunch"
+            "url": "https://finance.yahoo.com/news/nvidia-stock-pops-9-tops-1000-after-earnings-beat-forecasts-announces-stock-split-and-dividend-hike-202405060.html", 
+            "description": "Nvidia reported its fiscal first quarter earnings after the bell on Wednesday, beating analysts' expectations on the top and bottom lines while raising its...", 
+            "title": "Nvidia stock pops 9%, tops $1,000 after earnings beat forecasts, announces stock split and dividend hike - Yahoo Finance"
         }, 
         {
-            "url": "https://apnews.com/article/ncaa-settlement-3e26c017980afe0ee1c6a28f77abcf5a", 
-            "description": "The NCAA and Southeastern Conference leadership have approved a $2.8 billion settlement of antitrust claims, moving college athletics closer to some of the most sweeping changes in its history. The Big Ten, ACC and Big 12 have also backed the plan. Leadership\u2026", 
-            "title": "NCAA votes to accept $2.8 billion settlement that could usher in dramatic change for college sports - The Associated Press"
+            "url": "https://www.axios.com/2024/05/23/clarence-thomas-supreme-court-racial-segregation", 
+            "description": null, 
+            "title": "Clarence Thomas attacks Brown v. Board ruling in South Carolina voting map opinion - Axios"
+        }, 
+        {
+            "url": "https://apnews.com/article/biden-robocalls-ai-new-hampshire-charges-fines-9e9cc63a71eb9c78b9bb0d1ec2aa6e9c", 
+            "description": "A former New Hampshire Democratic Party chair whose phone number was spoofed in artificial intelligence-generated robocalls mimicking President Joe Biden's voice ahead of New Hampshire's presidential primary says today's charges related to the case show the s\u2026", 
+            "title": "Political consultant behind fake Biden robocalls faces $6 million fine and criminal charges - The Associated Press"
         }, 
         {
             "url": "https://removed.com", 
@@ -71,35 +91,15 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.wdrb.com/in-depth/louisville-police-detective-disciplined-for-failing-to-turn-on-body-camera-during-scottie-schefflers-arrest/article_4bea068e-1912-11ef-8067-37ffc723ae29.html", 
-            "description": "Louisville Metro Police Detective Bryan Gillis should have had his body camera turned on when he arrested pro golfer Scottie Scheffler last week and has been disciplined, Chief Jacquelyn Gwinn-Villaroel", 
-            "title": "Louisville police detective disciplined for failing to turn on body camera during Scottie Scheffler's arrest - WDRB"
-        }, 
-        {
             "url": "https://www.bbc.com/news/articles/c900qz4wll4o", 
             "description": "Russia's president seems to be acting on the late Wagner chief's warnings, but in his own time.", 
             "title": "Rosenberg: Russian President Putin's military purge echoes Prigozhin's call to act - BBC.com"
         }, 
         {
-            "url": "https://www.sciencealert.com/crows-can-actually-count-out-loud-amazing-new-study-shows", 
-            "description": "It's no secret that corvids are capable of some amazing feats of creative and intelligent thinking, but a newly discovered ability has us stunned.", 
-            "title": "Crows Can Actually Count Out Loud, Amazing New Study Shows - ScienceAlert"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper", 
-            "description": "Daylight Computer is claiming to have invented a new kind of display, which it calls LivePaper, and has built a new tablet that it says will help reset our relationship with tech.", 
-            "title": "Daylight DC1: a new tablet with a better screen and no blue backlight - The Verge"
-        }, 
-        {
-            "url": "https://www.reuters.com/markets/us/nasdaq-sp-500-futures-pop-nvidia-fuels-chip-stocks-rally-2024-05-23/", 
-            "description": null, 
-            "title": "Nasdaq jumps on Nvidia results cheer, inflation woes drag broader market - Reuters.com"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/23/24162627/euclid-space-telescope-images-dark-matter-rogue-planet", 
-            "description": "The first science release from the Euclid space telescope showcases tens of thousands of galaxies and other celestial phenomenons.", 
-            "title": "Euclid space telescope captures tens of thousands of glittering galaxies - The Verge"
+            "url": "https://www.espn.com/nfl/story/_/id/40204970/giants-daniel-jones-no-doubt-ready-week-1", 
+            "description": "Giants quarterback Daniel Jones is already back on the field practicing during OTAs and has no doubt he will be ready for Week 1 against the Vikings.", 
+            "title": "Giants' Daniel Jones has no doubt he'll be ready for Week 1 - ESPN"
         }
     ], 
-    "last_updated": "2024-05-25 03:00:48"
+    "last_updated": "2024-05-25 03:30:45"
 }
