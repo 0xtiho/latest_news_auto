@@ -1,14 +1,29 @@
 {
     "news": [
         {
-            "url": "https://www.tomsguide.com/live/news/best-memorial-day-weekend-sales-to-shop-2024", 
-            "description": "Start your Memorial Day shopping now", 
-            "title": "I've been covering Memorial Day sales for 15 years \u2014 here are the deals I'd shop this weekend - Tom's Guide"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.usatoday.com/story/news/politics/elections/2024/05/24/white-house-state-dinner-kenyan-president/73832365007/", 
-            "description": null, 
-            "title": "White House's Kenya state dinner takeaways: Orchids and Obama cameo - USA TODAY"
+            "url": "https://www.washingtonpost.com/nation/2024/05/25/george-floyd-anniversary-retrenchment/", 
+            "description": "Four years after George Floyd\u2019s murder, two Washington Post reporters reflect on the retrenchment of the racial-justice movement sparked by his death.", 
+            "title": "Perspective | Four years later, has the racial-justice movement lost the fight? - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cbssports.com/mlb/news/bryce-harper-gets-ejected-in-the-middle-of-first-inning-insinuates-umpire-brian-walsh-isnt-a-professional/", 
+            "description": "Harper had some thoughts to share postgame about Walsh", 
+            "title": "Bryce Harper gets ejected in the middle of first inning, insinuates umpire Brian Walsh isn't a 'professional' - CBS Sports"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/health/2024/05/25/fatigue-malaise-anemia-diagnosis-profile/", 
+            "description": "When a 39-year-old woman complained of feeling \u201coff,\u201d her doctors mostly blamed stress. A key reason: She didn\u2019t fit the profile for a devastating disease.", 
+            "title": "A devastating diagnosis followed months of malaise, uncertainty - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/25/sport/caitlin-clark-indiana-fever-la-sparks-2024-spt-intl/index.html", 
+            "description": "Caitlin Clark hit what was a victory-sealing three-pointer to help lift the Indiana Fever to their first win of the season on Friday night against the LA Sparks.", 
+            "title": "Caitlin Clark hits important late three-pointer to lift Indiana Fever to first victory of the season over LA Sparks - CNN"
         }, 
         {
             "url": "https://sports.yahoo.com/nba-playoffs-luka-doncic-drops-32-and-the-game-winner-as-mavericks-take-2-0-lead-030811472.html", 
@@ -16,14 +31,39 @@
             "title": "NBA playoffs: Luka Don\u010di\u0107 drops 32 and the game-winner as Mavericks take 2-0 lead - Yahoo Sports"
         }, 
         {
+            "url": "https://www.cnbc.com/2024/05/25/resort-day-passes.html", 
+            "description": "ResortPass holds 95% of the day-guest market and has partnered with luxury hotels including the Waldorf-Astoria, JW Marriott and Fontainebleau.", 
+            "title": "Rise of resort day passes offers travelers luxury on a budget - CNBC"
+        }, 
+        {
             "url": "https://www.ndtv.com/entertainment/stranger-things-star-millie-bobby-brown-is-now-married-to-fiance-jon-bon-jovi-details-inside-5743300", 
             "description": "The couple got engaged in April last year", 
             "title": "Stranger Things Star Millie Bobby Brown Is Now Married To Fiance Jon Bon Jovi. Details Inside - NDTV Movies"
         }, 
         {
-            "url": "https://timesofindia.indiatimes.com/world/us/american-family-members-consume-uncooked-bear-meat-infected-with-brain-worms/articleshow/110419995.cms", 
-            "description": "US News: American family members infected with brain worms after eating undercooked bear meat at a gathering. Incident in July 2022, 29-year-old man hospitaliz", 
-            "title": "American family members consume uncooked bear meat, infected with brain worms - The Times of India"
+            "url": "https://abcnews.go.com/US/severe-weather-onslaught-continues-big-storms-threaten-holiday/story?id=110557587", 
+            "description": "Over 8 million people across seven states are facing dangerous weather.", 
+            "title": "Severe weather onslaught continues as big storms threaten holiday travel - ABC News"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/25/trump-hush-money-gag-order-sentencing-00159995", 
+            "description": null, 
+            "title": "Trump is still pushing the limits of the gag order. It could come back to haunt him at sentencing. - POLITICO"
+        }, 
+        {
+            "url": "https://www.bloomberg.com/news/articles/2024-05-25/yellen-says-higher-path-for-rates-boosts-need-to-lift-revenue", 
+            "description": "Treasury Secretary Janet Yellen said the outlook for higher interest rates over the long haul makes it tougher to contain US borrowing needs, heightening the importance of boosting revenue in negotiations with Republican lawmakers.", 
+            "title": "Yellen Says Higher Path for Rates Boosts Need to Lift Revenue - Bloomberg"
+        }, 
+        {
+            "url": "https://apnews.com/article/india-national-election-voting-closing-phases-540927f81662ec429a3957235a5635cd", 
+            "description": "Millions of Indians are voting in the next-to-last round of a grueling national election in the searing summer heat. The combined opposition is trying to rattle Prime Minister Narendra Modi\u2019s campaign for a third-consecutive term for himself and his Hindu nat\u2026", 
+            "title": "Lok Sabha elections 2024: Millions vote as Phase 6 polls get underway - The Associated Press"
+        }, 
+        {
+            "url": "https://www.foxnews.com/media/five-most-eyebrow-raising-liberal-reactions-trumps-bronx-rally", 
+            "description": "Far-left figures on MSNBC and Democratic politicians in New York lashed out at Donald Trump's campaign rally in the Bronx this week, claiming it was \"fake.\"", 
+            "title": "Five of the most eyebrow-raising liberal reactions to Trump's Bronx rally - Fox News"
         }, 
         {
             "url": "https://nypost.com/2024/05/25/us-news/north-carolina-groundskeeper-justin-clontz-discovers-mysterious-space-debris-along-hiking-trail-near-glamping-collective/", 
@@ -31,14 +71,14 @@
             "title": "North Carolina groundskeeper discovers mysterious space debris along hiking trail: 'It's not from up here' - New York Post "
         }, 
         {
+            "url": "https://www.businessinsider.com/what-is-going-on-with-economy-recession-unemployment-inflation-gdp-2024-5", 
+            "description": "Hey, America, we are not in a recession, we haven't been in one for quite some time, and there isn't one coming soon.", 
+            "title": "Hey, America, here's what's actually going on with the economy - Business Insider"
+        }, 
+        {
             "url": "https://www.wsj.com/us-news/law/doj-ticketmaster-live-nation-lawsuit-taylor-swift-1468add1", 
             "description": "The \u2018Eras Tour\u2019 singer\u2019s presence looms over the antitrust lawsuit", 
             "title": "It's Taylor Swift's World. The Government Is Just Suing Ticketmaster in It. - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://www.businessinsider.com/hunters-point-florida-homes-disaster-hurricane-proof-neighborhood-net-zero-2024-5", 
-            "description": "The houses, built 16 feet above sea level and powered by solar and battery, are the future of climate-resilient construction, their builder said.", 
-            "title": "See new Florida homes meant to be disaster-proof, survive hurricanes - Business Insider"
         }, 
         {
             "url": "https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet", 
@@ -46,60 +86,20 @@
             "title": "Google just updated its algorithm. The Internet will never be the same - BBC.com"
         }, 
         {
-            "url": "https://www.usatoday.com/story/news/politics/elections/2024/05/25/george-floyd-racism-backlash/73548393007/", 
-            "description": "George Floyd's death at the hands of police seemed to mark a turning point in America's race relations, but politics has overtaken the response.", 
-            "title": "Racism was supposed to change after George Floyd. Backlash followed. - USA TODAY"
+            "url": "https://www.dw.com/en/israel-hamas-war-israel-calls-icj-charges-morally-repugnant/live-69179825", 
+            "description": "Genocide charges brought by South Africa were \"morally repugnant,\" Israel said in a statement issued after the International Court of Justice ordered Israel to \"immediately halt\" its military offensive. DW has more.", 
+            "title": "Israel-Hamas war: ICJ charges 'morally repugnant' \u2014 Israel \u2013 DW \u2013 05/25/2024 - DW (English)"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/25/world/nasa-prefire-mission-launch-scn/index.html", 
-            "description": "NASA has launched the first of two research satellites to measure how much heat is lost to space from the Arctic and Antarctica.", 
-            "title": "NASA PREFIRE mission launches to study Earth\u2019s polar regions - CNN"
+            "url": "https://nypost.com/2024/05/25/us-news/pennsylvania-man-bryan-hagerich-returns-home-after-arrest-in-turks-and-caicos/", 
+            "description": "Hagerich said his detention was the \u201chardest time of my life\u201d being separated from his family.", 
+            "title": "Pennsylvania dad returns home after detainment in Turks and Caicos for ammo in his luggage - New York Post "
         }, 
         {
             "url": "https://cointelegraph.com/news/korea-under-pressure-to-approve-crypto-etfs-following-us-example", 
             "description": null, 
             "title": "US ETH ETF approval pressures Korean regulators - Cointelegraph"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/24/alito-censure-flag-jan-6-democrats", 
-            "description": null, 
-            "title": "Efforts to censure Samuel Alito over Jan. 6 flag controversy gain traction in Congress - Axios"
-        }, 
-        {
-            "url": "https://chicago.suntimes.com/horoscopes/2024/05/25/horoscopes-today-saturday-may-25-2024", 
-            "description": null, 
-            "title": "Horoscope for Saturday, May 25, 2024 - Chicago Sun-Times"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/25/sports/barclay-goodrow-joins-legendary-rangers-company-with-game-2-winner/", 
-            "description": "Barclay Goodrow joined an exclusive list of Rangers players with overtime tallies in the conference finals or Stanley Cup Final.", 
-            "title": "Barclay Goodrow joins legendary Rangers company with Game 2 OT winner vs. Panthers - New York Post "
-        }, 
-        {
-            "url": "https://www.espn.com/wnba/story/_/id/40214046/caitlin-clark-deep-3-buries-sparks-secures-fever-1st-win", 
-            "description": "Off nearly all night, Caitlin Clark drained two late 3-pointers to seal a 78-73 win over the Sparks, snapping the Fever's season-opening five-game skid.", 
-            "title": "Caitlin Clark's deep 3 buries Sparks, secures Fever's 1st win - ESPN"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/25/us-news/biden-to-address-trump-hush-money-verdict-from-wh/", 
-            "description": "Biden will deliver remarks regardless of whether the 77-year-old former president is convicted or acquitted or the jury cannot agree on a verdict.", 
-            "title": "Biden plans to address Trump \u2018hush money\u2019 verdict from the White House: report - New York Post "
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy53c2ouY29tL3dvcmxkL21pZGRsZS1lYXN0L3RoZS11LXMtYnVpbHQtYS0zMjAtbWlsbGlvbi1waWVyLXRvLWdldC1haWQtdG8tZ2F6YW5zLWxpdHRsZS1vZi1pdC1oYXMtcmVhY2hlZC10aGVtLWYxNGUwMTc10gEA?oc=5", 
-            "description": null, 
-            "title": "The U.S. Built a $320 Million Pier to Get Aid to Gazans. Little of It Has Reached Them. - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://arstechnica.com/space/2024/05/nasa-and-boeing-are-getting-comfortable-launching-starliner-with-a-known-leak/", 
-            "description": "Fixing the helium leak would delay Starliner crew test flight for months.", 
-            "title": "NASA finds more issues with Boeing's Starliner, but crew launch set for June 1 - Ars Technica"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/us/louisiana-governor-signs-bill-classifying-abortion-pills-controlled-substances-2024-05-24/", 
-            "description": null, 
-            "title": "Louisiana becomes first US state to classify abortion pills as controlled substances - Reuters"
         }
     ], 
-    "last_updated": "2024-05-26 17:09:52"
+    "last_updated": "2024-05-26 17:30:05"
 }
