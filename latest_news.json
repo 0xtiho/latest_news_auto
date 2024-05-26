@@ -1,9 +1,54 @@
 {
     "news": [
         {
-            "url": "https://www.detroitnews.com/story/business/autos/2024/05/24/uaw-asks-nlrb-to-reject-mercedes-vote-results-order-new-election/73840811007/", 
-            "description": "The Detroit-based union argues that the German automaker fired four pro-union workers and committed other discriminatory actions.", 
-            "title": "UAW asks NLRB to reject Mercedes vote results, order new election - Detroit News"
+            "url": "https://www.cnn.com/2024/05/24/us/american-missionary-couple-haiti/index.html", 
+            "description": "Three missionaries, including a married couple from the US, were killed in Haiti\u2019s capital, Port-au-Prince, on\u00a0Thursday evening.", 
+            "title": "Three missionaries, including American couple, killed by gang in Haiti - CNN"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=u8U9PzmqR8g", 
+            "description": "Join Bobby Karalla as he gets you ready for Game 2 of the Western Conference Finals between the Dallas Mavericks and Minnesota Timberwolves.Join Club Maveric...", 
+            "title": "Mavs/Wolves Game 2 Pregame LIVE! - Dallas Mavericks"
+        }, 
+        {
+            "url": "https://pagesix.com/2024/05/24/photos/millie-bobby-brown-and-jake-bongiovi-flaunt-wedding-rings-after-secretly-tying-the-knot/", 
+            "description": "According to photos, the \u201cStranger Things\u201d star and her new beau were all smiles as they were in a baby blue convertible after doing some shopping.", 
+            "title": "Millie Bobby Brown and Jake Bongiovi flaunt wedding rings on Hamptons shopping spree after secretly tying the knot - Page Six"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/world-court-rule-request-halt-israels-rafah-offensive-2024-05-24/", 
+            "description": null, 
+            "title": "World Court orders Israel to halt assault on Gaza's Rafah - Reuters"
+        }, 
+        {
+            "url": "https://www.foxnews.com/health/undercooked-bear-meat-blame-infecting-family-rare-roundworm-parasite-cdc", 
+            "description": "A family was infected with a rare parasite after eating undercooked black bear meat that was harvested in Canada, the U.S. Centers for Disease Control and Prevention said.", 
+            "title": "Undercooked bear meat to blame for infecting family with rare roundworm parasite: CDC - Fox News"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/us-news/alec-baldwin-involuntary-manslaughter-continue-rcna152672", 
+            "description": "Alec Baldwin is set to stand trial on a charge of involuntary manslaughter in the 2021 killing of \u201cRust\u201d cinematographer Halyna Hutchins after a New Mexico judge denied the actor\u2019s bid to dismiss the case Friday.", 
+            "title": "Alec Baldwin's involuntary manslaughter case in 'Rust' shooting to continue - NBC News"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/nation/2024/05/24/uvalde-lawsuits-daniel-defense-meta-activision/", 
+            "description": "The attorney representing Uvalde families announced several new lawsuits aimed at Meta, the manufacturer of video game \u201cCall of Duty\u201d and gunmaker Daniel Defense.", 
+            "title": "Uvalde families sue gun manufacturer Facebook parent company - The Washington Post"
+        }, 
+        {
+            "url": "https://arstechnica.com/security/2024/05/newly-discovered-ransomware-uses-bitlocker-to-encrypt-victim-data/", 
+            "description": "ShrinkLocker is the latest ransomware to use Windows' full-disk encryption.", 
+            "title": "Newly discovered ransomware uses BitLocker to encrypt victim data - Ars Technica"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/24/nx-s1-4978680/house-ncaa-settlement-pay-college-athletes", 
+            "description": "The proposed legal settlement by the NCAA and its Power Five conferences would allow schools to directly pay athletes. But questions remain, including whether men and women will be paid equally.", 
+            "title": "What we know and what we don't about a historic settlement to pay college athletes - NPR"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/tech/tech-news/google-ai-im-feeling-depressed-cheese-not-sticking-to-pizza-error-rcna153301", 
+            "description": "Google's AI overview is facing online mockery after several of its answers, and some fake ones, have gone viral on social media.", 
+            "title": "Google\u2019s AI faces social media mockery after viral errors - NBC News"
         }, 
         {
             "url": "https://www.politico.com/news/2024/05/24/biden-trump-trial-verdict-00159981", 
@@ -11,19 +56,14 @@
             "title": "Biden has stayed silent on Trump's trial. The verdict will change that. - POLITICO"
         }, 
         {
-            "url": "https://www.ft.com/content/c0cab874-2a84-493e-af48-6ec0aec0e560", 
-            "description": "Billionaire\u2019s endorsement could lead to more Wall Street money for the former president\u2019s campaign", 
-            "title": "Blackstone chief Stephen Schwarzman backs Donald Trump - Financial Times"
+            "url": "https://abcnews.go.com/Health/cdc-preparing-possibility-increased-risk-human-health-bird/story?id=110542040", 
+            "description": "The CDC says the current risk to the general population is low.", 
+            "title": "CDC preparing for 'possibility of increased risk to human health' from bird flu - ABC News"
         }, 
         {
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/settlements-are-the-beginning-not-the-end-of-college-sports-antitrust-reckoning", 
-            "description": "Without a real solution, there will be more lawsuits.", 
-            "title": "Settlements are the beginning, not the end, of college sports' antitrust reckoning - NBC Sports"
-        }, 
-        {
-            "url": "https://www.texastribune.org/2024/05/24/uvalde-shooting-lawsuits-gunmaker-instagram-texas/", 
-            "description": "The lawsuit accuses Daniel Defense, the manufacturer of the shooter\u2019s weapon, of marketing its products to young people.", 
-            "title": "Uvalde families sue gun manufacturer, Instagram, Activision - The Texas Tribune"
+            "url": "https://www.cnn.com/2024/05/24/health/dairy-cow-meat-bird-flu/index.html", 
+            "description": "Meat from a dairy cow that was culled from its herd and sent to slaughter has tested positive for traces of the H5N1 bird flu virus, the US Department of Agriculture announced Friday, but no meat from the cow entered the food supply.", 
+            "title": "Meat from condemned dairy cow tested positive for H5N1 flu virus but did not enter food supply, USDA says - CNN"
         }, 
         {
             "url": "https://thehill.com/policy/healthcare/4684914-colon-cancer-early-signs-young-adults-diagnosis-delayed/", 
@@ -31,75 +71,35 @@
             "title": "Why younger adults are missing early signs of colon cancer - The Hill"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=pHlrkNTcnP8", 
-            "description": "Aaron Rodgers said that the New York Jets will be \u201cmust-watch TV\u201d in an interview. Jason McIntyre and Chase Daniel discuss the expectations on the Jets this ...", 
-            "title": "Jets are \u2018must-watch TV\u2019, Chiefs early bye week, Can Jim Harbaugh develop Herbert? | NFL | THE HERD - The Herd with Colin Cowherd"
+            "url": "https://www.yahoo.com/lifestyle/the-best-memorial-day-deals-over-50-off--save-hundreds-at-target-wayfair-macys-and-more-200645165.html", 
+            "description": "Adidas, All-Clad, Coach, Staub: Get deep discounts on sneakers, kitchen gear, luggage, patio furniture and tech from all your favorite retailers.", 
+            "title": "The best Memorial Day deals over 50% off \u2014 save hundreds at Target, Wayfair, Macy's and more - Yahoo Life"
+        }, 
+        {
+            "url": "https://apnews.com/article/alito-flag-supreme-court-roberts-justice-senate-104ded51a089642a7a449b3d3234a3e6", 
+            "description": "Two Democratic senators are requesting a meeting with Chief Justice John Roberts after reports that two separate flags carried by rioters at the Jan. 6, 2021, attack on the Capitol had flown outside of houses owned by Justice Samuel Alito. Senate Judiciary Ch\u2026", 
+            "title": "Democratic senators request meeting with Chief Justice Roberts over flags flown at Alito's homes - The Associated Press"
+        }, 
+        {
+            "url": "https://www.space.com/boeing-starliner-launch-date-helium-leak", 
+            "description": "\"We really just needed to work through it as a team.\"", 
+            "title": "'It's so complicated:' Boeing Starliner teams diagnosing helium leak ahead of June 1 astronaut launch - Space.com"
         }, 
         {
             "url": "https://www.reuters.com/world/uk/more-uk-conservative-lawmakers-set-quit-than-before-1997-election-defeat-2024-05-24/", 
-            "description": null, 
+            "description": "British Prime Minister Rishi Sunak is facing a mass departure of lawmakers with the number of resignations surpassing the level the Conservative Party suffered before a landslide defeat in the 1997 election.", 
             "title": "More UK Conservative lawmakers set to quit than before 1997 election defeat - Reuters UK"
         }, 
         {
-            "url": "https://www.eonline.com/news/1402371/millie-bobby-brown-marries-jake-bongiovi-in-private-ceremony", 
-            "description": "Stranger Things actress Millie Bobby Brown married Jake Bongiovi, the son of singer Jon Bon Jovi, during a private ceremony one year after getting engaged.", 
-            "title": "Millie Bobby Brown Marries Jake Bongiovi in Private Ceremony - E! NEWS"
+            "url": "https://www.cnbc.com/2024/05/24/uaw-mercedes-benz-challenge.html", 
+            "description": "The UAW alleges Mercedes-Benz fired pro-union workers, forced workers to attend anti-union meetings, and interfered with workers' ability to advocate.", 
+            "title": "UAW challenges Mercedes-Benz union vote, asks NLRB for new election - CNBC"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/planetary-alignment-what-to-know-june-3-2024/", 
-            "description": "The orbits of six planets will bring them to the same side of the sun to create a \"planetary parade\" in early June.", 
-            "title": "A rare 6-planet alignment will occur next month. Here's what to know. - CBS News"
-        }, 
-        {
-            "url": "https://www.livescience.com/technology/artificial-intelligence/googles-ai-tells-users-to-add-glue-to-their-pizza-eat-rocks-and-make-chlorine-gas", 
-            "description": "Social media has been flooded with bizarre and dangerous advice that appears to have been made by Google's new AI feature.", 
-            "title": "Google's AI tells users to add glue to their pizza, eat rocks and make chlorine gas - Livescience.com"
-        }, 
-        {
-            "url": "https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/", 
-            "description": "Clearing blocked filters and clogged valves is the order of the day.", 
-            "title": "SpaceX sets date for next Starship flight, explains what went wrong the last time - Ars Technica"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/memorial-day-weekend-forecast-bring-severe-weather-tornadoes/story?id=110528770", 
-            "description": "The highest tornado threat on Friday will be in Wisconsin, Illinois and Iowa.", 
-            "title": "Memorial Day weekend weather: Tornadoes and record-high temperatures - ABC News"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/boston/news/karen-read-trial-live-stream-today-brian-higgins/", 
-            "description": "Brian Higgins took the stand today for Day 17 of testimony in the Karen Read case. You can watch a live stream of the trial here.", 
-            "title": "Watch Live: \"Flirty\" texts between Karen Read, Brian Higgins revealed in murder trial testimony - CBS Boston"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/24/icj-ruling-israel-gaza", 
-            "description": null, 
-            "title": "ICJ orders Israel to halt military offensive in Rafah - Axios"
-        }, 
-        {
-            "url": "https://www.yahoo.com/news/american-missionary-couple-killed-gang-150126309.html", 
-            "description": null, 
-            "title": "American missionary couple killed by gang in Haiti, family says - Yahoo! Voices"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/24/boeing-nasa-starliner-astronaut-launch-moving-forward.html", 
-            "description": "Boeing and NASA are moving forward with a June 1 launch attempt of the first crewed Starliner mission despite a \"stable\" leak in its propulsion system.", 
-            "title": "Boeing, NASA say Starliner astronaut launch will move forward despite spacecraft helium leak - CNBC"
-        }, 
-        {
-            "url": "https://www.ft.com/content/5fdb360d-bdf0-4de0-acf1-c6e17f203cd6", 
-            "description": "Opposition seeks to curb new president\u2019s administration while Beijing sends fighters, bombers and navy to patrol around island", 
-            "title": "Taiwan in political turmoil as China steps up military intimidation - Financial Times"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/investigations/2024/05/24/edan-on-arrested-ucla-protest-attack/73836881007/", 
-            "description": "The arrest comes after media reports identified him as a participant in the attack.", 
-            "title": "Edan On arrested by UCLA, charged with felony assault on protesters - USA TODAY"
-        }, 
-        {
-            "url": "https://www.nbcsportsboston.com/nba/boston-celtics/jaylen-brown-celtics-pacers-conference-finals-history/615837/?partner=yahoo", 
-            "description": "Here's how Jaylen Brown made Celtics playoff history in Game 2 of the Eastern Conference Finals.", 
-            "title": "Jaylen Brown became first Celtics player to achieve this playoff feat - Yahoo Sports"
+            "url": "https://apnews.com/article/israel-palestinians-hostages-16eb31044551df186a934dc66e3948aa", 
+            "description": "Egypt says it has agreed to send U.N. humanitarian aid trucks through Israel\u2019s main crossing into Gaza. But it remains unclear if the aid will be able to enter the territory as fighting raged in the southern city of Rafah amid Israel\u2019s escalating offensive th\u2026", 
+            "title": "Israeli army finds bodies of 3 more hostages in Gaza - The Associated Press"
         }
     ], 
-    "last_updated": "2024-05-26 03:00:48"
+    "last_updated": "2024-05-26 03:30:50"
 }
