@@ -1,44 +1,64 @@
 {
     "news": [
         {
+            "url": "https://www.bbc.com/news/articles/cxxxp1w6e2ro", 
+            "description": "Powerful storms devastate areas in Texas, Arkansas and Oklahoma and leave hundreds of thousands without power.", 
+            "title": "Tornadoes rip through Texas, Arkansas and Oklahoma, killing 14 - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/26/sport/indy-500-spt-intl/index.html", 
+            "description": "The Indy 500, one of the most prestigious and highly-anticipated events of the motorsport calendar, is set to begin Sunday afternoon after extreme weather marred the race\u2019s buildup.", 
+            "title": "Indy 500: Iconic motorsport race set to begin after extreme weather delays - CNN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/26/politics/video/donald-trump-libertarian-convention-booed-heckled-contorno-ctmwknd-vpx", 
+            "description": "Former President Donald Trump was loudly and consistently booed throughout his speech to the Libertarian convention, particularly when he asked attendees to \u201cnominate me or at least vote for me.\u201d CNN\u2019s Steve Contorno reports.", 
+            "title": "Watch Trump react to getting booed at Libertarian convention - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/boston/news/amc-theater-massachusetts-stabbing-braintree/", 
+            "description": "A man stabbed four girls inside a theater at an AMC multiplex in Braintree, Massachusetts, police said.", 
+            "title": "4 girls hurt during unprovoked stabbing attack in AMC movie theater near Boston; suspect arrested - CBS Boston"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/grayson-murray-two-time-pga-tour-winner-dies-by-suicide-at-age-30-191304558.html", 
+            "description": "Grayson Murray won two PGA tournaments, including the Sony Hawaii Open this past January.", 
+            "title": "Grayson Murray, two-time PGA Tour winner, dies by suicide at age 30 - Yahoo Sports"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-26-2024-eb25eb70d2c7b9e6bcd0497060eccbca", 
+            "description": "Palestinian medics say an Israeli airstrike has killed at least 22 people when it hit tents for displaced people in the southern Gaza city of Rafah. They say \u201cnumerous\u201d others are trapped in the debris. The strike Sunday came two days after the International \u2026", 
+            "title": "Palestinian medics say Israeli airstrike kills 22 in Gaza's Rafah as displaced people are hit - The Associated Press"
+        }, 
+        {
+            "url": "https://variety.com/2024/film/global/jesse-eisenberg-polish-citizenship-a-real-pain-1236016839/", 
+            "description": "'Social Network\u2019 star\u00a0Jesse Eisenberg applies for Polish citizenship after shooting \u2018A Real Pain\u2019 in Poland", 
+            "title": "Jesse Eisenberg Applies for Polish Citizenship: \u2018I Would Love to Create Better Relationships Between Jews and Polish People\u2019 - Variety"
+        }, 
+        {
             "url": "https://ew.com/nicki-minaj-arrested-amsterdam-airport-alleged-drug-possession-8654055", 
             "description": "Nicki Minaj recorded Dutch police officers arresting her for alleged drug possession at an Amsterdam airport.", 
             "title": "Nicki Minaj arrested at Amsterdam airport for alleged drug possession - Entertainment Weekly News"
         }, 
         {
-            "url": "https://www.eonline.com/news/1402429/kourtney-kardashian-reacts-to-son-mason-disick-officially-joining-instagram", 
-            "description": "Mason Disick, 14, officially joined Instagram and his mom Kourtney Kardashian and aunts Kim Kardashian and Khloe Kardashian had some thoughts. Find out what they said and see the teen's first posts.", 
-            "title": "Kourtney Kardashian Reacts to Son Mason Officially Joining Instagram - E! NEWS"
+            "url": "https://apnews.com/article/paris-avenue-giant-picnic-82b6afa486a40a50d777f762c427f995", 
+            "description": "The French capital\u2019s most famous street has been transformed into a massive picnic blanket. Around 4,000 people sat in the sun on Sunday enjoying an al fresco meal on the Champs-Elysees Avenue. The lucky picnickers were selected in a draw and provided with fr\u2026", 
+            "title": "Paris' traffic-clogged Champs-Elysees turned into a mass picnic blanket for an unusual meal - The Associated Press"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c722qy5dzlgo", 
-            "description": "The presumptive Republican nominee was loudly jeered while addressing the Libertarian convention.", 
-            "title": "Donald Trump heckled and booed at Libertarian convention - BBC.com"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.bbc.com/sport/football/articles/crgg3l3563eo", 
-            "description": "The future of manager Erik ten Hag will be discussed when senior figures at Manchester United begin conducting an end of season review this week.", 
-            "title": "Manchester United: Erik ten Hag's future under discussion at club - BBC.com"
+            "url": "https://www.motorsport.com/f1/news/leclerc-struggled-to-see-through-tears-on-way-to-monaco-gp-win/10616202/", 
+            "description": null, 
+            "title": "Leclerc struggled to see through tears on way to Monaco GP win - Motorsport.com"
         }, 
         {
-            "url": "https://abcnews.go.com/US/4-stabbed-massachusetts-movie-theater-suspect-arrested-police/story?id=110568595", 
-            "description": "Four girls sustained non-life-threatening injuries, police said.", 
-            "title": "4 stabbed in Massachusetts movie theater, suspect arrested, police say - ABC News"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/box-office/global-box-office-furiosa-stalls-garfield-movie-nears-100-million-1236016790/", 
-            "description": "\"Furiosa\" stalls at the global box office while \"The Garfield Movie\" nears the $100 million mark.", 
-            "title": "Global Box Office: \u2018Furiosa\u2019 Stalls With $58 Million, \u2018The Garfield Movie\u2019 Nears $100 Million - Variety"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/26/world/qatar-airways-turbulence-dublin-injured-intl/index.html", 
-            "description": "Six passengers and six cabin crew were injured after a Qatar Airways flight from Doha to Dublin was hit with turbulence on Sunday.", 
-            "title": "12 people injured during turbulence on Qatar Airways flight - CNN"
-        }, 
-        {
-            "url": "https://apnews.com/article/tornadoes-weather-texas-oklahoma-93001e1d81f120d0d55c8dfa24938250", 
-            "description": "Powerful storms have killed at least 11 people and left a wide trail of destruction across Texas, Oklahoma and Arkansas. The weather obliterated homes and destroyed a truck stop where drivers took shelter during the latest deadly weather to strike the central\u2026", 
-            "title": "Severe weather: More than 10 dead across Texas, Oklahoma, Arkansas - The Associated Press"
+            "url": "https://www.cbsnews.com/news/turbulence-hits-qatar-airways-flight-to-dublin-injuring-12-people/", 
+            "description": "The flight QR107, which landed in Dublin just before 1 p.m. local time, experienced turbulence while airborne over Turkey, Dublin Airport officials said in a statement.", 
+            "title": "Turbulence hits Qatar Airways flight to Dublin, injuring 12 people - CBS News"
         }, 
         {
             "url": "http://9to5google.com/2024/05/26/google-search-ai-overviews-helpful/", 
@@ -46,19 +66,9 @@
             "title": "Google Search AI can be helpful, just not with Overviews - 9to5Google"
         }, 
         {
-            "url": "https://www.espn.com/golf/story/_/id/40222743/family-reveals-pga-tour-golfer-grayson-murray-died-suicide", 
-            "description": "PGA Tour golfer Grayson Murray died by suicide, his family said Sunday. \"Life wasn't always easy for Grayson,\" his parents said. \"... We know he rests peacefully now.\"", 
-            "title": "Family says PGA Tour golfer Grayson Murray died by suicide - ESPN"
-        }, 
-        {
             "url": "https://thehill.com/homenews/house/4686828-pennsylvania-democrat-madeleine-dean-samuel-alito-flag-controversy-wife/", 
             "description": "Rep. Madeleine Dean (D-Pa.) in a Sunday interview blasted Supreme Court Justice Samuel Alito for blaming his wife for displaying the upside-down flag outside his home in the days following the Jan. 6, 2021, attack on the Capitol. In an interview on NewsNation\u2026", 
             "title": "Pennsylvania Democrat blasts Alito for blaming flag controversy on his wife - The Hill"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/sports/ferraris-charles-leclerc-wins-home-f1-race-monaco-breaking-curse-rcna154113", 
-            "description": "Ferrari's Charles Leclerc won the Monaco Grand Prix on Sunday with a flawless lights-to-flag victory, securing one of the most coveted trophies in Formula 1 for the first time in his career.", 
-            "title": "Ferrari's Charles Leclerc wins home F1 race in Monaco, breaking the 'curse' - NBC News"
         }, 
         {
             "url": "https://www.wlwt.com/article/cincinnati-severe-weather-sunday-tornadoes-forecast/60906366", 
@@ -66,14 +76,9 @@
             "title": "Severe weather threat brings chance for hail, strong winds, tornadoes - WLWT Cincinnati"
         }, 
         {
-            "url": "https://www.ky3.com/2024/05/26/viewer-pictures-storms-damage-homes-trees-power-lines-throughout-ozarks-sunday/", 
-            "description": "Strong storms rolled through the Ozarks on Sunday morning.", 
-            "title": "VIEWER PICTURES: Storms damage homes, trees, & power lines throughout the Ozarks on Sunday - KY3"
-        }, 
-        {
-            "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-05-26-24/index.html", 
-            "description": "Rockets were fired at Tel Aviv on Sunday for the first time in months, according to the Israeli military. It comes as Israel faces unprecedented diplomatic pressure over its war in Gaza. Follow for live updates.", 
-            "title": "Rockets fired at Tel Aviv as Israel's war in Gaza rages: Live updates - CNN"
+            "url": "https://www.autosport.com/f1/news/hulkenberg-stupid-f1-monaco-crash-unnecessary-from-perez-and-magnussen/10616053/", 
+            "description": "Haas Formula 1 driver Nico Hulkenberg says the Monaco Grand Prix start accident that he fell victim to was \"stupid\" and \"unnecessary from both\" Sergio Perez and team-mate Kevin Magnussen.", 
+            "title": "Hulkenberg: \"Stupid\" F1 Monaco crash unnecessary from Perez and Magnussen - Autosport"
         }, 
         {
             "url": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-reboots-nvidia-stock-price-target-after-earning", 
@@ -81,25 +86,20 @@
             "title": "Veteran fund manager revises Nvidia stock price target after earnings - TheStreet"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=jkW2OJm_E5E", 
-            "description": "Debris likely linked to a SpaceX Dragon spacecraft fell on a Saskatchewan farmer's field earlier this year and after being discovered last month, it left peo...", 
-            "title": "Space junk fell on a Canadian farm and SpaceX wants it back, but who's liable? - Global News"
+            "url": "https://www.yahoo.com/lifestyle/walmarts-secret-sale-room-is-bursting-with-memorial-day-deals--score-1600-off-a-samsung-tv-yes-really-and-more-135234649.html", 
+            "description": "Also spotted for the holiday weekend: Ridiculously low prices on a Dyson vac, HP laptop and Michael Kors crossbody bag.", 
+            "title": "Walmart's secret sale room is bursting with Memorial Day deals \u2014 score $1,600 off a Samsung TV (yes, really!) and more - Yahoo Life"
+        }, 
+        {
+            "url": "https://phys.org/news/2024-05-tess-intriguing-world-sized-earth.html", 
+            "description": "Using observations by NASA's TESS (Transiting Exoplanet Survey Satellite) and many other facilities, two international teams of astronomers have discovered a planet between the sizes of Earth and Venus only 40 light-years away. Multiple factors make it a cand\u2026", 
+            "title": "TESS finds intriguing world sized between Earth and Venus - Phys.org"
         }, 
         {
             "url": "https://www.nj.com/weather/2024/05/nj-weather-rain-and-thunderstorms-expected-for-memorial-day.html", 
             "description": "Forecasters are calling for two rounds of rainy weather for the holiday, with thunderstorms possible.", 
             "title": "N.J. weather: Rain and thunderstorms expected for Memorial Day - NJ.com"
-        }, 
-        {
-            "url": "https://decrypt.co/232386/ethereum-etf-approval-shifts-power-politics-joseph-lubin-consensys", 
-            "description": "The Consensys CEO believes the week\u2019s seismic events have proven that politics is guiding crypto regulation now\u2014and that\u2019s good news for the industry.", 
-            "title": "ETF Approval Changes Everything, Says Ethereum Co-Founder Joe Lubin - Decrypt"
-        }, 
-        {
-            "url": "https://www.digitaltrends.com/mobile/it-took-me-8-months-to-try-out-this-fantastic-ios-17-feature/", 
-            "description": "I had forgotten about iOS 17's StandBy feature, then the right piece of hardware came along and reminded me how fantastic it is.", 
-            "title": "It took me 8 months to try out this fantastic iOS 17 feature - Digital Trends"
         }
     ], 
-    "last_updated": "2024-05-27 21:08:07"
+    "last_updated": "2024-05-27 21:38:09"
 }
