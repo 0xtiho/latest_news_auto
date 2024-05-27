@@ -1,9 +1,74 @@
 {
     "news": [
         {
+            "url": "https://www.politico.com/news/2024/05/25/menendez-trump-trials-00160022", 
+            "description": null, 
+            "title": "A porn star and gold bars: Menendez and Trump trials show split screen of alleged corruption - POLITICO"
+        }, 
+        {
+            "url": "https://www.foxnews.com/world/mount-everest-climbing-duo-vanishes-notorious-area-worlds-tallest-peak", 
+            "description": "A British climber and his Nepalese guide are feared dead after they went missing during an ice collapse near the summit of Mount Everest on Tuesday.", 
+            "title": "Mount Everest climbing duo vanishes from notorious area of world's tallest peak - Fox News"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=iyWu957bV7A", 
+            "description": "Hoop Streams is LIVE for Game 3 at Gainbridge Fieldhouse! The Boston Celtics lead the Indiana Pacers 2-0. Can the Indiana Pacers bounce back at their home co...", 
+            "title": "Are the Celtics unstoppable? Boston Celtics vs Indiana Pacers Game 3 preview | Hoop Streams \ud83c\udfc0 - ESPN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/tsa-memorial-day-travel-record/?ftag=YHF4eb9d17", 
+            "description": "The Transportation Security Administration said more than 2.95 million individuals were screened at airport checkpoints on Friday.", 
+            "title": "TSA sets new record for number of travelers screened in a single day - Yahoo! Voices"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/diplomatic-efforts-israel-hamas-hostage-talks-expected-resume-next-week-sources/", 
+            "description": "U.S. diplomatic efforts to broker a deal to release hostages held in Gaza by Hamas and other allied groups are expected to continue in the coming week, two sources with knowledge told CBS News.", 
+            "title": "Diplomatic efforts for Israel-Hamas hostage talks expected to resume next week, sources say - CBS News"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/us-rapper-nicki-minaj-held-by-police-amsterdam-airport-2024-05-25/", 
+            "description": null, 
+            "title": "Nicki Minaj cancels show in England after being held at Amsterdam airport - Reuters"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/25/us-news/biden-repeats-naval-academy-appointment-story-at-west-point-commencement/", 
+            "description": "Biden previously told the same story to graduating midshipmen in 2022.", 
+            "title": "Biden repeats Naval Academy appointment story at West Point commencement - New York Post "
+        }, 
+        {
+            "url": "https://www.espn.com/mlb/story/_/id/40218784/edwin-diaz-fourth-blown-save-leads-new-york-mets-loss", 
+            "description": "Edwin Diaz, after a weeklong role demotion, was back closing a game for the New York Mets on Saturday, but he authored his fourth blown save in nine chances this season as the San Francisco Giants raced to a 7-2 victory at Citi Field.", 
+            "title": "Edwin Diaz's fourth blown save leads to New York Mets' loss - ESPN"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/world/2024/05/25/kharkiv-market-russian-strike-ukraine/", 
+            "description": "The deadly attack on the home improvement and supplies chain in Ukraine\u2019s second largest city comes amid a Russian offensive in eastern Ukraine.", 
+            "title": "Russia bombs market in Kharkiv, killing at least 6 and wounding 40 - The Washington Post"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/2024-cannes-film-festival-winners-1235909044/", 
+            "description": "Francis Ford Coppola presented old friend and colleague George Lucas with an honorary Palme d'Or at the awards ceremony for the 77th Cannes Film Festival Saturday night.", 
+            "title": "Cannes: Sean Baker\u2019s \u2018Anora\u2019 Wins Palme d\u2019Or as \u2018Emilia P\u00e9rez\u2019 Takes Two Awards - Hollywood Reporter"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/hidden-figures-glen-powell-worried-he-ruined-film-1235941318/", 
+            "description": "Rough cuts of films can be scary, Glen Powell says.", 
+            "title": "\u2018Hidden Figures\u2019 Co-Star Glen Powell Worried He Ruined The Film - Deadline"
+        }, 
+        {
             "url": "https://www.youtube.com/watch?v=VD58jlmtkE8", 
             "description": "For more info on Coach Paint Lite click here: https://bit.ly/coachpaintlite and use my code: bballbreakdown for 10% OFF! #mavericks #lukadoncic #timberwolves...", 
             "title": "Luka INSANE Game Winner Exposes Wolves Issues | Mavericks Timberwolves Gm 2 Western Conf Finals - BBALLBREAKDOWN"
+        }, 
+        {
+            "url": "https://thehill.com/regulation/court-battles/4686183-cnns-kaitlan-collins-calls-out-trump-for-claim-about-trial-judge-thats-not-true/", 
+            "description": "CNN anchor Kaitlan Collins called out former President Trump during the opening of her Friday show for a claim that Judge Juan Merchan, who is presiding over his hush-money trial, is blocking him from bringing in an election expert to testify.\u00a0 \u201cIn one post, \u2026", 
+            "title": "CNN\u2019s Kaitlan Collins calls out Trump for claim about trial judge: \u2018That\u2019s not true\u2019 - The Hill"
         }, 
         {
             "url": "https://thewaltdisneycompany.com/remembering-disney-legend-richard-m-sherman/", 
@@ -16,9 +81,14 @@
             "title": "Washington Post: Justice Samuel Alito\u2019s wife said upside-down American flag was \u2018an international signal of distress\u2019 in 2021 - CNN"
         }, 
         {
-            "url": "https://nypost.com/2024/05/25/us-news/six-people-eat-undercooked-bear-meat-contract-brain-worms/", 
-            "description": "One family suffered a bear-y bad problem after consuming bear meat at a family reunion: brain worms.", 
-            "title": "Six people contract 'brain worms' from eating undercooked bear kabobs - New York Post "
+            "url": "https://www.npr.org/2024/05/25/nx-s1-4981449/u-s-army-vessels-beached-israel-gaza", 
+            "description": "Rough seas drove two vessels to beach in Israel and two others to anchor on a Gaza beach. Israeli forces are assisting recovery operations near the pier, U.S. officials said. There were no injuries.", 
+            "title": "U.S. Army aid vessels become unmoored near floating Gaza pier - NPR"
+        }, 
+        {
+            "url": "http://www.nbcconnecticut.com/news/national-international/bear-meat-kebabs-at-a-family-reunion-lead-to-rare-outbreak-of-roundworm-disease/3298676/", 
+            "description": "Six people developed trichinellosis, a disease linked to undercooked meat contaminated with roundworm larvae, a CDC report says.", 
+            "title": "Bear meat kebabs at a family reunion lead to rare outbreak of roundworm disease - NBC Connecticut"
         }, 
         {
             "url": "https://apnews.com/article/trump-libertarian-convention-rfk-jr-biden-816e3209fdf993c2ba7f6caed0ebcdb7", 
@@ -26,80 +96,10 @@
             "title": "Trump to go after RFK Jr. at Libertarian Party convention - The Associated Press"
         }, 
         {
-            "url": "http://deadline.com/2024/05/cannes-movie-theaters-box-office-sean-baker-anora-1235941304/", 
-            "description": "Sean Baker is concerned about the future of movie theaters. He hopes his Palme D'Or winner 'Anora' helps.", 
-            "title": "\u2018Anora\u2019 Palme D\u2019Or Winner Sean Baker On The Plight Of Theatrical: \u201cDiscouraging\u201d But Sees \u201cA Rising Film Culture\u201d \u2013 Cannes - Deadline"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/severe-storms-strike-eastern-half-us-memorial-day-weekend-heat-hits-so-rcna154076", 
-            "description": "Dangerous severe storms will sweep across the eastern half of the U.S. this Memorial Day weekend, affecting a number of major cities from Saturday to Monday.", 
-            "title": "Severe storms to strike eastern half of U.S. this Memorial Day weekend as heat hits the South - NBC News"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/politics/2024/05/25/trump-biden-military-academy/", 
-            "description": "The president spoke to graduates of the U.S. Military Academy at a time of numerous foreign policy challenges for the nation and the world.", 
-            "title": "Biden indirectly rebukes Trump in West Point graduation speech - The Washington Post"
-        }, 
-        {
-            "url": "https://www.pgatour.com/article/news/latest/2024/05/25/grayson-murray-obituary", 
-            "description": "Grayson Murray, who won his second PGA TOUR title at this year\u2019s Sony Open in Hawaii, passed away Saturday.", 
-            "title": "PGA TOUR winner Grayson Murray passes away at 30 - PGA TOUR"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/sports/harrison-butker-no-regrets-commencement-speech-controversy-rcna154062", 
-            "description": "In Harrison Butker's first public comments since giving a commencement speech that sparked accusations of sexism and homophobia, the Kansas City Chiefs kicker said he has no regrets.", 
-            "title": "Harrison Butker says he does not regret commencement speech that sparked controversy - NBC News"
-        }, 
-        {
-            "url": "https://www.foxnews.com/world/bidens-320m-gaza-pier-over-budget-under-constant-threat-purely-political-misadventure", 
-            "description": "The Gaza humanitarian aid pier project has run to a cost that is estimated at double its initial budget as additional hurdles drive the overall costs even higher, and aid delivery remains at a trickle.", 
-            "title": "Biden's $320M Gaza pier: Over budget and under constant threat, a 'purely political' misadventure - Fox News"
-        }, 
-        {
-            "url": "https://www.espn.com/nba/story/_/id/40217637/pacers-star-tyrese-haliburton-hamstring-game-3", 
-            "description": "Pacers guard Tyrese Haliburton is out for Game 3 against the Celtics due to a left hamstring injury. His availability for Game 4 is in question.", 
-            "title": "Sources - Pacers' Tyrese Haliburton out for Game 3 - ESPN"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/middle-east/israel-presses-with-strikes-gaza-after-world-court-ruling-2024-05-25/", 
-            "description": null, 
-            "title": "Gaza ceasefire talks could soon resume but Israel-Hamas war rages on - Reuters"
-        }, 
-        {
-            "url": "http://9to5google.com/2024/05/25/pixel-10-tensor-g5-tsmc/", 
-            "description": "Last year, Google's switch to TSMC for the Tensor G5 was reported, and additional confirmation today shows that work for the Pixel 10...", 
-            "title": "Tensor G5 development at TSMC for Pixel 10 progressing - 9to5Google"
-        }, 
-        {
-            "url": "https://www.foxnews.com/entertainment/rapper-nicki-minaj-films-own-arrest-amsterdam", 
-            "description": "Nicki Minaj took to Instagram early Saturday morning to share that she was detained by Amsterdam police while on her way to her show in Manchester, England.", 
-            "title": "Rapper Nicki Minaj films own arrest in Amsterdam - Fox News"
-        }, 
-        {
-            "url": "https://www.avclub.com/furiosa-is-fighting-garfield-for-one-of-the-worst-memor-1851501294", 
-            "description": "Despite strong reviews, Furiosa: A Mad Max Saga is on track for the worst Memorial Day opening since the '80s", 
-            "title": "Furiosa is fighting Garfield for one of the worst Memorial Day box offices in decades - The A.V. Club"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/business/2024/05/25/russia-assets-ukraine-yellen/", 
-            "description": "Treasury Secretary Janet L. Yellen is close to securing European support for a plan to repurpose seized Russian assets for Ukraine.", 
-            "title": "U.S., allies take key step toward funding Ukraine with Russian assets - The Washington Post"
-        }, 
-        {
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-does-louisianas-new-abortion-pill-law-mean-patients-2024-05-25/", 
-            "description": "Here is a look at what the law does, and what might happen next.", 
-            "title": "Explainer: What does Louisiana's new abortion pill law mean for patients? - Reuters"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/25/europe/kharkiv-russian-strike-hypermarket-ukraine-intl/index.html", 
-            "description": "At least two people have been killed and others are missing after\u00a0a Russian strike hit a large hardware store in Kharkiv, Ukraine on Saturday, according to officials.", 
-            "title": "At least two killed and others missing after Russia strikes hardware store in Kharkiv - CNN"
+            "url": "https://www.foxnews.com/world/israel-forced-work-jewish-sabbath-un-court-judge-calls-out-colleagues-scathing-dissent", 
+            "description": "The U.N. International Court of Justice (ICJ) on Friday ordered Israel to end its military offensive in the southern city of Rafah in Gaza, responding to South Africa's claims of genocide.", 
+            "title": "Israel forced to work on Jewish Sabbath as UN court judge calls out colleagues in scathing dissent - Fox News"
         }
     ], 
-    "last_updated": "2024-05-27 03:10:38"
+    "last_updated": "2024-05-27 03:30:50"
 }
