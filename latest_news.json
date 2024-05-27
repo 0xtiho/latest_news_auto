@@ -1,14 +1,44 @@
 {
     "news": [
         {
+            "url": "https://tvline.com/news/johnny-wactor-dead-general-hospital-cause-of-death-obituary-1235246686/", 
+            "description": "'General Hospital's Johnny Wactor has died at the age of 37 \u2014 read his obituary.", 
+            "title": "Johnny Wactor Dead at 37: 'General Hospital' Actor's Cause of Death - TVLine"
+        }, 
+        {
+            "url": "https://apnews.com/article/furiosa-box-office-1b2a9c0aefec99b5105a09bfaf15679b", 
+            "description": "The Memorial Day box office is cruising for a two-decade low. \u201cFuriosa,\u201d the Mad Max prequel starring Anya Taylor-Joy and Chris Hemsworth, claimed the first place spot for Friday-Saturday-Sunday with $25.6 million. That is according to studio estimates on Sun\u2026", 
+            "title": "'Furiosa,' 'Garfield' lead slowest Memorial Day box office in decades - The Associated Press"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/sports/motor/indycar/2024/05/26/indianapolis-500-live-updates-winner-2024-results/73841543007/", 
+            "description": "The 108th edition of the Indy 500 is underway after thunderstorms delayed the start of the race by four hours. Follow along for updates.", 
+            "title": "Indy 500 live updates: Results, updates, leaders, how Kyle Larson fares at Indianapolis - USA TODAY"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/26/world/qatar-airways-turbulence-dublin-injured-intl/index.html", 
+            "description": "Six passengers and six cabin crew were injured after a Qatar Airways flight from Doha to Dublin was hit with turbulence on Sunday.", 
+            "title": "12 people injured during turbulence on Qatar Airways flight - CNN"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/golf-world-struggles-grayson-murray-suicide-news-1235941563/", 
+            "description": "Emotions ran high as the news came of Grayson Murray's suicide.", 
+            "title": "Golf World Struggles With Grayson Murray Suicide News - Deadline"
+        }, 
+        {
+            "url": "https://www.indystar.com/picture-gallery/sports/motor/indy-500/2024/05/26/month-of-may-crash-photos-2024-marcus-ericsson-rinus-veekay-among-wrecks/73853082007/", 
+            "description": "Crash photos during the 2024 Month of May at Indianapolis Motor Speedway.", 
+            "title": "Month of May crash photos 2024: Marcus Ericsson, Rinus VeeKay among wrecks - IndyStar"
+        }, 
+        {
+            "url": "https://www.mlb.com/news/ronald-acuna-jr-exits-game-vs-pirates", 
+            "description": null, 
+            "title": "Ronald Acu\u00f1a Jr. exits game vs. Pirates - MLB.com"
+        }, 
+        {
             "url": "https://www.bbc.com/news/articles/cxxxp1w6e2ro", 
             "description": "Powerful storms devastate areas in Texas, Arkansas and Oklahoma and leave hundreds of thousands without power.", 
             "title": "Tornadoes rip through Texas, Arkansas and Oklahoma, killing 14 - BBC.com"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/26/sport/indy-500-spt-intl/index.html", 
-            "description": "The Indy 500, one of the most prestigious and highly-anticipated events of the motorsport calendar, is set to begin Sunday afternoon after extreme weather marred the race\u2019s buildup.", 
-            "title": "Indy 500: Iconic motorsport race set to begin after extreme weather delays - CNN"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/26/politics/video/donald-trump-libertarian-convention-booed-heckled-contorno-ctmwknd-vpx", 
@@ -21,9 +51,19 @@
             "title": "4 girls hurt during unprovoked stabbing attack in AMC movie theater near Boston; suspect arrested - CBS Boston"
         }, 
         {
-            "url": "https://sports.yahoo.com/grayson-murray-two-time-pga-tour-winner-dies-by-suicide-at-age-30-191304558.html", 
-            "description": "Grayson Murray won two PGA tournaments, including the Sony Hawaii Open this past January.", 
-            "title": "Grayson Murray, two-time PGA Tour winner, dies by suicide at age 30 - Yahoo Sports"
+            "url": "https://nypost.com/2024/05/26/us-news/trumps-bronx-rally-should-be-wake-up-call-for-biden-dem-ex-gov-paterson/", 
+            "description": "\u201cThis is a wake-up call to the Democratic Party, who just seems to think that you can criticize what Trump did four years ago and that that will be enough,\u201d Paterson said on 77 WABC radio&#82\u2026", 
+            "title": "Trump's well-attended Bronx rally should be 'wake-up call' for Biden: Dem ex-Gov. Paterson - New York Post "
+        }, 
+        {
+            "url": "https://bgr.com/science/it-might-be-time-for-nasa-to-bail-on-boeings-starliner/", 
+            "description": "The first crewed launch of Boeing's Starliner has been put on hold once again. Maybe it's time to let the dream go.", 
+            "title": "It might be time for NASA to bail on Boeing's Starliner - BGR"
+        }, 
+        {
+            "url": "https://www.foxnews.com/entertainment/nicki-minaj-shares-update-after-amsterdam-arrest-livestream-ill-have-lawyers-god-take-from-here", 
+            "description": "Nicki Minaj updated fans after she missed a show due to an alleged arrest in Amsterdam for drug possession, which she had livestreamed earlier that day.", 
+            "title": "Nicki Minaj shares update after Amsterdam arrest livestream: \u2018I\u2019ll have the lawyers & GOD take it from here\u2019 - Fox News"
         }, 
         {
             "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-26-2024-eb25eb70d2c7b9e6bcd0497060eccbca", 
@@ -31,19 +71,9 @@
             "title": "Palestinian medics say Israeli airstrike kills 22 in Gaza's Rafah as displaced people are hit - The Associated Press"
         }, 
         {
-            "url": "https://variety.com/2024/film/global/jesse-eisenberg-polish-citizenship-a-real-pain-1236016839/", 
-            "description": "'Social Network\u2019 star\u00a0Jesse Eisenberg applies for Polish citizenship after shooting \u2018A Real Pain\u2019 in Poland", 
-            "title": "Jesse Eisenberg Applies for Polish Citizenship: \u2018I Would Love to Create Better Relationships Between Jews and Polish People\u2019 - Variety"
-        }, 
-        {
-            "url": "https://ew.com/nicki-minaj-arrested-amsterdam-airport-alleged-drug-possession-8654055", 
-            "description": "Nicki Minaj recorded Dutch police officers arresting her for alleged drug possession at an Amsterdam airport.", 
-            "title": "Nicki Minaj arrested at Amsterdam airport for alleged drug possession - Entertainment Weekly News"
-        }, 
-        {
-            "url": "https://apnews.com/article/paris-avenue-giant-picnic-82b6afa486a40a50d777f762c427f995", 
-            "description": "The French capital\u2019s most famous street has been transformed into a massive picnic blanket. Around 4,000 people sat in the sun on Sunday enjoying an al fresco meal on the Champs-Elysees Avenue. The lucky picnickers were selected in a draw and provided with fr\u2026", 
-            "title": "Paris' traffic-clogged Champs-Elysees turned into a mass picnic blanket for an unusual meal - The Associated Press"
+            "url": "https://www.wave3.com/2024/05/26/man-dead-after-being-hit-by-tree-east-louisville-during-severe-weather/", 
+            "description": "One person has died following the severe weather that pushed through Louisville Sunday afternoon, according to Mayor Craig Greenberg.", 
+            "title": "Man dead after being hit by tree in east Louisville during severe weather - WAVE 3"
         }, 
         {
             "url": "https://removed.com", 
@@ -51,55 +81,25 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.motorsport.com/f1/news/leclerc-struggled-to-see-through-tears-on-way-to-monaco-gp-win/10616202/", 
-            "description": null, 
-            "title": "Leclerc struggled to see through tears on way to Monaco GP win - Motorsport.com"
+            "url": "https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/", 
+            "description": "The holiday weekend brings eye-opening discounts from major retailers on big-ticket appliances for your home.", 
+            "title": "Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More - CNET"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/turbulence-hits-qatar-airways-flight-to-dublin-injuring-12-people/", 
-            "description": "The flight QR107, which landed in Dublin just before 1 p.m. local time, experienced turbulence while airborne over Turkey, Dublin Airport officials said in a statement.", 
-            "title": "Turbulence hits Qatar Airways flight to Dublin, injuring 12 people - CBS News"
+            "url": "https://www.indiewire.com/awards/predictions/cannes-palme-dor-winner-anora-jesse-plemons-oscar-boost-1235009182/", 
+            "description": "At the 2024 Cannes Film Festival, Palme d'Or winner 'Anora' and Best Actor winner Jesse Plemons Get an Oscars boost.", 
+            "title": "Cannes: Palme d'Or Winner 'Anora,' Jesse Plemons Get Oscar Boost - IndieWire"
         }, 
         {
-            "url": "http://9to5google.com/2024/05/26/google-search-ai-overviews-helpful/", 
-            "description": "Google Search has AI now, but it's not helpful in its current form. That said, Google already knows how to make it helpful.", 
-            "title": "Google Search AI can be helpful, just not with Overviews - 9to5Google"
+            "url": "https://www.foxbusiness.com/markets/buttigieg-defends-bidens-ev-strategy-after-question-how-only-8-federal-charging-stations-have-been-built", 
+            "description": "Transportation Secretary Pete Buttigieg said the \"handful\" of EV charging stations that have been built are the \"beginning stages\" of Biden's goal to reach 500,000 by 2030.", 
+            "title": "Buttigieg defends Biden\u2019s EV strategy after question on how only 8 federal charging stations have been built - Fox Business"
         }, 
         {
-            "url": "https://thehill.com/homenews/house/4686828-pennsylvania-democrat-madeleine-dean-samuel-alito-flag-controversy-wife/", 
-            "description": "Rep. Madeleine Dean (D-Pa.) in a Sunday interview blasted Supreme Court Justice Samuel Alito for blaming his wife for displaying the upside-down flag outside his home in the days following the Jan. 6, 2021, attack on the Capitol. In an interview on NewsNation\u2026", 
-            "title": "Pennsylvania Democrat blasts Alito for blaming flag controversy on his wife - The Hill"
-        }, 
-        {
-            "url": "https://www.wlwt.com/article/cincinnati-severe-weather-sunday-tornadoes-forecast/60906366", 
-            "description": "A WLWT Weather Alert Day is in place due to severe storms that could produce tornadoes, damaging wind and hail.", 
-            "title": "Severe weather threat brings chance for hail, strong winds, tornadoes - WLWT Cincinnati"
-        }, 
-        {
-            "url": "https://www.autosport.com/f1/news/hulkenberg-stupid-f1-monaco-crash-unnecessary-from-perez-and-magnussen/10616053/", 
-            "description": "Haas Formula 1 driver Nico Hulkenberg says the Monaco Grand Prix start accident that he fell victim to was \"stupid\" and \"unnecessary from both\" Sergio Perez and team-mate Kevin Magnussen.", 
-            "title": "Hulkenberg: \"Stupid\" F1 Monaco crash unnecessary from Perez and Magnussen - Autosport"
-        }, 
-        {
-            "url": "https://www.thestreet.com/investing/stocks/veteran-fund-manager-reboots-nvidia-stock-price-target-after-earning", 
-            "description": "Here's what could happen next to Nvidia shares.", 
-            "title": "Veteran fund manager revises Nvidia stock price target after earnings - TheStreet"
-        }, 
-        {
-            "url": "https://www.yahoo.com/lifestyle/walmarts-secret-sale-room-is-bursting-with-memorial-day-deals--score-1600-off-a-samsung-tv-yes-really-and-more-135234649.html", 
-            "description": "Also spotted for the holiday weekend: Ridiculously low prices on a Dyson vac, HP laptop and Michael Kors crossbody bag.", 
-            "title": "Walmart's secret sale room is bursting with Memorial Day deals \u2014 score $1,600 off a Samsung TV (yes, really!) and more - Yahoo Life"
-        }, 
-        {
-            "url": "https://phys.org/news/2024-05-tess-intriguing-world-sized-earth.html", 
-            "description": "Using observations by NASA's TESS (Transiting Exoplanet Survey Satellite) and many other facilities, two international teams of astronomers have discovered a planet between the sizes of Earth and Venus only 40 light-years away. Multiple factors make it a cand\u2026", 
-            "title": "TESS finds intriguing world sized between Earth and Venus - Phys.org"
-        }, 
-        {
-            "url": "https://www.nj.com/weather/2024/05/nj-weather-rain-and-thunderstorms-expected-for-memorial-day.html", 
-            "description": "Forecasters are calling for two rounds of rainy weather for the holiday, with thunderstorms possible.", 
-            "title": "N.J. weather: Rain and thunderstorms expected for Memorial Day - NJ.com"
+            "url": "https://www.nbcnews.com/news/weather/350000-power-missouri-arkansas-kentucky-storms-batter-middle-america-rcna154115", 
+            "description": "At least 15 deaths have been reported as a series of severe storms and tornadoes battered the South and the Great Plains over Memorial Day weekend, leaving hundreds of thousands of homes and businesses without power.", 
+            "title": "Nearly 400,000 without power in Missouri, Arkansas, Kentucky as storms batter central U.S. - NBC News"
         }
     ], 
-    "last_updated": "2024-05-27 23:08:16"
+    "last_updated": "2024-05-27 23:38:18"
 }
