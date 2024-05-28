@@ -1,6 +1,46 @@
 {
     "news": [
         {
+            "url": "https://www.bbc.com/news/articles/cpvvyxr79glo", 
+            "description": "The Pope was speaking at a meeting of bishops on whether gay men should be allowed to become priests.", 
+            "title": "Pope Francis allegedly used derogatory term for gay people - BBC.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/tornadoes-weather-texas-oklahoma-arkansas-kentucky-91b0ff5c06f9bdc8b8ca68f36afbafa2", 
+            "description": "A series of powerful storms in the central and southern U.S. over the Memorial Day holiday weekend has killed at least 22 people as they left a wide trail of destroyed homes, businesses and power outages. The destructive storms caused deaths in Texas, Oklahom\u2026", 
+            "title": "Severe Memorial Day weather: Powerful US storms head east after killing 20 - The Associated Press"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/26/rafah-tent-camp-israel-airstrike", 
+            "description": null, 
+            "title": "Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say - Axios"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nba/news/celtics-vs-pacers-score-live-updates-game-4-highlights-as-boston-looks-to-sweep-indiana-in-east-finals/live/", 
+            "description": "The Pacers have to win at home on Monday as their season is on the line", 
+            "title": "Celtics vs. Pacers score: Live updates, Game 4 highlights as Boston looks to sweep Indiana in East finals - CBS Sports"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-son-third-heart-surgery-memorial-day-weekend-1235909726/", 
+            "description": "The late-night host has been outspoken about his child's health issues and the importance of health insurance.", 
+            "title": "Jimmy Kimmel Reveals Son Billy Had Third Open Heart Surgery Over Memorial Day Weekend - Hollywood Reporter"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/business/digital/elon-musk-ai-startup-xai-raises-6-billion-1235909709/", 
+            "description": "The startup, xAI, says that it has raised the cash from investors including Fidelity, Sequoia, Andreessen Horowitz\u00a0and Prince Alwaleed Bin Talal.", 
+            "title": "Elon Musk\u2019s AI Startup Raises $6B - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/27/us-news/north-korean-spy-satellite-explodes-mid-air-after-launch/", 
+            "description": "North Korea\u2019s attempt to blast a second spy satellite into orbit went up in flames not long after takeoff on Monday, the hermit nation\u2019s state news agency confirmed.", 
+            "title": "North Korean spy satellite explodes mid-air after launch - New York Post "
+        }, 
+        {
+            "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-furiosa-edges-out-garfield-in-worst-memorial-day-weekend-in-decades/", 
+            "description": "George Miller's action-packed prequel narrowly beat The Garfield Movie over the three-day weekend but suffered the worst overall Memorial Day debut since 1989.", 
+            "title": "Weekend Box Office Results: Furiosa Edges Out Garfield in Worst Memorial Day Weekend in Decades - Rotten Tomatoes"
+        }, 
+        {
             "url": "https://www.cnn.com/2024/05/27/us/va-tech-company-doj-penalty-reaj/index.html", 
             "description": "A Virginia company, Arthur Grand Technologies Inc., will pay a\u00a0$7,500 civil penalty\u00a0after being fined by the Department of Justice over a discriminatory job posting.", 
             "title": "Virginia technology company to pay civil penalty over discriminatory \u2018Whites only\u2019 job posting, according to DOJ - CNN"
@@ -11,9 +51,9 @@
             "title": "AMC conducting review after 4 girls randomly stabbed inside Massachusetts movie theater - CBS Boston"
         }, 
         {
-            "url": "https://www.politico.com/news/2024/05/27/north-korea-rocket-explosion-00160061", 
+            "url": "https://www.reuters.com/world/middle-east/egyptian-guard-killed-shooting-rafah-border-israel-egypt-investigating-2024-05-27/", 
             "description": null, 
-            "title": "North Korean rocket carrying its 2nd spy satellite explodes in mid-air - POLITICO"
+            "title": "Egyptian guard killed in shooting on Rafah border, Israel and Egypt investigating - Reuters.com"
         }, 
         {
             "url": "https://local12.com/news/nation-world/black-bear-kebabs-gives-family-parasitic-worms-3-people-hospitalized-infected-meat-wild-game-cdc-parasites-worm-disease-control-prevention-saskatchewan-hunted-frozen-thawed-cooked-roundworm-infections-mild-severe-symptoms-life-threatening-cooked-properly", 
@@ -21,9 +61,14 @@
             "title": "Black bear 'kebabs' gives family parasitic worms, 3 people hospitalized - WKRC TV Cincinnati"
         }, 
         {
-            "url": "https://www.cbssports.com/nba/news/bill-walton-dies-at-71-julius-erving-kareem-abdul-jabbar-sports-world-react-to-hall-of-famers-passing/", 
-            "description": "Walton, a two-time NBA champion, died Monday following a battle with cancer", 
-            "title": "Bill Walton dies at 71: Julius Erving, Kareem Abdul-Jabbar, sports world react to Hall of Famer's passing - CBS Sports"
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/27/louisiana-prison-escape-tangipahoa-parish-sheriff/73870361007/", 
+            "description": "Tangipahoa Parish Sheriff's Office is looking for 2 inmates who they say escaped from a local jail. One was in on charges related to a 2022 homicide.", 
+            "title": "Louisiana prison escape: 2 inmates found, 2 at large Monday - USA TODAY"
+        }, 
+        {
+            "url": "https://www.ky3.com/2024/05/27/tornado-damages-community-texas-county-mo/", 
+            "description": "A powerful storm hit Texas County on Sunday afternoon in the Bendavis-Houston area of Texas County.", 
+            "title": "Tornado damages community in Texas County, Mo. - KY3"
         }, 
         {
             "url": "https://www.espn.com/mlb/story/_/id/40230155/cubs-craig-counsell-booed-brewers-fans-milwaukee-return", 
@@ -31,34 +76,19 @@
             "title": "Cubs' Craig Counsell booed by Brewers fans in Milwaukee return - ESPN"
         }, 
         {
-            "url": "https://pagesix.com/2024/05/27/parents/paris-hilton-and-daughter-london-match-in-pink-during-family-vacation-to-hawaii/", 
-            "description": "Hilton rocked a light pink T-shirt that read \u201cPARIS\u201d in rhinestones with matching shorts, while London wore a pink onesie emblazoned with rainbows, hearts and stars.", 
-            "title": "Paris Hilton and daughter London match in pink during family vacation to Hawaii - Page Six"
+            "url": "https://apnews.com/article/papua-new-guinea-landslide-3e1444634d8859b1f2378b334c6a0d41", 
+            "description": "A Papua New Guinea government official has told the United Nations that more than 2,000 people are believed to have been buried alive by a landslide Friday. The official formally asked for international help. The government figure is roughly triple a U.N. est\u2026", 
+            "title": "PNG landslide: More than 2,000 killed, government says - The Associated Press"
         }, 
         {
-            "url": "https://www.yahoo.com/news/pope-used-vulgar-italian-word-192422008.html", 
-            "description": null, 
-            "title": "Pope used vulgar Italian word to refer to LGBT people, Italian newspapers report - Yahoo! Voices"
+            "url": "https://variety.com/2024/film/news/richard-dreyfuss-cabot-theater-offensive-remarks-1236017160/", 
+            "description": "In recent years, \u201cJaws\u201d star Richard Dreyfuss has come under fire for speaking out on subjects such as Oscar diversity requirements and the use of Blackface....", 
+            "title": "Richard Dreyfuss Sparks Outrage, Massachusetts Theater Apologizes For His 'Offensive and Distressing' Remarks at 'Jaws' Screening - Yahoo Entertainment"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html", 
-            "description": "Former \u201cGeneral Hospital\u201d actor Johnny Wactor was fatally shot in downtown Los Angeles while interrupting thieves Saturday, according to his agent and CNN affiliate KABC.", 
-            "title": "Johnny Wactor: Former \u2018General Hospital\u2019 actor fatally shot in Los Angeles - CNN"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/27/sport/mike-tyson-medical-episode-flight/index.html", 
-            "description": "Hall of Fame boxer Mike Tyson is \u201cdoing great\u201d after a medical episode Sunday on a flight from Miami to Los Angeles, his representative\u00a0told to CNN.", 
-            "title": "Boxer Mike Tyson is \u2018doing great\u2019 after medical episode during a cross-country flight, rep says - CNN"
-        }, 
-        {
-            "url": "https://www.4029tv.com/article/sanders-womack-boozman-touring-storm-damage/60915941", 
-            "description": "Arkansas' elected officials are meeting with local officials and cleanup crews", 
-            "title": "Gov. Sanders, Rep. Womack, Sen. Boozman in Rogers touring storm damage - 4029tv"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/nation/2024/05/27/19-dead-tornadoes-memorial-day-storms-texas-arkansas-oklahoma/73868079007/", 
-            "description": "Texas, Oklahoma, Arkansas and Kentucky were hit with a wave of tornadoes and severe weather that left at least 22 people dead on Memorial Day weekend.", 
-            "title": "Tornadoes, bad weather as severe storms move east on Memorial Day - USA TODAY"
+            "url": "https://www.cnn.com/cnn-underscored/deals/best-buy-memorial-day-sale-2024-05-27", 
+            "description": "Dyson, Apple, and Sony are all on sale at Best Buy for Memorial Day with discounts up to 45% off.", 
+            "title": "Here are 25 of the best deals to shop at Best Buy\u2019s Memorial Day sale - CNN Underscored"
         }, 
         {
             "url": "https://www.teslarati.com/spacex-announces-next-starship-test-flight-date/", 
@@ -69,37 +99,7 @@
             "url": "https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/", 
             "description": "A passenger on a flight to Fresno was confirmed to be traveling with measles, according to LA County health officials.", 
             "title": "Passenger on United flight to Fresno had measles, officials confirm - KFSN-TV"
-        }, 
-        {
-            "url": "https://www.foxnews.com/politics/biden-visits-daughter-law-home-her-expected-testimony-hunter-biden-trial", 
-            "description": "President Biden visits the home of the wife of his late son Beau Biden on Sunday. Hallie Biden is expected to testify in Hunter Biden's gun trial.", 
-            "title": "Biden visits daughter-in-law's home ahead of her expected testimony in Hunter Biden trial - Fox News"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/memorial-day-weather-rain-east-coast-scorching-heat/story?id=110582356", 
-            "description": "Temperatures are expected to climb in parts of Texas, Louisiana and Florida.", 
-            "title": "Memorial Day weather: Rain along the East Coast and scorching heat in the Gulf - ABC News"
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/richard-dreyfuss-slammed-jaws-screening-comments-1235909509/", 
-            "description": "The Massachusetts theater that hosted the actor has apologized for his remarks, writing in a statement, \"We deeply regret the distress that this has caused to many of our patrons.\u201c", 
-            "title": "Richard Dreyfuss Slammed for Alleged Sexist and Homophobic Comments at \u2018Jaws\u2019 Screening - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/world/2024/05/27/taiwan-meeting-congress-china/", 
-            "description": "The meeting by a bipartisan delegation from Washington occurred as China heightens demands for the United States to back away from support for the island democracy.", 
-            "title": "U.S. lawmakers ignore China warning, meet with Taiwan's new leader - The Washington Post"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/27/us-news/libertarians-nominate-chase-oliver-for-president/", 
-            "description": "Libertarians have crowned former Georgia Senate hopeful Chase Oliver as their 2024 presidential standard bearer after a grueling eight hours of voting at their convention over the weekend.", 
-            "title": "Libertarians nominate Chase Oliver for president -- rejecting Trump, RFK Jr. - New York Post "
-        }, 
-        {
-            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-27-2024-7b743a848ef8bfbe69a9659a4a5dd047", 
-            "description": "Israeli Prime Minister Benjamin Netanyahu acknowledged that a \u201ctragic mistake\u201d was made after an Israeli strike in the southern Gaza city of Rafah set fire to a tent camp housing displaced Palestinians. Local officials say at least 45 people were killed in Su\u2026", 
-            "title": "Israel-Hamas war: Netanyahu acknowledges \u2018tragic mistake\u2019 in strike on Rafah that killed dozens - The Associated Press"
         }
     ], 
-    "last_updated": "2024-05-29 01:19:27"
+    "last_updated": "2024-05-29 01:49:30"
 }
