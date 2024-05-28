@@ -1,9 +1,44 @@
 {
     "news": [
         {
-            "url": "https://www.cnn.com/2024/05/27/us/bill-walton-death/index.html", 
-            "description": "Bill Walton, the basketball Hall of Fame center who won two national titles at UCLA, two NBA championships in Portland and Boston and later put the \u201ccolor\u201d in color commentator, died Monday following a prolonged battle with cancer, the NBA announced.", 
-            "title": "Bill Walton, basketball Hall of Famer and colorful commentator, dies of cancer at 71 - CNN"
+            "url": "https://www.cnn.com/2024/05/27/us/va-tech-company-doj-penalty-reaj/index.html", 
+            "description": "A Virginia company, Arthur Grand Technologies Inc., will pay a\u00a0$7,500 civil penalty\u00a0after being fined by the Department of Justice over a discriminatory job posting.", 
+            "title": "Virginia technology company to pay civil penalty over discriminatory \u2018Whites only\u2019 job posting, according to DOJ - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/boston/news/amc-massachusetts-stabbing-security-review/", 
+            "description": "A spokesperson for movie theater chain AMC said the company is reviewing security policies and will have extra measures in place after four girls were stabbed in Braintree.", 
+            "title": "AMC conducting review after 4 girls randomly stabbed inside Massachusetts movie theater - CBS Boston"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/27/north-korea-rocket-explosion-00160061", 
+            "description": null, 
+            "title": "North Korean rocket carrying its 2nd spy satellite explodes in mid-air - POLITICO"
+        }, 
+        {
+            "url": "https://local12.com/news/nation-world/black-bear-kebabs-gives-family-parasitic-worms-3-people-hospitalized-infected-meat-wild-game-cdc-parasites-worm-disease-control-prevention-saskatchewan-hunted-frozen-thawed-cooked-roundworm-infections-mild-severe-symptoms-life-threatening-cooked-properly", 
+            "description": "The meat was originally harvested in the Canadian province of Saskatchewan and frozen for 45 days before it was thawed.", 
+            "title": "Black bear 'kebabs' gives family parasitic worms, 3 people hospitalized - WKRC TV Cincinnati"
+        }, 
+        {
+            "url": "https://www.cbssports.com/nba/news/bill-walton-dies-at-71-julius-erving-kareem-abdul-jabbar-sports-world-react-to-hall-of-famers-passing/", 
+            "description": "Walton, a two-time NBA champion, died Monday following a battle with cancer", 
+            "title": "Bill Walton dies at 71: Julius Erving, Kareem Abdul-Jabbar, sports world react to Hall of Famer's passing - CBS Sports"
+        }, 
+        {
+            "url": "https://www.espn.com/mlb/story/_/id/40230155/cubs-craig-counsell-booed-brewers-fans-milwaukee-return", 
+            "description": "Craig Counsell, who is in his first year managing the Cubs after 18 seasons with the Brewers as a player and manager, was booed in his first return to Milwaukee.", 
+            "title": "Cubs' Craig Counsell booed by Brewers fans in Milwaukee return - ESPN"
+        }, 
+        {
+            "url": "https://pagesix.com/2024/05/27/parents/paris-hilton-and-daughter-london-match-in-pink-during-family-vacation-to-hawaii/", 
+            "description": "Hilton rocked a light pink T-shirt that read \u201cPARIS\u201d in rhinestones with matching shorts, while London wore a pink onesie emblazoned with rainbows, hearts and stars.", 
+            "title": "Paris Hilton and daughter London match in pink during family vacation to Hawaii - Page Six"
+        }, 
+        {
+            "url": "https://www.yahoo.com/news/pope-used-vulgar-italian-word-192422008.html", 
+            "description": null, 
+            "title": "Pope used vulgar Italian word to refer to LGBT people, Italian newspapers report - Yahoo! Voices"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html", 
@@ -11,28 +46,18 @@
             "title": "Johnny Wactor: Former \u2018General Hospital\u2019 actor fatally shot in Los Angeles - CNN"
         }, 
         {
-            "url": "https://www.americamagazine.org/faith/2024/05/27/pope-francis-homosexual-seminary-248027", 
-            "description": "Pope Francis told the Italian bishops\u2019 conference not to allow homosexual men to enter the seminary to train for the priesthood, according to Italian media reports.", 
-            "title": "Pope Francis says Italian seminaries should reject gay applicants - America: The Jesuit Review"
+            "url": "https://www.cnn.com/2024/05/27/sport/mike-tyson-medical-episode-flight/index.html", 
+            "description": "Hall of Fame boxer Mike Tyson is \u201cdoing great\u201d after a medical episode Sunday on a flight from Miami to Los Angeles, his representative\u00a0told to CNN.", 
+            "title": "Boxer Mike Tyson is \u2018doing great\u2019 after medical episode during a cross-country flight, rep says - CNN"
         }, 
         {
-            "url": "https://www.wsj.com/tech/ai/elon-musks-xai-will-raise-6-billion-in-latest-fundraising-round-fcdd722d", 
-            "description": null, 
-            "title": "Elon Musk's xAI Valued at $24 Billion After Latest Fundraising Round - The Wall Street Journal"
-        }, 
-        {
-            "url": "https://onemileatatime.com/news/bark-air/", 
-            "description": "BARK Air is a new airline that flies Gulfstream G500s specifically for dogs and their owners. What an innovative concept!", 
-            "title": "BARK Air: The First Airline For Dogs, Flying Gulfstreams - One Mile at a Time"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/27/health/black-bear-kabobs-trichinellosis/index.html", 
-            "description": "It was supposed to be a celebration, but one family\u2019s unique meal of black bear meat sent several members to the hospital instead.", 
-            "title": "Black bear kebabs make family sick with parasitic worms - CNN"
+            "url": "https://www.4029tv.com/article/sanders-womack-boozman-touring-storm-damage/60915941", 
+            "description": "Arkansas' elected officials are meeting with local officials and cleanup crews", 
+            "title": "Gov. Sanders, Rep. Womack, Sen. Boozman in Rogers touring storm damage - 4029tv"
         }, 
         {
             "url": "https://www.usatoday.com/story/news/nation/2024/05/27/19-dead-tornadoes-memorial-day-storms-texas-arkansas-oklahoma/73868079007/", 
-            "description": null, 
+            "description": "Texas, Oklahoma, Arkansas and Kentucky were hit with a wave of tornadoes and severe weather that left at least 22 people dead on Memorial Day weekend.", 
             "title": "Tornadoes, bad weather as severe storms move east on Memorial Day - USA TODAY"
         }, 
         {
@@ -41,19 +66,19 @@
             "title": "SpaceX announces next Starship test flight date - TESLARATI"
         }, 
         {
-            "url": "https://www.espn.com/fantasy/baseball/story/_/id/40229139/fantasy-baseball-injury-impact-ten-pickups-replace-ronald-acuna-jr-production", 
-            "description": "Here are 10 fantasy baseball pickups to help fantasy managers looking to replace Ronald Acuna Jr.'s production in the lineup.", 
-            "title": "Injury impact - 10 pickups to replace Ronald Acuna Jr.'s production - ESPN"
-        }, 
-        {
             "url": "https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/", 
             "description": "A passenger on a flight to Fresno was confirmed to be traveling with measles, according to LA County health officials.", 
             "title": "Passenger on United flight to Fresno had measles, officials confirm - KFSN-TV"
         }, 
         {
-            "url": "https://ktla.com/entertainment/mike-tyson-suffers-medical-emergency-on-flight-headed-to-los-angeles-reports/", 
-            "description": "Mike Tyson suffered a medical emergency on a flight headed to Los Angeles from Miami on Sunday night. \u201cThankfully Mr. Tyson is doing great,\u201d Tyson\u2019s representatives tell KTLA 5 News. \u201cHe became nauseous and dizzy due to an ulcer flare-up 30 minutes before lan\u2026", 
-            "title": "Mike Tyson suffers medical emergency on flight headed to Los Angeles - KTLA Los Angeles"
+            "url": "https://www.foxnews.com/politics/biden-visits-daughter-law-home-her-expected-testimony-hunter-biden-trial", 
+            "description": "President Biden visits the home of the wife of his late son Beau Biden on Sunday. Hallie Biden is expected to testify in Hunter Biden's gun trial.", 
+            "title": "Biden visits daughter-in-law's home ahead of her expected testimony in Hunter Biden trial - Fox News"
+        }, 
+        {
+            "url": "https://abcnews.go.com/US/memorial-day-weather-rain-east-coast-scorching-heat/story?id=110582356", 
+            "description": "Temperatures are expected to climb in parts of Texas, Louisiana and Florida.", 
+            "title": "Memorial Day weather: Rain along the East Coast and scorching heat in the Gulf - ABC News"
         }, 
         {
             "url": "http://www.hollywoodreporter.com/movies/movie-news/richard-dreyfuss-slammed-jaws-screening-comments-1235909509/", 
@@ -61,45 +86,20 @@
             "title": "Richard Dreyfuss Slammed for Alleged Sexist and Homophobic Comments at \u2018Jaws\u2019 Screening - Hollywood Reporter"
         }, 
         {
-            "url": "https://apnews.com/article/iaea-iran-nuclear-enrichment-stockpile-2190f0d7247a6160fb13f28304d4b6ad", 
-            "description": "A report by the United Nations\u2019 nuclear watchdog says that Iran has further increased its stockpile of uranium enriched to near weapons-grade levels. The confidential report was seen by The Associated Press on Monday. It says Iran now has 142.1 kilograms, or \u2026", 
-            "title": "Iran further increases its stockpile of uranium enriched to near weapons-grade levels, watchdog says - The Associated Press"
+            "url": "https://www.washingtonpost.com/world/2024/05/27/taiwan-meeting-congress-china/", 
+            "description": "The meeting by a bipartisan delegation from Washington occurred as China heightens demands for the United States to back away from support for the island democracy.", 
+            "title": "U.S. lawmakers ignore China warning, meet with Taiwan's new leader - The Washington Post"
         }, 
         {
-            "url": "https://www.ncaa.com/news/baseball/article/2024-05-27/2024-ncaa-division-i-baseball-championship-bracket-announced", 
-            "description": "The NCAA Division I Baseball Committee announced the field of 64 teams competing for the 2024 NCAA Division I Baseball Championship on Monday, May 27.", 
-            "title": "2024 NCAA Division I baseball championship bracket announced - NCAA.com"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/uk-politics-69065695", 
-            "description": "The Conservatives have given more details of their plan for 30,000 young people to work with the military.", 
-            "title": "Rishi Sunak promises allowance for military national service - BBC.com"
+            "url": "https://nypost.com/2024/05/27/us-news/libertarians-nominate-chase-oliver-for-president/", 
+            "description": "Libertarians have crowned former Georgia Senate hopeful Chase Oliver as their 2024 presidential standard bearer after a grueling eight hours of voting at their convention over the weekend.", 
+            "title": "Libertarians nominate Chase Oliver for president -- rejecting Trump, RFK Jr. - New York Post "
         }, 
         {
             "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-27-2024-7b743a848ef8bfbe69a9659a4a5dd047", 
             "description": "Israeli Prime Minister Benjamin Netanyahu acknowledged that a \u201ctragic mistake\u201d was made after an Israeli strike in the southern Gaza city of Rafah set fire to a tent camp housing displaced Palestinians. Local officials say at least 45 people were killed in Su\u2026", 
             "title": "Israel-Hamas war: Netanyahu acknowledges \u2018tragic mistake\u2019 in strike on Rafah that killed dozens - The Associated Press"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/box-office/box-office-furiosa-just-barely-beats-garfield-disastrous-memorial-day-weekend-1236017039/", 
-            "description": "In a box office nail biter, \"Furiosa: A Mad Max Saga\" emerged victorious over \"The Garfield Movie\" on North American charts.", 
-            "title": "Box Office: \u2018Furiosa\u2019 Just Barely Beats \u2018The Garfield Movie\u2019 in Disastrous Memorial Day Weekend \u2014 the Worst in Decades - Variety"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/27/closing-arguments-verdict-trumps-hush-money-trial-entering-final-stretch", 
-            "description": "Prosecutors and defence lawyers to deliver closing arguments this week in historic trial against ex-US President Trump.", 
-            "title": "Closing arguments, verdict: Trump\u2019s hush money trial entering final stretch - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/27/samuel-alito-wife-flag-washington-post-interview", 
-            "description": null, 
-            "title": "Washington Post sat on Justice Alito upside-down flag interview for years - Axios"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/north-korea-second-military-spy-satellite/", 
-            "description": "North Korea had earlier notified Japan's coast guard about its plans to launch \"a satellite rocket.\"", 
-            "title": "North Korea apparently launches missile into sea after announcing plan to put rocket into orbit with spy satellite - CBS News"
         }
     ], 
-    "last_updated": "2024-05-28 23:19:19"
+    "last_updated": "2024-05-28 23:49:21"
 }
