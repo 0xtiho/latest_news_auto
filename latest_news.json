@@ -1,9 +1,69 @@
 {
     "news": [
         {
-            "url": "https://apnews.com/article/papua-new-guinea-landslide-3e1444634d8859b1f2378b334c6a0d41", 
-            "description": "A Papua New Guinea government official has told the United Nations more than 2,000 people are believed to have been buried alive by a landslide Friday. The official formally asked for international help. The government figure is roughly triple a U.N. estimate\u2026", 
-            "title": "PNG landslide: More than 2,000 killed, government says - The Associated Press"
+            "url": "https://www.washingtonpost.com/wellness/2024/05/27/mental-health-treatment-disparity/", 
+            "description": "Of the respondents: 51 percent reported experiencing depression, anxiety or another mental health condition in the previous 12 months.", 
+            "title": "Americans see disparities in mental and physical care, survey finds - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/27/world/papua-new-guinea-landslide-thousands-feared-buried-intl-hnk/index.html", 
+            "description": "As many as 2,000 people are feared to have been buried by last week\u2019s massive landslide in Papua New Guinea, according to the country\u2019s National Disaster Centre, as survivors recounted the horror losing so many loved ones.", 
+            "title": "As many as 2,000 people feared buried under Papua New Guinea landslide as survivors dig with hands and spades - CNN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html", 
+            "description": "Former \u201cGeneral Hospital\u201d actor Johnny Wactor was fatally shot in downtown Los Angeles while interrupting thieves Saturday, according to his agent and CNN affiliate KABC.", 
+            "title": "Former \u2018General Hospital\u2019 actor Johnny Wactor fatally shot in Los Angeles - CNN"
+        }, 
+        {
+            "url": "https://www.foxbusiness.com/lifestyle/12-qatar-airways-passengers-injured-boeing-jet-hits-turbulence-en-route-dublin", 
+            "description": "A Qatar Airways Boeing 787-9 Dreamliner hit turbulence while traveling over Turkey, leaving six passengers and six crew members injured, the airline says.", 
+            "title": "12 Qatar Airways passengers injured as Boeing jet hits turbulence en route to Dublin - Fox Business"
+        }, 
+        {
+            "url": "https://www.hindustantimes.com/world-news/us-news/whats-open-on-memorial-day-2024-hours-for-starbucks-mcdonalds-ikea-walmart-and-more-101716802721994.html", 
+            "description": "Keep reading to know what stores and restaurants are open on Memorial Day 2024", 
+            "title": "What's open on Memorial Day 2024? Hours for Starbucks, McDonald's, IKEA, Walmart and more - Hindustan Times"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/asian-stocks-climb-risk-sentiment-225710109.html", 
+            "description": "(Bloomberg) -- European shares struggled for traction in thin trading after a European Central Bank official warned that policy will have to stay restrictive...", 
+            "title": "European Stocks Waver as Traders Assess Rate Path: Markets Wrap - Yahoo Finance"
+        }, 
+        {
+            "url": "https://apnews.com/article/north-korea-spy-satellite-japan-3065fd4f1ade7dd0e0a5924cc9a906e2", 
+            "description": "North Korea has announced plans to launch a rocket apparently carrying its second military spy satellite in the coming days. The notification of the banned launch drew quick, strong rebukes from its neighbors. South Korean President Yoon Suk Yeol and Japanese\u2026", 
+            "title": "North Korea plans to launch a rocket soon, likely carrying its second military spy satellite - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/27/tech/china-semiconductor-investment-fund-intl-hnk/index.html", 
+            "description": "China is setting up its largest-ever state investment fund for the semiconductor industry amid rising tensions with the US over the technology.", 
+            "title": "China is pumping another $47.5 billion into its chip industry - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/bear-attacks-teen-cabin-arizona-cabin-animal-killed-officers/", 
+            "description": "Wildlife officials said the bear entered the home a second time before it fled.", 
+            "title": "Bear shot dead after attacking 15-year-old in Arizona cabin: \"Not many kids can say they got in a fight with a bear\" - CBS News"
+        }, 
+        {
+            "url": "https://www.techradar.com/phones/iphone/apples-ios-18-ai-plans-set-out-in-new-report-here-are-9-new-features-to-expect", 
+            "description": "AI everywhere all at once", 
+            "title": "Apple's iOS 18 AI plans set out in new report \u2013 here are 9 new features to expect - TechRadar"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/27/sport/dallas-mavericks-minnesota-timberwolves-wcf-game-3-spt-intl/index.html", 
+            "description": "The Dallas Mavericks defeated the Minnesota Timberwolves in Game 3, 116-107, to move to 3-0 in the series and knock on the door of a first NBA Finals in 13 years.", 
+            "title": "Dallas Mavericks one win away from NBA Finals as they go up 3-0 on the Minnesota Timberwolves - CNN"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/27/biden-plan-protect-science-trump-00160001", 
+            "description": null, 
+            "title": "Biden's got a plan to protect science from Trump - POLITICO"
+        }, 
+        {
+            "url": "https://www.businessinsider.com/elon-musk-xai-raised-6-billion-funding-vc-saudi-arabia-2024-5", 
+            "description": "Musk said in an X post that the AI startup's pre-money valuation was $18 billion.", 
+            "title": "Elon Musk's XAI Says It Just Raised $6 Billion in Funding - Business Insider"
         }, 
         {
             "url": "https://www.tmz.com/2024/05/27/diddy-sean-john-pull-america-best-contacts-eyeglasses-frames/", 
@@ -16,9 +76,14 @@
             "title": "China calls on Japan and South Korea to reject 'protectionism' in trilateral summit - CNBC"
         }, 
         {
-            "url": "https://www.reuters.com/technology/china-sets-up-475-bln-state-fund-boost-semiconductor-industry-2024-05-27/", 
+            "url": "https://www.axios.com/2024/05/26/trump-libertarian-rfk-jr-ineligible-nominee", 
             "description": null, 
-            "title": "China sets up third fund with $47.5 bln to boost semiconductor sector - Reuters"
+            "title": "Trump's longshot Libertarian nomination bid halted by party chair - Axios"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c988jdxl02vo", 
+            "description": "The government has confirmed no one will be forced to do military training under the \u00a32.5bn scheme.", 
+            "title": "National service explained: Rishi Sunak unveils Conservative election plan - BBC.com"
         }, 
         {
             "url": "https://www.autosport.com/indycar/news/indy-500-newgarden/10616310/", 
@@ -26,80 +91,15 @@
             "title": "Indy 500: Newgarden beats O'Ward for back-to-back wins - Autosport"
         }, 
         {
-            "url": "https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/", 
-            "description": "Elon Musk's AI startup, xAI, has raised $6 billion in a new funding round, it said today, in one of the largest deals in the red-hot nascent space, as he Elon Musk's AI startup, xAI, has raised $6 billion in a new funding round in one of the largest deals in \u2026", 
-            "title": "Elon Musk's xAI raises $6B from Valor, a16z, and Sequoia - TechCrunch"
-        }, 
-        {
             "url": "https://chicago.suntimes.com/horoscopes/2024/05/27/horoscopes-today-monday-may-27-2024", 
             "description": null, 
             "title": "Horoscope for Monday, May 27, 2024 - Chicago Sun-Times"
         }, 
         {
-            "url": "https://www.washingtonpost.com/politics/2024/05/26/chase-oliver-libertarian-party-nominee/", 
-            "description": "The nomination came after seven rounds of voting over a long, contentious day as factions of the party feuded over the process and party leadership positions.", 
-            "title": "Chase Oliver is nominated as Libertarian Pary candidate for president - The Washington Post"
-        }, 
-        {
-            "url": "https://apnews.com/article/south-africa-election-anc-apartheid-9215778b4184e2fcb02a9008f3558975", 
-            "description": "South Africans will vote Wednesday to decide whether their country takes its most significant political step since it brought down apartheid and achieved democracy 30 years ago. This national election will not be as momentous as the one South Africa held in 1\u2026", 
-            "title": "South Africa's election could bring the biggest political shift since it became a democracy in 1994 - The Associated Press"
-        }, 
-        {
-            "url": "https://www.kait8.com/2024/05/27/e-911-director-storm-damage-reported-paragould/", 
-            "description": "Severe storms and overnight tornadoes made its way through Greene County.", 
-            "title": "E-911 Director: Storm damage reported in Paragould - KAIT"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/sports/nba/playoffs/2024/05/26/mavericks-win-game-3-of-nba-playoff-series-vs-timberwolves/73866855007/", 
-            "description": null, 
-            "title": "Dallas Mavericks take control of series vs. Minnesota Timberwolves with Game 3 win - USA TODAY"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/26/india/cyclone-remal-india-bangladesh-landfall-intl-hnk/index.html", 
-            "description": "Tropical Cyclone Remal made landfall in Bangladesh on Sunday, bringing torrential rain and heavy winds\u00a0as it continues moves inland across eastern India, toppling trees, turning roads into rivers and causing large-scale destruction.", 
-            "title": "Over 1 million evacuated as Cyclone Remal brings heavy rain to Bangladesh and India - CNN"
-        }, 
-        {
-            "url": "https://www.wdsu.com/article/tangipahoa-parish-4-escaped-inmates/60909735", 
-            "description": "In a news release, the sheriff said the four inmates were able to escape the perimeter fence of the jail while participating in their recreational time.", 
-            "title": "Tangipahoa Parish deputies searching for 4 escaped inmates - WDSU New Orleans"
-        }, 
-        {
-            "url": "https://www.wsaz.com/2024/05/27/tornado-watch-issued-part-region/", 
-            "description": "The tornado watch will remain in effect until 6 a.m., according to the NWS.", 
-            "title": "Tornado Watch issued for part of the region - WSAZ"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cxxxp1w6e2ro", 
-            "description": "Powerful storms devastate areas in Texas, Arkansas and Oklahoma and leave hundreds of thousands without power.", 
-            "title": "Tornadoes and storms leave 15 dead across central US - BBC.com"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/av/world-europe-69064916", 
-            "description": "People from a Dublin-bound plane from Doha describe scenes on board during severe turbulence.", 
-            "title": "Dublin passengers recall 'panic' as Doha plane hit turbulence - BBC.com"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/cmj66r4lvzzo", 
-            "description": "The US housing market has changed dramatically since the pandemic - an issue looming over the election.", 
-            "title": "Trying to buy a house is 'playing a game you can't win' - BBC.com"
-        }, 
-        {
-            "url": "https://variety.com/2024/music/news/beach-boys-documentary-interview-frank-marshall-1236016901/", 
-            "description": "Mike Love and Al Jardine and director Frank Marshall talk about the Disney+ doc 'The Beach Boys' and subjects like their friendly Beatles rivalry.", 
-            "title": "The Beach Boys and Director Frank Marshall on the Band\u2019s Disney+ Doc: \u2018We May Not Have Been Great Surfers, but We Sang About It Really Well\u2019 - Variety"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/26/rafah-tent-camp-israel-airstrike", 
-            "description": null, 
-            "title": "Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say - Axios"
-        }, 
-        {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-26/asian-stocks-to-climb-as-risk-sentiment-rebounds-markets-wrap", 
-            "description": "Asian shares climbed while the dollar weakened Monday on expectations of a Federal Reserve rate cut this year, with US inflation data due this week likely indicating easing price pressure.", 
-            "title": "Stock Market Today: Updates for May 27 - Bloomberg"
+            "url": "https://theconversation.com/eat-a-rock-a-day-put-glue-on-your-pizza-how-googles-ai-is-losing-touch-with-reality-230953", 
+            "description": "Using AI to write search results is risky for Google, the internet, and the whole idea of \u2018truth\u2019", 
+            "title": "Eat a rock a day, put glue on your pizza: how Google's AI is losing touch with reality - The Conversation Indonesia"
         }
     ], 
-    "last_updated": "2024-05-28 13:18:34"
+    "last_updated": "2024-05-28 13:48:36"
 }
