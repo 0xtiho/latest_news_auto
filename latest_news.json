@@ -1,19 +1,9 @@
 {
     "news": [
         {
-            "url": "https://www.cnn.com/weather/live-news/oklahoma-texas-arkansas-tornado-storms-05-27-24-intl-hnk/index.html", 
-            "description": "At least 21 people, including four children, are dead in Texas, Oklahoma, Arkansas and Kentucky after tornadoes and severe weather struck the central United States. Follow for live updates.", 
-            "title": "At least 21 killed in tornado-spawning storms sweeping central US: Live updates - CNN"
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/johnny-wactor-general-hospital-1235941795/", 
-            "description": "Actor Johnny Wactor had just finished a bartending shift and was walking an unidentified female co-worker to her car.", 
-            "title": "\u2018General Hospital\u2019 Actor Johnny Wactor Was Shielding Female Co-Worker When Fatally Shot \u2013 Report - Deadline"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/box-office/box-office-furiosa-just-barely-beats-garfield-disastrous-memorial-day-weekend-1236017039/", 
-            "description": "In a box office nail biter, \"Furiosa: A Mad Max Saga\" emerged victorious over \"The Garfield Movie\" on North American charts.", 
-            "title": "Box Office: \u2018Furiosa\u2019 Just Barely Beats \u2018The Garfield Movie\u2019 in Disastrous Memorial Day Weekend \u2014 the Worst in Decades - Variety"
+            "url": "https://www.reuters.com/world/middle-east/egyptian-guard-killed-shooting-rafah-border-israel-egypt-investigating-2024-05-27/", 
+            "description": null, 
+            "title": "Egyptian guard killed in shooting on Rafah border, Israel and Egypt investigating - Reuters.com"
         }, 
         {
             "url": "https://removed.com", 
@@ -21,85 +11,95 @@
             "title": "[Removed]"
         }, 
         {
+            "url": "https://www.espn.com/nba/story/_/id/40229031/nba-champion-hall-famer-bill-walton-dies-71", 
+            "description": "Bill Walton, who won two NCAA titles with UCLA and two NBA championships during a Hall of Fame career, died Monday at age 71 after a prolonged battle with cancer.", 
+            "title": "Hall of Famer Bill Walton, 2-time champ at UCLA and in NBA, dies - ESPN"
+        }, 
+        {
+            "url": "https://apnews.com/article/iaea-iran-nuclear-enrichment-stockpile-2190f0d7247a6160fb13f28304d4b6ad", 
+            "description": "A report by the United Nations\u2019 nuclear watchdog says that Iran has further increased its stockpile of uranium enriched to near weapons-grade levels. The confidential report was seen by The Associated Press on Monday. It says Iran now has 142.1 kilograms, or \u2026", 
+            "title": "Iran further increases its stockpile of uranium enriched to near weapons-grade levels, watchdog says - The Associated Press"
+        }, 
+        {
+            "url": "https://www.ncaa.com/news/baseball/article/2024-05-27/2024-ncaa-division-i-baseball-championship-bracket-announced", 
+            "description": "The NCAA Division I Baseball Committee announced the field of 64 teams competing for the 2024 NCAA Division I Baseball Championship on Monday, May 27.", 
+            "title": "2024 NCAA Division I baseball championship bracket announced - NCAA.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-27-2024-7b743a848ef8bfbe69a9659a4a5dd047", 
+            "description": "Israeli Prime Minister Benjamin Netanyahu acknowledged that a \u201ctragic mistake\u201d was made after an Israeli strike in the southern Gaza city of Rafah set fire to a tent camp housing displaced Palestinians. Local officials say at least 45 people were killed in Su\u2026", 
+            "title": "Israel-Hamas war: Netanyahu acknowledges \u2018tragic mistake\u2019 in strike on Rafah that killed dozens - The Associated Press"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/weather/memorial-day-weather-deadly-storms-northeast-millions-risk-sever-rcna154151", 
+            "description": "At least 68 million people are under severe weather warnings on Memorial Day, as storms turned toward the Northeast after claiming the lives of at least 21 people and leaving half a million homes and businesses without power across the central United States.", 
+            "title": "Memorial Day weather: Deadly storms turn northeast with 68 million at risk of severe weather - NBC News"
+        }, 
+        {
+            "url": "https://www.wbko.com/2024/05/27/4-killed-storm-related-incidents-kentucky/", 
+            "description": "A state of emergency has been declared in Kentucky after storms left behind widespread damage and claimed the lives of four people.", 
+            "title": "4 killed in storm-related incidents in Kentucky - WBKO"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/johnny-wactor-general-hospital-1235941795/", 
+            "description": "Actor Johnny Wactor had just finished a bartending shift and was walking an unidentified female co-worker to her car.", 
+            "title": "\u2018General Hospital\u2019 Actor Johnny Wactor Was Shielding Female Co-Worker When Fatally Shot \u2013 Report - Deadline"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c722wn4xjl2o", 
+            "description": "US party chooses low-profile candidate following speeches by Trump and RFK at its convention in Washington.", 
+            "title": "Libertarians ignore Trump and RFK to pick Chase Oliver - BBC.com"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=kSG1XuPAAP0", 
+            "description": "President Biden delivers remarks after participating in a wreath-laying ceremony at Arlington National Cemetery. #FoxNewsSubscribe to Fox News! https://bit.l...", 
+            "title": "Biden delivers Memorial Day message - Fox News"
+        }, 
+        {
+            "url": "https://variety.com/2024/film/box-office/box-office-furiosa-just-barely-beats-garfield-disastrous-memorial-day-weekend-1236017039/", 
+            "description": "In a box office nail biter, \"Furiosa: A Mad Max Saga\" emerged victorious over \"The Garfield Movie\" on North American charts.", 
+            "title": "Box Office: \u2018Furiosa\u2019 Just Barely Beats \u2018The Garfield Movie\u2019 in Disastrous Memorial Day Weekend \u2014 the Worst in Decades - Variety"
+        }, 
+        {
             "url": "https://www.cbsnews.com/news/north-korea-second-military-spy-satellite/", 
             "description": "North Korea had earlier notified Japan's coast guard about its plans to launch \"a satellite rocket.\"", 
             "title": "North Korea apparently launches missile into sea after announcing plan to put rocket into orbit with spy satellite - CBS News"
         }, 
         {
-            "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2024/05/27/spacex-launch-falcon-9-rocket-memorial-day-starlink-florida-cape-canaveral/73836623007/", 
-            "description": "Recap of FLORIDA TODAY Space Team live updates of scrubbed SpaceX Starlink Falcon 9 mission from Cape Canaveral Launch Complex 40.", 
-            "title": "SpaceX is now targeting Tuesday morning for Starlink launch from Cape - Florida Today"
+            "url": "https://ktla.com/news/local-news/person-with-measles-had-a-connecting-flight-at-lax-health-department-says/", 
+            "description": "The Los Angeles County Department of Public Health says a non-Los Angeles County resident with a confirmed case of measles had a connecting flight at LAX earlier this month. Now, officials are warning anyone who may have been at the airport on May 19 to check\u2026", 
+            "title": "Person with measles had a connecting flight at LAX, health department says - KTLA Los Angeles"
         }, 
         {
-            "url": "https://www.axios.com/2024/05/27/elon-musk-xai-6-billion-funding-investors", 
-            "description": null, 
-            "title": "Elon Musk's xAI raises $6 billion to challenge OpenAI - Axios"
+            "url": "https://www.nbcnews.com/business/business-news/elon-musks-ai-startup-now-valued-24-billion-fresh-funding-rcna154171", 
+            "description": "Elon Musk\u2019s AI startup xAI raised $6 billion in series B funding, reaching a post-money valuation of $24 billion as investors bet big on challengers to companies like OpenAI in the intensifying AI race.", 
+            "title": "Elon Musk's AI startup now valued at $24 billion after fresh funding - NBC News"
         }, 
         {
-            "url": "https://www.knoxnews.com/story/sports/college/2024/05/27/ncaa-baseball-selection-show-2024-time-tv-channel-cws-bracket-reveal-tennessee-vols/73862258007/", 
-            "description": "The bracket for the 2024 NCAA baseball tournament will be unveiled on Monday. Here's the TV channel, time and streaming info to tune in and watch:", 
-            "title": "NCAA baseball selection show 2024: Time, TV channel for College World Series bracket reveal - Knoxville News Sentinel"
+            "url": "https://andscape.com/features/im-just-never-negative-anthony-edwards-believes-minnesota-timberwolves-can-rally-from-3-0-deficit/", 
+            "description": "DALLAS \u2013 Minnesota Timberwolves guard Anthony Edwards turned to veteran teammates Mike Conley, Kyle Anderson and Karl-Anthony Towns \u2013 and anyone else within ear\u2026", 
+            "title": "'I'm just never negative': Anthony Edwards believes Minnesota Timberwolves can rally from 3-0 deficit - Andscape"
         }, 
         {
-            "url": "https://apnews.com/article/papua-new-guinea-landslide-3e1444634d8859b1f2378b334c6a0d41", 
-            "description": "A Papua New Guinea government official has told the United Nations that more than 2,000 people are believed to have been buried alive by a landslide Friday. The official formally asked for international help. The government figure is roughly triple a U.N. est\u2026", 
-            "title": "PNG landslide: More than 2,000 killed, government says - The Associated Press"
+            "url": "https://abcnews.go.com/GMA/Culture/nicki-minaj-arrested-amsterdam-claims-officials-bags-consent/story?id=110562455", 
+            "description": "A video showing the rapper being detained was posted to Instagram Live.", 
+            "title": "Nicki Minaj arrested in Amsterdam, claims officials 'took my bags without consent' - ABC News"
         }, 
         {
-            "url": "https://www.newsweek.com/israel-egypt-shooting-rafah-gaza-today-latest-update-1904980", 
-            "description": "There are reports of an incident between the Israeli and Egyptian militaries near the Rafah crossing.", 
-            "title": "Israel-Egypt Border Shooting: What We Know - Newsweek"
-        }, 
-        {
-            "url": "https://apnews.com/article/eu-palestinian-recognition-israel-gaza-c92c908ee11f8e4d37756aa44fa588ae", 
-            "description": "Relations between the European Union and Israel took a nosedive on the eve of the diplomatic recognition of a Palestinian state by EU members Ireland and Spain. Spain has suggested sanctions should be considered against Israel for its continued attacks in the\u2026", 
-            "title": "EU, Israel in war of words as ties nosedive ahead of Spain, Ireland recognizing Palestinian state - The Associated Press"
-        }, 
-        {
-            "url": "https://www.marketwatch.com/story/china-semiconductor-stocks-rally-on-reports-of-48-billion-chip-fund-bea929f5", 
-            "description": "The third phase of the China Integrated Circuit Industry Investment Fund has reportedly doubled what was raised in 2014 and 2019,", 
-            "title": "China semiconductor stocks rally on reports of $48 billion chip fund - MarketWatch"
+            "url": "https://www.foxnews.com/politics/chinas-threats-naked-aggression-loom-large-house-lawmakers-meet-taiwan-new-president", 
+            "description": "House lawmakers spent their first full day in Taiwan meeting with the island's president and foreign minister, where the topic of China dominated discussion.", 
+            "title": "China's threats, 'naked aggression' loom large as House lawmakers meet Taiwan's new president - Fox News"
         }, 
         {
             "url": "https://www.cbssports.com/mlb/news/ronald-acuna-jr-injury-five-trade-candidates-for-the-braves-after-losing-reigning-nl-mvp-for-season/", 
             "description": "The Braves currently sit in second place in the NL East", 
             "title": "Ronald Acu\u00f1a Jr. injury: Five trade candidates for the Braves after losing reigning NL MVP for season - CBS Sports"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/the-timberwolves-have-harsh-lessons-to-learn-before-they-can-become-championship-caliber-062059359.html", 
-            "description": "The Mavericks will advance to the NBA Finals, barring something historic or unforeseen, in the coming days. And the Timberwolves will soon start the process ...", 
-            "title": "The Timberwolves have harsh lessons to learn before they can become championship caliber - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.businessinsider.com/trump-election-biden-bad-news-bond-markets-bill-gross-deficit-2024-5", 
-            "description": "A Trump presidency would worsen US fiscal deficits, the billionaire investor and PIMCO co-founder said.", 
-            "title": "Billionaire 'Bond King' Bill Gross says a Trump win would be 'disruptive' for markets - Yahoo Finance"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/27/entertainment/the-bachelorette-star-ryan-sutter-says-wife-tristas-absence-brought-questions-and-worry/", 
-            "description": "\u201cThe Bachelorette\u201d star Ryan Sutter is happy to have his wife, Season 1 lead Trista Sutter, home, after he shared some very cryptic posts about her whereabouts on social media.", 
-            "title": "'The Bachelorette' star Ryan Sutter says wife Trista's absence brought 'questions' and 'worry' - New York Post "
-        }, 
-        {
-            "url": "https://www.wave3.com/2024/05/27/gov-beshear-give-update-storm-damage-after-declaring-state-emergency/", 
-            "description": "This is set for Monday at 11 a.m. Watch it here on the WAVE Now stream.", 
-            "title": "Gov. Beshear to give update on storm damage after declaring State of Emergency - WAVE 3"
-        }, 
-        {
-            "url": "https://www.axios.com/2024/05/26/rafah-tent-camp-israel-airstrike", 
-            "description": null, 
-            "title": "Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say - Axios"
-        }, 
-        {
-            "url": "https://www.aljazeera.com/news/2024/5/27/libertarians-pick-chase-oliver-for-us-president-as-trump-kennedy-rejected", 
-            "description": "Antiwar activist supports a ceasefire between Israel and Hamas in Gaza, and end to the US military support for Ukraine.", 
-            "title": "Libertarians pick Chase Oliver for US president as Trump, Kennedy rejected - Al Jazeera English"
-        }, 
-        {
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/40227717/sources-kentucky-dj-wagner-joining-john-calipari-arkansas", 
-            "description": "Kentucky transfer D.J. Wagner, a former top-five recruit, has committed to Arkansas, sources told ESPN.", 
-            "title": "Sources - Kentucky's D.J. Wagner joining John Calipari at Arkansas - ESPN"
         }
     ], 
-    "last_updated": "2024-05-28 19:19:00"
+    "last_updated": "2024-05-28 19:49:03"
 }
