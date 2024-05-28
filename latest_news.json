@@ -1,19 +1,64 @@
 {
     "news": [
         {
-            "url": "https://www.reuters.com/world/middle-east/egyptian-guard-killed-shooting-rafah-border-israel-egypt-investigating-2024-05-27/", 
+            "url": "https://www.cnn.com/2024/05/27/us/bill-walton-death/index.html", 
+            "description": "Bill Walton, the basketball Hall of Fame center who won two national titles at UCLA, two NBA championships in Portland and Boston and later put the \u201ccolor\u201d in color commentator, died Monday following a prolonged battle with cancer, the NBA announced.", 
+            "title": "Bill Walton, basketball Hall of Famer and colorful commentator, dies of cancer at 71 - CNN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/26/entertainment/johnny-wactor-shot/index.html", 
+            "description": "Former \u201cGeneral Hospital\u201d actor Johnny Wactor was fatally shot in downtown Los Angeles while interrupting thieves Saturday, according to his agent and CNN affiliate KABC.", 
+            "title": "Johnny Wactor: Former \u2018General Hospital\u2019 actor fatally shot in Los Angeles - CNN"
+        }, 
+        {
+            "url": "https://www.americamagazine.org/faith/2024/05/27/pope-francis-homosexual-seminary-248027", 
+            "description": "Pope Francis told the Italian bishops\u2019 conference not to allow homosexual men to enter the seminary to train for the priesthood, according to Italian media reports.", 
+            "title": "Pope Francis says Italian seminaries should reject gay applicants - America: The Jesuit Review"
+        }, 
+        {
+            "url": "https://www.wsj.com/tech/ai/elon-musks-xai-will-raise-6-billion-in-latest-fundraising-round-fcdd722d", 
             "description": null, 
-            "title": "Egyptian guard killed in shooting on Rafah border, Israel and Egypt investigating - Reuters.com"
+            "title": "Elon Musk's xAI Valued at $24 Billion After Latest Fundraising Round - The Wall Street Journal"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://onemileatatime.com/news/bark-air/", 
+            "description": "BARK Air is a new airline that flies Gulfstream G500s specifically for dogs and their owners. What an innovative concept!", 
+            "title": "BARK Air: The First Airline For Dogs, Flying Gulfstreams - One Mile at a Time"
         }, 
         {
-            "url": "https://www.espn.com/nba/story/_/id/40229031/nba-champion-hall-famer-bill-walton-dies-71", 
-            "description": "Bill Walton, who won two NCAA titles with UCLA and two NBA championships during a Hall of Fame career, died Monday at age 71 after a prolonged battle with cancer.", 
-            "title": "Hall of Famer Bill Walton, 2-time champ at UCLA and in NBA, dies - ESPN"
+            "url": "https://www.cnn.com/2024/05/27/health/black-bear-kabobs-trichinellosis/index.html", 
+            "description": "It was supposed to be a celebration, but one family\u2019s unique meal of black bear meat sent several members to the hospital instead.", 
+            "title": "Black bear kebabs make family sick with parasitic worms - CNN"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/27/19-dead-tornadoes-memorial-day-storms-texas-arkansas-oklahoma/73868079007/", 
+            "description": null, 
+            "title": "Tornadoes, bad weather as severe storms move east on Memorial Day - USA TODAY"
+        }, 
+        {
+            "url": "https://www.teslarati.com/spacex-announces-next-starship-test-flight-date/", 
+            "description": "SpaceX's Starship will one day transport human life to other planets.", 
+            "title": "SpaceX announces next Starship test flight date - TESLARATI"
+        }, 
+        {
+            "url": "https://www.espn.com/fantasy/baseball/story/_/id/40229139/fantasy-baseball-injury-impact-ten-pickups-replace-ronald-acuna-jr-production", 
+            "description": "Here are 10 fantasy baseball pickups to help fantasy managers looking to replace Ronald Acuna Jr.'s production in the lineup.", 
+            "title": "Injury impact - 10 pickups to replace Ronald Acuna Jr.'s production - ESPN"
+        }, 
+        {
+            "url": "https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/", 
+            "description": "A passenger on a flight to Fresno was confirmed to be traveling with measles, according to LA County health officials.", 
+            "title": "Passenger on United flight to Fresno had measles, officials confirm - KFSN-TV"
+        }, 
+        {
+            "url": "https://ktla.com/entertainment/mike-tyson-suffers-medical-emergency-on-flight-headed-to-los-angeles-reports/", 
+            "description": "Mike Tyson suffered a medical emergency on a flight headed to Los Angeles from Miami on Sunday night. \u201cThankfully Mr. Tyson is doing great,\u201d Tyson\u2019s representatives tell KTLA 5 News. \u201cHe became nauseous and dizzy due to an ulcer flare-up 30 minutes before lan\u2026", 
+            "title": "Mike Tyson suffers medical emergency on flight headed to Los Angeles - KTLA Los Angeles"
+        }, 
+        {
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/richard-dreyfuss-slammed-jaws-screening-comments-1235909509/", 
+            "description": "The Massachusetts theater that hosted the actor has apologized for his remarks, writing in a statement, \"We deeply regret the distress that this has caused to many of our patrons.\u201c", 
+            "title": "Richard Dreyfuss Slammed for Alleged Sexist and Homophobic Comments at \u2018Jaws\u2019 Screening - Hollywood Reporter"
         }, 
         {
             "url": "https://apnews.com/article/iaea-iran-nuclear-enrichment-stockpile-2190f0d7247a6160fb13f28304d4b6ad", 
@@ -26,39 +71,14 @@
             "title": "2024 NCAA Division I baseball championship bracket announced - NCAA.com"
         }, 
         {
+            "url": "https://www.bbc.com/news/uk-politics-69065695", 
+            "description": "The Conservatives have given more details of their plan for 30,000 young people to work with the military.", 
+            "title": "Rishi Sunak promises allowance for military national service - BBC.com"
+        }, 
+        {
             "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-27-2024-7b743a848ef8bfbe69a9659a4a5dd047", 
             "description": "Israeli Prime Minister Benjamin Netanyahu acknowledged that a \u201ctragic mistake\u201d was made after an Israeli strike in the southern Gaza city of Rafah set fire to a tent camp housing displaced Palestinians. Local officials say at least 45 people were killed in Su\u2026", 
             "title": "Israel-Hamas war: Netanyahu acknowledges \u2018tragic mistake\u2019 in strike on Rafah that killed dozens - The Associated Press"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/weather/memorial-day-weather-deadly-storms-northeast-millions-risk-sever-rcna154151", 
-            "description": "At least 68 million people are under severe weather warnings on Memorial Day, as storms turned toward the Northeast after claiming the lives of at least 21 people and leaving half a million homes and businesses without power across the central United States.", 
-            "title": "Memorial Day weather: Deadly storms turn northeast with 68 million at risk of severe weather - NBC News"
-        }, 
-        {
-            "url": "https://www.wbko.com/2024/05/27/4-killed-storm-related-incidents-kentucky/", 
-            "description": "A state of emergency has been declared in Kentucky after storms left behind widespread damage and claimed the lives of four people.", 
-            "title": "4 killed in storm-related incidents in Kentucky - WBKO"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "http://deadline.com/2024/05/johnny-wactor-general-hospital-1235941795/", 
-            "description": "Actor Johnny Wactor had just finished a bartending shift and was walking an unidentified female co-worker to her car.", 
-            "title": "\u2018General Hospital\u2019 Actor Johnny Wactor Was Shielding Female Co-Worker When Fatally Shot \u2013 Report - Deadline"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c722wn4xjl2o", 
-            "description": "US party chooses low-profile candidate following speeches by Trump and RFK at its convention in Washington.", 
-            "title": "Libertarians ignore Trump and RFK to pick Chase Oliver - BBC.com"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=kSG1XuPAAP0", 
-            "description": "President Biden delivers remarks after participating in a wreath-laying ceremony at Arlington National Cemetery. #FoxNewsSubscribe to Fox News! https://bit.l...", 
-            "title": "Biden delivers Memorial Day message - Fox News"
         }, 
         {
             "url": "https://variety.com/2024/film/box-office/box-office-furiosa-just-barely-beats-garfield-disastrous-memorial-day-weekend-1236017039/", 
@@ -66,40 +86,20 @@
             "title": "Box Office: \u2018Furiosa\u2019 Just Barely Beats \u2018The Garfield Movie\u2019 in Disastrous Memorial Day Weekend \u2014 the Worst in Decades - Variety"
         }, 
         {
+            "url": "https://www.aljazeera.com/news/2024/5/27/closing-arguments-verdict-trumps-hush-money-trial-entering-final-stretch", 
+            "description": "Prosecutors and defence lawyers to deliver closing arguments this week in historic trial against ex-US President Trump.", 
+            "title": "Closing arguments, verdict: Trump\u2019s hush money trial entering final stretch - Al Jazeera English"
+        }, 
+        {
+            "url": "https://www.axios.com/2024/05/27/samuel-alito-wife-flag-washington-post-interview", 
+            "description": null, 
+            "title": "Washington Post sat on Justice Alito upside-down flag interview for years - Axios"
+        }, 
+        {
             "url": "https://www.cbsnews.com/news/north-korea-second-military-spy-satellite/", 
             "description": "North Korea had earlier notified Japan's coast guard about its plans to launch \"a satellite rocket.\"", 
             "title": "North Korea apparently launches missile into sea after announcing plan to put rocket into orbit with spy satellite - CBS News"
-        }, 
-        {
-            "url": "https://ktla.com/news/local-news/person-with-measles-had-a-connecting-flight-at-lax-health-department-says/", 
-            "description": "The Los Angeles County Department of Public Health says a non-Los Angeles County resident with a confirmed case of measles had a connecting flight at LAX earlier this month. Now, officials are warning anyone who may have been at the airport on May 19 to check\u2026", 
-            "title": "Person with measles had a connecting flight at LAX, health department says - KTLA Los Angeles"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/business/business-news/elon-musks-ai-startup-now-valued-24-billion-fresh-funding-rcna154171", 
-            "description": "Elon Musk\u2019s AI startup xAI raised $6 billion in series B funding, reaching a post-money valuation of $24 billion as investors bet big on challengers to companies like OpenAI in the intensifying AI race.", 
-            "title": "Elon Musk's AI startup now valued at $24 billion after fresh funding - NBC News"
-        }, 
-        {
-            "url": "https://andscape.com/features/im-just-never-negative-anthony-edwards-believes-minnesota-timberwolves-can-rally-from-3-0-deficit/", 
-            "description": "DALLAS \u2013 Minnesota Timberwolves guard Anthony Edwards turned to veteran teammates Mike Conley, Kyle Anderson and Karl-Anthony Towns \u2013 and anyone else within ear\u2026", 
-            "title": "'I'm just never negative': Anthony Edwards believes Minnesota Timberwolves can rally from 3-0 deficit - Andscape"
-        }, 
-        {
-            "url": "https://abcnews.go.com/GMA/Culture/nicki-minaj-arrested-amsterdam-claims-officials-bags-consent/story?id=110562455", 
-            "description": "A video showing the rapper being detained was posted to Instagram Live.", 
-            "title": "Nicki Minaj arrested in Amsterdam, claims officials 'took my bags without consent' - ABC News"
-        }, 
-        {
-            "url": "https://www.foxnews.com/politics/chinas-threats-naked-aggression-loom-large-house-lawmakers-meet-taiwan-new-president", 
-            "description": "House lawmakers spent their first full day in Taiwan meeting with the island's president and foreign minister, where the topic of China dominated discussion.", 
-            "title": "China's threats, 'naked aggression' loom large as House lawmakers meet Taiwan's new president - Fox News"
-        }, 
-        {
-            "url": "https://www.cbssports.com/mlb/news/ronald-acuna-jr-injury-five-trade-candidates-for-the-braves-after-losing-reigning-nl-mvp-for-season/", 
-            "description": "The Braves currently sit in second place in the NL East", 
-            "title": "Ronald Acu\u00f1a Jr. injury: Five trade candidates for the Braves after losing reigning NL MVP for season - CBS Sports"
         }
     ], 
-    "last_updated": "2024-05-28 21:19:10"
+    "last_updated": "2024-05-28 21:49:12"
 }
