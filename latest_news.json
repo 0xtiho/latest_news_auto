@@ -1,9 +1,44 @@
 {
     "news": [
         {
-            "url": "https://www.bbc.com/news/articles/cpvvyxr79glo", 
-            "description": "The Pope was speaking at a meeting of bishops on whether gay men should be allowed to become priests.", 
-            "title": "Pope Francis allegedly used derogatory term for gay people - BBC.com"
+            "url": "https://www.bostonglobe.com/2024/05/27/sports/celtics-pacers-game-4-live-score-news-injury-updates/", 
+            "description": "Derrick White hit the go-ahead 3-pointer with 45 seconds to play to send Boston to its second NBA Finals appearance in three seasons. The Celtics will play the winner of the Mavericks-Timberwolves series.", 
+            "title": "Celtics vs Pacers live score, updates from Game 4: NBA playoffs live blog - The Boston Globe"
+        }, 
+        {
+            "url": "https://www.foxla.com/news/loved-ones-seek-justice-general-hospital-actor-johnny-wactor", 
+            "description": "\"General Hospital\" actor Johnny Wactor was shot and killed after confronting a group of alleged catalytic converter thieves.", 
+            "title": "Loved ones seek justice for 'General Hospital' actor Johnny Wactor - FOX 11 Los Angeles"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cjjj26d0eqxo", 
+            "description": "Scores were killed in the camp for displaced Palestinians which Israel says targeted  \"senior Hamas terrorists\".", 
+            "title": "Deadly strike on Rafah a tragic mishap, Netanyahu says - BBC.com"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/05/27/angel-hernandez-retires-mlb-umpire-stats/73873676007/", 
+            "description": "MLB players and fans alike were always been vocal about A\u0301ngel Herna\u0301ndez being one of baseball's worst umpires.", 
+            "title": "\u00c1ngel Hern\u00e1ndez to retire: Much-maligned MLB umpire calling it quits - USA TODAY"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/bill-walton-dies-nba-hall-of-famer-won-2-championships-age-71/", 
+            "description": "\"Bill Walton was truly one of a kind,\" NBA commissioner Adam Silver said in a statement.", 
+            "title": "Bill Walton, NBA Hall of Famer who won 2 championships, dies at 71 - CBS News"
+        }, 
+        {
+            "url": "https://apnews.com/article/papua-new-guinea-landslide-explainer-1e142cb337dc04b5a81e031537909482", 
+            "description": "The Papua New Guinea government said more than 2,000 people are believed to have been buried alive in a landslide in the South Pacific island nation. The disaster struck after the side of a mountain came down early Friday morning when the village of Yambali w\u2026", 
+            "title": "At least 2000 feared dead in Papua New Guinea landslide. These are some challenges rescuers face - The Associated Press"
+        }, 
+        {
+            "url": "https://www.bloomberg.com/news/articles/2024-05-28/wall-street-returns-to-t-1-stock-trading-after-a-century", 
+            "description": "The US stock market is finally as fast as it was about a hundred years ago.", 
+            "title": "Wall Street Returns to T+1 Stock Trading After a Century - Bloomberg"
+        }, 
+        {
+            "url": "https://www.cnn.com/videos/politics/2024/05/27/hush-money-trial-closing-arguments-cohen-goodman-ebof-digvid.cnn", 
+            "description": "CNN legal analyst Ryan Goodman provides insight into the potential defense strategy that may be presented during the closing arguments of former president Donald Trump\u2019s Hush money trial.", 
+            "title": "Legal analyst predicts defense\u2019s closing arguments in Trump hush money trial - CNN"
         }, 
         {
             "url": "https://apnews.com/article/tornadoes-weather-texas-oklahoma-arkansas-kentucky-91b0ff5c06f9bdc8b8ca68f36afbafa2", 
@@ -11,29 +46,14 @@
             "title": "Severe Memorial Day weather: Powerful US storms head east after killing 20 - The Associated Press"
         }, 
         {
-            "url": "https://www.axios.com/2024/05/26/rafah-tent-camp-israel-airstrike", 
-            "description": null, 
-            "title": "Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say - Axios"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/celtics-vs-pacers-score-live-updates-game-4-highlights-as-boston-looks-to-sweep-indiana-in-east-finals/live/", 
-            "description": "The Pacers have to win at home on Monday as their season is on the line", 
-            "title": "Celtics vs. Pacers score: Live updates, Game 4 highlights as Boston looks to sweep Indiana in East finals - CBS Sports"
-        }, 
-        {
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-son-third-heart-surgery-memorial-day-weekend-1235909726/", 
-            "description": "The late-night host has been outspoken about his child's health issues and the importance of health insurance.", 
-            "title": "Jimmy Kimmel Reveals Son Billy Had Third Open Heart Surgery Over Memorial Day Weekend - Hollywood Reporter"
+            "url": "https://www.bbc.com/news/articles/c3ggvrp8v28o", 
+            "description": "The Conservatives pledge to raise the tax-free pension allowance by at least 2.5% a year if they win the election.", 
+            "title": "General election: Tories announce 'Triple Lock Plus' pension allowance - BBC.com"
         }, 
         {
             "url": "http://www.hollywoodreporter.com/business/digital/elon-musk-ai-startup-xai-raises-6-billion-1235909709/", 
             "description": "The startup, xAI, says that it has raised the cash from investors including Fidelity, Sequoia, Andreessen Horowitz\u00a0and Prince Alwaleed Bin Talal.", 
             "title": "Elon Musk\u2019s AI Startup Raises $6B - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/27/us-news/north-korean-spy-satellite-explodes-mid-air-after-launch/", 
-            "description": "North Korea\u2019s attempt to blast a second spy satellite into orbit went up in flames not long after takeoff on Monday, the hermit nation\u2019s state news agency confirmed.", 
-            "title": "North Korean spy satellite explodes mid-air after launch - New York Post "
         }, 
         {
             "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-furiosa-edges-out-garfield-in-worst-memorial-day-weekend-in-decades/", 
@@ -51,9 +71,14 @@
             "title": "AMC conducting review after 4 girls randomly stabbed inside Massachusetts movie theater - CBS Boston"
         }, 
         {
-            "url": "https://www.reuters.com/world/middle-east/egyptian-guard-killed-shooting-rafah-border-israel-egypt-investigating-2024-05-27/", 
-            "description": null, 
-            "title": "Egyptian guard killed in shooting on Rafah border, Israel and Egypt investigating - Reuters.com"
+            "url": "https://cbs12.com/news/nation-world/at-least-8-dead-killed-tornado-outbreak-sunday-arkansas-phone-call-tour-officials-governor-sarah-sanders-president-joe-biden-federal-government", 
+            "description": "At least eight people were killed and many more injured after multiple tornadoes ripped through Arkansas. There hasn't been anything like this in 10 years.", 
+            "title": "At least 8 dead after tornado outbreak in Arkansas, Biden tells gov. feds ready to assist - WKRC TV Cincinnati"
+        }, 
+        {
+            "url": "https://pagesix.com/2024/05/27/entertainment/bachelor-star-ryan-sutter-shares-photo-of-wife-trista-after-she-reunites-with-family/", 
+            "description": "\u201cThey say absence makes the heart grow fonder\u2026. We found out it\u2019s true,\u201d the former reality star wrote. \u201cIt also makes the heart more grateful\u2026\u201d", 
+            "title": "'Bachelor' star Ryan Sutter shares photo of wife Trista after she reunites with family following her absence - Page Six"
         }, 
         {
             "url": "https://local12.com/news/nation-world/black-bear-kebabs-gives-family-parasitic-worms-3-people-hospitalized-infected-meat-wild-game-cdc-parasites-worm-disease-control-prevention-saskatchewan-hunted-frozen-thawed-cooked-roundworm-infections-mild-severe-symptoms-life-threatening-cooked-properly", 
@@ -66,40 +91,15 @@
             "title": "Louisiana prison escape: 2 inmates found, 2 at large Monday - USA TODAY"
         }, 
         {
-            "url": "https://www.ky3.com/2024/05/27/tornado-damages-community-texas-county-mo/", 
-            "description": "A powerful storm hit Texas County on Sunday afternoon in the Bendavis-Houston area of Texas County.", 
-            "title": "Tornado damages community in Texas County, Mo. - KY3"
-        }, 
-        {
-            "url": "https://www.espn.com/mlb/story/_/id/40230155/cubs-craig-counsell-booed-brewers-fans-milwaukee-return", 
-            "description": "Craig Counsell, who is in his first year managing the Cubs after 18 seasons with the Brewers as a player and manager, was booed in his first return to Milwaukee.", 
-            "title": "Cubs' Craig Counsell booed by Brewers fans in Milwaukee return - ESPN"
-        }, 
-        {
-            "url": "https://apnews.com/article/papua-new-guinea-landslide-3e1444634d8859b1f2378b334c6a0d41", 
-            "description": "A Papua New Guinea government official has told the United Nations that more than 2,000 people are believed to have been buried alive by a landslide Friday. The official formally asked for international help. The government figure is roughly triple a U.N. est\u2026", 
-            "title": "PNG landslide: More than 2,000 killed, government says - The Associated Press"
-        }, 
-        {
             "url": "https://variety.com/2024/film/news/richard-dreyfuss-cabot-theater-offensive-remarks-1236017160/", 
-            "description": "In recent years, \u201cJaws\u201d star Richard Dreyfuss has come under fire for speaking out on subjects such as Oscar diversity requirements and the use of Blackface....", 
-            "title": "Richard Dreyfuss Sparks Outrage, Massachusetts Theater Apologizes For His 'Offensive and Distressing' Remarks at 'Jaws' Screening - Yahoo Entertainment"
+            "description": "Richard Dreyfuss is facing criticism after a theater in Massachusetts apologized to patrons for his 'offensive' remarks made at a 'Jaws' screening.", 
+            "title": "Richard Dreyfuss Sparks Outrage, Massachusetts Theater Apologizes For His \u2018Offensive and Distressing\u2019 Remarks at \u2018Jaws\u2019 Screening - Variety"
         }, 
         {
-            "url": "https://www.cnn.com/cnn-underscored/deals/best-buy-memorial-day-sale-2024-05-27", 
-            "description": "Dyson, Apple, and Sony are all on sale at Best Buy for Memorial Day with discounts up to 45% off.", 
-            "title": "Here are 25 of the best deals to shop at Best Buy\u2019s Memorial Day sale - CNN Underscored"
-        }, 
-        {
-            "url": "https://www.teslarati.com/spacex-announces-next-starship-test-flight-date/", 
-            "description": "SpaceX's Starship will one day transport human life to other planets.", 
-            "title": "SpaceX announces next Starship test flight date - TESLARATI"
-        }, 
-        {
-            "url": "https://abc30.com/post/passenger-united-flight-fresno-measles-officials-confirm/14878374/", 
-            "description": "A passenger on a flight to Fresno was confirmed to be traveling with measles, according to LA County health officials.", 
-            "title": "Passenger on United flight to Fresno had measles, officials confirm - KFSN-TV"
+            "url": "https://www.businessinsider.com/iphones-may-get-a-revamped-home-screen-2024-5", 
+            "description": null, 
+            "title": "iPhones may get a revamped home screen - Business Insider"
         }
     ], 
-    "last_updated": "2024-05-29 03:19:36"
+    "last_updated": "2024-05-29 03:49:39"
 }
