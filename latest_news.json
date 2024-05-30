@@ -1,29 +1,74 @@
 {
     "news": [
         {
-            "url": "https://www.cnbc.com/2024/05/28/stock-market-today-live-updates.html", 
-            "description": "Stock futures were lower Wednesday, as traders kept an eye on Treasury yields with inflation concerns simmering.", 
-            "title": "Dow futures drop more than 200 points on Wednesday: Live updates - CNBC"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/education/2024/05/29/harvard-university-political-statements/", 
-            "description": "The university said it will avoid statements on public issues and current events. It faced backlash for its response to the Oct. 7 Hamas attack on Israel.", 
-            "title": "Harvard will no longer provide statements of empathy on public issues - The Washington Post"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/crgg2neyr65o", 
-            "description": "The governing party is battling to retain its parliamentary majority, 30 years after Nelson Mandela led it to victory.", 
-            "title": "South Africans vote in pivotal election for the ANC - BBC.com"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/asia-pacific/union-samsung-electronics-south-korea-declares-strike-2024-05-29/", 
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA1LzI5L2lzcmFlbC1oYW1hcy13YXItbmV3cy1nYXphLXBhbGVzdGluZS1yYWZhaC_SAQA?oc=5", 
             "description": null, 
-            "title": "Samsung Electronics' union threatens first ever walkout next week - Reuters"
+            "title": "Aid group suspends main Rafah kitchen over 'ongoing attacks' - The Washington Post"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvZXhwbGFpbmVkLXdoYXQtcHJvYmUtaW50by10dXJidWxlbmNlLWhpdC1zaW5nYXBvcmUtYWlybGluZXMtZmxpZ2h0LXJldmVhbHMtNTc3MDk4M9IBeGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvZXhwbGFpbmVkLXdoYXQtcHJvYmUtaW50by10dXJidWxlbmNlLWhpdC1zaW5nYXBvcmUtYWlybGluZXMtZmxpZ2h0LXJldmVhbHMtNTc3MDk4My9hbXAvMQ?oc=5", 
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/29/dc-new-giant-pandas-national-zoo-china/", 
+            "description": "D.C.\u2019s National Zoo said China has agreed to lease it two new pandas \u2014 Bao Li, 2, a male, and Qing Bao, 2, a female. They are set to arrive later this year.", 
+            "title": "Giant pandas are returning to D.C.'s National Zoo. Meet Bao Li and Qing Bao. - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/29/5-things-to-know-before-the-stock-market-opens-wednesday-may-29.html", 
+            "description": "Here are the most important news items that investors need to start their trading day.", 
+            "title": "5 things to know before the stock market opens Wednesday - CNBC"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c166xxd4y36o", 
+            "description": "Several parts of northern and central India have recorded soaring temperatures this summer.", 
+            "title": "Summer 2024: Temperatures cross 50C in northern India - BBC.com"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/conocophillips-acquire-marathon-oil-22-110225775.html", 
             "description": null, 
-            "title": "Explained: What Probe Into Turbulence-Hit Singapore Airlines Flight Reveals - NDTV"
+            "title": "ConocoPhillips to Acquire Marathon Oil in $17 Billion Deal - Yahoo Finance"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-trial-deliberations-jury-judge-verdict-390f045e9e8a37f069e82576edd7a842", 
+            "description": "Jurors in Donald Trump\u2019s New York hush money trial are expected to begin deliberations after receiving instructions from the judge on the law and the factors they may consider as they strive to reach a verdict in the first criminal case against a former Ameri\u2026", 
+            "title": "Trump hush money trial: Jury begin deliberations after marathon closing arguments - The Associated Press"
+        }, 
+        {
+            "url": "https://www.startribune.com/anthony-edwards-karl-anthony-towns-western-conference-finals-charles-barkley-snowy-minnesota/600369322/", 
+            "description": "The Timberwolves kept the playoffs alive in large measure because the players expected to carry them came through \u2014 and Mavericks superstar Luka Doncic said that he didn't", 
+            "title": "Ten clutch points: Timberwolves stars deliver, Luca Doncic doesn't, Charles Barkley has the weather - Star Tribune"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/29/dicks-sporting-goods-dks-earnings-q1-2024.html", 
+            "description": "Dick's Sporting Goods saw sales grow well ahead of estimates, following behind other retailers that said consumers are spending on new clothes and shoes.", 
+            "title": "Dick's Sporting Goods raises guidance, says shoppers are spending more on sneakers and athletic gear - CNBC"
+        }, 
+        {
+            "url": "https://www.washingtonpost.com/health/2024/05/29/peanut-allergy-baby-infants/", 
+            "description": "An author of the study said the correlation was \u201cextraordinary.\u201d She advised parents that \u201cplain old peanut butter mixed in warm water can work for a 4-month-old.\u201d", 
+            "title": "Babies exposed to peanuts less likely to be allergic years later, study says - The Washington Post"
+        }, 
+        {
+            "url": "https://nypost.com/2024/05/29/us-news/general-hospital-star-johnny-wactors-family-doesnt-want-his-ex-fiancee-tessa-farrell-speaking-on-la-murder/", 
+            "description": "In a video Tuesday, Farrell broke down in tears over the \u201cGeneral Hospital\u201d star\u2019s death, slamming the gunmen\u00a0for shooting \u201cthe wrong guy.\u201d", 
+            "title": "'General Hospital' star Johnny Wactor's family doesn't want his ex-fianc\u00e9e Tessa Farrell speaking on LA murder - New York Post "
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/29/entertainment/sean-diddy-combs-federal-investigation/index.html", 
+            "description": "Federal investigators are preparing to bring accusers of music mogul Sean \u201cDiddy\u201d Combs before a federal grand jury, two sources familiar with the probe tell CNN \u2014 signaling the US Justice Department is moving towards possibly seeking an indictment of Combs.", 
+            "title": "Exclusive: A federal grand jury may soon hear from Sean \u2018Diddy\u2019 Combs\u2019 accusers - CNN"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/29/sport/caitlin-clark-wnba-history-indiana-fever-sparks-spt-intl/index.html", 
+            "description": "The Indiana Fever\u2019s early season woes continued Tuesday with an 88-82 defeat to the Los Angeles Sparks, but Caitlin Clark produced a historic performance.", 
+            "title": "Caitlin Clark makes WNBA history in Indiana Fever loss to Los Angeles Sparks - CNN"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c9xx5pj095jo", 
+            "description": "Rapid changes in gravitational force caused the altitude drop which injured passengers, investigators say.", 
+            "title": "Singapore Airlines plane dropped 178ft in five seconds, black box data reveals - BBC.com"
         }, 
         {
             "url": "https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/", 
@@ -36,70 +81,25 @@
             "title": "Anglo Won't Extend BHP Deadline, Threatening End to Takeover Bid - Bloomberg"
         }, 
         {
+            "url": "https://www.usatoday.com/story/news/weather/2024/05/29/is-2024-a-record-year-for-tornadoes/73875481007/", 
+            "description": null, 
+            "title": "Is 2024 a record year for tornadoes? Data shows a busy, deadly spring. - USA TODAY"
+        }, 
+        {
+            "url": "https://www.wsbtv.com/news/local/stetson-bennett-opens-up-first-time-about-stepping-away-rams-last-year/XJ4GJPF6V5DLLEALBNUN5BHN2Y/", 
+            "description": "", 
+            "title": "Stetson Bennett opens up for first time about stepping away from Rams last year - WSB Atlanta"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/bird-flu-vaccine-chicken-eggs-researching-alternatives/", 
+            "description": "The spread of an avian flu virus in cattle has again brought public health attention to the potential for a global pandemic. Fighting it would depend, for now, on 1940s technology that makes vaccines from hens' eggs.", 
+            "title": "The bird flu vaccine is made with eggs. That has scientists worried. - CBS News"
+        }, 
+        {
             "url": "https://www.politico.com/news/2024/05/29/trump-birth-control-contraception-00159555", 
             "description": null, 
             "title": "Trump says he won't 'ban' birth control. Here's what he may do instead. - POLITICO"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/middle-east/worlds-largest-humanitarian-network-calls-gaza-ceasefire-2024-05-29/", 
-            "description": null, 
-            "title": "World's largest humanitarian network calls for Gaza ceasefire - Reuters"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/crggxm0rd23o", 
-            "description": "A standoff with Republicans in Ohio threatened to keep the US president off November's ballot in the state.", 
-            "title": "Democrats unveil plan to get Biden on Ohio general election ballot - BBC.com"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wNS8yNC90b255LWdvbnphbGVzLWJyYW5kb24taGVycmVyYS10ZXhhcy1wcmltYXJ5LXJ1bm9mZi_SAQA?oc=5", 
-            "description": null, 
-            "title": "U.S. Rep. Tony Gonzales declares victory in GOP runoff - The Texas Tribune"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/28/sports/shaq-charles-barkley-devastated-by-death-of-bill-walton/", 
-            "description": "The basketball world was still mourning the Monday death of the beloved former player and broadcaster Bill Walton when \u201cInside the NBA\u201d went on air Tuesday ahead of the Mavericks\u2019 Game 4 batt\u2026", 
-            "title": "Shaq, Charles Barkley devastated by death of Bill Walton: 'World is not as good' - New York Post "
-        }, 
-        {
-            "url": "https://ew.com/hollywood-makeup-artist-allie-shehorn-stabbed-by-ex-boyfriend-over-20-times-report-8655006", 
-            "description": "Allie Shehorn, a makeup artist whose films include 'Babylon' and 'Rebel Moon,' is reportedly recovering in the hospital after allegedly being stabbed by her ex-boyfriend over 20 times.", 
-            "title": "'Babylon' makeup artist Allie Shehorn allegedly stabbed by ex-boyfriend over 20 times: report - Entertainment Weekly News"
-        }, 
-        {
-            "url": "https://spacenews.com/falcon-9-launches-esas-earthcare-mission/", 
-            "description": "A Falcon 9 successfully launched an Earth science mission for Europe and Japan May 28 as part of ESA\u2019s ongoing, if temporary, reliance on SpaceX.", 
-            "title": "Falcon 9 launches ESA's EarthCARE mission - SpaceNews"
-        }, 
-        {
-            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-28-2024-21ea44e3b514d3f3f2bd26a33f157e48", 
-            "description": "Renewed Israeli shelling and strikes have killed at least 37 people, most of them sheltering in tents, outside the southern Gaza city of Rafah. That's according to witnesses, first responders and hospital officials. The bombardment overnight and into Tuesday \u2026", 
-            "title": "Israeli strikes kill at least 37 Palestinians, most in tents, near Gaza's Rafah as offensive expands - The Associated Press"
-        }, 
-        {
-            "url": "https://apnews.com/article/manhattanhenge-sun-photos-5365b8876ea12943442e8ea679505c4e", 
-            "description": "Twice per year, New Yorkers and visitors are treated to a phenomenon known as Manhattanhenge, when the setting sun aligns with the Manhattan street grid and sinks below the horizon framed in a canyon of skyscrapers. The first Manhattanhenge of the year happen\u2026", 
-            "title": "Manhattanhenge 2024: Watch live and see what time it starts - The Associated Press"
-        }, 
-        {
-            "url": "https://www.platformer.news/google-ai-overviews-eat-rocks-glue-pizza/", 
-            "description": "The AI Overviews debacle and leaked search ranking documents tell a common story about the web's future \u2014 and it's not pretty", 
-            "title": "Google's AI search setback - Platformer"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/28/politics/trump-hush-money-closing-arguments-takeaways/index.html", 
-            "description": "Prosecutors told jurors on Tuesday they\u2019ve seen a \u201cmountain of evidence\u201d to prove that Donald Trump falsified business records in order to cover up a damaging story about an alleged affair at the end of the 2016 election.", 
-            "title": "Takeaways from closing arguments in the Donald Trump hush money trial - CNN"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/28/24166632/galaxy-z-flip-6-smart-ring-size-battery-capacity-leaks", 
-            "description": "FCC testing documents reveal a slightly higher battery capacity for the Galaxy Z Flip 6 foldable versus its predecessor, as well as a size five ring for the Galaxy Ring.", 
-            "title": "New Galaxy Z Flip 6 and Galaxy Ring details have leaked, courtesy of the FCC - The Verge"
         }
     ], 
-    "last_updated": "2024-05-30 13:13:06"
+    "last_updated": "2024-05-30 13:43:09"
 }
