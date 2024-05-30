@@ -1,19 +1,64 @@
 {
     "news": [
         {
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA1LzI5L2lzcmFlbC1oYW1hcy13YXItbmV3cy1nYXphLXBhbGVzdGluZS1yYWZhaC_SAQA?oc=5", 
+            "url": "https://www.cnbc.com/2024/05/29/russia-ukraine-live-updates.html", 
+            "description": "French President Emmanuel Macron said Tuesday that Kyiv should be allowed to use Western arms against Russian military sites used to target Ukraine.", 
+            "title": "Ukraine war updates: Macron says Kyiv should be allowed to use Western weapons on Russian military sites; Blinken travels to Moldova - CNBC"
+        }, 
+        {
+            "url": "https://www.ign.com/articles/sony-state-of-play-may-2024", 
             "description": null, 
-            "title": "Aid group suspends main Rafah kitchen over 'ongoing attacks' - The Washington Post"
+            "title": "Sony State of Play Announced for This Week, Expected to Feature New Astro Bot and More - IGN"
         }, 
         {
-            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/29/dc-new-giant-pandas-national-zoo-china/", 
-            "description": "D.C.\u2019s National Zoo said China has agreed to lease it two new pandas \u2014 Bao Li, 2, a male, and Qing Bao, 2, a female. They are set to arrive later this year.", 
-            "title": "Giant pandas are returning to D.C.'s National Zoo. Meet Bao Li and Qing Bao. - The Washington Post"
+            "url": "https://www.theverge.com/2024/5/29/24166168/fitbit-ace-lte-kids-smartwatch-wearables", 
+            "description": "The $229.95 Fitbit Ace LTE is a fresh take on a smartwatch for children, with collectible wristbands, games, and built-in LTE connectivity for parents.", 
+            "title": "The Fitbit Ace LTE is like a Nintendo smartwatch for kids - The Verge"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/29/5-things-to-know-before-the-stock-market-opens-wednesday-may-29.html", 
-            "description": "Here are the most important news items that investors need to start their trading day.", 
-            "title": "5 things to know before the stock market opens Wednesday - CNBC"
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1MjU4NTQvMjAyNC8wNS8yOS9tbGItbmVncm8tbGVhZ3Vlcy1zdGF0LWNoYW5nZS13aGF0LXdoeS_SAQA?oc=5", 
+            "description": null, 
+            "title": "The MLB-Negro Leagues stat change: What happened, and why? - The New York Times"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/video/american-airlines-stock-tumbles-cutting-135300512.html", 
+            "description": "Shares of American Airlines (AAL) are sinking after the company cut its second quarter sales outlook. Yahoo Finance's Pras Subramanian reports more on the...", 
+            "title": "American Airlines stock tumbles after cutting Q2 guidance - Yahoo Finance"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/karl-anthony-towns-and-the-timberwolves-needed-this-win-keep-after-it-and-maybe-the-tide-turns-055829428.html", 
+            "description": "Minnesota's All-Star big man finally found the range, extending the series to a Game 5 on Thursday night.", 
+            "title": "Karl-Anthony Towns and the Timberwolves needed this win: 'Keep after it, and maybe the tide turns' - Yahoo Sports"
+        }, 
+        {
+            "url": "https://www.wlky.com/article/scottie-scheffler-louisville-charges-court/60926542", 
+            "description": "The Jefferson County prosecutor announced he will address Scottie Scheffler's Louisville charges in court on Wednesday.", 
+            "title": "Scottie Scheffler's Louisville case to be addressed in court Wednesday - WLKY Louisville"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/29/africa/south-africa-elections-polls-open-intl/index.html", 
+            "description": "Millions of South Africans are voting in what is expected to be the most pivotal general election since the end of apartheid.", 
+            "title": "South Africans go to the polls in election seen as biggest test yet to ANC\u2019s 30 years in power - CNN"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMDMzbTUyOXJ5MG_SAQA?oc=5", 
+            "description": null, 
+            "title": "US military Gaza pier knocked out of action by heavy seas - BBC.com"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/entertainment/movies/2024/05/29/wolfs-trailer-george-clooney-brad-pitt-new-movie-jon-watts/73882441007/", 
+            "description": "George Clooney and Brad Pitt star in the trailer for the Jon Watts thriller \"Wolfs,\" which marks their first movie together in more than a decade.", 
+            "title": "'Wolfs' trailer: Brad Pitt, George Clooney new movie reunites actors - USA TODAY"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
             "url": "https://www.bbc.com/news/articles/c166xxd4y36o", 
@@ -21,29 +66,24 @@
             "title": "Summer 2024: Temperatures cross 50C in northern India - BBC.com"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/conocophillips-acquire-marathon-oil-22-110225775.html", 
-            "description": null, 
-            "title": "ConocoPhillips to Acquire Marathon Oil in $17 Billion Deal - Yahoo Finance"
-        }, 
-        {
             "url": "https://apnews.com/article/trump-trial-deliberations-jury-judge-verdict-390f045e9e8a37f069e82576edd7a842", 
             "description": "Jurors in Donald Trump\u2019s New York hush money trial are expected to begin deliberations after receiving instructions from the judge on the law and the factors they may consider as they strive to reach a verdict in the first criminal case against a former Ameri\u2026", 
             "title": "Trump hush money trial: Jury begin deliberations after marathon closing arguments - The Associated Press"
         }, 
         {
-            "url": "https://www.startribune.com/anthony-edwards-karl-anthony-towns-western-conference-finals-charles-barkley-snowy-minnesota/600369322/", 
-            "description": "The Timberwolves kept the playoffs alive in large measure because the players expected to carry them came through \u2014 and Mavericks superstar Luka Doncic said that he didn't", 
-            "title": "Ten clutch points: Timberwolves stars deliver, Luca Doncic doesn't, Charles Barkley has the weather - Star Tribune"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/29/dicks-sporting-goods-dks-earnings-q1-2024.html", 
-            "description": "Dick's Sporting Goods saw sales grow well ahead of estimates, following behind other retailers that said consumers are spending on new clothes and shoes.", 
-            "title": "Dick's Sporting Goods raises guidance, says shoppers are spending more on sneakers and athletic gear - CNBC"
-        }, 
-        {
             "url": "https://www.washingtonpost.com/health/2024/05/29/peanut-allergy-baby-infants/", 
             "description": "An author of the study said the correlation was \u201cextraordinary.\u201d She advised parents that \u201cplain old peanut butter mixed in warm water can work for a 4-month-old.\u201d", 
             "title": "Babies exposed to peanuts less likely to be allergic years later, study says - The Washington Post"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c977g96vll1o", 
+            "description": "The \u00a339bn mega-merger between the two international mining giants hangs by a thread.", 
+            "title": "Anglo American rejects BHP's plea to extend mega-merger deadline - BBC.com"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvbWF5LzI5L21leGljby1lbGVjdGlvbi12aW9sZW5jZS1jZWxheWHSAVVodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L21heS8yOS9tZXhpY28tZWxlY3Rpb24tdmlvbGVuY2UtY2VsYXlh?oc=5", 
+            "description": null, 
+            "title": "\u2018It\u2019s become a battleground\u2019: Mexico\u2019s local candidates face deadly violence - The Guardian"
         }, 
         {
             "url": "https://nypost.com/2024/05/29/us-news/general-hospital-star-johnny-wactors-family-doesnt-want-his-ex-fiancee-tessa-farrell-speaking-on-la-murder/", 
@@ -59,47 +99,7 @@
             "url": "https://www.cnn.com/2024/05/29/sport/caitlin-clark-wnba-history-indiana-fever-sparks-spt-intl/index.html", 
             "description": "The Indiana Fever\u2019s early season woes continued Tuesday with an 88-82 defeat to the Los Angeles Sparks, but Caitlin Clark produced a historic performance.", 
             "title": "Caitlin Clark makes WNBA history in Indiana Fever loss to Los Angeles Sparks - CNN"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c9xx5pj095jo", 
-            "description": "Rapid changes in gravitational force caused the altitude drop which injured passengers, investigators say.", 
-            "title": "Singapore Airlines plane dropped 178ft in five seconds, black box data reveals - BBC.com"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/", 
-            "description": null, 
-            "title": "S.Korea accuses North of sending balloons with excrement across border - Reuters"
-        }, 
-        {
-            "url": "https://www.bloomberg.com/news/articles/2024-05-29/anglo-won-t-extend-bhp-deadline-threatening-end-to-takeover-bid", 
-            "description": "Anglo American Plc said it won\u2019t give BHP Group any further time to commit to a takeover offer, threatening to end a $49 billion pursuit by the world\u2019s biggest mining company.", 
-            "title": "Anglo Won't Extend BHP Deadline, Threatening End to Takeover Bid - Bloomberg"
-        }, 
-        {
-            "url": "https://www.usatoday.com/story/news/weather/2024/05/29/is-2024-a-record-year-for-tornadoes/73875481007/", 
-            "description": null, 
-            "title": "Is 2024 a record year for tornadoes? Data shows a busy, deadly spring. - USA TODAY"
-        }, 
-        {
-            "url": "https://www.wsbtv.com/news/local/stetson-bennett-opens-up-first-time-about-stepping-away-rams-last-year/XJ4GJPF6V5DLLEALBNUN5BHN2Y/", 
-            "description": "", 
-            "title": "Stetson Bennett opens up for first time about stepping away from Rams last year - WSB Atlanta"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/bird-flu-vaccine-chicken-eggs-researching-alternatives/", 
-            "description": "The spread of an avian flu virus in cattle has again brought public health attention to the potential for a global pandemic. Fighting it would depend, for now, on 1940s technology that makes vaccines from hens' eggs.", 
-            "title": "The bird flu vaccine is made with eggs. That has scientists worried. - CBS News"
-        }, 
-        {
-            "url": "https://www.politico.com/news/2024/05/29/trump-birth-control-contraception-00159555", 
-            "description": null, 
-            "title": "Trump says he won't 'ban' birth control. Here's what he may do instead. - POLITICO"
         }
     ], 
-    "last_updated": "2024-05-30 15:13:16"
+    "last_updated": "2024-05-30 15:43:19"
 }
