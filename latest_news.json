@@ -1,14 +1,49 @@
 {
     "news": [
         {
+            "url": "https://www.wlky.com/article/scottie-scheffler-charges-dropped-louisville/60937750", 
+            "description": "Charges against professional golfer Scottie Scheffler are expected to be dropped on Wednesday.", 
+            "title": "Scottie Scheffler's charges dropped in Louisville courtroom - WLKY Louisville"
+        }, 
+        {
+            "url": "https://www.foxnews.com/politics/rafah-offensive-israel-didnt-cross-bidens-red-line-white-house", 
+            "description": "White House officials said the attacks on Rafah by Israel have not constituted a major ground operation, nor have they crossed Biden's 'red line.'", 
+            "title": "Rafah offensive by Israel didn't cross Biden's 'red line,' White House says - Fox News"
+        }, 
+        {
+            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-29-2024-7952f779552f41ef6fb44c3b662f5c48", 
+            "description": "Israel\u2019s military says it's seized control of a strategic corridor that runs along the length of Gaza\u2019s border with Egypt. The capture on Wednesday gives Israel control over a strip of land that it says is awash in smuggling tunnels that have bolstered the mi\u2026", 
+            "title": "Israel says it's taken control of key area of Gaza's border with Egypt awash in smuggling tunnels - The Associated Press"
+        }, 
+        {
+            "url": "https://www.nba.com/wizards/news/wizards-name-brian-keefe-head-coach", 
+            "description": "The Washington Wizards announced today that the team has named Brian Keefe as head coach. Keefe becomes the 26th head coach in the organization\u2019s history.", 
+            "title": "Wizards Name Brian Keefe Head Coach - NBA.com"
+        }, 
+        {
+            "url": "https://thehill.com/policy/international/4692532-north-korea-sends-fleet-of-balloons-carrying-excrement-to-south-korea/", 
+            "description": null, 
+            "title": "North Korea sends fleet of balloons carrying excrement to South Korea - The Hill"
+        }, 
+        {
+            "url": "https://www.gamespot.com/articles/playstation-days-of-play-2024-ps5-deals/1100-6523751/", 
+            "description": "The event runs through June 12, giving you a chance to save on games, accessories, consoles, and more.", 
+            "title": "Tons Of PS5-Exclusive Games Are On Sale For Low Prices For PlayStation's Days Of Play - GameSpot"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/29/nx-s1-4984840/american-airlines-8-black-men-body-odor-discrimination-lawsuit", 
+            "description": "Neither passenger knew each other, nor were they seated together on the Jan. 5 flight from Phoenix to New York. A lawsuit alleges they were removed from the flight after a complaint about body odor.", 
+            "title": "American Airlines faces a discrimination suit after removing 8 Black men from flight - NPR"
+        }, 
+        {
             "url": "https://www.cnbc.com/2024/05/29/salesforce-crm-q1-earnings-report-2025.html", 
             "description": "Salesforce issued a disappointing forecast in its quarterly earnings report on Wednesday.", 
             "title": "Salesforce shares plunge 17% on revenue miss, weak forecast - CNBC"
         }, 
         {
-            "url": "https://www.washingtonpost.com/weather/2024/05/29/record-heat-delhi-india-climate-survival/", 
-            "description": "Delhi experienced record highs near 122 degrees (50 Celsius) Tuesday and Wednesday.", 
-            "title": "Record heat in Delhi and northern India nears limits of human survival - The Washington Post"
+            "url": "https://www.youtube.com/watch?v=DuUH2sdTL_4", 
+            "description": "A joint European-Japanese satellite has launched to measure how clouds influence the climate. Some low-level clouds are known to cool the planet, others at h...", 
+            "title": "European-Japanese satellite blasts off to space | BBC News - BBC News"
         }, 
         {
             "url": "https://apnews.com/article/harvey-weinstein-me-too-retrial-nyc-courthouse-1d1182cdcf20b26fa9f1f72f3d085ee4", 
@@ -16,9 +51,9 @@
             "title": "Harvey Weinstein may face new charges as more accusers come forward, New York prosecutors say - The Associated Press"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/29/us/scottie-scheffler-court-hearing/index.html", 
-            "description": "All charges against Scottie Scheffler have been dismissed less than two weeks after the world No. 1 golfer was arrested trying to drive around the scene of a fatal crash on his way to the PGA Championship \u2013 and as video of the arrest aftermath emerged.", 
-            "title": "Charges against Scottie Scheffler dismissed after arrest outside PGA Championship - CNN"
+            "url": "https://www.bbc.com/news/articles/cjll8nr6962o", 
+            "description": "Votes are being counted after the most closely fought election since the ANC came to power 30 years ago.", 
+            "title": "South Africa election results: Counting under way after pivotal poll - BBC.com"
         }, 
         {
             "url": "https://www.washingtonpost.com/sports/2024/05/29/bronny-james-nba-draft/", 
@@ -26,9 +61,9 @@
             "title": "Bronny James will stay in the NBA draft. Is a pairing with LeBron James next? - The Washington Post"
         }, 
         {
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/glenn-close-knives-out-3-1235911053/", 
-            "description": "Production on 'Wake Up Dead Man,' the latest installment of Rian Johnson's murder mystery movie series, begins in June in the U.K.", 
-            "title": "Glenn Close Joins Daniel Craig in \u2018Knives Out 3\u2019 (Exclusive) - Hollywood Reporter"
+            "url": "https://apnews.com/article/biden-black-voters-election-2024-pennsylvania-0c4a7343c017f57a38c847bfc9b1316f", 
+            "description": "President Joe Biden is renewing his election-year pitch to Black voters. At an appearance in Philadelphia with Vice President Kamala Harris on Wednesday, he lashed out at what he called Donald Trump\u2019s \u201cMAGA lies\u201d and said the winner of this year\u2019s White House\u2026", 
+            "title": "Biden and Harris will launch a Black voter outreach effort as they see signs of diminished support - The Associated Press"
         }, 
         {
             "url": "https://www.cbsnews.com/news/supreme-court-justice-alito-wont-recuse-over-flags/", 
@@ -36,70 +71,35 @@
             "title": "Alito tells congressional Democrats he won't recuse over flags - CBS News"
         }, 
         {
+            "url": "https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/", 
+            "description": "The alpacas were known to be in close contact with infected birds.", 
+            "title": "Alpacas in Idaho test positive for H5N1 bird flu in another world first - Ars Technica"
+        }, 
+        {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdXMtbWFkZS1ib21iLWlzcmFlbGktc3RyaWtlLXJhZmFoLW11bml0aW9ucy1leHBlcnRzLXNheS_SAVlodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy91cy1tYWRlLWJvbWItaXNyYWVsaS1zdHJpa2UtcmFmYWgtbXVuaXRpb25zLWV4cGVydHMtc2F5Lw?oc=5", 
-            "description": null, 
-            "title": "U.S.-made bomb used in Israeli strike on Rafah that killed dozens, munitions experts say - CBS News"
+            "url": "https://www.androidauthority.com/resize-live-captions-on-android-3447092/", 
+            "description": "Android\u2019s Live Captions feature will soon add a grab bar that users can drag to change the number of lines shown for captions.", 
+            "title": "Google will soon let you resize Android's Live Captions feature - Android Authority"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c844em2ey7eo", 
-            "description": "Grindavik's mayor says larger lava flows than usual are heading towards the largely abandoned area.", 
-            "title": "Iceland volcano: Concern for town of Grindavik after new eruption - BBC.com"
+            "url": "https://abcnews.go.com/Politics/rep-tony-gonzales-projected-winner-closely-watched-texas/story?id=110643975", 
+            "description": "The runoff pitted a moderate-leaning Republican against a political newcomer.", 
+            "title": "Rep. Tony Gonzales projected winner of closely watched Texas primary runoff - ABC News"
         }, 
         {
-            "url": "https://www.washingtonpost.com/education/2024/05/29/yale-new-president-maurie-mcinnis/", 
-            "description": "Maurie McInnis, who has been president of Stony Brook University since 2020, is expected to begin July 1.", 
-            "title": "Yale names historian leading Stony Brook as its next president - The Washington Post"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/american-airlines-stock-tanks-following-surprising-guidance-cut-173333605.html", 
-            "description": "American Airlines stock is getting hit in midday trade after the company announced the departure of Vasu Raja, its chief commercial officer, and issued...", 
-            "title": "American Airlines stock tanks following 'surprising' guidance cut - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.espn.com/olympics/story/_/id/40240116/gabby-douglas-gymnastics-ends-2024-olympics-bid", 
-            "description": "Three-time Olympic gold medalist Gabby Douglas has withdrawn from competition at the U.S. gymnastics championships in Fort Worth, citing an ankle injury.", 
-            "title": "Gabby Douglas pulls out of U.S. championships, ends 2024 Olympic bid - ESPN"
+            "url": "https://www.space.com/x-flare-eruption-may-27-returning-sunspot", 
+            "description": "The hyperactive sunspot region doesn't seem to be slowing down anytime soon.", 
+            "title": "Massive sunspot responsible for May's epic auroras unleashes major X-class solar flare (video) - Space.com"
         }, 
         {
             "url": "https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/", 
             "description": "How has Starlink has gone from zero to profitability in five years?", 
             "title": "Ars Live: How profitable is Starlink? We dig into the details of satellite Internet. - Ars Technica"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NvdXRoLWFmcmljYS1lbGVjdGlvbi1hbmMtdm90ZS1kYjIwMWJjMWFhMjFhMWQ5ODZkNTBhZjE2NzRhOGU3ONIBAA?oc=5", 
-            "description": null, 
-            "title": "South Africa votes in election that could bring biggest shift since 1994 - The Associated Press"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c977g96vll1o", 
-            "description": "The \u00a339bn mega-merger between the two international mining giants collapses after a frantic back and forth.", 
-            "title": "BHP pulls out of \u00a339bn mega-merger with rival Anglo American - BBC.com"
-        }, 
-        {
-            "url": "https://apnews.com/article/russia-ukraine-war-macron-weapons-e308755a31716ee0123b441bb9b548b0", 
-            "description": "France\u2019s president has joined the head of NATO in pushing for a policy shift that could change the complexion of the Ukraine war: allowing Kyiv to strike military bases inside Russia with sophisticated long-range weapons provided by its Western partners. It i\u2026", 
-            "title": "France's Macron urges a green light for Ukraine to strike targets inside Russia with Western weapons - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/nicole-brown-simpsons-sisters-on-documentary-series-30-years-after-her-tragic-death/", 
-            "description": "Nicole Brown Simpson's sisters discussed a new documentary series that they say reveals new details about her life and tragic death at 35 years old.", 
-            "title": "Nicole Brown Simpson's sisters on documentary series 30 years after her murder: \"Let's humanize Nicole\" - CBS News"
-        }, 
-        {
-            "url": "https://thehill.com/policy/healthcare/4691790-girls-periods-younger-less-regularity/", 
-            "description": "Girls in the United States have been getting their periods at younger ages over the last fifty years, with additional variation among races, according to a new study. The study published in the JAMA Network Wednesday found that the average age girls born betw\u2026", 
-            "title": "Girls are getting their periods younger and with less regularity: \u2018It alarms us\u2019 - The Hill"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=ZobN3ny7rx8", 
-            "description": null, 
-            "title": "Former OpenAI board member reveals why CEO Sam Altman was fired in November - CNBC Television"
         }
     ], 
-    "last_updated": "2024-05-30 23:13:53"
+    "last_updated": "2024-05-30 23:43:56"
 }
