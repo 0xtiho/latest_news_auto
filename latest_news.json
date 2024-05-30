@@ -1,28 +1,38 @@
 {
     "news": [
         {
-            "url": "https://www.wlky.com/article/scottie-scheffler-charges-dropped-louisville/60937750", 
-            "description": "Charges against professional golfer Scottie Scheffler are expected to be dropped on Wednesday.", 
-            "title": "Scottie Scheffler's charges dropped in Louisville courtroom - WLKY Louisville"
+            "url": "https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html", 
+            "description": "Salesforce CEO Marc Benioff told CNBC's Jim Cramer how the market for enterprise software companies has changed since the pandemic.", 
+            "title": "After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies - CNBC"
         }, 
         {
-            "url": "https://www.foxnews.com/politics/rafah-offensive-israel-didnt-cross-bidens-red-line-white-house", 
-            "description": "White House officials said the attacks on Rafah by Israel have not constituted a major ground operation, nor have they crossed Biden's 'red line.'", 
-            "title": "Rafah offensive by Israel didn't cross Biden's 'red line,' White House says - Fox News"
+            "url": "https://www.bbc.com/news/articles/c1994g22ve9o", 
+            "description": "An Egyptian source denies that cross-border smuggling tunnels used by Hamas still exist in the area.", 
+            "title": "Israel in control of Philadelphi Corridor, says military - BBC.com"
         }, 
         {
-            "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-05-29-2024-7952f779552f41ef6fb44c3b662f5c48", 
-            "description": "Israel\u2019s military says it's seized control of a strategic corridor that runs along the length of Gaza\u2019s border with Egypt. The capture on Wednesday gives Israel control over a strip of land that it says is awash in smuggling tunnels that have bolstered the mi\u2026", 
-            "title": "Israel says it's taken control of key area of Gaza's border with Egypt awash in smuggling tunnels - The Associated Press"
+            "url": "https://nypost.com/2024/05/29/lifestyle/introducing-peanuts-early-reduces-kids-allergy-risk-study/", 
+            "description": "\u201cThis safe, simple strategy could prevent tens of thousands of cases of peanut allergy among the 3.6 million children born in the United States each year,\u201d the director of the National \u2026", 
+            "title": "Introducing peanuts early reduces kids' allergy risk: study - New York Post "
         }, 
         {
-            "url": "https://www.nba.com/wizards/news/wizards-name-brian-keefe-head-coach", 
-            "description": "The Washington Wizards announced today that the team has named Brian Keefe as head coach. Keefe becomes the 26th head coach in the organization\u2019s history.", 
-            "title": "Wizards Name Brian Keefe Head Coach - NBA.com"
+            "url": "https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation", 
+            "description": "Until yesterday, Google had refused to comment on the authenticity of the trove of documents, some of which may indicate what the company uses to rank sites in search.", 
+            "title": "Google confirms the leaked Search documents are real - The Verge"
+        }, 
+        {
+            "url": "https://9to5mac.com/2024/05/29/apple-music-playlist-wwdc-2024/", 
+            "description": "We\u2019re less than two weeks away from WWDC 2024, another edition of Apple\u2019s annual conference for developers. And although the...", 
+            "title": "Apple Music launches special playlist to promote WWDC 2024, hints at new icon - 9to5Mac"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/29/sport/josh-gibson-mlb-records-negro-league/index.html", 
+            "description": "Major League Baseball (MLB) has incorporated the statistics of former Negro Leagues players into its historical records on its website, meaning legendary leaders in some categories like Babe Ruth and Ty Cobb have now been replaced in the record books by playe\u2026", 
+            "title": "MLB integrates Negro League statistics into all-time record book with Josh Gibson now career batting average leader - CNN"
         }, 
         {
             "url": "https://thehill.com/policy/international/4692532-north-korea-sends-fleet-of-balloons-carrying-excrement-to-south-korea/", 
-            "description": null, 
+            "description": "North Korea sent a fleet of balloons carrying excrement and trash into South Korea, according to multiple reports. \u201cAs already warned by the [North Korean] vice minister of National Defence, a large amount of waste paper and rubbish are being scattered in the\u2026", 
             "title": "North Korea sends fleet of balloons carrying excrement to South Korea - The Hill"
         }, 
         {
@@ -31,14 +41,9 @@
             "title": "Tons Of PS5-Exclusive Games Are On Sale For Low Prices For PlayStation's Days Of Play - GameSpot"
         }, 
         {
-            "url": "https://www.npr.org/2024/05/29/nx-s1-4984840/american-airlines-8-black-men-body-odor-discrimination-lawsuit", 
-            "description": "Neither passenger knew each other, nor were they seated together on the Jan. 5 flight from Phoenix to New York. A lawsuit alleges they were removed from the flight after a complaint about body odor.", 
-            "title": "American Airlines faces a discrimination suit after removing 8 Black men from flight - NPR"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/29/salesforce-crm-q1-earnings-report-2025.html", 
-            "description": "Salesforce issued a disappointing forecast in its quarterly earnings report on Wednesday.", 
-            "title": "Salesforce shares plunge 17% on revenue miss, weak forecast - CNBC"
+            "url": "https://apnews.com/article/bronny-james-draft-c625e5c48bef7308d0e502d680329fe6", 
+            "description": "Bronny James is keeping his name in the NBA draft, with the hopes of joining his father in the league next season. Rich Paul, the CEO of Klutch Sports Group, confirmed the decision to The Associated Press. It was first reported by ESPN. LeBron James, Bronny\u2019s\u2026", 
+            "title": "Bronny James is staying in the NBA draft, agent Rich Paul announces - The Associated Press"
         }, 
         {
             "url": "https://www.youtube.com/watch?v=DuUH2sdTL_4", 
@@ -46,19 +51,34 @@
             "title": "European-Japanese satellite blasts off to space | BBC News - BBC News"
         }, 
         {
-            "url": "https://apnews.com/article/harvey-weinstein-me-too-retrial-nyc-courthouse-1d1182cdcf20b26fa9f1f72f3d085ee4", 
-            "description": "Manhattan prosecutors have told a judge they are evaluating new claims of sexual misconduct made against Harvey Weinstein. Assistant District Attorney Nicole Blumberg has said during a court hearing Wednesday that additional people have come forward with assa\u2026", 
-            "title": "Harvey Weinstein may face new charges as more accusers come forward, New York prosecutors say - The Associated Press"
+            "url": "https://www.buzzfeed.com/larryfitzmaurice/selena-gomez-fans-hurtful-benny-blanco-relationship", 
+            "description": "\"He's not going anywhere any time soon.\"", 
+            "title": "Selena Gomez Says That Fans Are \"Hurtful\" About \"How I Live My Life\" With Boyfriend Benny Blanco - BuzzFeed"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cjll8nr6962o", 
-            "description": "Votes are being counted after the most closely fought election since the ANC came to power 30 years ago.", 
-            "title": "South Africa election results: Counting under way after pivotal poll - BBC.com"
+            "url": "https://neurosciencenews.com/gene-mapping-evolution-26192/", 
+            "description": "Researchers created the first complete chromosome sequences from non-human primates, revealing significant variations in Y chromosomes among species.", 
+            "title": "New Primate Chromosome Maps Shed Light on Human Evolution - Neuroscience News"
         }, 
         {
-            "url": "https://www.washingtonpost.com/sports/2024/05/29/bronny-james-nba-draft/", 
-            "description": "James\u2019s decision will inevitably lead to intrigue about whether he could team up with his father, LeBron, next season.", 
-            "title": "Bronny James will stay in the NBA draft. Is a pairing with LeBron James next? - The Washington Post"
+            "url": "https://www.bbc.com/news/videos/c4nn30vx7yno", 
+            "description": "A popular tourist resort was evacuated after a 2.5km-long fissure opened up, which may be \u201cgrowing\u201d.", 
+            "title": "'Curtain of fire': Iceland volcano forces evacuation - BBC.com"
+        }, 
+        {
+            "url": "https://www.politico.com/news/2024/05/29/biden-aides-signal-openness-to-allowing-ukraine-to-strike-russia-with-us-weapons-00160462", 
+            "description": null, 
+            "title": "Top Biden aides signal openness to letting Ukraine strike Russia with US weapons - POLITICO"
+        }, 
+        {
+            "url": "https://www.nbcnews.com/news/sports/kentucky-prosecutors-drop-charges-golfer-scottie-scheffler-rcna154471", 
+            "description": "All charges against top golfer Scottie Scheffler were dropped Wednesday after a Kentucky prosecutor said the high-profile arrest amounted to a \"big misunderstanding.\"", 
+            "title": "Kentucky prosecutors drop all charges against golfer Scottie Scheffler - NBC News"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/delhi-temperature-may-break-record-highest-ever-india-126-degrees/", 
+            "description": "A substation in Delhi gave a preliminary reading of 126.1 degrees Fahrenheit this week amid a heat wave.", 
+            "title": "Delhi temperature may break record for highest ever in India: 126.1 degrees - CBS News"
         }, 
         {
             "url": "https://apnews.com/article/biden-black-voters-election-2024-pennsylvania-0c4a7343c017f57a38c847bfc9b1316f", 
@@ -71,35 +91,15 @@
             "title": "Alito tells congressional Democrats he won't recuse over flags - CBS News"
         }, 
         {
-            "url": "https://arstechnica.com/science/2024/05/h5n1-bird-flu-has-come-for-the-alpacas-too-the-usda-reports/", 
-            "description": "The alpacas were known to be in close contact with infected birds.", 
-            "title": "Alpacas in Idaho test positive for H5N1 bird flu in another world first - Ars Technica"
+            "url": "https://www.cnbc.com/2024/05/29/doj-charges-chinese-national-in-5point9-billion-covid-botnet-fraud.html", 
+            "description": "The FBI previously shut down the China-backed \"Volt Typhoon\" hacking group, which had been targeting U.S. water plants, electric grids and more.", 
+            "title": "DOJ charges Chinese national with operating 'world's largest botnet' that stole $5.9 billion in Covid relief funds - CNBC"
         }, 
         {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.androidauthority.com/resize-live-captions-on-android-3447092/", 
-            "description": "Android\u2019s Live Captions feature will soon add a grab bar that users can drag to change the number of lines shown for captions.", 
-            "title": "Google will soon let you resize Android's Live Captions feature - Android Authority"
-        }, 
-        {
-            "url": "https://abcnews.go.com/Politics/rep-tony-gonzales-projected-winner-closely-watched-texas/story?id=110643975", 
-            "description": "The runoff pitted a moderate-leaning Republican against a political newcomer.", 
-            "title": "Rep. Tony Gonzales projected winner of closely watched Texas primary runoff - ABC News"
-        }, 
-        {
-            "url": "https://www.space.com/x-flare-eruption-may-27-returning-sunspot", 
-            "description": "The hyperactive sunspot region doesn't seem to be slowing down anytime soon.", 
-            "title": "Massive sunspot responsible for May's epic auroras unleashes major X-class solar flare (video) - Space.com"
-        }, 
-        {
-            "url": "https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/", 
-            "description": "How has Starlink has gone from zero to profitability in five years?", 
-            "title": "Ars Live: How profitable is Starlink? We dig into the details of satellite Internet. - Ars Technica"
         }
     ], 
-    "last_updated": "2024-05-31 01:14:03"
+    "last_updated": "2024-05-31 01:44:05"
 }
