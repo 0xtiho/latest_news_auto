@@ -1,14 +1,49 @@
 {
     "news": [
         {
-            "url": "https://www.cnbc.com/2024/05/29/russia-ukraine-live-updates.html", 
-            "description": "French President Emmanuel Macron said Tuesday that Kyiv should be allowed to use Western arms against Russian military sites used to target Ukraine.", 
-            "title": "Ukraine war updates: Macron says Kyiv should be allowed to use Western weapons on Russian military sites; Blinken travels to Moldova - CNBC"
+            "url": "http://deadline.com/2024/05/kerry-washington-wake-up-dead-man-a-knives-out-mystery-1235942921/", 
+            "description": "Kerry Washington joins Daniel Craig in Netflix's 'Wake Up Dead Man: A Knives Out Mystery'", 
+            "title": "Kerry Washington Joins Daniel Craig In \u2018Wake Up Dead Man: A Knives Out Mystery\u2019 - Deadline"
         }, 
         {
-            "url": "https://www.ign.com/articles/sony-state-of-play-may-2024", 
+            "url": "https://nypost.com/2024/05/29/sports/scottie-scheffler-charges-expected-to-be-dropped-after-arrest/", 
+            "description": "Scheffler was charged with second-degree assault of a police officer, third-degree criminal mischief, reckless driving and disregarding signals from officer directing traffic in a May 17 incident b\u2026", 
+            "title": "Scottie Scheffler charges expected to be dropped after arrest - New York Post "
+        }, 
+        {
+            "url": "https://www.wsj.com/business/energy-oil/conocophillips-to-acquire-marathon-oil-in-22-5b-all-stock-deal-743cc8ba", 
             "description": null, 
-            "title": "Sony State of Play Announced for This Week, Expected to Feature New Astro Bot and More - IGN"
+            "title": "ConocoPhillips to Acquire Marathon Oil in $17.1 Billion All-Stock Deal - The Wall Street Journal"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/video/too-much-capacity-fueled-american-150216541.html", 
+            "description": "American Airlines (AAL) has slashed its second quarter guidance and announced the departure of its chief commercial officer, Vasu Raja. This double whammy...", 
+            "title": "'Too much capacity' fueled American Airlines' Q2 guidance cut: Analyst - Yahoo Finance"
+        }, 
+        {
+            "url": "https://gizmodo.com/former-openai-board-member-sam-altman-chatgpt-1851506252", 
+            "description": "It's finally revealed why Sam Altman was temporarily fired from the company.", 
+            "title": "Former OpenAI Board Member Says Sam Altman Created a Culture of 'Psychological Abuse' - Gizmodo"
+        }, 
+        {
+            "url": "https://variety.com/2024/tv/news/matt-smith-house-of-the-dragon-season-2-weaker-daemon-1236017805/", 
+            "description": "Matt Smith pulls back the curtain on 'House of the Dragon' Season 2, from losing showrunner Miguel Sapochnik to playing a 'weaker' Daemon in crisis.", 
+            "title": "Matt Smith Pulls Back the Curtain on \u2018House of the Dragon\u2019 Season 2, From Losing a Showrunner to Playing a \u2018Much Weaker\u2019 Daemon in Crisis - Variety"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/video/expect-apples-developers-conference-143925727.html", 
+            "description": null, 
+            "title": "What to expect from Apple's Developers Conference - Yahoo Finance"
+        }, 
+        {
+            "url": "https://apnews.com/article/negro-leagues-statistics-4a204a3cac0527ab5be750783fd411df", 
+            "description": "Josh Gibson became Major League Baseball\u2019s career leader with a .372 batting average, surpassing Ty Cobb\u2019s .367, when records of the Negro Leagues for more than 2,300 players were incorporated after a three-year research project. Gibson\u2019s .466 average for the\u2026", 
+            "title": "Josh Gibson becomes MLB career and season batting leader as Negro Leagues statistics incorporated - The Associated Press"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9pY2VsYW5kLXZvbGNhbm8tZXJ1cHRzLWdyaW5kYXZpay1tYXktMjAyNNIBAA?oc=5", 
+            "description": null, 
+            "title": "Volcano erupts in Iceland sending lava closer to Grindavik - Fox Weather "
         }, 
         {
             "url": "https://www.theverge.com/2024/5/29/24166168/fitbit-ace-lte-kids-smartwatch-wearables", 
@@ -16,24 +51,14 @@
             "title": "The Fitbit Ace LTE is like a Nintendo smartwatch for kids - The Verge"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU1MjU4NTQvMjAyNC8wNS8yOS9tbGItbmVncm8tbGVhZ3Vlcy1zdGF0LWNoYW5nZS13aGF0LXdoeS_SAQA?oc=5", 
-            "description": null, 
-            "title": "The MLB-Negro Leagues stat change: What happened, and why? - The New York Times"
+            "url": "https://www.cbsnews.com/news/millions-chickens-to-be-killed-bird-flu-detected-iowa-farm/", 
+            "description": "The steep loss from the top egg-producing state triggered a disaster proclamation from Iowa's governor.", 
+            "title": "More than 4 million chickens to be killed in Iowa after officials detect bird flu on farm - CBS News"
         }, 
         {
-            "url": "https://finance.yahoo.com/video/american-airlines-stock-tumbles-cutting-135300512.html", 
-            "description": "Shares of American Airlines (AAL) are sinking after the company cut its second quarter sales outlook. Yahoo Finance's Pras Subramanian reports more on the...", 
-            "title": "American Airlines stock tumbles after cutting Q2 guidance - Yahoo Finance"
-        }, 
-        {
-            "url": "https://sports.yahoo.com/karl-anthony-towns-and-the-timberwolves-needed-this-win-keep-after-it-and-maybe-the-tide-turns-055829428.html", 
-            "description": "Minnesota's All-Star big man finally found the range, extending the series to a Game 5 on Thursday night.", 
-            "title": "Karl-Anthony Towns and the Timberwolves needed this win: 'Keep after it, and maybe the tide turns' - Yahoo Sports"
-        }, 
-        {
-            "url": "https://www.wlky.com/article/scottie-scheffler-louisville-charges-court/60926542", 
-            "description": "The Jefferson County prosecutor announced he will address Scottie Scheffler's Louisville charges in court on Wednesday.", 
-            "title": "Scottie Scheffler's Louisville case to be addressed in court Wednesday - WLKY Louisville"
+            "url": "https://www.cnn.com/2024/05/29/us/social-media-children-influencers-cec/index.html", 
+            "description": "Cam Barrett knows the precise date of her first menstrual period. Her mother posted the news on Facebook. Barrett, who lives in Illinois, is part of a growing movement of young people who are urging lawmakers to protect children whose parents monetize their p\u2026", 
+            "title": "The first social media babies are adults now. Some are pushing for laws to protect kids from their parents\u2019 oversharing - CNN"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/29/africa/south-africa-elections-polls-open-intl/index.html", 
@@ -41,24 +66,29 @@
             "title": "South Africans go to the polls in election seen as biggest test yet to ANC\u2019s 30 years in power - CNN"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMDMzbTUyOXJ5MG_SAQA?oc=5", 
-            "description": null, 
+            "url": "https://www.newsweek.com/ukraine-nato-joe-bien-world-war-iii-red-line-russia-1905755", 
+            "description": "Kyiv wants to use American weapons to strike inside Russia, but the White House fears a wider and more destructive war.", 
+            "title": "Ukraine, NATO allies urge Joe Biden to drop \"World War III\" red line - Newsweek"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c033m529ry0o", 
+            "description": "It is unclear when the US military's floating pier off Gaza's coast will resume operations.", 
             "title": "US military Gaza pier knocked out of action by heavy seas - BBC.com"
         }, 
         {
-            "url": "https://www.usatoday.com/story/entertainment/movies/2024/05/29/wolfs-trailer-george-clooney-brad-pitt-new-movie-jon-watts/73882441007/", 
-            "description": "George Clooney and Brad Pitt star in the trailer for the Jon Watts thriller \"Wolfs,\" which marks their first movie together in more than a decade.", 
-            "title": "'Wolfs' trailer: Brad Pitt, George Clooney new movie reunites actors - USA TODAY"
-        }, 
-        {
             "url": "https://removed.com", 
             "description": "[Removed]", 
             "title": "[Removed]"
         }, 
         {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.cnet.com/tech/services-and-software/dancing-for-the-devil-is-the-tiktok-cult-doc-you-have-to-see-to-believe/", 
+            "description": "Netflix's new docuseries puts management company 7M Films -- and its associated church -- in the spotlight.", 
+            "title": "'Dancing for the Devil' Is the 'TikTok Cult' Doc You Have to See to Believe - CNET"
+        }, 
+        {
+            "url": "https://www.foxnews.com/politics/biden-campaign-seeks-halt-slide-black-voters-new-initiative", 
+            "description": "The Biden-Harris campaign on Wednesday launched a new \"Black Voters for Biden-Harris\" initiative to reach out to Black voters as polls show Biden is losing ground with that group.", 
+            "title": "Biden campaign seeks to halt slide with Black voters with new initiative - Fox News"
         }, 
         {
             "url": "https://www.bbc.com/news/articles/c166xxd4y36o", 
@@ -69,37 +99,7 @@
             "url": "https://apnews.com/article/trump-trial-deliberations-jury-judge-verdict-390f045e9e8a37f069e82576edd7a842", 
             "description": "Jurors in Donald Trump\u2019s New York hush money trial are expected to begin deliberations after receiving instructions from the judge on the law and the factors they may consider as they strive to reach a verdict in the first criminal case against a former Ameri\u2026", 
             "title": "Trump hush money trial: Jury begin deliberations after marathon closing arguments - The Associated Press"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/health/2024/05/29/peanut-allergy-baby-infants/", 
-            "description": "An author of the study said the correlation was \u201cextraordinary.\u201d She advised parents that \u201cplain old peanut butter mixed in warm water can work for a 4-month-old.\u201d", 
-            "title": "Babies exposed to peanuts less likely to be allergic years later, study says - The Washington Post"
-        }, 
-        {
-            "url": "https://www.bbc.com/news/articles/c977g96vll1o", 
-            "description": "The \u00a339bn mega-merger between the two international mining giants hangs by a thread.", 
-            "title": "Anglo American rejects BHP's plea to extend mega-merger deadline - BBC.com"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvbWF5LzI5L21leGljby1lbGVjdGlvbi12aW9sZW5jZS1jZWxheWHSAVVodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L21heS8yOS9tZXhpY28tZWxlY3Rpb24tdmlvbGVuY2UtY2VsYXlh?oc=5", 
-            "description": null, 
-            "title": "\u2018It\u2019s become a battleground\u2019: Mexico\u2019s local candidates face deadly violence - The Guardian"
-        }, 
-        {
-            "url": "https://nypost.com/2024/05/29/us-news/general-hospital-star-johnny-wactors-family-doesnt-want-his-ex-fiancee-tessa-farrell-speaking-on-la-murder/", 
-            "description": "In a video Tuesday, Farrell broke down in tears over the \u201cGeneral Hospital\u201d star\u2019s death, slamming the gunmen\u00a0for shooting \u201cthe wrong guy.\u201d", 
-            "title": "'General Hospital' star Johnny Wactor's family doesn't want his ex-fianc\u00e9e Tessa Farrell speaking on LA murder - New York Post "
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/29/entertainment/sean-diddy-combs-federal-investigation/index.html", 
-            "description": "Federal investigators are preparing to bring accusers of music mogul Sean \u201cDiddy\u201d Combs before a federal grand jury, two sources familiar with the probe tell CNN \u2014 signaling the US Justice Department is moving towards possibly seeking an indictment of Combs.", 
-            "title": "Exclusive: A federal grand jury may soon hear from Sean \u2018Diddy\u2019 Combs\u2019 accusers - CNN"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/29/sport/caitlin-clark-wnba-history-indiana-fever-sparks-spt-intl/index.html", 
-            "description": "The Indiana Fever\u2019s early season woes continued Tuesday with an 88-82 defeat to the Los Angeles Sparks, but Caitlin Clark produced a historic performance.", 
-            "title": "Caitlin Clark makes WNBA history in Indiana Fever loss to Los Angeles Sparks - CNN"
         }
     ], 
-    "last_updated": "2024-05-30 17:13:26"
+    "last_updated": "2024-05-30 17:43:28"
 }
