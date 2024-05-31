@@ -1,64 +1,79 @@
 {
     "news": [
         {
-            "url": "http://deadline.com/2024/05/jeremy-renner-wake-up-dead-man-a-knives-out-mystery-1235943996/", 
-            "description": "Jeremy Renner is set to join to join\u00a0Daniel Craig\u00a0in Netflix\u2019s\u00a0Wake Up Dead Man: A Knives Out Mystery'", 
-            "title": "Jeremy Renner Joins Daniel Craig In \u2018Wake Up Dead Man: A Knives Out Mystery\u2019 - Deadline"
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-extends-slide-as-lackluster-earnings-rate-fears-prey-on-nerves-133508205.html", 
+            "description": "Lingering concerns about higher-for-longer interest rates and a Salesforce sell-off put a damper on investors' spirits.", 
+            "title": "Stock market today: Dow extends slide as lackluster earnings, rate fears prey on nerves - Yahoo Finance"
         }, 
         {
-            "url": "https://www.foxbusiness.com/lifestyle/us-tells-owners-stop-driving-older-nissan-vehicles-over-air-bag-concerns", 
-            "description": "Nissan and the NHTSA are warning drivers of older Nissan vehicles that still have recalled Takata air bags not to drive until the air bags are repaired and replaced due to safety risks.", 
-            "title": "US tells owners to stop driving older Nissan vehicles over air bag concerns - Fox Business"
+            "url": "https://sports.yahoo.com/mets-dfa-reliever-jorge-lopez-after-ejection-glove-toss-into-crowd-011645334.html", 
+            "description": "Things are going great in Queens.", 
+            "title": "Mets DFA reliever Jorge L\u00f3pez after ejection, glove toss into crowd - Yahoo Sports"
         }, 
         {
-            "url": "https://apnews.com/article/nra-aclu-parkland-shooting-lawsuit-supreme-court-953424f3fd33f279b0cc2ce050069d48", 
-            "description": "The Supreme Court has cleared the way for a National Rifle Association lawsuit against an ex-New York state official over claims she pressured companies to blacklist it following the 2018 Parkland, Florida, school shooting. Justice Sonia Sotomayor wrote Thurs\u2026", 
-            "title": "Supreme Court clears the way for the NRA's free speech lawsuit against an ex-New York official - The Associated Press"
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvbWF5LzMwL2VneXB0LWlzcmFlbC1yZWxhdGlvbnMtZ2F6YS1waGlsYWRlbHBoaS1jb3JyaWRvci1idWZmZXItem9uZS10YWtlb3ZlctIBe2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvbWF5LzMwL2VneXB0LWlzcmFlbC1yZWxhdGlvbnMtZ2F6YS1waGlsYWRlbHBoaS1jb3JyaWRvci1idWZmZXItem9uZS10YWtlb3Zlcg?oc=5", 
+            "description": null, 
+            "title": "Egypt tight-lipped over Israeli takeover of Gaza buffer zone - The Guardian"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/30/africa/early-results-released-in-south-africas-election-intl/index.html", 
-            "description": "The early results declared in South Africa\u2019s election suggest the ruling African National Congress (ANC) party\u00a0could lose its majority for the first time in 30 years.", 
-            "title": "First results in South Africa\u2019s election suggest it is heading for biggest political shift since apartheid - CNN"
+            "url": "https://www.washingtonpost.com/technology/2024/05/30/openai-disinfo-influence-operations-china-russia/", 
+            "description": "Covert propagandists have already begun using generative artificial intelligence to boost their influence operations.", 
+            "title": "OpenAI finds Russian and Chinese groups used its tech for propaganda campaigns - The Washington Post"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=qfnf3S7JyVA", 
+            "description": "Holland touches down in Newark. Makhachev signs posters and gets some cardio in. Costa goes for a swim. Poirier, Strickland, and Rowe entertain the media whi...", 
+            "title": "UFC 302 Embedded: Vlog Series - Episode 4 - UFC"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/30/scott-peterson-innocence-project-case-duct-tape-retested/73905978007/", 
+            "description": null, 
+            "title": "Judge allows duct tape to be retested in Scott Peterson case, denies other requests: reports - USA TODAY"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/hacks-renewed-season-4-max-1235944378/", 
+            "description": "Deborah Vance is coming back for more. Max has renewed comedy series Hacks, starring Jean Smart and Hannah Einbinder, for a fourth season. The news comes hours after the finale of the third season \u2013 titled \u201cBulletproof\u201d \u2013 dropped on the Warner Bros. Discovery\u2026", 
+            "title": "\u2018Hacks\u2019 Renewed For Season 4 At Max After Season 3 Finale - Deadline"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FmcmljYS11cy1jb3VudGVydGVycm9yaXNtLWNvdXBzLXJ1c3NpYS02MmEzZDc0YmE2ZWViNmExZTk2NjNjNjI0MjgwMGViNtIBAA?oc=5", 
+            "description": null, 
+            "title": "US military defends Africa strategy in light of coups and a drift toward Russia - The Associated Press"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/30/24167743/android-updates-edit-sent-google-messages-wearos-smart-home", 
+            "description": "Google is releasing seven new Android updates, including the ability to edit Google Messages up to 15 minutes after they\u2019ve been sent.", 
+            "title": "Google lets you edit sent Messages in latest Android feature drop - The Verge"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/30/24167231/anthropic-claude-ai-assistant-automate-tasks", 
+            "description": "Anthropic\u2019s Claude can now interact with the world of APIs and deliver personalized solutions.", 
+            "title": "Anthropic's AI now lets you create bots to work for you - The Verge"
+        }, 
+        {
+            "url": "https://www.cbssports.com/college-football/news/former-penn-state-doctor-who-alleged-interference-from-james-franklin-awarded-5-25-million-in-lawsuit/", 
+            "description": "Dr. Scott Lynch was a former orthopedic consultant and director of medicine for Penn State athletics", 
+            "title": "Former Penn State doctor who alleged interference from James Franklin awarded $5.25 million in lawsuit - CBS Sports"
+        }, 
+        {
+            "url": "https://finance.yahoo.com/news/nvidia-could-surpass-microsoft-market-150708501.html", 
+            "description": "According to CNBC\u2019s Jim Cramer, Nvidia Corp (NASDAQ:NVDA) could soon surpass Microsoft Corp\u2019s (NASDAQ:MSFT) market capitalization. He explained that Wall...", 
+            "title": "Nvidia Could Surpass Microsoft in Market Value, Says Jim Cramer: Here's Why - Yahoo Finance"
+        }, 
+        {
+            "url": "https://www.foxnews.com/politics/supreme-court-rules-favor-nra-key-first-amendment-case", 
+            "description": "The Supreme Court on Thursday unanimously decided that the NRA \"plausibly alleged\" that the New York State Department of Financial Services violated the group's First Amendment rights.", 
+            "title": "Supreme Court rules in favor of NRA in key First Amendment case - Fox News"
         }, 
         {
             "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/30/police-clear-wayne-state-pro-palestinian-encampment/73903734007/", 
-            "description": null, 
+            "description": "Protestors, who set up the camp on May 23, said they were told to leave the area at 5:30 a.m. Thursday. University officials cite safety, health concerns.", 
             "title": "Police clear Wayne State pro-Palestinian encampment - Detroit News"
-        }, 
-        {
-            "url": "https://www.espn.com/nfl/story/_/id/40244650/sources-dolphins-wr-jaylen-waddle-agree-8475m-extension", 
-            "description": "The Dolphins and wide receiver Jaylen Waddle have reached an agreement on a three-year, $84.75 million contract extension that includes $76 million guaranteed, sources told ESPN.", 
-            "title": "Sources - Dolphins, WR Jaylen Waddle agree to $84.75M extension - ESPN"
-        }, 
-        {
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-salesforce-stock-crm/", 
-            "description": "Key earnings movers include Best Buy, Salesforce, Pure Storage and Okta.", 
-            "title": "Stock Market Today: Dow Jones Slides 375 Points On Jobless Claims, GDP; Salesforce Plunges 20% - Investor's Business Daily"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/gdp-us-economy-grew-at-a-slower-pace-than-initially-thought-in-q1-131220924.html", 
-            "description": "The reading came in significantly lower than fourth quarter GDP, which was revised up to 3.4%", 
-            "title": "GDP: US economy grew at a slower pace than initially thought in Q1 - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.nbcnews.com/news/us-news/general-hospital-actor-johnny-wactor-shielded-co-worker-harm-was-fatal-rcna154646", 
-            "description": "A friend and co-worker of actor Johnny Wactor, who was fatally shot over the weekend while interrupting a catalytic converter theft in downtown Los Angeles, spent his last moments shielding her from harm before he died in her arms.", 
-            "title": "'General Hospital' actor Johnny Wactor died in arms of co-worker he shielded from harm moments before he was fatally shot - NBC News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/30/style/stegosaurus-fossil-auction-scli-intl-scn/index.html", 
-            "description": "A Stegosaurus skeleton described as the \u201cmost complete and best preserved\u201d of its kind ever discovered is expected to fetch up to $6 million at auction this summer \u2013 but not everyone is happy about it\ufeff.", 
-            "title": "\u2018Virtually complete\u2019 Stegosaurus fossil goes on sale - but not everyone is happy - CNN"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/volcano-eruption-iceland-shoots-lava-sends-gas-pollution-to-the-capital/", 
-            "description": "\"Considerable lava fountaining\" is spewing from a two-mile-long fissure as southwest Iceland battles its fifth volcanic eruption since December.", 
-            "title": "Watch Live: \"Explosive\" Iceland volcano eruption shoots lava across roads and sends pollution toward the capital - CBS News"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/festivals/venice-2024-lineup-joker-2-angelina-jolie-maria-queer-daniel-craig-johnny-depp-1236019529/", 
-            "description": "Venice Film Festival is eyeing 'Joker 2,' Angelina Jolie's 'Maria,' Johnny Depp's 'Modi' and more for its 2024 lineup.", 
-            "title": "Venice 2024: \u2018Joker 2,\u2019 Angelina Jolie\u2019s \u2018Maria,\u2019 \u2018Queer\u2019 Starring Daniel Craig and Johnny Depp-Directed \u2018Mod\u00ec\u2019 Eyed for Lineup (EXCLUSIVE) - Variety"
         }, 
         {
             "url": "https://www.espn.com/nba/insider/story/_/id/40242486/2024-nba-draft-withdrawal-deadline-faq-questions-uconn-bronny-james-nil-alabama", 
@@ -76,24 +91,9 @@
             "title": "Pressure on Biden to let Ukraine strike Russia with US weapons - BBC.com"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/30/health/menstruation-early-wellness/index.html", 
-            "description": "Starting menstruation is an important sign of health. A new study shows that the trend of children starting at an earlier age may point to worrying conditions.", 
-            "title": "Kids are starting menstruation earlier, study shows. Here is what that means for their health - CNN"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=XJVDg07A74E", 
-            "description": "#UFC stars predict the #UFC302 main event between lightweight champion Islam Makhachev and Dustin Poirier.Join this channel to get access to perks:https://ww...", 
-            "title": "UFC 302: Pros Predict Islam Makhachev vs. Dustin Poirier | MMA Fighting - MMAFightingonSBN"
-        }, 
-        {
-            "url": "http://www.rollingstone.com/music/music-features/kaytranada-new-album-timeless-interview-1235019415/", 
-            "description": "Kaytranada's forward-thinking production has subtly shifted the sound of pop culture, even if he\u2019s too humble to admit it", 
-            "title": "Kaytranada on New Album, Touring With the Weeknd, Producing Mach-Hommy - Rolling Stone"
-        }, 
-        {
-            "url": "https://www.newsweek.com/solar-flare-radio-blackout-x-class-aurora-sunspot-1906248", 
-            "description": "The solar flare was released from the same sunspot that triggered auroras seen around the world on May 10.", 
-            "title": "US Radio Blackouts As Historic Sunspot Fires Off 'Remarkable' X-Flare - Newsweek"
+            "url": "https://apnews.com/article/south-africa-election-change-vote-anc-25a03780bec29503ab3d9f6e9f96dc4c", 
+            "description": "Partial results in South Africa\u2019s national election have put the long-ruling African National Congress at less than 50% of the vote. It raises the possibility that it might lose its majority for the first time since it swept to power under Nelson Mandela at t\u2026", 
+            "title": "South Africa election: Early results ruling ANC short of a majority - The Associated Press"
         }, 
         {
             "url": "https://www.usatoday.com/story/news/nation/2024/05/30/man-driving-suspended-license-zoom-court-video/73903770007/", 
@@ -101,5 +101,5 @@
             "title": "Video shows Michigan man driving while attending Zoom court hearing over suspended license - USA TODAY"
         }
     ], 
-    "last_updated": "2024-05-31 21:20:53"
+    "last_updated": "2024-05-31 21:50:55"
 }
