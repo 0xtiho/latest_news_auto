@@ -1,39 +1,29 @@
 {
     "news": [
         {
-            "url": "https://www.usatoday.com/story/news/world/2024/05/29/grindavik-volcano-eruption-iceland/73899542007/", 
-            "description": null, 
-            "title": "Video shows Iceland volcano erupt, blast lava into the sky - USA TODAY"
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/29/bird-flu-updates-iowa-infected-chickens-alpacas/73892743007/", 
+            "description": "An outbreak in Iowa will result in the culling of a 4-million chicken flock. The infection has also been found in alpacas for the first time.", 
+            "title": "Bird flu updates: 4.2M infected chickens to be culled in Iowa, cases detected in alpacas - USA TODAY"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv?oc=5", 
-            "description": null, 
-            "title": "Police officer among 2 killed in Minneapolis shooting; suspect also dead - CBS Minnesota"
+            "url": "https://www.tomsguide.com/computing/mobile-apps/google-news-goes-down-for-millions-of-users-worldwide-in-mysterious-outage", 
+            "description": "A slow news day?", 
+            "title": "Google News goes down for millions worldwide in mysterious outage \u2014 latest updates - Tom's Guide"
         }, 
         {
-            "url": "https://apnews.com/article/trump-conviction-what-to-know-a70941a7cd367f7b2aa3218ea91ad922", 
-            "description": "Donald Trump\u2019s conviction on 34 felony counts marks the end of his historic hush money trial but the fight over the case is far from over. Now comes the sentencing and the prospect of a prison sentence. A lengthy appellate process. And all the while, the pres\u2026", 
-            "title": "What's next for Donald Trump after hush money conviction - The Associated Press"
+            "url": "https://www.ft.com/content/6c0b34a3-63d7-4dad-865b-5554ff7b73ff", 
+            "description": "Personal consumption expenditures figure was in line with economists\u2019 expectations", 
+            "title": "Fed's preferred inflation metric remains at 2.7% in April - Financial Times"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cjrr5ee5zv8o", 
-            "description": "The New York Times, Wordle's owner, accuses similarly-named geography game of \"creating confusion.\"", 
-            "title": "Wordle locked in legal row with geography spinoff, Worldle - BBC.com"
+            "url": "https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html", 
+            "description": "The Trump campaign said it nearly doubled its single-day fundraising record after a New York jury found Donald Trump guilty in his criminal hush money trial.", 
+            "title": "Trump campaign raises record $34.8 million in donations after guilty verdict - CNBC"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/31/euro-zone-inflation-may-2024.html", 
-            "description": "The European Central Bank is widely expected to cut interest rates next week.", 
-            "title": "Euro zone inflation rises to 2.6% in May, but bloc still seen heading for interest rate cut - CNBC"
-        }, 
-        {
-            "url": "https://apnews.com/article/yemen-war-us-british-airstrikes-israel-hamas-12f99b7afc389a703f8dd333f2376b20", 
-            "description": "Joint British-U.S. airstrikes targeting Yemen\u2019s Houthi rebels killed at least 16 people and wounded 35 others. That's according to comments from the rebels Friday. That is the highest publicly acknowledged death toll strikes carried out over the rebels' attac\u2026", 
-            "title": "Houthi rebels say at least 16 killed, 35 others wounded in joint US-British airstrikes in Yemen - The Associated Press"
-        }, 
-        {
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-31/", 
-            "description": null, 
-            "title": "Stocks and dollar idle ahead of Fed's favourite inflation figure - Reuters"
+            "url": "https://apnews.com/article/israel-palestinians-rafah-2f603675195f80c73c593020398ed72a", 
+            "description": "The Israeli military has confirmed that its forces are operating in central parts of Rafah in its expanding offensive in the southern Gaza city. The military said in a statement Friday that its troops in central Rafah had uncovered Hamas rocket launchers and \u2026", 
+            "title": "Israel confirms its forces are in central Rafah in expanding offensive in the southern Gaza city - The Associated Press"
         }, 
         {
             "url": "https://removed.com", 
@@ -41,19 +31,29 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cy770l9llnzo", 
-            "description": "The US president gives Ukraine permission to use US-supplied weapons to strike targets in Russia, but only near Kharkiv.", 
-            "title": "Biden allows Ukraine to hit some targets in Russia with US weapons - BBC.com"
+            "url": "https://www.wcvb.com/article/northern-lights-aurora-sunspot-visible-massachusetts/60960091", 
+            "description": "Parts of New England could glimpse the aurora tonight, but there's another phenomenon we could see before sunset.", 
+            "title": "Another chance to see northern lights, plus another solar spectacle - WCVB Boston"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1JlbGVhc2VzL1JlbGVhc2UvQXJ0aWNsZS8zNzkyMTE5L3JlYWRvdXQtb2Ytc2VjcmV0YXJ5LW9mLWRlZmVuc2UtbGxveWQtai1hdXN0aW4taWlpcy1tZWV0aW5nLXdpdGgtcGVvcGxlcy1yZXB1Ymwv0gEA?oc=5", 
+            "url": "https://www.cnn.com/2024/05/30/politics/biden-ukraine-limited-strikes-russia/index.html", 
+            "description": "President Joe Biden has given permission to Ukraine to strike inside Russian territory with American munitions, though he has restricted their use so Kyiv can only hit targets over the border close to Kharkiv after Russia made significant advances around the \u2026", 
+            "title": "Biden gives Ukraine permission to carry out limited strikes within Russia using US weapons - CNN"
+        }, 
+        {
+            "url": "https://www.cbsnews.com/news/germany-knife-stabbing-attack-mannheim-video-anti-islam-activist-michael-sturzenberger/", 
+            "description": "Police confirm that several people were stabbed in an attack in southwest Germany which reportedly targeted an anti-Islam activist.", 
+            "title": "Video shows anti-Islam activist among those stabbed in Germany knife attack - CBS News"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9taWRkbGUtZWFzdC95ZW1lbnMtaG91dGhpcy1zYXktdGhleS1sYXVuY2hlZC1taXNzaWxlLWF0dGFjay11cy1haXJjcmFmdC1jYXJyaWVyLWVpc2VuaG93ZXItMjAyNC0wNS0zMS_SAQA?oc=5", 
             "description": null, 
-            "title": "Readout of Secretary of Defense Lloyd J. Austin III's Meeting With People's Republic of Ch - Department of Defense"
+            "title": "Yemen's Houthis say they launched attack on US aircraft carrier Eisenhower in Red Sea - Reuters"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/30/china/xi-jinping-arab-leaders-china-intl-hnk/index.html", 
-            "description": "Chinese leader Xi Jinping decried \u201ctremendous sufferings\u201d in the Middle East and called for an international peace conference as leaders from Arab nations visit Beijing this week amid mounting global concern over Israel\u2019s war in Gaza.", 
-            "title": "China\u2019s Xi Jinping calls for peace conference and \u2018justice\u2019 over war in Gaza as Arab leaders visit Beijing - CNN"
+            "url": "https://apnews.com/article/minneapolis-police-shooting-injured-ca68f99b50603ac905237d407514485b", 
+            "description": "A Minneapolis police officer was killed when he responded to a shooting call and was providing medical attention to a man who shot him in what authorities are calling an ambush. Minneapolis Assistant Police Chief Katie Blackwell says the suspected gunman and \u2026", 
+            "title": "Minneapolis police officer dies in ambush shooting that killed 2 others, including suspected gunman - The Associated Press"
         }, 
         {
             "url": "https://removed.com", 
@@ -61,45 +61,45 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://nypost.com/2024/05/31/us-news/california-serial-slingshot-shooter-prince-raymond-king-who-terrorized-neighborhood-for-a-decade-is-found-dead-after-his-arrest/", 
-            "description": "The senior was charged with five counts of felony vandalism and two counts of misdemeanor vandalism for allegedly targeting his neighbors\u2019 property with the slingshot", 
-            "title": "81-year-old 'serial slingshot shooter' found dead days after he's arrested for terrorizing neighborhood for a decade - New York Post "
+            "url": "https://www.koin.com/news/nba-player-drew-gordon-philadelpiha-76ers-killed-car-crash/", 
+            "description": "Former Philadelphia 76ers forward Drew Gordon has died in a car crash in Clackamas County, Oregon, according to ESPN.", 
+            "title": "Drew Gordon, former 76ers player, killed in Clackamas County car crash - KOIN.com"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsYWJhbWEtZXhlY3V0aW9uLWVsZGVybHktY291cGxlLW11cmRlci1sZXRoYWwtaW5qZWN0aW9uLWM3Njc3YTVmZGY5MTMxMmI2ODYwYzk0ZGUyYWZhNTY10gEA?oc=5", 
+            "url": "https://www.politico.eu/article/france-u-turn-invite-russia-d-day-memorial-ceremony/", 
+            "description": "The prospect of a Russian presence at the Normandy commemorations drew concern from Western allies.", 
+            "title": "France U-turns on inviting Russia to D-Day memorial ceremony - POLITICO Europe"
+        }, 
+        {
+            "url": "https://www.etonline.com/brad-pitt-and-angelina-jolies-daughter-shiloh-files-docs-to-legally-drop-pitt-from-last-name-226446", 
+            "description": "Angelina Jolie's daughter, Shiloh, is reportedly asking the court to allow her to legally drop her dad's last name from her own.", 
+            "title": "Brad Pitt and Angelina Jolie's Daughter Shiloh Files Docs to Legally Drop 'Pitt' From Last Name - Entertainment Tonight"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=6nTG_o_I_7Y", 
             "description": null, 
-            "title": "Months after nation's 1st nitrogen gas execution, Alabama gives man lethal injection for 2 killings - The Associated Press"
+            "title": "Apple\u2019s Biggest AI News at WWDC Will Be\u2026 Weird Emoji - CNET"
         }, 
         {
-            "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240530_DAL@MIN/", 
-            "description": "Get real-time NBA basketball coverage and scores as Dallas Mavericks takes on Minnesota Timberwolves. We bring you the latest game previews, live stats, and recaps on CBSSports.com", 
-            "title": "Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - May 30, 2024 Gametracker - CBS Sports"
+            "url": "https://www.cbsnews.com/news/serial-slingshot-shooter-prince-king-dies-after-arrest-california/", 
+            "description": "Prince King was accused of breaking windows and car windshields and of narrowly missing people with ball bearings shot from a slingshot.", 
+            "title": "81-year-old man accused of terrorizing California neighborhood for years with slingshot is found dead days after arrest - CBS News"
         }, 
         {
-            "url": "https://www.politico.com/news/2024/05/31/biden-finalizing-plans-migrant-limits-us-mexico-border-00160944", 
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lbmdhZGdldC5jb20vdGhlLW1vcm5pbmctYWZ0ZXItZ29vZ2xlLXRpZ2h0ZW5zLXVwLWl0cy1haS1vdmVydmlldy1mZWF0dXJlLWFmdGVyLXN1Z2dlc3RpbmctZ2x1ZS1vbi1hLXBpenphLTExMTUwMjA2MS5odG1s0gEA?oc=5", 
             "description": null, 
-            "title": "Biden said to be finalizing plans for migrant limits as part of a US-Mexico border clampdown - POLITICO"
+            "title": "The Morning After: Google tightens up its AI Overview feature after suggesting glue on a pizza - Engadget"
         }, 
         {
-            "url": "https://pagesix.com/2024/05/30/entertainment/will-smith-and-jada-pinkett-smith-cozy-up-on-the-red-carpet-after-separation-reveal/", 
-            "description": "The couple was accompanied by their children, Willow Smith and Jaden Smith, as well as Will\u2019s son Trey, whom he shares with ex-wife Sheree Zampino.", 
-            "title": "Will Smith and Jada Pinkett Smith cozy up on red carpet in first joint appearance since separation reveal - Page Six"
+            "url": "https://arstechnica.com/cars/2024/05/driverless-racing-is-real-terrible-and-strangely-exciting/", 
+            "description": "The Abu Dhabi Autonomous Racing League proves it\u2019s possible, just very hard.", 
+            "title": "Driverless racing is real, terrible, and strangely exciting - Ars Technica"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/c9xxpypr8d0o", 
-            "description": "The party has been accused of putting jobs at risk by vowing not to issue any new oil and gas licences if it wins power.", 
-            "title": "GB energy firm would secure future jobs, says Labour - BBC.com"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1402737/angelina-jolie-and-brad-pitts-daughter-shiloh-officially-files-to-change-name", 
-            "description": "Angelina Jolie and Brad Pitt\u2019s daughter Shiloh Jolie-Pitt legally requested to drop the \"Pitt\" from her surname, according to paperwork filed on her 18th birthday.", 
-            "title": "Angelina Jolie and Brad Pitt's Daughter Shiloh Files to Change Name - E! NEWS"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html", 
-            "description": "A\u00a0third person in the US\u00a0has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the\u00a0Michigan Department of Health and Human Services\u00a0said Thursday.\u00a0This is the second human case reported in the state and the fourth ever in t\u2026", 
-            "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN"
+            "url": "https://www.cnn.com/2024/05/31/entertainment/jim-henson-idea-man-documentary-review/index.html", 
+            "description": "\u201cJim Henson: Idea Man\u201d threads a difficult needle, celebrating the creative genius of the Muppets mastermind without sidestepping the thornier aspects of his personal life.", 
+            "title": "\u2018Jim Henson: Idea Man\u2019 celebrates the Muppets mastermind without shying away from the hand behind them - CNN"
         }
     ], 
-    "last_updated": "2024-06-01 15:16:34"
+    "last_updated": "2024-06-01 15:46:36"
 }
