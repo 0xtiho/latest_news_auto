@@ -1,59 +1,39 @@
 {
     "news": [
         {
-            "url": "http://www.hollywoodreporter.com/tv/tv-features/911-season-7-finale-ryan-guzman-interview-1235912170/", 
-            "description": "The fan-favorite firefighter in the ABC procedural drama says the beloved father-son dynamic will never be the same: \"Eddie is not the best part of Christopher\u2019s life anymore.\"", 
-            "title": "\u20189-1-1\u2019 Star Ryan Guzman Breaks Down That Emotional Finale Goodbye - Hollywood Reporter"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1402720/ben-affleck-and-jennifer-lopez-reunite-at-family-event-amid-breakup-speculation", 
-            "description": "Amid speculation of a split, Ben Affleck and Jennifer Lopez\u2014who tied the knot in July 2022\u2014were spotted attending a family event together in Los Angeles on May 30. See the couple's reunion.", 
-            "title": "Ben Affleck and Jennifer Lopez Reunite at Family Event Amid Breakup Speculation - E! Online - E! NEWS"
-        }, 
-        {
-            "url": "https://www.foxnews.com/us/attorneys-idaho-murder-suspect-bryan-kohberger-maintain-da-slow-walking-evidence", 
-            "description": "Bryan Kohberger, who is accused of killing four University of Idaho students, appeared in court Thursday for a pretrial hearing.", 
-            "title": "Attorneys for Idaho murder suspect Bryan Kohberger maintain DA is slow-walking evidence - Fox News"
-        }, 
-        {
-            "url": "https://www.wxii12.com/article/wxii-12-news-spot-international-space-station-tonight-refueling-spacecraft-progress-88-kazakhastan/60954080", 
-            "description": "Spot the International Space Station tonight and its refueling spacecraft Progress 88", 
-            "title": "Spot the Space Station tonight and Progress 88 spacecraft - WXII12 Winston-Salem"
-        }, 
-        {
-            "url": "https://www.nba.com/news/93-candidates-withdraw-2024-nba-draft", 
-            "description": "Early entry candidates have until 5 p.m. ET on June 16, 2024 to decide whether or not to withdraw for consideration in NBA Draft.", 
-            "title": "93 early entry candidates withdraw from 2024 NBA Draft - NBA.com"
-        }, 
-        {
-            "url": "https://apnews.com/article/bomb-rafah-civilians-israel-us-ada219d17926a14ca8c179338d53d109", 
-            "description": "Defense experts who've reviewed debris images from an Israeli airstrike that ignited a deadly fire in a camp for displaced Palestinians question why Israel didn't use smaller, more precise weapons when so many civilians were nearby. The defense experts say th\u2026", 
-            "title": "Israel could have used smaller weapons against Hamas to avoid deaths in Gaza tent fire, experts say - The Associated Press"
-        }, 
-        {
-            "url": "https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road", 
-            "description": "Jeep\u2019s Wagoneer S electric SUV could be getting a Trailhawk trim based on a new concept released today. The EV sports tow hooks, 31.5-inch tires, and a host of rugged details.", 
-            "title": "Jeep's Wagoneer S Trailhawk concept teases a fully electric off-roader - The Verge"
-        }, 
-        {
-            "url": "https://www.reuters.com/world/middle-east/israel-reopens-gaza-food-sales-rafah-raid-chokes-aid-2024-05-30/", 
+            "url": "https://www.usatoday.com/story/news/world/2024/05/29/grindavik-volcano-eruption-iceland/73899542007/", 
             "description": null, 
-            "title": "Exclusive: Israel reopens Gaza food sales as Rafah raid chokes aid - Reuters"
+            "title": "Video shows Iceland volcano erupt, blast lava into the sky - USA TODAY"
         }, 
         {
-            "url": "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-the-2-earliest-galaxies-in-the-known-universe-and-1-is-shockingly-big", 
-            "description": "The James Webb Space Telescope has detected the two earliest, most distant galaxies in the known universe, dating to just 300 million years after the Big Bang. The detection of even earlier galaxies is likely to follow.", 
-            "title": "James Webb telescope discovers the 2 earliest galaxies in the known universe \u2014 and 1 is shockingly big - Livescience.com"
-        }, 
-        {
-            "url": "https://www.fox9.com/news/minneapolis-police-death-officer-2-citizens-killed-mass-shooting", 
-            "description": "A Minneapolis police officer and the suspected shooter were killed in a mass shooting in the city on Thursday.", 
-            "title": "Minneapolis police death: Officer, suspected shooter dead after mass shooting - FOX 9 Minneapolis-St. Paul"
-        }, 
-        {
-            "url": "https://thehill.com/homenews/campaign/4694985-donald-trump-vote-convicted-felon/", 
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv?oc=5", 
             "description": null, 
-            "title": "Can Trump still vote as a convicted felon? - The Hill"
+            "title": "Police officer among 2 killed in Minneapolis shooting; suspect also dead - CBS Minnesota"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-conviction-what-to-know-a70941a7cd367f7b2aa3218ea91ad922", 
+            "description": "Donald Trump\u2019s conviction on 34 felony counts marks the end of his historic hush money trial but the fight over the case is far from over. Now comes the sentencing and the prospect of a prison sentence. A lengthy appellate process. And all the while, the pres\u2026", 
+            "title": "What's next for Donald Trump after hush money conviction - The Associated Press"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cjrr5ee5zv8o", 
+            "description": "The New York Times, Wordle's owner, accuses similarly-named geography game of \"creating confusion.\"", 
+            "title": "Wordle locked in legal row with geography spinoff, Worldle - BBC.com"
+        }, 
+        {
+            "url": "https://www.cnbc.com/2024/05/31/euro-zone-inflation-may-2024.html", 
+            "description": "The European Central Bank is widely expected to cut interest rates next week.", 
+            "title": "Euro zone inflation rises to 2.6% in May, but bloc still seen heading for interest rate cut - CNBC"
+        }, 
+        {
+            "url": "https://apnews.com/article/yemen-war-us-british-airstrikes-israel-hamas-12f99b7afc389a703f8dd333f2376b20", 
+            "description": "Joint British-U.S. airstrikes targeting Yemen\u2019s Houthi rebels killed at least 16 people and wounded 35 others. That's according to comments from the rebels Friday. That is the highest publicly acknowledged death toll strikes carried out over the rebels' attac\u2026", 
+            "title": "Houthi rebels say at least 16 killed, 35 others wounded in joint US-British airstrikes in Yemen - The Associated Press"
+        }, 
+        {
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-31/", 
+            "description": null, 
+            "title": "Stocks and dollar idle ahead of Fed's favourite inflation figure - Reuters"
         }, 
         {
             "url": "https://removed.com", 
@@ -61,45 +41,65 @@
             "title": "[Removed]"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/30/business/boeing-safety-plan-faa/index.html", 
-            "description": "Boeing executives presented sweeping changes to the company\u2019s production process and safety systems in a three-hour meeting with the Federal Aviation Administration on Thursday.\u00a0The plan is meant to reassure the public, airline customers and regulators that t\u2026", 
-            "title": "3-hour meeting ends with FAA saying Boeing can\u2019t increase Max plane production until quality is fixed - CNN"
+            "url": "https://www.bbc.com/news/articles/cy770l9llnzo", 
+            "description": "The US president gives Ukraine permission to use US-supplied weapons to strike targets in Russia, but only near Kharkiv.", 
+            "title": "Biden allows Ukraine to hit some targets in Russia with US weapons - BBC.com"
         }, 
         {
-            "url": "https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731", 
+            "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1JlbGVhc2VzL1JlbGVhc2UvQXJ0aWNsZS8zNzkyMTE5L3JlYWRvdXQtb2Ytc2VjcmV0YXJ5LW9mLWRlZmVuc2UtbGxveWQtai1hdXN0aW4taWlpcy1tZWV0aW5nLXdpdGgtcGVvcGxlcy1yZXB1Ymwv0gEA?oc=5", 
             "description": null, 
-            "title": "Biden secretly gave Ukraine permission to strike inside Russia with US weapons - POLITICO"
+            "title": "Readout of Secretary of Defense Lloyd J. Austin III's Meeting With People's Republic of Ch - Department of Defense"
         }, 
         {
-            "url": "https://www.espn.com/college-sports/story/_/id/40246983/sec-greg-sankey-confident-ncaa-division-operate-together", 
-            "description": "SEC commissioner Greg Sankey says that the NCAA basketball tournament might change from its current field of 68 teams.", 
-            "title": "SEC's Greg Sankey confident NCAA Division I can operate together - ESPN"
+            "url": "https://www.cnn.com/2024/05/30/china/xi-jinping-arab-leaders-china-intl-hnk/index.html", 
+            "description": "Chinese leader Xi Jinping decried \u201ctremendous sufferings\u201d in the Middle East and called for an international peace conference as leaders from Arab nations visit Beijing this week amid mounting global concern over Israel\u2019s war in Gaza.", 
+            "title": "China\u2019s Xi Jinping calls for peace conference and \u2018justice\u2019 over war in Gaza as Arab leaders visit Beijing - CNN"
         }, 
         {
-            "url": "https://apnews.com/article/south-africa-election-change-vote-anc-25a03780bec29503ab3d9f6e9f96dc4c", 
-            "description": "Partial results in South Africa\u2019s national election have put the long-ruling African National Congress at less than 50% of the vote. It raises the possibility that it might lose its majority for the first time since it swept to power under Nelson Mandela at t\u2026", 
-            "title": "South Africa election: Early results put ruling ANC short of a majority - The Associated Press"
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=NBXKrkdXkG4", 
-            "description": "Champ Islam Makhachev and challenger Dustin Poirier had their first UFC 302 faceoff at the pre-fight press conference for their lightweight title fight on Sa...", 
-            "title": "Islam Makhachev, Dustin Poirier Separated at Faceoff After Exchanging Words | UFC 302 - MMA Junkie"
+            "url": "https://nypost.com/2024/05/31/us-news/california-serial-slingshot-shooter-prince-raymond-king-who-terrorized-neighborhood-for-a-decade-is-found-dead-after-his-arrest/", 
+            "description": "The senior was charged with five counts of felony vandalism and two counts of misdemeanor vandalism for allegedly targeting his neighbors\u2019 property with the slingshot", 
+            "title": "81-year-old 'serial slingshot shooter' found dead days after he's arrested for terrorizing neighborhood for a decade - New York Post "
         }, 
         {
-            "url": "https://www.chicagobears.com/news/chicago-bears-nfl-films-and-hbo-announce-hard-knocks-training-camp-with-the-chicago-bears", 
-            "description": "Remaining a fixture in the national spotlight, Hard Knocks: Training Camp with the Chicago Bears debuts Tuesday, August 6th at 9 p.m. ET / 8 p.m. CT.", 
-            "title": "NFL Films and HBO announce Hard Knocks: Training Camp with the Chicago Bears - ChicagoBears.com"
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsYWJhbWEtZXhlY3V0aW9uLWVsZGVybHktY291cGxlLW11cmRlci1sZXRoYWwtaW5qZWN0aW9uLWM3Njc3YTVmZGY5MTMxMmI2ODYwYzk0ZGUyYWZhNTY10gEA?oc=5", 
+            "description": null, 
+            "title": "Months after nation's 1st nitrogen gas execution, Alabama gives man lethal injection for 2 killings - The Associated Press"
         }, 
         {
-            "url": "https://talkingbiznews.com/media-news/wsjs-varghese-among-the-layoffs/", 
-            "description": "Daniel Varghese, who oversaw\u00a0the gear and gadgets section of Off Duty at The\u00a0Wall Street Journal, editing stories about personal technology, was among the layoffs at the publication on Thursday. \u201cI had so much fun working with the team at Off Duty, and hope t\u2026", 
-            "title": "WSJ\u2019s Varghese among the layoffs - Talking Biz News"
+            "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240530_DAL@MIN/", 
+            "description": "Get real-time NBA basketball coverage and scores as Dallas Mavericks takes on Minnesota Timberwolves. We bring you the latest game previews, live stats, and recaps on CBSSports.com", 
+            "title": "Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - May 30, 2024 Gametracker - CBS Sports"
         }, 
         {
-            "url": "https://www.cnbc.com/2024/05/30/gap-gps-earnings-q1-2024.html", 
-            "description": "Gap has been in the midst of a turnaround under CEO Richard Dickson, who has focused on better marketing and storytelling for the company's portfolio of brands.", 
-            "title": "Gap shares pop 20% as earnings beat on sales growth at all four brands - CNBC"
+            "url": "https://www.politico.com/news/2024/05/31/biden-finalizing-plans-migrant-limits-us-mexico-border-00160944", 
+            "description": null, 
+            "title": "Biden said to be finalizing plans for migrant limits as part of a US-Mexico border clampdown - POLITICO"
+        }, 
+        {
+            "url": "https://pagesix.com/2024/05/30/entertainment/will-smith-and-jada-pinkett-smith-cozy-up-on-the-red-carpet-after-separation-reveal/", 
+            "description": "The couple was accompanied by their children, Willow Smith and Jaden Smith, as well as Will\u2019s son Trey, whom he shares with ex-wife Sheree Zampino.", 
+            "title": "Will Smith and Jada Pinkett Smith cozy up on red carpet in first joint appearance since separation reveal - Page Six"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/c9xxpypr8d0o", 
+            "description": "The party has been accused of putting jobs at risk by vowing not to issue any new oil and gas licences if it wins power.", 
+            "title": "GB energy firm would secure future jobs, says Labour - BBC.com"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1402737/angelina-jolie-and-brad-pitts-daughter-shiloh-officially-files-to-change-name", 
+            "description": "Angelina Jolie and Brad Pitt\u2019s daughter Shiloh Jolie-Pitt legally requested to drop the \"Pitt\" from her surname, according to paperwork filed on her 18th birthday.", 
+            "title": "Angelina Jolie and Brad Pitt's Daughter Shiloh Files to Change Name - E! NEWS"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html", 
+            "description": "A\u00a0third person in the US\u00a0has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the\u00a0Michigan Department of Health and Human Services\u00a0said Thursday.\u00a0This is the second human case reported in the state and the fourth ever in t\u2026", 
+            "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN"
         }
     ], 
-    "last_updated": "2024-06-01 04:51:36"
+    "last_updated": "2024-06-01 13:46:27"
 }
