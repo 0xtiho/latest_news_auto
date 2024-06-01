@@ -1,29 +1,89 @@
 {
     "news": [
         {
+            "url": "http://www.hollywoodreporter.com/tv/tv-features/911-season-7-finale-ryan-guzman-interview-1235912170/", 
+            "description": "The fan-favorite firefighter in the ABC procedural drama says the beloved father-son dynamic will never be the same: \"Eddie is not the best part of Christopher\u2019s life anymore.\"", 
+            "title": "\u20189-1-1\u2019 Star Ryan Guzman Breaks Down That Emotional Finale Goodbye - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://www.eonline.com/news/1402720/ben-affleck-and-jennifer-lopez-reunite-at-family-event-amid-breakup-speculation", 
+            "description": "Amid speculation of a split, Ben Affleck and Jennifer Lopez\u2014who tied the knot in July 2022\u2014were spotted attending a family event together in Los Angeles on May 30. See the couple's reunion.", 
+            "title": "Ben Affleck and Jennifer Lopez Reunite at Family Event Amid Breakup Speculation - E! Online - E! NEWS"
+        }, 
+        {
+            "url": "https://www.foxnews.com/us/attorneys-idaho-murder-suspect-bryan-kohberger-maintain-da-slow-walking-evidence", 
+            "description": "Bryan Kohberger, who is accused of killing four University of Idaho students, appeared in court Thursday for a pretrial hearing.", 
+            "title": "Attorneys for Idaho murder suspect Bryan Kohberger maintain DA is slow-walking evidence - Fox News"
+        }, 
+        {
+            "url": "https://www.wxii12.com/article/wxii-12-news-spot-international-space-station-tonight-refueling-spacecraft-progress-88-kazakhastan/60954080", 
+            "description": "Spot the International Space Station tonight and its refueling spacecraft Progress 88", 
+            "title": "Spot the Space Station tonight and Progress 88 spacecraft - WXII12 Winston-Salem"
+        }, 
+        {
+            "url": "https://www.nba.com/news/93-candidates-withdraw-2024-nba-draft", 
+            "description": "Early entry candidates have until 5 p.m. ET on June 16, 2024 to decide whether or not to withdraw for consideration in NBA Draft.", 
+            "title": "93 early entry candidates withdraw from 2024 NBA Draft - NBA.com"
+        }, 
+        {
+            "url": "https://apnews.com/article/bomb-rafah-civilians-israel-us-ada219d17926a14ca8c179338d53d109", 
+            "description": "Defense experts who've reviewed debris images from an Israeli airstrike that ignited a deadly fire in a camp for displaced Palestinians question why Israel didn't use smaller, more precise weapons when so many civilians were nearby. The defense experts say th\u2026", 
+            "title": "Israel could have used smaller weapons against Hamas to avoid deaths in Gaza tent fire, experts say - The Associated Press"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road", 
+            "description": "Jeep\u2019s Wagoneer S electric SUV could be getting a Trailhawk trim based on a new concept released today. The EV sports tow hooks, 31.5-inch tires, and a host of rugged details.", 
+            "title": "Jeep's Wagoneer S Trailhawk concept teases a fully electric off-roader - The Verge"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/middle-east/israel-reopens-gaza-food-sales-rafah-raid-chokes-aid-2024-05-30/", 
+            "description": null, 
+            "title": "Exclusive: Israel reopens Gaza food sales as Rafah raid chokes aid - Reuters"
+        }, 
+        {
+            "url": "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-the-2-earliest-galaxies-in-the-known-universe-and-1-is-shockingly-big", 
+            "description": "The James Webb Space Telescope has detected the two earliest, most distant galaxies in the known universe, dating to just 300 million years after the Big Bang. The detection of even earlier galaxies is likely to follow.", 
+            "title": "James Webb telescope discovers the 2 earliest galaxies in the known universe \u2014 and 1 is shockingly big - Livescience.com"
+        }, 
+        {
+            "url": "https://www.fox9.com/news/minneapolis-police-death-officer-2-citizens-killed-mass-shooting", 
+            "description": "A Minneapolis police officer and the suspected shooter were killed in a mass shooting in the city on Thursday.", 
+            "title": "Minneapolis police death: Officer, suspected shooter dead after mass shooting - FOX 9 Minneapolis-St. Paul"
+        }, 
+        {
+            "url": "https://thehill.com/homenews/campaign/4694985-donald-trump-vote-convicted-felon/", 
+            "description": null, 
+            "title": "Can Trump still vote as a convicted felon? - The Hill"
+        }, 
+        {
+            "url": "https://removed.com", 
+            "description": "[Removed]", 
+            "title": "[Removed]"
+        }, 
+        {
             "url": "https://www.cnn.com/2024/05/30/business/boeing-safety-plan-faa/index.html", 
             "description": "Boeing executives presented sweeping changes to the company\u2019s production process and safety systems in a three-hour meeting with the Federal Aviation Administration on Thursday.\u00a0The plan is meant to reassure the public, airline customers and regulators that t\u2026", 
             "title": "3-hour meeting ends with FAA saying Boeing can\u2019t increase Max plane production until quality is fixed - CNN"
         }, 
         {
-            "url": "https://www.bbc.com/news/articles/cy770l9llnzo", 
-            "description": "The US gives Ukraine permission to use US-supplied weapons to strike targets in Russia, but only near Kharkiv.", 
-            "title": "Ukraine allowed to hit some targets in Russia with US weapons - BBC.com"
-        }, 
-        {
-            "url": "https://www.wsj.com/articles/national-rifle-association-v-maria-vullo-supreme-court-first-amendment-sonia-sotomayor-acdb890d", 
+            "url": "https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731", 
             "description": null, 
-            "title": "Opinion | A Unanimous Supreme Court Backs the NRA Against a Thuggish Regulator - The Wall Street Journal"
+            "title": "Biden secretly gave Ukraine permission to strike inside Russia with US weapons - POLITICO"
         }, 
         {
-            "url": "https://www.sfgate.com/bayarea/article/bay-area-judge-scott-peterson-latest-defense-19486304.php", 
-            "description": null, 
-            "title": "Bay Area judge wipes out Scott Peterson's latest defense tactic - SFGATE"
+            "url": "https://www.espn.com/college-sports/story/_/id/40246983/sec-greg-sankey-confident-ncaa-division-operate-together", 
+            "description": "SEC commissioner Greg Sankey says that the NCAA basketball tournament might change from its current field of 68 teams.", 
+            "title": "SEC's Greg Sankey confident NCAA Division I can operate together - ESPN"
         }, 
         {
-            "url": "https://www.theverge.com/2024/5/30/24168175/ios-18-ai-siri-apple-apps", 
-            "description": "Apple is planning a big AI update for Siri that could let you control specific app features with your voice, according to Bloomberg.", 
-            "title": "iOS 18 (and AI) will give Siri much more control over your apps - The Verge"
+            "url": "https://apnews.com/article/south-africa-election-change-vote-anc-25a03780bec29503ab3d9f6e9f96dc4c", 
+            "description": "Partial results in South Africa\u2019s national election have put the long-ruling African National Congress at less than 50% of the vote. It raises the possibility that it might lose its majority for the first time since it swept to power under Nelson Mandela at t\u2026", 
+            "title": "South Africa election: Early results put ruling ANC short of a majority - The Associated Press"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=NBXKrkdXkG4", 
+            "description": "Champ Islam Makhachev and challenger Dustin Poirier had their first UFC 302 faceoff at the pre-fight press conference for their lightweight title fight on Sa...", 
+            "title": "Islam Makhachev, Dustin Poirier Separated at Faceoff After Exchanging Words | UFC 302 - MMA Junkie"
         }, 
         {
             "url": "https://www.chicagobears.com/news/chicago-bears-nfl-films-and-hbo-announce-hard-knocks-training-camp-with-the-chicago-bears", 
@@ -31,75 +91,15 @@
             "title": "NFL Films and HBO announce Hard Knocks: Training Camp with the Chicago Bears - ChicagoBears.com"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9jaHJpcy1oZW1zd29ydGgtZy1pLWpvZS10cmFuc2Zvcm1lcnMtY3Jvc3NvdmVyLW1vdmllLTEyMzU5MTIxNjQv0gF4aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL21vdmllcy9tb3ZpZS1uZXdzL2NocmlzLWhlbXN3b3J0aC1nLWktam9lLXRyYW5zZm9ybWVycy1jcm9zc292ZXItbW92aWUtMTIzNTkxMjE2NC9hbXAv?oc=5", 
-            "description": null, 
-            "title": "Chris Hemsworth in Talks to Lead G.I. Joe-Transformers Crossover Movie for Paramount and Hasbro - Hollywood Reporter"
+            "url": "https://talkingbiznews.com/media-news/wsjs-varghese-among-the-layoffs/", 
+            "description": "Daniel Varghese, who oversaw\u00a0the gear and gadgets section of Off Duty at The\u00a0Wall Street Journal, editing stories about personal technology, was among the layoffs at the publication on Thursday. \u201cI had so much fun working with the team at Off Duty, and hope t\u2026", 
+            "title": "WSJ\u2019s Varghese among the layoffs - Talking Biz News"
         }, 
         {
             "url": "https://www.cnbc.com/2024/05/30/gap-gps-earnings-q1-2024.html", 
             "description": "Gap has been in the midst of a turnaround under CEO Richard Dickson, who has focused on better marketing and storytelling for the company's portfolio of brands.", 
-            "title": "Gap shares pop 15% as earnings beat on sales growth at all four brands - CNBC"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/30/us/jury-deliberations-murder-trial-chad-daybell/index.html", 
-            "description": "Chad Daybell was found guilty Thursday of\u00a0murder and conspiracy charges in the deaths of his first wife and the two children of his second wife in a case Idaho prosecutors claim was fueled by power, sex, money and apocalyptic spiritual beliefs. Daybell could \u2026", 
-            "title": "Chad Daybell found guilty of killing first wife and second wife\u2019s 2 children - CNN"
-        }, 
-        {
-            "url": "https://www.washingtonpost.com/technology/2024/05/30/openai-disinfo-influence-operations-china-russia/", 
-            "description": "Covert propagandists have already begun using generative artificial intelligence to boost their influence operations.", 
-            "title": "OpenAI finds Russian and Chinese groups used its tech for propaganda campaigns - The Washington Post"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/30/entertainment/lenny-kravitz-celibate/index.html", 
-            "description": "Lenny Kravitz\u2019s leather pants continue to stay on.", 
-            "title": "Lenny Kravitz is still all about being celibate as he waits for the right person - CNN"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/30/politics/john-roberts-ethics-alito-flag-supreme-court-durbin/index.html", 
-            "description": "Chief Justice John Roberts on Thursday rejected a meeting request from Democratic lawmakers who wanted to discuss two provocative flags hoisted at Justice Samuel Alito\u2019s properties.", 
-            "title": "Chief Justice John Roberts declines to meet with Democratic lawmakers about ethics flap and Alito\u2019s flags - CNN"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
-        }, 
-        {
-            "url": "https://www.espn.com/mlb/story/_/id/40245841/mets-dfa-jorge-lopez-reliever-throws-glove-stands-following-ejection", 
-            "description": "Jorge L\u00f3pez has been designated for assignment by the struggling New York Mets, a day after the reliever threw his glove into the stands following his ejection at Citi Field.", 
-            "title": "Mets DFA Jorge L\u00f3pez after reliever throws glove into stands following ejection - ESPN"
-        }, 
-        {
-            "url": "https://www.cbssports.com/nba/news/timberwolves-vs-mavericks-odds-prediction-2024-nba-western-conference-finals-game-5-picks-from-proven-model/", 
-            "description": "SportsLine's model has made its NBA picks, predictions and best bets for Game 5 of Minnesota Timberwolves vs. Dallas Mavericks in the 2024 Western Conference finals on Thursday", 
-            "title": "Timberwolves vs. Mavericks odds, prediction: 2024 NBA Western Conference finals Game 5 picks from proven model - CBS Sports"
-        }, 
-        {
-            "url": "https://www.youtube.com/watch?v=_VS7OPampF8", 
-            "description": "Dustin Poirier will step into the #UFC octagon this Saturday in what will likely be his final chance to become an undisputed world champion. To pull it off, ...", 
-            "title": "BTL | Poirier's Last Chance vs. Makhachev at UFC 302, Strickland vs. Costa, Garry vs. MVP - MMAFightingonSBN"
-        }, 
-        {
-            "url": "https://www.space.com/boeing-starliner-rolls-out-launch-pad-second-time-photos", 
-            "description": "It was Starliner's second trip to the launch pad in less than a month.", 
-            "title": "Boeing's Starliner rolls out to pad for June 1 astronaut launch (photos) - Space.com"
-        }, 
-        {
-            "url": "https://www.cdc.gov/media/releases/2024/p0530-h5-human-case-michigan.html", 
-            "description": "Press releases, advisories, telebriefings, transcripts and archives.", 
-            "title": "CDC Confirms Second Human H5 Bird Flu Case in Michigan; Third Case Tied to Dairy Outbreak | CDC Online Newsroom - CDC"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "title": "Gap shares pop 20% as earnings beat on sales growth at all four brands - CNBC"
         }
     ], 
-    "last_updated": "2024-06-01 03:21:21"
+    "last_updated": "2024-06-01 03:51:25"
 }
