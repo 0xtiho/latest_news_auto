@@ -1,9 +1,49 @@
 {
     "news": [
         {
-            "url": "https://www.bbc.com/news/articles/ceqq2zn3zw6o", 
-            "description": "Russia accuses Nato and the US of \"provoking a new level of tension\" over the use of Western-supplied weapons.", 
-            "title": "Moscow warns West of escalation after Ukraine told it can hit Russia - BBC.com"
+            "url": "https://www.cbsnews.com/news/michelle-troconis-jennifer-dulos-death-sentencing/", 
+            "description": "Family and friends of Jennifer Dulos offered testimony before her late estranged husband's former girlfriend, Michelle Troconis, is sentenced after being convicted of helping plan and cover up her killing.", 
+            "title": "Watch Live: Michelle Troconis hears emotional testimony ahead of sentencing in Jennifer Dulos murder conspiracy - CBS News"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/31/politics/biden-middle-east-remarks/index.html", 
+            "description": "President Joe Biden announced Friday that Israel has offered a \u201ccomprehensive new proposal\u201d that provides a \u201croadmap\u201d to a ceasefire in the war with Hamas in Gaza and the release of all hostages held by the terror group.", 
+            "title": "Biden says Israel has offered a new \u2018roadmap\u2019 to bring about a ceasefire in Gaza - CNN"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=08_bUsPwi8I", 
+            "description": "Experts discuss ahead of Boeing\u2019s Starliner Crew Flight Test, which will carry NASA astronauts Butch Wilmore and Suni Williams to and from the International ...", 
+            "title": "NASA\u2019s Boeing Starliner Crew Flight Test Prelaunch News Conference (May 31, 2024) - NASA Video"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMzAvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDUvMzAvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s?oc=5", 
+            "description": null, 
+            "title": "S&P 500 falls on Friday, heads for first losing week in six: Live updates - CNBC"
+        }, 
+        {
+            "url": "https://www.espn.com/nfl/story/_/id/40250779/olympic-gold-medal-wrestler-gable-steveson-signing-bills", 
+            "description": "Gable Steveson, an Olympic gold medalist and one of the most dominant college wrestlers in NCAA history, is jumping to the NFL to sign with the Buffalo Bills, his agent Carter Chow told ESPN.", 
+            "title": "Olympic gold medal wrestler Gable Steveson signing with Bills - ESPN"
+        }, 
+        {
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMzEvd29ybGQvYXNpYS91cy1jaGluYS1taWxpdGFyeS10YWxrcy5odG1s0gEA?oc=5", 
+            "description": null, 
+            "title": "U.S. and Chinese Defense Chiefs Hold First In-Person Talks Since 2022 - The New York Times"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/31/science/planet-parade-six-planetary-alignment-scn/index.html", 
+            "description": "A \u201cplanet parade\u201d of six planets will appear to align in the sky near dawn on Sunday, but only three will be visible to the naked eye. Here\u2019s how to view the event.", 
+            "title": "\u2018Planetary parade\u2019 will see six planets line up in the morning sky - CNN"
+        }, 
+        {
+            "url": "https://apnews.com/article/texas-abortion-ban-lawsuit-supreme-court-ruling-53b871dcd40b2660604980e5daa19512", 
+            "description": "The Texas Supreme Court has rejected a challenge to one of the most restrictive abortion bans in the U.S. following a lawsuit by women who had serious pregnancy complications. Friday's ruling from the court is the latest decision to uphold Texas\u2019 abortion ban\u2026", 
+            "title": "Texas Supreme Court rejects challenge to state's abortion law over medical exceptions - The Associated Press"
+        }, 
+        {
+            "url": "http://deadline.com/2024/05/wake-up-dead-man-a-knives-out-mystery-adds-daryl-mccormack-to-cast-1235945873/", 
+            "description": "'Wake Up Dead Man: A Knives Out Mystery' has added rising Irish actor Daryl McCormack to its cast led by Daniel Craig, Deadline can confirm.", 
+            "title": "Daryl McCormack Boards \u2018Wake Up Dead Man: A Knives Out Mystery\u2019 - Deadline"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/31/politics/voters-trump-conviction-2024/index.html", 
@@ -11,34 +51,24 @@
             "title": "Trump\u2019s historic conviction isn\u2019t doing much to shift these voters\u2019 2024 picks - CNN"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDUvMzEvdGVjaG5vbG9neS9lbG9uLW11c2steC10ZXNsYS1wYXkuaHRtbNIBAA?oc=5", 
-            "description": null, 
-            "title": "Elon Musk Lobbies on X for His $46.5 Billion Tesla Pay Package - The New York Times"
+            "url": "https://variety.com/2024/tv/features/hacks-season-3-finale-jean-smart-hannah-einbinder-1236012252/", 
+            "description": "The creators of 'Hacks' break down that Season 3 finale twist and how Deborah and Ava's relationship has evolved.", 
+            "title": "\u2018Hacks\u2019 Creators on That Finale Twist and Deborah and Ava\u2019s Relationship: \u2018It\u2019s Arousing That She Has a Worthy Opponent\u2019 - Variety"
         }, 
         {
-            "url": "https://investors.modernatx.com/news/news-details/2024/Moderna-Receives-U.S.-FDA-Approval-for-RSV-Vaccine-mRESVIAR/default.aspx", 
-            "description": "mRESVIA is Moderna's second approved product and the only RSV vaccine available in single-dose pre-filled syringes CAMBRIDGE, MA / ACCESSWIRE / May 31, 2024 / Moderna, Inc. (NASDAQ:MRNA) today announced that the U.S. Food and Drug Administration (FDA) has app\u2026", 
-            "title": "Moderna Receives U.S. FDA Approval for RSV Vaccine mRESVIA(R) - Moderna Investor Relations"
+            "url": "https://www.cbsnews.com/news/mediterranean-diet-reduces-mortality-study/", 
+            "description": "The Mediterranean diet has long been regarded as a heart-healthy option, but a new study has found the diet may help reduce risk of death.", 
+            "title": "Mediterranean diet associated with 23% reduction in mortality, study finds - CBS News"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/31/health/mediterranean-diet-women-early-death-risk-wellness/index.html", 
-            "description": "Closely following the Mediterranean diet reduced the risk of early death in women by nearly 25% in a large new study. Here\u2019s how.", 
-            "title": "Mediterranean diet helps women live much longer, a large new study finds - CNN"
+            "url": "https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html", 
+            "description": "The decision is a win for Moderna, which needs another revenue source amid plunging demand for its Covid vaccine, its only commercially available product.", 
+            "title": "FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product - CNBC"
         }, 
         {
-            "url": "https://www.aljazeera.com/news/2024/5/31/biden-eases-ban-on-ukraines-use-of-us-weapons-inside-russia", 
-            "description": "Secretary of State Blinken says the move is part of the US efforts to \u2018adapt and adjust\u2019 to developments in the war.", 
-            "title": "Biden allows Ukraine to hit Russian targets with US arms, angering Moscow - Al Jazeera English"
-        }, 
-        {
-            "url": "https://variety.com/2024/film/news/donald-trump-movie-the-apprentice-cannes-release-hollywood-legal-issues-1236020018/", 
-            "description": "'The Apprentice' was embraced at Cannes, but is Hollywood too scared to release the controversial Donald Trump movie?", 
-            "title": "Controversial Donald Trump Movie \u2018The Apprentice\u2019 Made a Splash in Cannes. Is Hollywood Too Scared to Release It? - Variety"
-        }, 
-        {
-            "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDc3MDU5L0JvZWluZy1sYXVuY2gtcm9ja2V0LXNwYWNlLmh0bWzSAQA?oc=5", 
-            "description": null, 
-            "title": "Boeing to launch rocket - despite warning from NASA contractor - Daily Mail"
+            "url": "https://www.hindustantimes.com/entertainment/hollywood/brad-pitt-and-angelina-jolie-s-daughter-shiloh-seeks-legal-help-to-drop-pitt-from-her-surname-101717163490510.html", 
+            "description": "Shiloh, daughter of Brad Pitt and Angelina Jolie, seeks to drop 'Pitt' from her surname. | Hollywood", 
+            "title": "Brad Pitt and Angelina Jolie\u2019s daughter Shiloh seeks legal help to drop \u2018Pitt\u2019 from her surname - Hindustan Times"
         }, 
         {
             "url": "https://www.tomsguide.com/computing/mobile-apps/google-news-goes-down-for-millions-of-users-worldwide-in-mysterious-outage", 
@@ -46,19 +76,9 @@
             "title": "Google News goes down for millions worldwide in mysterious outage \u2014 latest updates - Tom's Guide"
         }, 
         {
-            "url": "https://www.ft.com/content/6c0b34a3-63d7-4dad-865b-5554ff7b73ff", 
-            "description": "Personal consumption expenditures figure was in line with economists\u2019 expectations", 
-            "title": "Fed's preferred inflation metric remains at 2.7% in April - Financial Times"
-        }, 
-        {
-            "url": "https://www.eonline.com/news/1402754/will-and-jada-pinkett-smith-make-first-joint-red-carpet-appearance-since-separation-announcement", 
-            "description": "Will Smith and Jada Pinkett Smith appeared alongside their children Jaden Smith, Willow Smith and Will\u2019s son Trey Smith for the Bad Boys: Ride or Die premiere in Hollywood May 30.", 
-            "title": "Will & Jada Pinkett Smith Walk Red Carpet After Announcing Separation - E! NEWS"
-        }, 
-        {
-            "url": "https://www.texastribune.org/2024/05/31/texas-supreme-court-zurawski-abortion/", 
-            "description": "The court ruled against 20 women who said they were denied medically necessary abortions, saying the medical exceptions in the law were broad enough.", 
-            "title": "Texas Supreme Court rejects abortion challenge - The Texas Tribune"
+            "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmVhc3RpZGFob25ld3MuY29tLzIwMjQvMDUvd2F0Y2gtbGl2ZS1kYXktMS1vZi1jaGFkLWRheWJlbGwtc2VudGVuY2luZy1waGFzZS_SAQA?oc=5", 
+            "description": null, 
+            "title": "WATCH LIVE: Day 1 of Chad Daybell sentencing phase - East Idaho News"
         }, 
         {
             "url": "https://finance.yahoo.com/news/openais-apple-deal-sparks-concerns-142258074.html", 
@@ -71,35 +91,15 @@
             "title": "Manchin registering as independent in West Virginia - Live Updates - POLITICO - POLITICO"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2lzcmFlbGktbmVnb3RpYXRvci1oYW1hcy1kZW1hbmQtZm9yLWNlYXNlZmlyZS1iZWZvcmUtaG9zdGFnZS1yZWxlYXNlLWRlbHVzaW9uYWwv0gFyaHR0cHM6Ly93d3cudGltZXNvZmlzcmFlbC5jb20vaXNyYWVsaS1uZWdvdGlhdG9yLWhhbWFzLWRlbWFuZC1mb3ItY2Vhc2VmaXJlLWJlZm9yZS1ob3N0YWdlLXJlbGVhc2UtZGVsdXNpb25hbC9hbXAv?oc=5", 
-            "description": null, 
-            "title": "Israeli negotiator: Hamas demand for ceasefire before hostage release \u2018delusional\u2019 - The Times of Israel"
-        }, 
-        {
-            "url": "https://www.cbssports.com/mlb/news/prospect-watch-checking-in-on-2023-draftees-for-each-national-league-team-ahead-of-2024-mlb-draft/", 
-            "description": "How have last year's top picks taken to pro ball?", 
-            "title": "Prospect Watch: Checking in on 2023 draftees for each National League team ahead of 2024 MLB draft - CBS Sports"
-        }, 
-        {
             "url": "https://apnews.com/article/israel-palestinians-rafah-2f603675195f80c73c593020398ed72a", 
             "description": "The Israeli military has confirmed that its forces are operating in central parts of Rafah in its expanding offensive in the southern Gaza city. The military said in a statement Friday that its troops in central Rafah had uncovered Hamas rocket launchers and \u2026", 
             "title": "Israel confirms its forces are in central Rafah in expanding offensive in the southern Gaza city - The Associated Press"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWxsLXNoYXJlcy1zbHVtcC1oZWF2eS1haS0xMTE4MTA5NTEuaHRtbNIBAA?oc=5", 
+            "url": "https://www.youtube.com/watch?v=6IMwIXBWP2A", 
             "description": null, 
-            "title": "Dell shares slump as heavy AI investments expected to dent margin - Yahoo Finance"
-        }, 
-        {
-            "url": "https://www.mprnews.org/story/2024/05/31/minnesota-shooting-officer-jamal-mitchell-killed-in-minneapolis-whittier-neighborhood", 
-            "description": "Jamal Mitchell was the first Minneapolis officer fatally shot in the line of duty in more than 20 years. Authorities say he was ambushed Thursday responding to a shooting call. Colleagues praised him as an exceptional officer.", 
-            "title": "Police officer killed in Minneapolis shooting remembered for heroism - MPR News"
-        }, 
-        {
-            "url": "https://www.wcvb.com/article/northern-lights-aurora-sunspot-visible-massachusetts/60960091", 
-            "description": "Parts of New England could glimpse the aurora tonight, but there's another phenomenon we could see before sunset.", 
-            "title": "Another chance to see northern lights, plus another solar spectacle - WCVB Boston"
+            "title": "UFC 302 OFFICIAL WEIGH-INS: Islam Makhachev vs Dustin Poirier - MMAWeekly.com"
         }
     ], 
-    "last_updated": "2024-06-01 19:16:52"
+    "last_updated": "2024-06-01 19:46:55"
 }
