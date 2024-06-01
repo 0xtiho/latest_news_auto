@@ -1,64 +1,89 @@
 {
     "news": [
         {
+            "url": "https://www.nbcnews.com/news/crime-courts/michelle-troconis-sentenced-jennifer-dulos-murder-rcna154868", 
+            "description": "Michelle Troconis, the Connecticut woman convicted of helping her boyfriend murder his estranged wife in 2019, was sentenced to 14 1/2 years in prison Friday following an emotional, hours-long hearing.", 
+            "title": "Michelle Troconis sentenced to more than 14 years for helping boyfriend murder his wife - NBC News"
+        }, 
+        {
+            "url": "https://bleacherreport.com/articles/10123206-mike-tyson-vs-jake-paul-boxing-fight-postponed-after-icons-medical-emergency", 
+            "description": "The Jake Paul vs. Mike Tyson boxing match has been postponed after Tyson's recent medical emergency. Most Valuable Promotions, which is Paul's boxing\u2026", 
+            "title": "Mike Tyson vs. Jake Paul Boxing Fight Postponed After Icon's Medical Emergency - Bleacher Report"
+        }, 
+        {
+            "url": "https://www.youtube.com/watch?v=99R0wnF0RK8", 
+            "description": null, 
+            "title": "UFC 302: Ceremonial Weigh-In - UFC"
+        }, 
+        {
+            "url": "https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/", 
+            "description": null, 
+            "title": "Biden presents new Israel ceasefire plan, calls on Hamas to accept - Reuters"
+        }, 
+        {
+            "url": "https://apnews.com/article/airman-shot-florida-deputy-roger-fortson-c616444086b39d20a80f35ba86ec531b", 
+            "description": "A Florida sheriff on Friday fired a deputy who fatally shot a Black airman at his home while holding a handgun pointed to the ground, saying the deputy\u2019s life was never in danger and he should not have fired his weapon. The Okaloosa County Sheriff on Friday f\u2026", 
+            "title": "Florida deputy who fatally shot Airman Roger Fortson fired - The Associated Press"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/31/us/chad-daybell-sentencing-death-penalty-decision/index.html", 
+            "description": "A day after delivering a guilty verdict in Chad Daybell\u2019s murder trial, an Idaho jury on Friday began deliberating whether he will face the death penalty for killing his first wife and two of his second wife\u2019s children.", 
+            "title": "Idaho jury begins deliberations in sentencing of Chad Daybell, who faces possible death penalty for 3 murders - CNN"
+        }, 
+        {
             "url": "https://families.google.com/service-restricted", 
             "description": null, 
             "title": "Chobani Yogurt Founder Buys Anchor Brewing Company - The New York Times"
         }, 
         {
-            "url": "https://finance.yahoo.com/news/futures-slip-investors-brace-inflation-103240200.html", 
-            "description": null, 
-            "title": "Indexes are a mixed bag as investors weigh inflation data - Yahoo Finance"
+            "url": "https://thehill.com/policy/healthcare/4697185-women-mediterranean-diet-live-longer/", 
+            "description": "Women who are on a Mediterranean diet live significantly longer, according to a new study. The Mediterranean diet often consists of higher consumption of food and ingredients like olive oil, fruits, fish, nuts and vegetables and lower consumption of red meat \u2026", 
+            "title": "Women on Mediterranean diet live significantly longer: Study - The Hill"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLTIwMjQtY2FtcGFpZ24tdHJpYWwtNDYyOTg0MDI0MGNiMzA4YzVlYWUzMzU1MzJhZDE3ZWTSAQA?oc=5", 
+            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BpY2t0b24tZGVhZC1jYW5hZGEtc2VyaWFsLWtpbGxlci1waWctZmFybS1mMmYyYzM1NDVhYzBiZWEyM2EzOGNjNjkwY2YxYzc5NtIBAA?oc=5", 
             "description": null, 
+            "title": "Canadian serial killer Robert Pickton, who brought victims to pig farm, is dead after prison assault - The Associated Press"
+        }, 
+        {
+            "url": "https://www.espn.com/soccer/story/_/id/40251698/borussia-dortmund-real-madrid-champions-league-favourites", 
+            "description": "Borussia Dortmund have not travelled so far in this season's Champions League to be mere witnesses to Real Madrid lifting the trophy for a record-extending 15th time, coach Edin Terzic vowed.", 
+            "title": "Borussia Dortmund 'don't care' Real Madrid are UCL favourites - ESPN"
+        }, 
+        {
+            "url": "https://apnews.com/article/trump-2024-campaign-trial-4629840240cb308c5eae335532ad17ed", 
+            "description": "Donald Trump sought to move past his historic criminal conviction on Friday and build momentum for his bid to return to the White House with fierce attacks on the judge who oversaw the case, the prosecution\u2019s star witness and the criminal justice system as a \u2026", 
             "title": "Trump responds to guilty verdict by falsely blasting 'rigged trial' - The Associated Press"
         }, 
         {
-            "url": "https://abcnews.go.com/US/michelle-troconis-sentenced-case-missing-connecticut-mom-jennifer/story?id=110504388", 
-            "description": "Troconis was found guilty of charges including conspiracy to commit murder.", 
-            "title": "Kids of Connecticut mom Jennifer Dulos give emotional statements; Michelle Troconis gets 14.5 years - ABC News"
+            "url": "https://apnews.com/article/israel-netanyahu-war-gaza-congress-596b0adf6ed8f71ccaaecccec8b9d341", 
+            "description": "Congressional leaders have invited Israeli Prime Minister Benjamin Netanyahu to deliver an address a the U.S. Capitol. The visit would provide a show of wartime support for the longtime ally despite mounting political divisions over Israel\u2019s military assault \u2026", 
+            "title": "US leaders invite Israel's Netanyahu to deliver an address to Congress - The Associated Press"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvc3BvcnRzL29seW1waWMtZ29sZC1tZWRhbGlzdC13cmVzdGxlci1nYWJsZS1zdGV2ZXNvbi1zaWduaW5nLWJ1ZmZhbG8tYmlsbHMtcmNuYTE1NDk1NtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNTQ5NTY?oc=5", 
-            "description": null, 
-            "title": "Olympic gold medalist wrestler Gable Steveson signing with Buffalo Bills - NBC News"
-        }, 
-        {
-            "url": "https://www.foxnews.com/entertainment/brad-pitt-angelina-jolies-daughter-files-drop-pitt-from-legal-last-name-18th-birthday", 
-            "description": "Brad Pitt's daughter, Shiloh, reportedly filed to drop Pitt from her legal last name in paperwork filed on her 18th birthday. Pitt shares six children with ex-wife Angelina Jolie.", 
-            "title": "Brad Pitt, Angelina Jolie's daughter files to drop Pitt from legal last name on 18th birthday - Fox News"
-        }, 
-        {
-            "url": "https://removed.com", 
-            "description": "[Removed]", 
-            "title": "[Removed]"
+            "url": "https://www.cbsnews.com/news/boeings-starliner-ready-launch-space-station-first-flight-crew-on-board/", 
+            "description": "If the first piloted test flight goes well, NASA hopes to certify the Starliner for regularly scheduled service starting next year.", 
+            "title": "Boeing's Starliner ready for Saturday launch to space station, first flight with crew on board - CBS News"
         }, 
         {
             "url": "https://variety.com/2024/music/news/jennifer-lopez-cancels-tour-1236021391/", 
-            "description": null, 
+            "description": "Jennifer Lopez\u00a0has canceled her troubled summer tour to spend more time with her family and is 'heartsick' over the decision, she said Friday.", 
             "title": "Jennifer Lopez Cancels Summer Tour - Variety"
         }, 
         {
-            "url": "https://www.politico.com/news/2024/05/31/biden-ukraine-war-russia-00160991", 
-            "description": null, 
-            "title": "'War has found them': Biden's Ukraine gamble sets a new course - POLITICO"
+            "url": "https://www.cbsnews.com/news/bird-flu-vaccine-doses-this-summer-cases/", 
+            "description": "The U.S. has ordered 4.8 million doses of vaccine to target bird flu in case the outbreak spreads in people.", 
+            "title": "U.S. to make millions of bird flu vaccine doses this summer, as cases grow - CBS News"
         }, 
         {
-            "url": "https://www.cnn.com/2024/05/31/us/chad-daybell-sentencing-death-penalty-decision/index.html", 
-            "description": "A day after delivering a guilty verdict in Chad Daybell\u2019s murder trial, an Idaho jury weighing whether he will face the death penalty on Friday heard contrasting portraits of the man.", 
-            "title": "Idaho jurors weighing death penalty hear contrasting portraits of Chad Daybell after finding him guilty of 3 murders - CNN"
+            "url": "https://wgntv.com/news/friday-night-solar-storm-northern-lights-chicago-wisconsin-michigan-iowa/", 
+            "description": "The chance to view the northern lights returns for several U.S. states this weekend as a solar storm blasts magnetic material toward Earth.", 
+            "title": "Chance to see northern lights returns - WGN TV Chicago"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=08_bUsPwi8I", 
-            "description": "Experts discuss ahead of Boeing\u2019s Starliner Crew Flight Test, which will carry NASA astronauts Butch Wilmore and Suni Williams to and from the International ...", 
-            "title": "NASA\u2019s Boeing Starliner Crew Flight Test Prelaunch News Conference (May 31, 2024) - NASA Video"
-        }, 
-        {
-            "url": "https://abcnews.go.com/US/wireStory/police-batons-approach-israel-hamas-war-protesters-uc-110707626", 
-            "description": "A spokesperson for the University of California, Santa Cruz, says approximately 80 people have been arrested at a pro-Palestinian demonstration that has been blocking the main campus entrance for days", 
-            "title": "Police arrest 80 at Israel-Hamas war protest at UC Santa Cruz, school says - ABC News"
+            "url": "http://www.thecut.com/article/shiloh-jolie-pitt-wants-a-name-change.html", 
+            "description": "Angelina Jolie and Brad Pitt\u2019s daughter reportedly asked to legally drop her father\u2019s last name on her 18th birthday, amid her parents\u2019 contentious divorce.", 
+            "title": "Shiloh Jolie-Pitt Wants a Name Change - The Cut"
         }, 
         {
             "url": "https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html", 
@@ -66,40 +91,15 @@
             "title": "It was a strong week for retail earnings. That doesn\u2019t spell a consumer comeback - CNBC"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MveWVtZW4taG91dGhpLXRocmVhdC1yZWQtc2VhLXVzLXVrLXN0cmlrZS01MDAwLXBvdW5kLWJ1bmtlci1idXN0ZXItYm9tYi_SAWhodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy95ZW1lbi1ob3V0aGktdGhyZWF0LXJlZC1zZWEtdXMtdWstc3RyaWtlLTUwMDAtcG91bmQtYnVua2VyLWJ1c3Rlci1ib21iLw?oc=5", 
-            "description": null, 
+            "url": "https://www.cbsnews.com/news/yemen-houthi-threat-red-sea-us-uk-strike-5000-pound-bunker-buster-bomb/", 
+            "description": "The Iran-backed Houthis threaten to escalate attacks on Red Sea shipping after strikes by the U.S. and U.K. that the rebels say killed 16 people.", 
             "title": "Yemen's Houthis threaten escalation after American strike using 5,000-pound bunker-buster bomb - CBS News"
         }, 
         {
-            "url": "https://apnews.com/article/joe-manchin-congress-west-virginia-senate-a4eb66f2cb773f822b6b607945cdeaef", 
-            "description": "Democratic Sen. Joe Manchin of West Virginia has announced he has switched his registration to independent. The move on Friday raises questions about his political plans since it could help his chances should he seek elected office again in a state that has t\u2026", 
-            "title": "Democratic Sen. Joe Manchin of West Virginia registers as independent, citing 'partisan extremism' - The Associated Press"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/mediterranean-diet-reduces-mortality-study/", 
-            "description": "The Mediterranean diet has long been regarded as a heart-healthy option, but a new study has found the diet may help reduce risk of death.", 
-            "title": "Mediterranean diet associated with 23% reduction in mortality, study finds - CBS News"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html", 
-            "description": "The decision is a win for Moderna, which needs another revenue source amid plunging demand for its Covid vaccine, its only commercially available product.", 
-            "title": "FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product - CNBC"
-        }, 
-        {
-            "url": "https://futurism.com/the-byte/google-admits-ai-search-feature-dumpster-fire", 
-            "description": "Google has released a statement, admitting that \"some odd, inaccurate or unhelpful AI Overviews certainly did show up.\"", 
-            "title": "Google Admits Its AI Search Feature Is a Dumpster Fire, Says It Will Scale Back the Tool - Futurism"
-        }, 
-        {
-            "url": "https://www.texastribune.org/2024/05/31/texas-supreme-court-zurawski-abortion/", 
-            "description": "The court ruled against 20 women who said they were denied medically necessary abortions, saying the medical exceptions in the law were broad enough.", 
-            "title": "Texas Supreme Court rejects abortion challenge - The Texas Tribune"
-        }, 
-        {
-            "url": "https://finance.yahoo.com/news/openais-apple-deal-sparks-concerns-142258074.html", 
-            "description": "Microsoft Corp (NASDAQ:MSFT) is concerned about some of OpenAI\u2019s business dealings, particularly a potential agreement between OpenAI and Apple Inc...", 
-            "title": "OpenAI's Apple Deal Sparks Concerns In Microsoft, Could Shift AI Market Dynamics - Yahoo Finance"
+            "url": "https://www.cnn.com/2024/05/31/science/planet-parade-six-planetary-alignment-scn/index.html", 
+            "description": "A \u201cplanet parade\u201d of six planets will soon appear to align in the sky near dawn, but only three will be visible to the naked eye. Here\u2019s how to view the event.", 
+            "title": "\u2018Planetary parade\u2019 will see six planets line up in the morning sky - CNN"
         }
     ], 
-    "last_updated": "2024-06-02 01:17:21"
+    "last_updated": "2024-06-02 01:47:23"
 }
