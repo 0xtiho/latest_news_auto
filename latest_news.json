@@ -1,29 +1,64 @@
 {
     "news": [
         {
+            "url": "https://www.washingtonpost.com/dc-md-va/2024/05/31/retired-four-star-navy-admiral-arrested-bribery/", 
+            "description": "Retired four-star Adm. Robert P. Burke is accused of awarding a single-source contract in exchange for a future $500,000-a-year job.", 
+            "title": "Retired four-star Navy Admiral Robert P. Burke arrested in bribery scheme - The Washington Post"
+        }, 
+        {
+            "url": "https://www.cnn.com/2024/05/31/africa/south-africa-election-results-intl/index.html", 
+            "description": "South Africa\u2019s ruling African National Congress (ANC) party\u00a0looks set to lose\u00a0its majority for the first time in 30 years\u00a0with results from 90%\u00a0of polling stations.", 
+            "title": "Nelson Mandela\u2019s party has been dealt a seismic election blow. Where does it leave South Africa? - CNN"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/31/g-s1-2335/marian-robinson-dead", 
+            "description": "Robinson was a widow and lifelong Chicago resident when she moved to the White House in 2009 to help care for granddaughters Malia and Sasha.", 
+            "title": "Marian Robinson, Michelle Obama's mother, dies at 86 - NPR"
+        }, 
+        {
+            "url": "https://www.theverge.com/2024/5/31/24169091/netflix-mike-tyson-jake-paul-boxing-rescheduled", 
+            "description": "The officially sanctioned boxing match between former boxing champ Mike Tyson and former YouTuber Jake Paul is on hold, Netflix says a new date will be announced soon.", 
+            "title": "Netflix's Mike Tyson vs. Jake Paul fight is postponed - The Verge"
+        }, 
+        {
+            "url": "https://gizmodo.com/boeing-first-crewed-starliner-launch-iss-nasa-tense-1851512733", 
+            "description": "Starliner's latest delay was due to a helium leak, which the company decided not to repair.", 
+            "title": "Watch Live as Boeing Attempts a Tense First Crewed Launch to the ISS - Gizmodo"
+        }, 
+        {
+            "url": "https://www.bbc.com/news/articles/cw8860gn1nwo", 
+            "description": "It would begin with a six-week ceasefire and the withdrawal of IDF forces from populated areas.", 
+            "title": "Israel-Gaza war: Biden unveils Israeli proposal to end conflict - BBC.com"
+        }, 
+        {
             "url": "https://www.nbcnews.com/news/crime-courts/michelle-troconis-sentenced-jennifer-dulos-murder-rcna154868", 
             "description": "Michelle Troconis, the Connecticut woman convicted of helping her boyfriend murder his estranged wife in 2019, was sentenced to 14 1/2 years in prison Friday following an emotional, hours-long hearing.", 
             "title": "Michelle Troconis sentenced to more than 14 years for helping boyfriend murder his wife - NBC News"
         }, 
         {
-            "url": "https://bleacherreport.com/articles/10123206-mike-tyson-vs-jake-paul-boxing-fight-postponed-after-icons-medical-emergency", 
-            "description": "The Jake Paul vs. Mike Tyson boxing match has been postponed after Tyson's recent medical emergency. Most Valuable Promotions, which is Paul's boxing\u2026", 
-            "title": "Mike Tyson vs. Jake Paul Boxing Fight Postponed After Icon's Medical Emergency - Bleacher Report"
+            "url": "https://www.bbc.com/news/articles/c6ppv06e3n8o", 
+            "description": "Their data is being sold online by the same gang who this week claimed to have hacked Ticketmaster.", 
+            "title": "All Santander staff and millions of customers have data hacked - BBC.com"
         }, 
         {
-            "url": "https://www.youtube.com/watch?v=99R0wnF0RK8", 
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/captain-america-brave-new-world-reshoots-1235912919/", 
+            "description": "Giancarlo Esposito joins the cast for part of a 22-day shoot as a villainous character.", 
+            "title": "Captain America: Brave New World Reshoots to Last 22 Days - Hollywood Reporter"
+        }, 
+        {
+            "url": "https://sports.yahoo.com/gable-steveson-olympic-gold-medal-winner-and-ncaa-champion-wrestler-signs-with-bills-191631398.html", 
             "description": null, 
-            "title": "UFC 302: Ceremonial Weigh-In - UFC"
+            "title": "Gable Steveson, Olympic gold medal winner and NCAA champion wrestler, signs with Bills - Yahoo Sports"
         }, 
         {
-            "url": "https://www.reuters.com/world/biden-speak-middle-east-friday-white-house-says-2024-05-31/", 
+            "url": "https://www.politico.com/news/2024/05/31/biden-ukraine-kyiv-zelenskyy-00161082", 
             "description": null, 
-            "title": "Biden presents new Israel ceasefire plan, calls on Hamas to accept - Reuters"
+            "title": "How Biden got to a 'yes' on letting Ukraine hit inside Russia - POLITICO"
         }, 
         {
-            "url": "https://apnews.com/article/airman-shot-florida-deputy-roger-fortson-c616444086b39d20a80f35ba86ec531b", 
-            "description": "A Florida sheriff on Friday fired a deputy who fatally shot a Black airman at his home while holding a handgun pointed to the ground, saying the deputy\u2019s life was never in danger and he should not have fired his weapon. The Okaloosa County Sheriff on Friday f\u2026", 
-            "title": "Florida deputy who fatally shot Airman Roger Fortson fired - The Associated Press"
+            "url": "https://www.buzzfeed.com/mychalthompson/angelina-jolie-brad-pitt-shiloh-last-name-change", 
+            "description": "Amid the ongoing legal battles of their parents, one of six children has taken legal steps to change her name.", 
+            "title": "Angelina Jolie And Brad Pitt's Daughter Officially Filed To Drop Dad's Last Name - BuzzFeed"
         }, 
         {
             "url": "https://www.cnn.com/2024/05/31/us/chad-daybell-sentencing-death-penalty-decision/index.html", 
@@ -31,24 +66,24 @@
             "title": "Idaho jury begins deliberations in sentencing of Chad Daybell, who faces possible death penalty for 3 murders - CNN"
         }, 
         {
-            "url": "https://families.google.com/service-restricted", 
-            "description": null, 
-            "title": "Chobani Yogurt Founder Buys Anchor Brewing Company - The New York Times"
-        }, 
-        {
             "url": "https://thehill.com/policy/healthcare/4697185-women-mediterranean-diet-live-longer/", 
             "description": "Women who are on a Mediterranean diet live significantly longer, according to a new study. The Mediterranean diet often consists of higher consumption of food and ingredients like olive oil, fruits, fish, nuts and vegetables and lower consumption of red meat \u2026", 
             "title": "Women on Mediterranean diet live significantly longer: Study - The Hill"
         }, 
         {
-            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BpY2t0b24tZGVhZC1jYW5hZGEtc2VyaWFsLWtpbGxlci1waWctZmFybS1mMmYyYzM1NDVhYzBiZWEyM2EzOGNjNjkwY2YxYzc5NtIBAA?oc=5", 
-            "description": null, 
+            "url": "https://apnews.com/article/pickton-dead-canada-serial-killer-pig-farm-f2f2c3545ac0bea23a38cc690cf1c796", 
+            "description": "Canadian serial killer Robert Pickton, who took female victims to his pig farm during a crime spree near Vancouver in the late 1990s and early 2000s, has died after being assaulted in prison. He was 74. The Correctional Service of Canada said in statement tha\u2026", 
             "title": "Canadian serial killer Robert Pickton, who brought victims to pig farm, is dead after prison assault - The Associated Press"
         }, 
         {
-            "url": "https://www.espn.com/soccer/story/_/id/40251698/borussia-dortmund-real-madrid-champions-league-favourites", 
-            "description": "Borussia Dortmund have not travelled so far in this season's Champions League to be mere witnesses to Real Madrid lifting the trophy for a record-extending 15th time, coach Edin Terzic vowed.", 
-            "title": "Borussia Dortmund 'don't care' Real Madrid are UCL favourites - ESPN"
+            "url": "https://www.managingmadrid.com/2024/5/31/24159590/what-to-look-out-for-as-real-madrid-face-borussia-dortmund-in-champions-league-final", 
+            "description": "Both teams have arrived in heroic fashion", 
+            "title": "What To Look Out For As Real Madrid Face Borussia Dortmund In Champions League Final - Managing Madrid"
+        }, 
+        {
+            "url": "https://www.npr.org/2024/05/31/nx-s1-4987130/auroras-northern-lights-solar-sun", 
+            "description": "The same solar region that brought an outburst of night-time beauty in early May is coming back around. But things have changed, a space weather expert tells NPR.", 
+            "title": "Are auroras coming back? - NPR"
         }, 
         {
             "url": "https://apnews.com/article/trump-2024-campaign-trial-4629840240cb308c5eae335532ad17ed", 
@@ -61,45 +96,10 @@
             "title": "US leaders invite Israel's Netanyahu to deliver an address to Congress - The Associated Press"
         }, 
         {
-            "url": "https://www.cbsnews.com/news/boeings-starliner-ready-launch-space-station-first-flight-crew-on-board/", 
-            "description": "If the first piloted test flight goes well, NASA hopes to certify the Starliner for regularly scheduled service starting next year.", 
-            "title": "Boeing's Starliner ready for Saturday launch to space station, first flight with crew on board - CBS News"
-        }, 
-        {
-            "url": "https://variety.com/2024/music/news/jennifer-lopez-cancels-tour-1236021391/", 
-            "description": "Jennifer Lopez\u00a0has canceled her troubled summer tour to spend more time with her family and is 'heartsick' over the decision, she said Friday.", 
-            "title": "Jennifer Lopez Cancels Summer Tour - Variety"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/bird-flu-vaccine-doses-this-summer-cases/", 
-            "description": "The U.S. has ordered 4.8 million doses of vaccine to target bird flu in case the outbreak spreads in people.", 
-            "title": "U.S. to make millions of bird flu vaccine doses this summer, as cases grow - CBS News"
-        }, 
-        {
-            "url": "https://wgntv.com/news/friday-night-solar-storm-northern-lights-chicago-wisconsin-michigan-iowa/", 
-            "description": "The chance to view the northern lights returns for several U.S. states this weekend as a solar storm blasts magnetic material toward Earth.", 
-            "title": "Chance to see northern lights returns - WGN TV Chicago"
-        }, 
-        {
-            "url": "http://www.thecut.com/article/shiloh-jolie-pitt-wants-a-name-change.html", 
-            "description": "Angelina Jolie and Brad Pitt\u2019s daughter reportedly asked to legally drop her father\u2019s last name on her 18th birthday, amid her parents\u2019 contentious divorce.", 
-            "title": "Shiloh Jolie-Pitt Wants a Name Change - The Cut"
-        }, 
-        {
-            "url": "https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html", 
-            "description": "Gap profits were 9 times higher and Foot Locker beat estimates \u2014 unlikely winners in Q1 retail earnings. But, this says more about the companies than consumers.", 
-            "title": "It was a strong week for retail earnings. That doesn\u2019t spell a consumer comeback - CNBC"
-        }, 
-        {
-            "url": "https://www.cbsnews.com/news/yemen-houthi-threat-red-sea-us-uk-strike-5000-pound-bunker-buster-bomb/", 
-            "description": "The Iran-backed Houthis threaten to escalate attacks on Red Sea shipping after strikes by the U.S. and U.K. that the rebels say killed 16 people.", 
-            "title": "Yemen's Houthis threaten escalation after American strike using 5,000-pound bunker-buster bomb - CBS News"
-        }, 
-        {
-            "url": "https://www.cnn.com/2024/05/31/science/planet-parade-six-planetary-alignment-scn/index.html", 
-            "description": "A \u201cplanet parade\u201d of six planets will soon appear to align in the sky near dawn, but only three will be visible to the naked eye. Here\u2019s how to view the event.", 
-            "title": "\u2018Planetary parade\u2019 will see six planets line up in the morning sky - CNN"
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy90ZXhhcy1zdXByZW1lLWNvdXJ0LXJlamVjdHMtY2hhbGxlbmdlLWFib3J0aW9uLWJhbi1tZWRpY2FsLWV4Y2VwdGlvbnMtcmNuYTE1NDg5NtIBAA?oc=5", 
+            "description": null, 
+            "title": "Texas Supreme Court rejects challenge to state's abortion ban over exceptions for pregnancy complications - NBC News"
         }
     ], 
-    "last_updated": "2024-06-02 03:17:30"
+    "last_updated": "2024-06-02 03:47:33"
 }
