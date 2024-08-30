@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-08-30 23:11:32
+**Last Updated:** 2024-08-30 23:12:34
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
+### [Lens éliminé de Ligue Conference : Le temps des regrets pour les Sang et Or - Eurosport FR](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZlRVNWVXYUd3bXBxWkRoakgxSHM4QjFsM0QtX1lNazF6ZHJ1UG00MlB2Y2FLWTFfNzNnTFZtaW4yVzNDeWlWc2JQTFZMVWpRLVVuUlkxM0VlcU9hQVotZlk3RzdUOVgyQ2FVV0x3TWFWTXVPb3NiQThrbFFxVGNiR0x0aW5LVkJmX3g4NWN3eFRMQXJNdUZWTXFfTEU1NWNjcG1lTUs1ZnRQTDFhYVluSFUyaUJoVFg2UG84ZjRQWkdlMVBpajFsYWF1X1EtWDREcHJnYUl2TjJKbXM2bFF2N1h1YV9zVE5iRG1aeDFLRzBLbDlxeFpsSg?oc=5)
+None
+
 ### [Foot : Le Real Madrid bute contre Las Palmas, Mbappé toujours muet en Liga - L'Équipe](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm01OFNndlBQVHBsaEE2WVhpa0NzNXVhcHl3S0lNNTEtTzRrQmVidjBwQjdwTmlidk1hVTJFQ0swMEI4Yld6ZzlnS0tPVlhoWjJnZ3lqeXFJU2ZHcHZhSGpNRlllVjIwWGNrV0xaZ3N1YWFpYnBBVU9WNUIyMG5McVl5VWRFWE04YkduVXpEc0tMNTI4ZXhGcmxMVndoZDdqbGh2R3FvNXVVNHRPcXIwOGpNY1BNcEFD?oc=5)
 None
 
-### [Pro D2 – Solide devant, Brive a fait craquer Oyonnax en ouverture du championnat - Rugbyrama](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjVGeVBjM0lyekZtUGpFM0tOSHM5RndQcnFIdlJkN21wcDVsMnBleGRiZ2tSSUM5a3ZydzhKVWFWNTJUWGhoaVJnZU9tZG1sSXA1Y01UU0duNzR2cUo1bzRiWEpYS0FCWXBLRzcycXl0aHFFVGJDd2k4WlE3QTdKX2s0MTRPdmczWWIxNEJ1RVlNT0ZjNkdJSDJFRGltX0ZkY2lhbW9FVXEzZWlKeU1pN21STl9tWmZ3TDZ1V1R0RmY2bmlk?oc=5)
+### [Mathilde Panot saisit le Conseil constitutionnel du cas des ministres démissionnaires - Le HuffPost](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZzVTTjJVRnVsYlFsMUJ6NEZpOWVMaEFCeVZDamlvT1d6OXNVYmVKZXc0OXlObjlobWpBdnJQM2FNdTFzY1NVdmp5YmM0cWVRbEk0dUJ6eFBIaG1uN0JlZTlRUURTd1Z2ZmZIT2ZOOWlBbDhpeTI1RHluYmhLeEtja0t3dE92ZEM2eThaSmVFMTBOcGdod2czeHlfWnR3VnNidk03MHJmNllrYXJ3cDU3Tjg5RTNBRXpNbFhVem4tZnZWVHdxTG9PWkU0UDg5T21DdGdINklkLVM5MVpTamg3WUNVR3JWUWdkTTRFOVZR?oc=5)
 None
 
-### [Ligue Europa Conférence : renversé par le Panathinaikos, le RC Lens ne jouera pas l’Europe cette saison ! - Foot Mercato](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRFY1U01aUUhFdHJwQ2xSaUJUcTZoYVNWQ05xUXZvYWVIYWJRaDFRdXNwZXREbC1DYnBvMFBFVEY3Q0RFTWN0WEpPTFVqblhybm1xT1FhUGJsZGJiTFh6YXlDNHJKbzRKRjFMcmlrZExVbzNiNi1ibXI1TTVXU2U3MWdTUk5MUGp5TGVJZTlkN0lqblNoendGSmJWMi1JR2hYZFhrTnJsMnlURUJWOVFMT2lUbWpJWnRIQTR1TERNU2lWX1VuaHJYdWxWa2lMbHBsZ3UtR2ZVOVppMko1Um11TA?oc=5)
+### [Un savon contre le mélanome : l’invention d’un ado qui pourrait révolutionner les traitements des cancers de la peau - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxONzBxYU1jQ3BIcTVTRWx6TXNCOFhqR3JEVm9GMzJfNXluX09PbzRieUdTd3RYeHFDQjVKWGkwcEZLbVdKeEkxQUl5N3l3X3J6SEN3NkRWQWM4U2VTb1E2MVZNUzJSZzdKMFU2OGx5clFQZVNWQmljVnpjc041WmdBeGpiZzNrWnNaLVVKZXpqb0NqM1phLURPOEdZbHRPdGV4eEZ4RVdYQjVTNmtMeEpIbGZkMkRid1JQcmplLVdfQkpIWlFxbjlFUVZfdWlSQTBQUldNSXZCOTlEYmdPRlBTVzVfLUJSZUh6TkZvRDcya2tqS0E?oc=5)
 None
 
-### [Rosheim. Un incendie, ponctué d'explosions, maîtrisé sur le site de l'entreprise Baruch et Fisch - DNA - Dernières Nouvelles d'Alsace](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3o1cWtYNWZUU1U1M0RvQzl5djBoSHl0SklHR3lOUzhndjhMallEeEQxaTJxZG9kSlgxeEVDTVNSYV9xUDRTbUE5VmNBVkQtYXcwcEl5NVZBaTNZR1ZqRzhiYzRZMTZzbUk1Uk9kUFVRQTQ4XzNqSFd0S0t6UHo0SUlKWXRoazlrZ09VNVc4d0kxcmdDeFRZOEVRYzByMjhVR3hCQVZGTTFuUDBkOC1yR1JoUV85andjakNxS3hpbWVhcklZdzJDcUJqX3JPQ2l4amZ2ZA?oc=5)
-None
-
-### [Guerre en Ukraine : nouveaux tirs de drones et missiles russes, un avion F-16 s'est écrasé en repoussant une attaque... le point sur la situation - Midi Libre](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMDQtUDFhLWxtQTd5Wm5nZEFPbHhWWWVranNBWG1sU1NYbXI0SVBsS2ZaRlRudmU2dmFiSFQ5bkJERTZEQzNCeWVhM2xFUTUwcUJJdENRMDhPdEYwSnBLLVg0clk5eUYxNVp6VS0wVjExeTRpTUtwLTFUYlVoRFRyOFAxM1ZEd0FpQmlJc1JBU09zaWNjRHk3cXFzV2Mxei1xcFV5YWVmS080SG9NdmRERkFEbERHX3FqY1RpOFJtUU8wMlpEUkw1ZXo1bndQSm5TdDliTEdMX2lXMjIydU9UOUg2dmltNFB4NDBDWXk0M1gxWXVuZW9lbzZacmUzbmQ3R24weHA2VWRTUVlSdkptdkRUNW9TQQ?oc=5)
+### [Emmanuel Macron «assume totalement» l’octroi de la nationalité française à Pavel Dourov, le patron de Telegram - Libération](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbG95Yzk0V0V5MW01by0yWWx0QVNUdHI1YUMtd2lGQjFURFNZTDRJMDNldFl0bldZczBTOU1fLWg0OW5IQXlQd1d2LURxRVN0YlRKcWtxQjhqRUl5Y3o4NXZuQWUwTElPTG4tNnhHRldLdUJ0a1hPdXlhdWNqQUJGelVtM3NuRno1bEp6R2lsSW1QekFnSWxmS1NXQlowQzR6TWYxUFhUbDEyQmN3Q2toOGx3MnEwM1R1dmlSUHJmZEd5TXRST09vdGNtLU1lOTBxWWtnTHN6WGNFdzRCSVN6RnBZMnhVUDBuX2lwdHczQWkxdGExdk1mNlhDOWduazB3d25NZnpVR2diZlU?oc=5)
 None
 
 ---
