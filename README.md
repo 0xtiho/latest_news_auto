@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-08-30 21:12:39
+**Last Updated:** 2024-08-30 21:13:41
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [Ligue des champions : Que pensez-vous du tirage au sort pour les clubs français ? - L'Équipe](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnNrUTg1Q29rMFJ1dkQ1aGVMdVZzVlhrTGhJYTRVQnRadFdHbHlfOGVRamlYeHZyUlVSQVp3SzMtdGpxa2xzbE16XzRwVTFCeENTMHp0NXRZc0ExdmRRbTRmRHY1UnF1UTVaZHZNQWJGRWdlNUI4OU5XQnVFbzFNTEswdWNUMjdLTHgxdHAzR0hiNGtGek55WVlfb01JYlhfdi1xOElvN1F3TmhSYnVERnZYSmxxT3g0YW5RcXNfdTZ6TkFhTjF2aTY5X2ticlU?oc=5)
+### [Foot : Le Real Madrid bute contre Las Palmas, Mbappé toujours muet en Liga - L'Équipe](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm01OFNndlBQVHBsaEE2WVhpa0NzNXVhcHl3S0lNNTEtTzRrQmVidjBwQjdwTmlidk1hVTJFQ0swMEI4Yld6ZzlnS0tPVlhoWjJnZ3lqeXFJU2ZHcHZhSGpNRlllVjIwWGNrV0xaZ3N1YWFpYnBBVU9WNUIyMG5McVl5VWRFWE04YkduVXpEc0tMNTI4ZXhGcmxMVndoZDdqbGh2R3FvNXVVNHRPcXIwOGpNY1BNcEFD?oc=5)
 None
 
-### [Affaire Pavel Durov : le PDG de Telegram avait demandé à faire prévenir Xavier Niel de sa garde à vue - Le Monde](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa2UzQnRmcW11SnVHVm9MZU42d3M3a1YxSE03RkxEUnUzZTd2am9FRzllaGZkZEplTF8wd0RoQk5UMkdnUDl4MDZNUnNsRVBWNlJldjA2N1I2MkZXU2wtYnBIVGRHTnVuWk5VUlVibkhHOENhdHNGUjBNRTl2VUdUSUpOdURoNWNzZEVZM2hibWxDYmhVWXA5alBDZjgwNkJxMFE4aFVRX0lueEVGRUp6VWxzNFFVNW9lam9lQkdIVHJFeG12Q2VtOWlVbVVsbzI4V2tMMnc2ZlVUbXlWSzR4RFBlNmZsZ2JPYjhDWjBJTG9xdnJIbEROeFdXZC1Sdw?oc=5)
+### [Pro D2 – Solide devant, Brive a fait craquer Oyonnax en ouverture du championnat - Rugbyrama](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjVGeVBjM0lyekZtUGpFM0tOSHM5RndQcnFIdlJkN21wcDVsMnBleGRiZ2tSSUM5a3ZydzhKVWFWNTJUWGhoaVJnZU9tZG1sSXA1Y01UU0duNzR2cUo1bzRiWEpYS0FCWXBLRzcycXl0aHFFVGJDd2k4WlE3QTdKX2s0MTRPdmczWWIxNEJ1RVlNT0ZjNkdJSDJFRGltX0ZkY2lhbW9FVXEzZWlKeU1pN21STl9tWmZ3TDZ1V1R0RmY2bmlk?oc=5)
 None
 
-### [Attentat de Solingen : L’Allemagne resserre la vis sur le port d’armes et l’immigration et annonce supprimer les aides aux demandeurs d’asile - L'Indépendant](https://news.google.com/rss/articles/CBMilAJBVV95cUxPYXVCem9aWnJrSlVFeGJldjNsMVo4NkEzWGQtQ3dfLWhOd0Y5cEJfZGlWUmZxcUFUN21fRTFGU2tSN2hSa0FOS3VEOUJKV3N6blhwSmpaNS13MThsMkRla01nVEZxeko5bVUzajBjNW92UEctZnBJckZxWXViR090ek9WQ2xtdGhZQ3UyV25nZ0JZYU92OVJEQnF4M1VtM2ZoaFIteGNTc1R5cjUtOHJRZW1tSjZ6LXFFcmw3RXlGeWtEcjZsdnhMVTdWTFZNdlI1SnM4QTVvcEhmVHhZdWd1c21ZR3hsc0huYzVxWjUxZjJtbklGbm5ucUU0a2Z6djF5VmtpRkRqdHQtLUtpZUxpMEVyYXU?oc=5)
+### [Ligue Europa Conférence : renversé par le Panathinaikos, le RC Lens ne jouera pas l’Europe cette saison ! - Foot Mercato](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRFY1U01aUUhFdHJwQ2xSaUJUcTZoYVNWQ05xUXZvYWVIYWJRaDFRdXNwZXREbC1DYnBvMFBFVEY3Q0RFTWN0WEpPTFVqblhybm1xT1FhUGJsZGJiTFh6YXlDNHJKbzRKRjFMcmlrZExVbzNiNi1ibXI1TTVXU2U3MWdTUk5MUGp5TGVJZTlkN0lqblNoendGSmJWMi1JR2hYZFhrTnJsMnlURUJWOVFMT2lUbWpJWnRIQTR1TERNU2lWX1VuaHJYdWxWa2lMbHBsZ3UtR2ZVOVppMko1Um11TA?oc=5)
 None
 
-### [En direct, guerre en Ukraine : un avion F-16, livré récemment par les alliés de Kiev, s’est écrasé en repoussant une attaque de missiles russes - Le Monde](https://news.google.com/rss/articles/CBMiswJBVV95cUxQV3R3enpTMzRuanNvMjZvV2ZqdW9Kdm9qdjRwZE1jdFF2RjVabFFpOXRJNnFRaWZxSVozMEdBTGJCcjdMT2Q4ZWJVTjM3RkhKVXcxb0JEazdESkY2eVljc2t3M0VFNjhnTDUxYW1mT1FVSGVXak5JZlF5ZzBOTmVwbkJzN2ItYm9lMjVUWEVZVUFrRVlHc2F0aUQzeFdIc0JDZlJCRk5TaHFqZzgzOWNoLS1iR1pYc21IbmJDRzRTQURfWVVwOXh0LW80M3VxWmJ4Nll2Q3pkalpVM1BzQU1xUWNPZTQwSFpJRFozSUxLRk1wTkMwNEttLU5QcEw1Q3Rpb1VJTWRmLW85Wk8xeTB4YmdSY3BqMXhZeDNjZWxrMy1Idk5QTHE2SkxiajUxZl9FNi1J?oc=5)
+### [Rosheim. Un incendie, ponctué d'explosions, maîtrisé sur le site de l'entreprise Baruch et Fisch - DNA - Dernières Nouvelles d'Alsace](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3o1cWtYNWZUU1U1M0RvQzl5djBoSHl0SklHR3lOUzhndjhMallEeEQxaTJxZG9kSlgxeEVDTVNSYV9xUDRTbUE5VmNBVkQtYXcwcEl5NVZBaTNZR1ZqRzhiYzRZMTZzbUk1Uk9kUFVRQTQ4XzNqSFd0S0t6UHo0SUlKWXRoazlrZ09VNVc4d0kxcmdDeFRZOEVRYzByMjhVR3hCQVZGTTFuUDBkOC1yR1JoUV85andjakNxS3hpbWVhcklZdzJDcUJqX3JPQ2l4amZ2ZA?oc=5)
 None
 
-### [Matignon: plutôt bienveillante, la droite fixe des lignes rouges à la nomination de Bernard Cazeneuve - Le Figaro](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnNCYU5jMFFreHlmYW5IWFRMNS1Uem9venFUSF9ORTM1SGthYThzWk95RFJISnYxMVpqNVhqZ1dMUDhrUVNJNXMyRkJNbW1nSFdIMjZSQmJSYXZzUHFQdVN2b2swZ3R0dFNXVGRxR3ZCM2w3Q2hXSFk1X3FwZDRBOGcxZjNwZGxvWFRWTEtyeVh3bTBkVEtqdUFqUlNya2R5NlZRaFVIcUZ0RWJyYmJRVU01NDNfRFl4bWRCYXBJZ2JIVXNFMUh6dUEwdWNQMGhZN1VjQTRzU0V0QQ?oc=5)
+### [Guerre en Ukraine : nouveaux tirs de drones et missiles russes, un avion F-16 s'est écrasé en repoussant une attaque... le point sur la situation - Midi Libre](https://news.google.com/rss/articles/CBMilgJBVV95cUxQMDQtUDFhLWxtQTd5Wm5nZEFPbHhWWWVranNBWG1sU1NYbXI0SVBsS2ZaRlRudmU2dmFiSFQ5bkJERTZEQzNCeWVhM2xFUTUwcUJJdENRMDhPdEYwSnBLLVg0clk5eUYxNVp6VS0wVjExeTRpTUtwLTFUYlVoRFRyOFAxM1ZEd0FpQmlJc1JBU09zaWNjRHk3cXFzV2Mxei1xcFV5YWVmS080SG9NdmRERkFEbERHX3FqY1RpOFJtUU8wMlpEUkw1ZXo1bndQSm5TdDliTEdMX2lXMjIydU9UOUg2dmltNFB4NDBDWXk0M1gxWXVuZW9lbzZacmUzbmQ3R24weHA2VWRTUVlSdkptdkRUNW9TQQ?oc=5)
 None
 
 ---
