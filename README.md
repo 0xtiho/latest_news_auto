@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-08-30 19:08:40
+**Last Updated:** 2024-08-30 19:09:42
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [En direct, Jeux paralympiques 2024 : le nageur Ugo Didier décroche le premier titre des Bleus, la cycliste Marie Patouillet en argent - Le Monde](https://news.google.com/rss/articles/CBMirAJBVV95cUxNZFpmWHRuclpaMjZZekZCNUJpb0RLOXl4cVdseUp1QlhIWHY4MEVrOFZORVJ3a0NpeGEwWFBtNWhXZ3l0UTVkR01HWmxNdlhiNGNGNWpreGw3aU4zTGllYm5IOVNKYUcwSUM4M3BDX2pvejhQaVNDeURvNEFFTFFCYWd0Vmp0aHFlUkRwYXNhM1g5TjVXUXMyZ054M3pCdU1tX29vVldrNEcwTFNOMTBhNzZ6Z3ZBSXNYanN4bm5HV1c4Zm12VmxUYzRFeXB4VFcyTHJBd0tPYU1zaFBrc1UtUGZaMVRnTV85aDcxSVM1TnVfWXdwQXJFRjk4U2RaM1BOM2RUbzdCaHV0QzhlRURJc3VsSG54R2lZUVNDS2RpbEdDbTBsMjBMSHdpMFo?oc=5)
+### [Ligue des champions : Que pensez-vous du tirage au sort pour les clubs français ? - L'Équipe](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnNrUTg1Q29rMFJ1dkQ1aGVMdVZzVlhrTGhJYTRVQnRadFdHbHlfOGVRamlYeHZyUlVSQVp3SzMtdGpxa2xzbE16XzRwVTFCeENTMHp0NXRZc0ExdmRRbTRmRHY1UnF1UTVaZHZNQWJGRWdlNUI4OU5XQnVFbzFNTEswdWNUMjdLTHgxdHAzR0hiNGtGek55WVlfb01JYlhfdi1xOElvN1F3TmhSYnVERnZYSmxxT3g0YW5RcXNfdTZ6TkFhTjF2aTY5X2ticlU?oc=5)
 None
 
-### ["Je n'en peux plus..." : Pascal Praud s'en prend aux commentateurs de la cérémonie d'ouverture des Jeux paralympiques (VIDEO) - Purepeople](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc01RcTBONEhTV0JUaXMteTJjbWFfbDBsVThEbzJTWEtNR0NuZXk0cXJaNVFfaEtkS3c4bjJELWJxUUhPN3JtZWl2YXJLVXcwcmRJRGpHNG5DRURvNE0wNXAtVUMtd2dVX0RQTGxxSXpKQ09IX1FpNEhWcnNrUDVFRXdvSm1uSHZWOGdaRVFaUXVkS2JlNkFFUkJHZUxmLTlmX0hiYURzYXNrV1pBRlVJb282SG40eHR6TV9fU1FBV0ZXZWZzWHpFU2dvX3ZSZmdPS2dwLUxPYjZqeHRnR1NRWVJDUDhYWkVJb0NrX1FldWpRcG93?oc=5)
+### [Affaire Pavel Durov : le PDG de Telegram avait demandé à faire prévenir Xavier Niel de sa garde à vue - Le Monde](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa2UzQnRmcW11SnVHVm9MZU42d3M3a1YxSE03RkxEUnUzZTd2am9FRzllaGZkZEplTF8wd0RoQk5UMkdnUDl4MDZNUnNsRVBWNlJldjA2N1I2MkZXU2wtYnBIVGRHTnVuWk5VUlVibkhHOENhdHNGUjBNRTl2VUdUSUpOdURoNWNzZEVZM2hibWxDYmhVWXA5alBDZjgwNkJxMFE4aFVRX0lueEVGRUp6VWxzNFFVNW9lam9lQkdIVHJFeG12Q2VtOWlVbVVsbzI4V2tMMnc2ZlVUbXlWSzR4RFBlNmZsZ2JPYjhDWjBJTG9xdnJIbEROeFdXZC1Sdw?oc=5)
 None
 
-### [EdF : Didier Deschamps fait son bilan de l’Euro 2024 - Foot Mercato](https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlk2b1FhenpscjYzWENCV3ZVNmpYS3JSTXFVSi1GQzN3ejNjTXVTYzJFUkxhcGFuTnBLbHYzalpzbVIwbEsyOTlfRm1ISWQ3akQ0bVV6YmlWVlM4THg1Zk9UeTZGZlFTWEJ2bU9Zcl83X01uWkhadk9XLUxVYUJuS1JodHlELThFQkFfTVZsVnZVTEpfWDFyeEhvS01ZUnM?oc=5)
+### [Attentat de Solingen : L’Allemagne resserre la vis sur le port d’armes et l’immigration et annonce supprimer les aides aux demandeurs d’asile - L'Indépendant](https://news.google.com/rss/articles/CBMilAJBVV95cUxPYXVCem9aWnJrSlVFeGJldjNsMVo4NkEzWGQtQ3dfLWhOd0Y5cEJfZGlWUmZxcUFUN21fRTFGU2tSN2hSa0FOS3VEOUJKV3N6blhwSmpaNS13MThsMkRla01nVEZxeko5bVUzajBjNW92UEctZnBJckZxWXViR090ek9WQ2xtdGhZQ3UyV25nZ0JZYU92OVJEQnF4M1VtM2ZoaFIteGNTc1R5cjUtOHJRZW1tSjZ6LXFFcmw3RXlGeWtEcjZsdnhMVTdWTFZNdlI1SnM4QTVvcEhmVHhZdWd1c21ZR3hsc0huYzVxWjUxZjJtbklGbm5ucUU0a2Z6djF5VmtpRkRqdHQtLUtpZUxpMEVyYXU?oc=5)
 None
 
-### [DIRECT. Ligue des champions : suivez le tirage au sort de la première phase, avec le PSG, Monaco, Brest et Lille - Le Parisien](https://news.google.com/rss/articles/CBMitAJBVV95cUxNYUQ2ZF9vckpwbm1DQk9KQWtTVUxmRDh0djM3Zk1CdEo0d041ajNaQjZKXzdGUWNxOWR2UWs3LVVWbnNiY0tHWm9pa3hPMlp2ZTlqVlZ6MXo2NUFDanlWdjNSMUxocW41S2ZkWU9Ldm5qRjFYU0lfMkNnVENJNVpIU2pILS05NUZCZ3NTQVV5WFRUOVVxZ2hmbV9EWDlReklhNzZHUXZINEs1LUdkb3JUbUMweXBXSVJHazUxSEhWbGdJQVZfRHVGbGR0YzhUY3N1TFh4ZFZialJqVmQzTzRmV2I0dDdsd2U4THRsd21Kc09mQVVlRUxVTktQZUFJclBnQVI5eG5paGZIcVh4NUd5S3BKejRwX2tOX3Z1cllwZDlpZ29aMnJwNGRWS2g0R1gzSUJERw?oc=5)
+### [En direct, guerre en Ukraine : un avion F-16, livré récemment par les alliés de Kiev, s’est écrasé en repoussant une attaque de missiles russes - Le Monde](https://news.google.com/rss/articles/CBMiswJBVV95cUxQV3R3enpTMzRuanNvMjZvV2ZqdW9Kdm9qdjRwZE1jdFF2RjVabFFpOXRJNnFRaWZxSVozMEdBTGJCcjdMT2Q4ZWJVTjM3RkhKVXcxb0JEazdESkY2eVljc2t3M0VFNjhnTDUxYW1mT1FVSGVXak5JZlF5ZzBOTmVwbkJzN2ItYm9lMjVUWEVZVUFrRVlHc2F0aUQzeFdIc0JDZlJCRk5TaHFqZzgzOWNoLS1iR1pYc21IbmJDRzRTQURfWVVwOXh0LW80M3VxWmJ4Nll2Q3pkalpVM1BzQU1xUWNPZTQwSFpJRFozSUxLRk1wTkMwNEttLU5QcEw1Q3Rpb1VJTWRmLW85Wk8xeTB4YmdSY3BqMXhZeDNjZWxrMy1Idk5QTHE2SkxiajUxZl9FNi1J?oc=5)
 None
 
-### [Orages : voici les 52 départements en vigilance jaune ce vendredi - CNEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW9iN0VuTGJUSlB1LVRKaWkyalFfZzhfQXo2VWQ4V0hxeTY0aGdPZEhxZ2N6NGRGQWJhd2tqdnZmeVFmY2M1aGtWY3hjWGRNUk1ySFdlT2tsbXMwLWJ2azFfYjlQT1RhOXpSVE0wV0NIa0RNU1ROYWJ2MzN1WkgzeWxNVk1nTkU1bVJoZ3dGSWI1Z3ZxWkRjQUM0QTNybEZlbXd2dUZnUlNMTG15NnZB0gG0AUFVX3lxTE8wWHBYNkRYUFNiNEd2UHJpY1REdGFrc2lkTFppNklqRTN1cTNHYmFuYzBydGt6M3NZWjR5Q2RCMkZsVkFiTEFHVm5RZjJrYzBRdGJHNTQxU0IzcXpuZUhoUXozUWxldkF2ODBYU0JaVzMycV9EOTBRWTNuZzJPZVJKQWF0QTNiWFRmY0d3WmI2cG05bk5WakFpOXFhSEtGTGhlMUMyQ2E3Nk9pOVNjQW5tTmFHNQ?oc=5)
+### [Matignon: plutôt bienveillante, la droite fixe des lignes rouges à la nomination de Bernard Cazeneuve - Le Figaro](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnNCYU5jMFFreHlmYW5IWFRMNS1Uem9venFUSF9ORTM1SGthYThzWk95RFJISnYxMVpqNVhqZ1dMUDhrUVNJNXMyRkJNbW1nSFdIMjZSQmJSYXZzUHFQdVN2b2swZ3R0dFNXVGRxR3ZCM2w3Q2hXSFk1X3FwZDRBOGcxZjNwZGxvWFRWTEtyeVh3bTBkVEtqdUFqUlNya2R5NlZRaFVIcUZ0RWJyYmJRVU01NDNfRFl4bWRCYXBJZ2JIVXNFMUh6dUEwdWNQMGhZN1VjQTRzU0V0QQ?oc=5)
 None
 
 ---
