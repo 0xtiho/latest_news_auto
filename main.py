@@ -6,7 +6,7 @@ NEWS_API_ENDPOINT = "https://newsapi.org/v2/top-headlines"
 API_KEY = "2f1b877218e84eeaa5c47eef5680e77c"
 
 parameters = {
-    "country": "us",
+    "country": "fr",
     "apiKey": API_KEY
 }
 
