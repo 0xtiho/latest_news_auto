@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-08-31 01:51:48
+**Last Updated:** 2024-08-31 17:16:21
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### ["Si seulement", nouvelle chanson de Kendji Girac depuis sa blessure par balle - Actu Orange](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemhVekVpUG1zQkRjamR4RFRMZ1FYNEdhcFFranJmOVZVMTVhWmNmTnNqLUVSbVE3Z3pvNlFmb0YxbWRhMGIyRkxLV3RqcE01Z0JQMWlsazJUNUp6YnoxSkJxbUNETDNuSXdYUy1QTThEMjcwU2NjUEs2Y0RVWG9hckNHM19IWG9YUndBQU1hbHdRajEta2JKQmprNDl3VzRUNGV4X1ZCTW5UQmZSOE9hZTZEVEVydVNkQXd0RGd2TVR1VGg2UlFISzJXZXgyQm1RNUdaNHdhaklwQQ?oc=5)
+### [En direct, guerre en Ukraine : Volodymyr Zelensky limoge le commandant de l’armée de l’air après le crash du F-16 - Le Monde](https://news.google.com/rss/articles/CBMijgJBVV95cUxPLUxud2RvWVVCcklCNUk4WFR3SWprM2dOWFU2bndGaFZ4cG9jaURsYVpvNS00OHVjbzF2bXhlTzJaVjZPemFwZzJXa3diRWozaXVadW81VHNTZ19ESktUVFdzVWtCODNRbEZpem9LcWJRUlBzRmhZbWZKX043QkItcVd0WUFCQi02Q3FBRk4yNWE3SjhZRzNxOEQ5NnV6YmUyWWpwLVNkV0p3dndxRVYxbkt2VDlOTEVkWVNTMlhYRWNhNmkzMXgtb2JsRTdWbzF3TElTM3ZEVWtFQy1xMC1rdkc3a1NkcW1LUi1TejFhZFJZVzd4Q1hsLXNwTUFTazVhY25VZWt5dGJCM2Z5TXc?oc=5)
 None
 
-### [Présidentielle américaine : l’interview très attendue de Kamala Harris sur CNN - Le Monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOWdValdUV0ZzT3V5VzdDZUN1WWdLZzVuSUE2Znl0cXA5OHVMNzRfV1c1TG1GSWVCUEdYMDBWMW5kZEJqaW5DN3FpSEtUT1Nud3JqRENuZVA1Y2NiR2FueFUzWDJ3aDJ1Y00wY1hjWl8tTGFaQzgtZU9yVmViQUdaRS04VzZPTzB1aGFtM0pCUVJLX21QczkzRWlQaWNUZThYbkdNUF9hTWNvVDBMekV2dGhxVWgtdTRSS01QNzhqR3pZZW9zR0tZLV9idW04OEdIclJ0T3NaZDlub1VtaEgwZVNfTEw?oc=5)
+### [Ligue des champions : Un avantage pour Monaco après sa victoire 3-0 à Barcelone ? - Toute l'actualité sportive sur Orange](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZzQzdG9IOElfNS1teTFQRDVVeV93UHowXzBnWXJDbnlFWG1TRG9STG53NGtPYmFxV01fQXM4aFplUXlFeDZmVE5YSVJNdkRZUllDRnBITVhUX1FYTEZqTFBjSG9jc3c0czNSejhIRGFIVHFrM2hGaHJubkhuRGVfNllKUWlNVWVkMThaRzZzUVNFd054VVh1amstRWZKSXU4Y0FJYUpHeVA1UC0ySU5JMGdUOTVsR3FKcGZqdUhnY1pyU21acTdCNEVsUk9ENm55djBEWEI0YjAxRWRSMFZhNlk0MThzYi1wSmVhSmdZVzR3N3BMYy01WtIB9wFBVV95cUxNNjFZb081Q1FIYS15Y3Y2NHRrNW9nZmZuek9rdG9sTkx2ZmwxeUdMSGc0N19kQW1vZVgtR1VGOC1aa29IRWFsX2pJZWkxR0d1aklHcmlQeWxkdkhZRjlfZUpCd3o1LTBRZVRtaUpmUWFhd3ZnWHFic3Y1UEx5b1BucjFPUDRicGpnZ1BZNEtmVUlmaXZTLUNLWmEwQ2h1ZFhFVUhuSW9EOXg2d1hPMDBiaEJYT3JGTmk1dXBTUVRCWTdwQlEyOFJiVnV1RlBVYTUtTC04N2JSV0hlUHFWZzhodk9XSlUzMjdTVlhpWjBzSVBLMTFKUkZZ?oc=5)
 None
 
-### [Lens éliminé de Ligue Conference : Le temps des regrets pour les Sang et Or - Eurosport FR](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZlRVNWVXYUd3bXBxWkRoakgxSHM4QjFsM0QtX1lNazF6ZHJ1UG00MlB2Y2FLWTFfNzNnTFZtaW4yVzNDeWlWc2JQTFZMVWpRLVVuUlkxM0VlcU9hQVotZlk3RzdUOVgyQ2FVV0x3TWFWTXVPb3NiQThrbFFxVGNiR0x0aW5LVkJmX3g4NWN3eFRMQXJNdUZWTXFfTEU1NWNjcG1lTUs1ZnRQTDFhYVluSFUyaUJoVFg2UG84ZjRQWkdlMVBpajFsYWF1X1EtWDREcHJnYUl2TjJKbXM2bFF2N1h1YV9zVE5iRG1aeDFLRzBLbDlxeFpsSg?oc=5)
+### [Saxe, Thuringe : l’Allemagne s’attend à une forte poussée de l’extrême droite pour les élections régionales - Le Figaro](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ3cxdW5PbzN4dUpPdzNMYXo3ckI1bFZ5ZUNyQ2JFYnpCeFdhYXVYX3hnZ1FrV1NCNFFkZWxyalVkaXBEcGRUdzhTYWFURjBuQ2VZdkxJREplNElIbjZMcHYtdXZQX3VLeDJ0Mm55blg3MC1jSW1BLUk0b0NELThIYWZ2Z2FpZ1hpY2hHOW1QTjJnYURmVEVrUlVXSXF4MWU3REsxVExuQ19UWFJmSGRMMFFsU1hnWTNEcHlKcHlvRzdIa3d6dUxQRGFGVVM2THNzX09XRFNYX2hCWWVzYl93QWNscURoZw?oc=5)
 None
 
-### [Ligue des champions : bon ou mauvais tirages ? L'After analyse les programmes des clubs français - RMC Sport](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR3JyaHlJcTVtTFNSazYxQWRNdThfTGdRY2JRXzVkenJGZGl6TjBNREZqZG9DZGU4Z3pMZzJRVzJGbUpJajg0N0licHBWQ0xkbTVJV1pRWXVOLWhTRDNzRk0zbHhMZlBFSUo2RUdjTUlPLUVpTk56Q1FUNnhjaHQ1YU5QUWF4R0t3SEJLbjE1aW5QZHprcEhLMEJDMmxjbHFhRG1HLXhHVVlwVnZGU2xIN21Oc3dlZEtLVUNGWnlyNjBmU1B0U0liTGxsc1NKX1JmLXBOaFl5d09INzRQRjIzSXNJemMtaER4ZGZ0amktQ1JzQXVicFZUem5yVXZod9IBgwJBVV95cUxNa1BlOWxmcXhBdmRuZFZDd21JcUlGdjVOWWo1dVVHb04zUzZYNzV1OUhUYVpsQWdxdjF4Z19yd0hfTWNkNU80NlRZVGt5NXVzdzdCQjU2ZmVpRGFCbFBiQjZBanFsN0tpQXVsZXpzQXc0NGczbjRjMk41ZzNjZzJ4VjJLWXpvWGJkUEpfRGVaYTVUTjN0bGRjS3JST29kQmtmQWhGd094R2k5Ylp5NldIUHlGSmV5X042Ym1abzBuRVROTTZyRzNqWHFDQnQweHFjUDN4WjV0S1VPMjUza05vVEoyeklYM0tZbVprWEJRV3FiNnpsRjhIejNSZlA4V0hOcjZv?oc=5)
+### [Fillette de 7 ans renversée au passage piéton : état de santé de la victime, roue arrière à moto, chauffard de 19 ans... ce que l'on sait - Midi Libre](https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ25LdG1yQWtFOW1NZ1RjOUtyYmdfYjZ4VGlZUnlibnhhWDZJTFEzSDdWNy1EVkNYZk5md1VoSV9ROXFZdE1haEtWWm84ay1yR0d6aEFTUkd3eXpuSHU1RHdVc0hqc1ZwVUtseTZsVVljN2RoMG1TSUZadDdfNlg5MlVFa3RBU2pJR3VDU1R0SFJfR3hvcmJqRWc0QXdRWnJDNW9SQjhWY1dObGpCRWpoUGZVOXE4Mld1bV9FQmZXcE5LMjVqUFJfNEw2YTkxNjJvUmdYVWpEdFo4cFBjRVZ5Y1JfY3BoMm11Y2I4bUJ0dm9EcUlNZVQ1S2NMc21palphTHN0UmtVWEtpQQ?oc=5)
 None
 
-### [Foot : Le Real Madrid bute contre Las Palmas, Mbappé toujours muet en Liga - L'Équipe](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm01OFNndlBQVHBsaEE2WVhpa0NzNXVhcHl3S0lNNTEtTzRrQmVidjBwQjdwTmlidk1hVTJFQ0swMEI4Yld6ZzlnS0tPVlhoWjJnZ3lqeXFJU2ZHcHZhSGpNRlllVjIwWGNrV0xaZ3N1YWFpYnBBVU9WNUIyMG5McVl5VWRFWE04YkduVXpEc0tMNTI4ZXhGcmxMVndoZDdqbGh2R3FvNXVVNHRPcXIwOGpNY1BNcEFD?oc=5)
+### [L'Europe en perte de vitesse ; l'inflation en vedette - Boursorama](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVpaTVJ0QWplR2Q1dEJiRlhqSURzb2loRUctRF9kUG5YMW1kUmh0YzBiWjN3cUdMVGljSmFMRG9hT0RQdGJBYzc4ZVRjU1o5V1lDTTYzNk9oem1iMkRkakg4ZzVGNVNDNnRSZ2c0czFWeVhvNjktZ3ZIQzB4NXkwNWZtR2gxbDV3MTVJa2RVZFZNMlF6UmdyYUdaUFVLWTVadkhxY1MtZ0lCWXFEWmdoSEJILVJwMG1HNF91Qi1qTGN1STlYWTFZSg?oc=5)
 None
 
 ---
