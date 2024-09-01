@@ -1,5 +1,5 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-01 03:09:22
+**Last Updated:** 2024-09-01 03:10:24
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
@@ -8,16 +8,16 @@ Welcome to the latest news updates fetched automatically by our bot! Stay inform
 ### [Ligue 1 - 3e journée I Après Lyon-Strasbourg (4-3) : On a retrouvé l'OL de Pierre Sage - Eurosport FR](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcnpKR0ZVYnFHRmFLQ1NjR2FjTkkwR3p2ZkhvZEdzUnhIQkpHd19JVWpDM2dtQzJMdDZqWmVKMWszSWQ5RUJlSXFJcnVCTUZsa0ZJR3oyeE1mWEM4amRWTFQ5b0hvOFVyWDBWM2pGczBCNmtHWkpzNW5hOWhCVkV2RmVNMEpDTEc2NDlMbjhtQ2tkYjkyWkhzbVY2ZmNEV1diRUprTkxsRHR6c1lpRVpaSW50ZUlDZ3l0SkFwRFN6eFBNbWpKTlVxTkNlRVpKOVhYaDBaVUowTmZhZV9UR0lFT2EtcUl0MHNyNjVvdw?oc=5)
 None
 
-### [Kamala Harris casse un œuf d’une seule main, les réseaux sociaux adorent - 20 Minutes](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMGo4MW9JUjg5NzdmdGdZZlhTQ0NzR0ZYQkt3TVlCMnFaYjc0VTdPdUZkSlhhM25uWC1XNFl1VVNRTV9VMzVtYnFnY0ZKOFVVVUs3VTNUUzVfTTM2LXVtTFBUV0JaUGdhRnFENTRMSFUxRXcwX0E4Vi1NVjNkR0NuZFZZenNQVVYzUm13RmRHWVBfTVk2U3BjZzZHYlMyNVNRSVRqZXV6eFF1dVExREphakowd1V6dkJ1LUdSVE1FaWl6WFhWNENaLWd3UzBZSC0wRjZsLXN0Q0xJUVVaaDVub240RzB5Y3VJRFROMGRyYWotMWJWb1JNT0FQREFrbEhOLUxDaQ?oc=5)
+### [Nanterre : une femme grièvement blessée lors d'un rodéo urbain - CNEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQa21wV1N5M0dSWUhoei1JUnh2ZEtDUV9iNFFHbGFKMjV4MC02bjVhODVqX0prTldNNklGa21tT0VZY3g3bmFfLUlxYkJTUmdoRmN6WXJ2ZXQ3UDdwelRXaVlfZlhIYnBKeHNZMlExOUczMHltRmwyZGhLVGVfMHcyekJqWF96YTkzaU1rMHFRRlhWNnFwcHZvRzBwY1dheW05dFVYbDFMOVNOdFBYeFVVT2x30gG3AUFVX3lxTFB0REVYNDAtLWlnX1FkeURHdk5YVHV5MFg0ekxDajlraUhwVV8yR1V5NEJqelJFaW1wVXcyYkowcjRORy1acV9IYUs3YWpiZmxCTHdrbFFFQnRmVk41cVF4aVdHR3JTRTBGdnFfa0hqa2QwdEtQVmhSMEZxV01USnhOcVBxUS1SOHJaS0E4VU8xOHFFejc2Y0J5N09teDJickwzTEEwTUNJeE1YVmR4VUcweTBBT3I0cw?oc=5)
 None
 
-### [DIRECT. Le mercato d'été 2024 : les dernières heures en direct - L'Équipe](https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEQ1SGVfcTJ3bklSdEZRNGItcGZreklfZ0d6U2FBWmdxQnlGU1k0clVidWhGeWtZd3JXVkU2SjJ0WmRaczdHdmhDVUt5SmllMXJNSmhIVDEyUkd0eUc3MWVEbFZRVExFaERiRVVtazM5a28zeW8yUUJBeXdLN1RaUldQTk1iUQ?oc=5)
+### [Au Brésil, la Cour suprême ordonne la suspension du réseau social X d’Elon Musk sur tout le territoire - Le HuffPost](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYm9pNUlRTWQwNDdYYkxTUzdzTVMtdDQ2TmFnMUlmUzR4V25LTnhLUGVrN2JnRndISGJQTy00eTQxMlR0dFVXdmQxZmg3ZWJ4bEEwcFdxXzd3LTBJVUo2cGhCeGJ1d1lxdXhOR2thVUUzZVhGcmxFTUh5clg0akFjdjNSVUtkT3huSGI4NFc5UXBWVE9EQTZJcmVzd0x3WGwwZVA4TFM0dFZfMkdQcFpmVTlDMUFjSFpaeG5EQUs3UEQtaW42SXlpQ284RGtqM1JadDNLMGc3UXlwQXlhREhxcEtlSE1fcF8yeU5HcEUySHRyRGJLT3RBcw?oc=5)
 None
 
-### [Attaque au couteau dans un bus en Allemagne : 5 blessés, dont 3 grièvement - CNEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVhJLS1IeHFyY0tqM0QtTWZ0SDNoME9jbktxeF9ZQ1EzTWJuSzk1VzJrUXA5VDRXMlVxT1dFYXFfNXpOLW1HMGxCZ0k2M0JZYTNNbUdMMmRNMGpJRGJPUmdTSm5ZcWdabXhncEhqbG5wbGppT2dRY29lTTQ1NE4yRFQ0R0w3dzE0aXBmWm55dEpkVG9jVFVYRlloblBfLUsxMUNfZVE3YWN4ajNBeDJaQk9LSUxKVVhG0gG-AUFVX3lxTE85QmlHQ3BaakJ6U3JFX0I5ZzNDRG0weGVYdmJ4dG91anV1akx0ci02NVVieG1Sa1hHX2pwNUk4a25XR1BBMXFEOHEwY3NNcDVfRDJfQ1ZxU1ViWmN3Rks0Y1Y0a1FFdm52OGpGbGpuTzFUMnkxYzBRaktXMTVMM3RSSkVuaERmc3ViR05NdHhsT2ZUT2hmeUpNTHNadHhCb0QwcmxjVXJWaHdrTmZsSkZCSmRCeFZzM0ltTFVZQWc?oc=5)
+### [Une attaque au couteau dans un bus fait cinq blessés en Allemagne - franceinfo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3JzbE43LW9SNnVMeWVJalRJX3FMQ3BSTkJ5aUdUYTZKaDFYUFhUUFRTS0R3M3dwbS02OElNMTlnczl0dGF2NzFUMEhSUzg1alo0QlU5NWZESDNkSHNHU2JfYzRsUUc3VlpHOWNBRXNndFlyWGNMTjhwY2cwVU5DMzA3UVN1VHF1Y0djVzYyampuTGVnQUdobDBlLUU3S1ZpMi04T1Y4SVpFRXJaX1NEUW1Uc0x5cmZrX20zMXdxM3h3LTNBNW9KSw?oc=5)
 None
 
-### [Un juge ordonne la suspension du réseau social X au Brésil - Le Figaro](https://news.google.com/rss/articles/CBMirgFBVV95cUxObUlaaDZGM1JsR09FTXhucEw4WTdFaTRaLW5CR2NqVU4tbEFBTlo5LTYwbjZtQmV0UndSbnNRbnZid0JLMy1xZ05NT3hENHBoek84d0g4eE5NSmR2bEpnTFJDdzNSUnlKTUNhaTI5d19FbEJFb0R0R2NSVGFfb1Nrcmw2d1hCakdkdU5ZMlNXUVBsM1FSdF9iX05BNjdqMUd4Rk5oLVRzb3hxRUZjMmc?oc=5)
+### [DIRECT - Mercato : deux départs à Paris, Haïdara à Brest, Dieng rebondit en Ligue 1 ... tous les transferts de la dernière journée - Foot National](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUXVhNUVrZm5vNEx2aGJZSlVOM1RYaVlWbjB0czFkUk0xSWZKRFBzZ0FidjlHOGRTRWNwMWNVMEdUWFh3SmZ1QjlPOE9HWjFCYzJvb3BLVGlWREhtSEJEclNCOVpmQVFjTmJjQ0czQ2dqcjd1VHJUaGlJVktwY1ZFaEt4aDFnZThQNzN1ZEpNN05jdk01ZW1LVXIyLU5mU1VxWEp2dkNMa3RLelBlV1RVVUMwQkZZYkZNcVdjZHIxbjVQY1E4ZFJlZHI5ZGxHV0VseXB3a1dNWEdadTYtRE5KeW43c05MMEMyZ1pDSmJXZkRCZU5paFU3ZEpqQS1tQzJPeGgtbnNQNUJRclk?oc=5)
 None
 
 ---
