@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-01 06:51:31
+**Last Updated:** 2024-09-01 22:16:53
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [US Open (H) : Le tenant du titre Novak Djokovic sorti dès le 3e tour de l'US Open par Alexei Popyrin - L'Équipe](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2dMbXdCWU9WRTVScGZoQlRGYmxYZ01nSEJpU3U5VmNFcU1wY3U2cFZmWDRTSFB1bWJJMW5IUy1TeFJGZUZaN2szV04zQ19OWjFqU2x0U2VtaGRzRDRhVzVodU9wbHpyNjhqX291N2MzSWlqV2FEV293UkVFMGY2dm1VbTV3MkpOVWtIaW9CWVVYOXJBRUYzWGhGV3JBYzV6YWNKME9BUVNpa1RZR2J5OTA0ZzBIWnY5N1NzNFFaWTMxT1pTTzE3cV96RVUteFAt?oc=5)
+### [DIRECT. Ligue 1: suivez Toulouse-OM en direct live commenté - RMC Sport](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVQ2enVjUW9KT3NkaHhhcV9XaVo4RE50MERuYVkxU2VFR3lOcWdKb1A2NkVnam5CNzNfa09HZEFUemNaUjUzdGd4a05iWUdlT0p6aS02YkpQMk9JeVlkVjF1M3RENnlpQkdENHJfTTZWZFcyeTFwb0kzVTFlN0ZYMXBVR3RDc2FCRkprdVVWNUp3TEp4QjRBYk9OendSUG5VTXU5bnlQUDVCb24wcGxMQmxXMG1FMFVEQUNnamNMWQ?oc=5)
 None
 
-### [Guerre en Ukraine : Volodymyr Zelensky limoge le commandant de l’armée de l’air après le crash suspect d’un F-16 - Le Monde](https://news.google.com/rss/articles/CBMikgJBVV95cUxOLUt0Vi1KdEIxbkxtRnF1eElhU1lQZ2lMcm4zMkpzTTVfNUd3VGJVZldtdHZWZmxFMm5fek1LbmdfUFhkQnBjdnpjU3NyUXJ4bWp3Yzk5Z0JBSkNlOWtRVUpMT3ZGXzFMR19qUWMycWlaMHpJTTZsVzh5OVdHN2RmLWctRGNMNXNlU3F3NnRQWktBdjBObWgteThjUzZzNzZDRDNuaGI5ZFFiV0tzWXdxbDZ1MG9NMzNVMVNVOUJHQ043ZFAwWWtNU2Nld2hSeE1TYkJNXzZpZ0p0emF6RjlOaFN0dHJUdzgxNTBkV3BGalJTUm0wNVVZcm5mVFlSY0h0UDZTdjdDdEo2Q0o4aERSZy13?oc=5)
+### [En direct, Jeux paralympiques 2024 : les frères Portal deuxième et troisième du 400 mètres nage libre, Dorian Foulon en or en cyclisme sur piste... Suivez les épreuves - Le Monde](https://news.google.com/rss/articles/CBMixgJBVV95cUxQWDJydGl0T0tweVRsM1JMUEJiYXk0S2pKRWpqWHA1SEI4dHRMeXdRYzB2bXBMU2pPNjUzMUJ3cGFndkQ1M2J1NUVYX2hBLTRqSmZBNG9BQ3dBb2RST2lzMnpOdzdpQi1COEVYcjRRV1Q3SFBZVTl5OUFsdjdXUGljMUlEMGJhNGZnY2JISWt1OVhzT3p3RkN4a2U5aXRyay1FekpieEdsY0FFWUtDbV9qTUpYWkpKSHd0OWtJRU94Vk5XcXkwQTY0dXdNczY4ODJmanRHbEVEMzRpNW9KeTlDMi1zam9SY1dKdV9GRTA3bzhhdHFCM2ZJUk9MMVZ3OHV1d1U4ck05Sk5fbWtPdXBYMGZ3cDRZRUVxY01BT2xEcVNla0xHVWx1bXo2a1ZBMUE3a1I5X3hwWFFGTkFoZEFSbHFJekhkdw?oc=5)
 None
 
-### [Nanterre : une femme grièvement blessée lors d'un rodéo urbain - CNEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQa21wV1N5M0dSWUhoei1JUnh2ZEtDUV9iNFFHbGFKMjV4MC02bjVhODVqX0prTldNNklGa21tT0VZY3g3bmFfLUlxYkJTUmdoRmN6WXJ2ZXQ3UDdwelRXaVlfZlhIYnBKeHNZMlExOUczMHltRmwyZGhLVGVfMHcyekJqWF96YTkzaU1rMHFRRlhWNnFwcHZvRzBwY1dheW05dFVYbDFMOVNOdFBYeFVVT2x30gG3AUFVX3lxTFB0REVYNDAtLWlnX1FkeURHdk5YVHV5MFg0ekxDajlraUhwVV8yR1V5NEJqelJFaW1wVXcyYkowcjRORy1acV9IYUs3YWpiZmxCTHdrbFFFQnRmVk41cVF4aVdHR3JTRTBGdnFfa0hqa2QwdEtQVmhSMEZxV01USnhOcVBxUS1SOHJaS0E4VU8xOHFFejc2Y0J5N09teDJickwzTEEwTUNJeE1YVmR4VUcweTBBT3I0cw?oc=5)
+### [L’avocat Henri Leclerc, ardent défenseur des libertés publiques, est mort - Le Monde](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN29mQkk4ZlNadTZlczRJSmRQVHl3Z2tySS13UW9HVTRWME53NU5sMkNTNlBlX0J2blZJQnExU1FDVmgyMHZQRXhSWXRBRDExR2RNblJuQlhSRy1IdENEQmc5aTluaUtNbVpzYVZaZjhocy1hX2Z2cWtMVmxPTjRWLWJyanB4dEZfMlFfRjNSc28yNmo5RHhYekVtTEl5TE5wRUJudFF4cGNHQUppNW5oUDEtTHJZSmUydEYzcl9hVGkybHpCUTVOWUZQbUVXcWVGVFJfdkdGbnEwbGFn?oc=5)
 None
 
-### [Kamala Harris casse un œuf d’une seule main, les réseaux sociaux adorent - 20 Minutes](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMGo4MW9JUjg5NzdmdGdZZlhTQ0NzR0ZYQkt3TVlCMnFaYjc0VTdPdUZkSlhhM25uWC1XNFl1VVNRTV9VMzVtYnFnY0ZKOFVVVUs3VTNUUzVfTTM2LXVtTFBUV0JaUGdhRnFENTRMSFUxRXcwX0E4Vi1NVjNkR0NuZFZZenNQVVYzUm13RmRHWVBfTVk2U3BjZzZHYlMyNVNRSVRqZXV6eFF1dVExREphakowd1V6dkJ1LUdSVE1FaWl6WFhWNENaLWd3UzBZSC0wRjZsLXN0Q0xJUVVaaDVub240RzB5Y3VJRFROMGRyYWotMWJWb1JNT0FQREFrbEhOLUxDaQ?oc=5)
+### [Harris accuse Trump d'avoir «manqué de respect» dans un cimetière militaire - Le Figaro](https://news.google.com/rss/articles/CBMivAFBVV95cUxPT2JfcFVPWkR6TjhyeHVuOUVyZERIeDB6SkptNlowSmtjTkpreHo3dmJjUWJCVGZ0Zy1uQUlsRlNlVmFmNGNrM3BMeHB6VG5jVTlLeWVrWmREN3pjMDhQUlpoNmVraVlvc2tQNXBNSEkxNmZISHFTOEtvVFhnb3FfaGpYWjRxYW9UWmtueHlBQUJQcEd0WGh2b3V0WUpXdDlrSVhneGNXSXJwMlhJcFZxdWZhVlpDYi1sdGxtWQ?oc=5)
 None
 
-### [Guerre entre Israël et le Hamas : ce qu'il faut retenir de la journée du vendredi 30 août - franceinfo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUjBRVG44V1VyMXZfY0xERzJ0b05PbU1OajRTTjg3MmxwRmxMNTQ5c3RLbzFZcEY2UXJJOVZwTEVabkNBQm5qeUdBNDV6OE5EMDlzR2pTaE00OXM2OGtXMklCcGozM19hUndxTGVFdllKRDF2aTEzeDNFbW1KdXV0b0ljT2xnOUx3R3ZhSl9BbFIwRnllN09oelN5MTMybGwzQXZ4dk03Wl9XYUVuR2xpb2ZsdFVSUVRmdEp6OVZLWkRCcHh4UUJCbC12NXJJdVA3YnV4V09oLWtpTGF2RjM0RnJXZFRTM1ZDM2RYUWtZbHBLeGV4Q3ZXSg?oc=5)
+### [Alain Delon et ses nombreux chiens "nourris à la panse de boeuf", deux groupes distincts d'animaux à Douchy - Purepeople](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTVZaSmloLXN5RVJJMENqYUw1Ujl6U3ZnampnVEd5M3Q5cmRVV0FMdzdVZjVQb2Z1QW1ZSTdHQ2M0SVZjVVMwWmdVWThUSzQ5M0h6b1VyWk8xWWljZTBfdXlrNFdneFlLVkFCNGduNFhTam90aTM1X24weVp2UmdhVFRMSU52LW9xOW9zN1pEUnFZQVJPT0MyWC13OHpQd21GMHdOTmZVRXFMN3FNaldPMDVYTXRfMDJ4SUpPekJmajY4RWxqd3FQcUkwal9zRklMOElwQnpjcW0wX2Z4QXowdGpnYw?oc=5)
 None
 
 ---
