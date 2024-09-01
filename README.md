@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-01 05:08:12
+**Last Updated:** 2024-09-01 05:09:14
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [Ligue 1 - 3e journée I Après Lyon-Strasbourg (4-3) : On a retrouvé l'OL de Pierre Sage - Eurosport FR](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcnpKR0ZVYnFHRmFLQ1NjR2FjTkkwR3p2ZkhvZEdzUnhIQkpHd19JVWpDM2dtQzJMdDZqWmVKMWszSWQ5RUJlSXFJcnVCTUZsa0ZJR3oyeE1mWEM4amRWTFQ5b0hvOFVyWDBWM2pGczBCNmtHWkpzNW5hOWhCVkV2RmVNMEpDTEc2NDlMbjhtQ2tkYjkyWkhzbVY2ZmNEV1diRUprTkxsRHR6c1lpRVpaSW50ZUlDZ3l0SkFwRFN6eFBNbWpKTlVxTkNlRVpKOVhYaDBaVUowTmZhZV9UR0lFT2EtcUl0MHNyNjVvdw?oc=5)
+### [US Open (H) : Le tenant du titre Novak Djokovic sorti dès le 3e tour de l'US Open par Alexei Popyrin - L'Équipe](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2dMbXdCWU9WRTVScGZoQlRGYmxYZ01nSEJpU3U5VmNFcU1wY3U2cFZmWDRTSFB1bWJJMW5IUy1TeFJGZUZaN2szV04zQ19OWjFqU2x0U2VtaGRzRDRhVzVodU9wbHpyNjhqX291N2MzSWlqV2FEV293UkVFMGY2dm1VbTV3MkpOVWtIaW9CWVVYOXJBRUYzWGhGV3JBYzV6YWNKME9BUVNpa1RZR2J5OTA0ZzBIWnY5N1NzNFFaWTMxT1pTTzE3cV96RVUteFAt?oc=5)
+None
+
+### [Guerre en Ukraine : Volodymyr Zelensky limoge le commandant de l’armée de l’air après le crash suspect d’un F-16 - Le Monde](https://news.google.com/rss/articles/CBMikgJBVV95cUxOLUt0Vi1KdEIxbkxtRnF1eElhU1lQZ2lMcm4zMkpzTTVfNUd3VGJVZldtdHZWZmxFMm5fek1LbmdfUFhkQnBjdnpjU3NyUXJ4bWp3Yzk5Z0JBSkNlOWtRVUpMT3ZGXzFMR19qUWMycWlaMHpJTTZsVzh5OVdHN2RmLWctRGNMNXNlU3F3NnRQWktBdjBObWgteThjUzZzNzZDRDNuaGI5ZFFiV0tzWXdxbDZ1MG9NMzNVMVNVOUJHQ043ZFAwWWtNU2Nld2hSeE1TYkJNXzZpZ0p0emF6RjlOaFN0dHJUdzgxNTBkV3BGalJTUm0wNVVZcm5mVFlSY0h0UDZTdjdDdEo2Q0o4aERSZy13?oc=5)
 None
 
 ### [Nanterre : une femme grièvement blessée lors d'un rodéo urbain - CNEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxQa21wV1N5M0dSWUhoei1JUnh2ZEtDUV9iNFFHbGFKMjV4MC02bjVhODVqX0prTldNNklGa21tT0VZY3g3bmFfLUlxYkJTUmdoRmN6WXJ2ZXQ3UDdwelRXaVlfZlhIYnBKeHNZMlExOUczMHltRmwyZGhLVGVfMHcyekJqWF96YTkzaU1rMHFRRlhWNnFwcHZvRzBwY1dheW05dFVYbDFMOVNOdFBYeFVVT2x30gG3AUFVX3lxTFB0REVYNDAtLWlnX1FkeURHdk5YVHV5MFg0ekxDajlraUhwVV8yR1V5NEJqelJFaW1wVXcyYkowcjRORy1acV9IYUs3YWpiZmxCTHdrbFFFQnRmVk41cVF4aVdHR3JTRTBGdnFfa0hqa2QwdEtQVmhSMEZxV01USnhOcVBxUS1SOHJaS0E4VU8xOHFFejc2Y0J5N09teDJickwzTEEwTUNJeE1YVmR4VUcweTBBT3I0cw?oc=5)
 None
 
-### [Au Brésil, la Cour suprême ordonne la suspension du réseau social X d’Elon Musk sur tout le territoire - Le HuffPost](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYm9pNUlRTWQwNDdYYkxTUzdzTVMtdDQ2TmFnMUlmUzR4V25LTnhLUGVrN2JnRndISGJQTy00eTQxMlR0dFVXdmQxZmg3ZWJ4bEEwcFdxXzd3LTBJVUo2cGhCeGJ1d1lxdXhOR2thVUUzZVhGcmxFTUh5clg0akFjdjNSVUtkT3huSGI4NFc5UXBWVE9EQTZJcmVzd0x3WGwwZVA4TFM0dFZfMkdQcFpmVTlDMUFjSFpaeG5EQUs3UEQtaW42SXlpQ284RGtqM1JadDNLMGc3UXlwQXlhREhxcEtlSE1fcF8yeU5HcEUySHRyRGJLT3RBcw?oc=5)
+### [Kamala Harris casse un œuf d’une seule main, les réseaux sociaux adorent - 20 Minutes](https://news.google.com/rss/articles/CBMihAJBVV95cUxNMGo4MW9JUjg5NzdmdGdZZlhTQ0NzR0ZYQkt3TVlCMnFaYjc0VTdPdUZkSlhhM25uWC1XNFl1VVNRTV9VMzVtYnFnY0ZKOFVVVUs3VTNUUzVfTTM2LXVtTFBUV0JaUGdhRnFENTRMSFUxRXcwX0E4Vi1NVjNkR0NuZFZZenNQVVYzUm13RmRHWVBfTVk2U3BjZzZHYlMyNVNRSVRqZXV6eFF1dVExREphakowd1V6dkJ1LUdSVE1FaWl6WFhWNENaLWd3UzBZSC0wRjZsLXN0Q0xJUVVaaDVub240RzB5Y3VJRFROMGRyYWotMWJWb1JNT0FQREFrbEhOLUxDaQ?oc=5)
 None
 
-### [Une attaque au couteau dans un bus fait cinq blessés en Allemagne - franceinfo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3JzbE43LW9SNnVMeWVJalRJX3FMQ3BSTkJ5aUdUYTZKaDFYUFhUUFRTS0R3M3dwbS02OElNMTlnczl0dGF2NzFUMEhSUzg1alo0QlU5NWZESDNkSHNHU2JfYzRsUUc3VlpHOWNBRXNndFlyWGNMTjhwY2cwVU5DMzA3UVN1VHF1Y0djVzYyampuTGVnQUdobDBlLUU3S1ZpMi04T1Y4SVpFRXJaX1NEUW1Uc0x5cmZrX20zMXdxM3h3LTNBNW9KSw?oc=5)
-None
-
-### [DIRECT - Mercato : deux départs à Paris, Haïdara à Brest, Dieng rebondit en Ligue 1 ... tous les transferts de la dernière journée - Foot National](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUXVhNUVrZm5vNEx2aGJZSlVOM1RYaVlWbjB0czFkUk0xSWZKRFBzZ0FidjlHOGRTRWNwMWNVMEdUWFh3SmZ1QjlPOE9HWjFCYzJvb3BLVGlWREhtSEJEclNCOVpmQVFjTmJjQ0czQ2dqcjd1VHJUaGlJVktwY1ZFaEt4aDFnZThQNzN1ZEpNN05jdk01ZW1LVXIyLU5mU1VxWEp2dkNMa3RLelBlV1RVVUMwQkZZYkZNcVdjZHIxbjVQY1E4ZFJlZHI5ZGxHV0VseXB3a1dNWEdadTYtRE5KeW43c05MMEMyZ1pDSmJXZkRCZU5paFU3ZEpqQS1tQzJPeGgtbnNQNUJRclk?oc=5)
+### [Guerre entre Israël et le Hamas : ce qu'il faut retenir de la journée du vendredi 30 août - franceinfo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUjBRVG44V1VyMXZfY0xERzJ0b05PbU1OajRTTjg3MmxwRmxMNTQ5c3RLbzFZcEY2UXJJOVZwTEVabkNBQm5qeUdBNDV6OE5EMDlzR2pTaE00OXM2OGtXMklCcGozM19hUndxTGVFdllKRDF2aTEzeDNFbW1KdXV0b0ljT2xnOUx3R3ZhSl9BbFIwRnllN09oelN5MTMybGwzQXZ4dk03Wl9XYUVuR2xpb2ZsdFVSUVRmdEp6OVZLWkRCcHh4UUJCbC12NXJJdVA3YnV4V09oLWtpTGF2RjM0RnJXZFRTM1ZDM2RYUWtZbHBLeGV4Q3ZXSg?oc=5)
 None
 
 ---
