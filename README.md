@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-02 11:52:24
+**Last Updated:** 2024-09-03 03:17:15
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [En direct, nomination du premier ministre : Emmanuel Macron rencontrera Bernard Cazeneuve lundi matin - Le Monde](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTENfY2NOTVkxb1NWSmhqSkYtRFUyWklkcFYyMFN1ampFMVlhcFlBbW5PMENlb1RjSlk5VE02Z01YWkpzMkZFVTdsVmktVzZFSkZVYWNiYmRuMWtVSzRUU21yX0JPVzlnbGxLTk51bTNwa1Z2MFd2TmdmMkZaby0tS1ZzQkplVGxkNGJFYzFTNGxONmdXTVFyM01yS2ZIWXhzRlJucUZKR1htTVVHZ3JCNHhTYXlpaU9xQWFRM2k0NjViQklKaVRwYlRQQjF5SWZqLWg2bEQtaVl3T3l2dUZFdk1hQVBUWHJIM0xYY1RzRmVyTEpPcTJBdG1xaw?oc=5)
+### [Emmanuel Macron reçoit Bernard Cazeneuve au premier jour d’une semaine décisive - Le Monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa05mUHJIMWFBc09DYkZGMWJMeVFlT2VsWEVRS1FZanhidVVJVkcyUDVnTkhleTczQ3dwZ0pMS1ZkM2Fsb0M5QVBtVE1VaW00cm9RaEpVdGpKYV9NOFNUclJuVTZmc0VpSFZMZ1FrOWRPUWVIU3JUcDY2SlIwRFpRSTJhcU82Y0lSSXliSFdwMm1UdzQ0dWs1V0x1OHc1b3l0NTFZMEhhWTdFcmtPMndfSVBhTFhDTXFmNW1ncmlpZmdoblQxOUtlWnhaWUw2UWVJSUdyOGFGNncwYWN5WkVhNTE5ZFZQZw?oc=5)
 None
 
-### [En direct, guerre en Ukraine : Moscou a dit avoir déjoué dans la nuit des attaques de drones dans l’Ouest russe - Le Monde](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa0IxQ0lBSE9jS1FQMHNRTWhoUXJxX3VqdHlCZDYzRE1nN3hfbHhtUnBSc1pIUVJlbUliTlpnQkpxZEQtRFVBLWFMY2tWWlVZRDNob3NGUE1hazltdl9FS0dtZG00bjlpZkplYTlkbFZ5YnJTMTVaNjMyWjFXRWdhUkhWbGRaanZxRGtFSEY1Y1dqSzhQTVZlYlgzNEZSUEJqRkZuWU0tOGpVT0NnWmtpdlRWeGhqSF9lMFFhWnZEQzRHYmFOcC1WRHdBRUdNRm9IQzljTlBwZEJVVlUzbFRZQ2JVZzVScG9HZXRzeXdwZC1JZHFEa1pWcXJR?oc=5)
+### [Guerre en Ukraine. Attaques contre la Russie, Zelensky condamne… le point sur la nuit - Ouest-France](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcWV3RUZiSk9LcFlxeU92WE5sdzFLYTNMNlJzZTZmVUZVcHJieWxuc3lXazljWDYwOFNfQUNSNWhnUHpwRUFjbGI5Mm51Mnd3Vk1aWHo0TjVwOG41LUlWSFE4T2hzNVo4SG5FeFFKeTVjZlJtQmZEUGVCZnFBOWN4SFVXdWZCTDdnSHhWUkJXaHpVdy1QalJDNkx1NXVmNGZYcVZyRm1xSDZqc1ZUWWhBZDRVd0RZVi1JY0VBOGk5dEllTE5HT3RGMXhzRzk5dUZPdWxOX3UwNjZ5MjRXOHhlaDQzZUpNLVZXdzJibWs2RzVTQVE1?oc=5)
 None
 
-### [Le groupe du PSG pour affronter le LOSC, avec deux absents et un revenant - Foot Mercato](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUpxQU1vV2U1YWlKUjFrak9wQzZjQ214aDVtZkxfSnFqa2s1S21rXy1RakJSZmw2T21WbEg2RUgxeThJMWNDcWdMVDdoZTNET05WQjdXakhXR2U5NWFRSV9TNFZuZzE1TzZOUUNzWXdRMUxaTFBuRFJNSzh2RjRNWFFQQlVhTnRZMm8xODdYdlZWQWtOSFQtSENNOVN1VDZablZuSktNdWlxYkRVaXd6Nkhpb1kyZ1c1bGJVdTh3?oc=5)
+### [Real Madrid-Betis: doublé de Mbappé pour enfin lancer son histoire madrilène, son compteur en Liga débloqué - RMC Sport](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcl95ZjJZSUdOeGRWSTBUb3Y1SzIzc25JM0ZWM3pyc1ZTalBzQzFxZGQtYUhvWjVXYkZTT0UyZU5IN2F1THV4NERaTEdhdG5CSHhKclplclRBcldyZExNRDBueGRxS0VVYjdCMy1Ra0VCOTduMzJ1Rmt5NTh0RE5TZzczUUdMWm9zbnBicGE1bnNZQWkzbEJNVDRITnNYM1J5bjY1S0s4NXR2UQ?oc=5)
 None
 
-### [Yann Barthès (Quotidien) réagit pour la toute première fois à la décision de l'Arcom de supprimer C8 : "Ça me fait mal au coeur" - Purepeople](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPczNKUDMzck1nVkF1amZOVGpBcmNxU0VrWmVOcHFWMDN3RFF1czVxZzBlZnNmUG9DQTFjUU1QallwTDljb0VCOHZoQ0JxZzdlZjdvWTJjZWdvSnBkYUs4TTNzSDRwaWhBRHRfNFE3UDRQLW9rNmgwb3JVdS1GOVdWT2ZRTXZpQzV1REpjRDFERFB2dXpuRGVYRTc1eXZteG9uaGdPYXJ4YWU2ZmFBa1E5MlF6aUw2dHFET0lTamlRdnFQaUVFWjZsemltUTBtTHI3NFBES2hLXzhMYldDSkdNMzRYMFRxV0JhMWEwZmFqQUhyVHdPUC1QLXRYOA?oc=5)
+### [Ligue 1 – 3e journée - "C’était un match de Ligue des champions" : Paris a réussi son test face à Lille (1-3) - Eurosport FR](https://news.google.com/rss/articles/CBMihAJBVV95cUxNV3VHYWlmTjBvbU9ianM1QWpOWW01dWlWNHBnUE9hX3lRWTBXb01YeEJHd3Fpc3ZCZjl0bk5vVUJ2MTdXS0tmVEhseEdGNjVyV2NSejJHVS1xTkd0eG1BRE9ya0RoaUFpZWdPMUozeEFKZVdGc0ZvSHZNTG5QbWlibkFfdV9QT2RFQlctX0E3UXliOHBfRWFrOFh0WVN3RHZ0R0k2cE5CUFpQM3RrUUdzRTBwN1Boc3RjdWhyLXFMeDhNWlpucllFY1puRlZNRUt5OHA0S2N3RkFzMzN6bFpiR1VfTFNxOEhlY1VLODN6eThOYUVhMktTdnZwVFVjZ0V5TUllZQ?oc=5)
 None
 
-### [En direct, Jeux paralympiques : Emeline Pierre en finale du 100 m nage libre, le para triathlon reporté à lundi - Le Monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0daN2pYOHlYNmgyYUh3VlpqVWNkeVBGYV83ekdZajI0SFVGbFlSQ044WkxrRHZOME94dWVKdjZwZXJfWF9mNmc4cTkzdEJJcFZ6bWppUGxzeE4wVEZKSlNyRGZRLVM2RUFfMXlsbWJyeHVfaUdYeHI2QWxJWE1JaGNKQ0tGVlhLQ2QyZzVtaWxGUVJUYS1jRmJxZktnVEdyb1hHNzBXeGNMcFRqdUpfSGpDVC11bi1YaS1fa2lxSzlWMWxMSnpQeC1pV1N5NjNKUlI1ZktwNA?oc=5)
+### [Otages israéliens tués: indigné, Emmanuel Macron demande «l'arrêt de la guerre» - Le Figaro](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGt5UmFVRHdDOWtEcTU3M2tQRnV1V21tM0wtSHNtejgtc1lrSkhrcEhWdFRjMzBEWFE0bi1kTW14UHRRUGs2dlIxYVFXQUdvcGFnS2UyMGotOHl3cUl6SURBYU9nVklDV0ItcGFNc0w3UjBrMFYzMEtKZVZ3aWRTTktpaWdfdEhocjFmeVBxVXV5M2NsWDRpU3ZZaWxvRHNoelN3RXUxeEp6MmM?oc=5)
 None
 
 ---
