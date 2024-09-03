@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-03 11:10:47
+**Last Updated:** 2024-09-03 11:11:49
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [Allemagne : Olaf Scholz appelle à des coalitions régionales «sans l’extrême droite» après la percée de l’AfD - Le Figaro](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcmkyd2ttUTZKa0ZPVS1xcTA1bTFueXJHOUtiVFJ4MTNYb2NocWxiLXBPOVFEWHBvZDZLUFppOHFBRVdST0o5WTY5ZEJMdFFoRXMzQjNLSUNUeEotMVRBZ3ExN0x6X2x3Z3VaUk1meGo0SzBnWFM4OXBhSzdpNmhrMVlhMk0wSS1FRXlYR01wZ2I3QXJVX2NlU3AwT3dDZVNpblZ1UkZ0ekVRblU4dUxmNEp1eXpDM2xpMi1fVmd4cS16WFViU0x6ck1IVzlIclZYdTliWjd5aWQ1S1luYl9JVl9aY2p3Zw?oc=5)
+### [En direct, Jeux paralympiques 2024 : Alexis Hanquinquant titré en triathlon, après les médailles d’or obtenues ce matin par Aurélie Aubert et Jules Ribstein... Suivez les épreuves du jour - Le Monde](https://news.google.com/rss/articles/CBMipAJBVV95cUxQbEdSZWhRbC1INmt5TVlob1V1UzIzblJOWjRkbVlKOEFmZmZtc01yeUhubXdCeDh2cVJ1RDZtYkFmblJCSmZrZmxaRFBFYl93cWRhNDJJelMyb2xjcnRjdkcwOHNZdjJBWUpEVktaaW5uUjh2Y3N3cmFURmNULW5mVE5aa19VUU1lOWhwQkVJYmYtODROcGJhRjJ2aWxOVkx3VmtieWpkUnBPVW5CaDB4Q0FVYjR1SXBmQU1IMXN1c2YxSWdfUlJVdHEtTktWOW5LUWxVMTE3cjk2ODRyakx1ZnFyRmtrODRBU1lNT2M4bmVBSjhSSTRZNXNXdm5IZFZqZllCeE5odzZMR1l6dFd4TTRGeG16VHdIVjFjelRXdUc0WkVM?oc=5)
 None
 
-### [« Il est apparu » : la presse espagnole salue enfin la performance de Kylian Mbappé avec le Real Madrid en Liga (Foot) - L'Équipe](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWFRzTnVKOVZUdVpKSi1jNUhJZmtKdFQ1VXkyN01qSmtJTVYtWjM1YXJfQ3BmR3dCOHNhRmYyNVItWVV1T3o3bThWVFpNNDk4d2JYT2taVXd0QVpaR2tGREdLMEZPdXRkSU5ZaWJhSWp0Q1BvbjdUVG92RDNOM2dUY3JOdDJjYmM1Nm5yc3FCN2xrR0xOX2pTVk5GdExxdU5IdWxETW1MMnNlb0VwS3NVWUJneXp1dE80aHJBZHdhNmdrU2JoMFdYSFk1RUQyTWVhNlRWVm5id3BCbGkzRU1XNk01TzFIcEp5WHp1ZnBB?oc=5)
+### [Présidence LFP : Cyril Linette va pouvoir se présenter ! - Foot Mercato](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTR0Z1NxYVN0UVI5M0d1eUU5YWtFU0JTS2ptSENiWUo0a0VBb0k5clc1ZGZ5ZGRSSEZCZTB0S24yNUZXaGtab3daVGVlVjBqM3RlSDdoNmdfU0locXRPb1BRcUJUbkxKWjhqSDdtOEJyT0htS3lsNE9EaGtqXzZEajlTU2hsUk4wcU9ySjYtNUYwb1R4THBHNXRkWjEyQmtlYl80?oc=5)
 None
 
-### [Poignardé pour avoir refuser de donner une cigarette, un adolescent hospitalisé en état d'urgence absolue - L'Indépendant](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVXh4UFJ2aTduWGFnRnhFbEdFemFkUV9mNV9HNG1ZTENYcExQSjN5WS01SlJROGtQb2FqeElZT2poWWtuVlFWbTB2blFlR005RzNsY3JfMHItSmZrVGltcVEwYnhtbS1VR2tacnZYdWswaFk1aXJEd2hydnV4a3pUOEtlZWgwVGlVVUxFbVl0WmJEZi1qaFVWV3RfWkhRVHZVc2oydVF5MnhvNFc4eUh5S2FwWmYzS2VmZVZjSkZTQWJlY05TczBXbFZrTmd5NlZaR3VSLW9qWjJETWhVV1Joa1FNbEx3X1N0QVFR?oc=5)
+### [En direct, guerre en Ukraine : les bombardements russes ont continué, lundi, sur les villes ukrainiennes de Kharkiv, Kiev et Soumy - Le Monde](https://news.google.com/rss/articles/CBMioAJBVV95cUxPSGNRT2w4cEhiTlN2enJlOE96RzRlM25nVXZBRzhRRHZkTERsTFNvVGNkbGxhVS1hTk04QU5hNy1qTmlJSkliU3J0YjgxSEtoeEVaSk50RTctNzhNT21BZmFwcDR0X0FoUF80c2ZKa2JBenhjSDV6ZzlpYlRBYmtpNUd6Nmdla1Y0VHJ2Q3ZqMmNEWkFtN3ZxUVFRcW5FQ2pnd0V5N1lEMzdKcDN4cy1ieFdzOGM2UGJ1cEZBVFJCTDE1YWd0NG0yZ0xfZ3VtZzczUkxaNWhQemlyaWdPbTlReW9LaU5qSEN4YXZ6bnNYc0hjLWZMVWxpaHZVbE5QNHpVQ0tOUHJTV1JKQTFJd0hkS1JDdFJhOGpSUGhlaTQzamo?oc=5)
 None
 
-### [En direct, Jeux paralympiques 2024 : Aurélie Aubert sacrée en boccia, Jules Ribstein remporte l’or en triathlon... Suivez les épreuves du jour - Le Monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOWdVcHZJOXgxSFF1VWRWQy1iTFdkY0VRREtleGIzZTFXNmFCX2ZYbjdkVDF2eENoT21rd3N6RFdjTUdQRGJfc1drLUtseEhBdERHdEl5b0hvQ2NTN0Y5MDNSeXBkMWxhYV9ZdTFXUVBwTjNCbTFEdFlYNmdyNEV2MVlEY0lHbDQwLTFPeVg5elg4ak91NE42UnJrMFRlOVRjVXFwUjBtWnQyUGlVZFphQjJYU0ZDNWZ1RlNZN1RycE9ORkhUMndpbG1sQWJrbHgweDRJ?oc=5)
+### [Israël : une grève générale partiellement suivie pour mettre la pression sur Benyamin Nétanyahou au sujet des otages - Libération](https://news.google.com/rss/articles/CBMinwJBVV95cUxORG1LM1pjbS12SHY5c0NqVlc5MzZ2WTVsM25yR3dUc1JXZDRxSTlKY3BvYU5wb3VUVktQRFhWNzFjMEdlV05fR2JnTW1CeUg1c2RBZGZmZzNKU0dtQ3FRNE9lSXNUbnJBZWZMQzBrckMyY0RvMXhNM3QzY194bmVxenFaTWY0LVZJVWpDWEExN1lPM3dFWk5DSWJCcVlqTmVVTTQ3Nm9vU0Fuck9KZHE4Tm54eURTRS1VMGFIeU1KUU9lYjB3d1ROemxhSlJfeW9Tc2VEXzBQemotcWFpelh5VXhjLVU0WWNBa0VKblN0Y3FEblM1b0tMQzBJbVdyS2NUNVpDTGNSRDM1OTJUeC1QaGp6TWQwVUVhMm5LWmtSMA?oc=5)
 None
 
-### [Marché automobile : Citroën dans une situation inquiétante, les électriques ne rassurent pas - L'Automobile Magazine](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYU1obWtXdmNKYjJ3TVBNeWlhZEgwSnFhU0ctd3BhM1U4QmNWd3YwcmVnQ0FsRTNPblFrWGMyMjhtSVRIZmYyX01TUzhMdDN6MjZMa2FnckR1REUzMXplcGRYbzVBMk4yTFhSWUVLcGxIV2dQQ3JVak50eFUxSTZpZVZsX1VOWERkNnIxdU9Pb0J4elRqYlpHX1MwQ1ZSZlVxTHNySmRFXzJLZVhHb2NObDNUQmFhWU9aQkQ5VVhRUHRMR3BRajNESDVCR3lVaGNscUFRZ0JrcnBleU1oVVRn0gHkAUFVX3lxTE9NcldpUy1ydXFpLWVhMDFNcTJQRHkySlRMcFpZSDdLTzFNckE0RV84Nmk0aGI0Zy1WRFJLUngxM01YZjBhSmJsWHdBSHpWS2RZNGh5Zi1sWFRRcU1ob1FKTVRkb2gtRFlMMHBpN2ZiaDlsUWNXR2FSWjdjd18tamNBbWxCT0NxbDdLYk9NQll5U2RUdTJ0b2ZZbk1qQW9fc1A5SG1VMmtYaS1tTFM4YmhRSUNyQWFWcU1iMk5mRHl3VnBrd3FZbjVaRlpUd01BVHRfbUdiUlRZNzBEdFJ0M3FaeUpESQ?oc=5)
+### [Après la colère des fans d'Oasis, le gouvernement britannique veut réguler le prix des concerts - Le Figaro](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHlKVkVXcndsdkR4VENpbmlfVjhnbkhnV1hNb0lLNHNULTFwbWNLYkk1RXhDMkRUem1sQ29JT2tNT0RucmNneUdRWE8ya3laMmlVenU4aFpBNlRsNGc0NVMyUlFWLVo4M0pIWV9kQVlFMU92QVEwUE9TR3NoNXFXM0dUQVh2bms1VXVvS0dRQ2pONHQyd0g2UXlMQ0VkWTJCcktNMmRqNHlBcWJxeXQya2UxZGphcnBTR3FoRVVGT0luVEJONjJNaFFPSEYyQldzUFdN?oc=5)
 None
 
 ---
