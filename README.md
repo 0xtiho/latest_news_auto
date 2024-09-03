@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-03 09:11:55
+**Last Updated:** 2024-09-03 09:12:57
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [Real Madrid : Kylian Mbappé balance ses vérités sur ses débuts mitigés - Foot Mercato](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2dpTTVfY0pYbGJTeHF4MDBhTjdqRS0yMVUzWHJYcmN5R3UyTzY3MGpjNWJZakJQcFljNF8xM09MS3FzMVdyeVV6WmtlaWRwQnotSG91TlRBWGlhd3pyY0pBbzk4dlE5a09jR2RaRlpVc25kUnRUUTFweDltS2hlcXA3RjA3Z1ZnanVzNV9tMFRfMURuZE9BZ280V2xiX1FnT0lWcDVxc1RrUjk5dUZEUzRjcW9kbnFN?oc=5)
+### [Allemagne : Olaf Scholz appelle à des coalitions régionales «sans l’extrême droite» après la percée de l’AfD - Le Figaro](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcmkyd2ttUTZKa0ZPVS1xcTA1bTFueXJHOUtiVFJ4MTNYb2NocWxiLXBPOVFEWHBvZDZLUFppOHFBRVdST0o5WTY5ZEJMdFFoRXMzQjNLSUNUeEotMVRBZ3ExN0x6X2x3Z3VaUk1meGo0SzBnWFM4OXBhSzdpNmhrMVlhMk0wSS1FRXlYR01wZ2I3QXJVX2NlU3AwT3dDZVNpblZ1UkZ0ekVRblU4dUxmNEp1eXpDM2xpMi1fVmd4cS16WFViU0x6ck1IVzlIclZYdTliWjd5aWQ1S1luYl9JVl9aY2p3Zw?oc=5)
 None
 
-### [La renaissance de Duralex en scop, un «enjeu immense» pour les salariés - Libération](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSVc5YmxGUjUzQ0xyaW9LVVREMDlpOUVWR3lOTzZlNWJNaVdjNEFfTXNHLW9HZ0FUTVlYUVFDWGJpU1BEVHNKSUllMlpyNmVnVUxrTXJXY1BqLWtkdG5hR0FuZTZHc2xmc1lnTGRMRWxWMXdRcEtHcElHUzZ0bDJZTi14OHliYkxNM3dOYlZVTkd3QTZ6REkwNXFhbG5KUmstR3FkZ0VQMktqY0k0c3p1bWxRUHJoZlVvS3piZDNpUXgxaVNTa0QxcG5yWnZJWW0tLUY0bFAwdmlWRXRjaUJVYw?oc=5)
+### [« Il est apparu » : la presse espagnole salue enfin la performance de Kylian Mbappé avec le Real Madrid en Liga (Foot) - L'Équipe](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWFRzTnVKOVZUdVpKSi1jNUhJZmtKdFQ1VXkyN01qSmtJTVYtWjM1YXJfQ3BmR3dCOHNhRmYyNVItWVV1T3o3bThWVFpNNDk4d2JYT2taVXd0QVpaR2tGREdLMEZPdXRkSU5ZaWJhSWp0Q1BvbjdUVG92RDNOM2dUY3JOdDJjYmM1Nm5yc3FCN2xrR0xOX2pTVk5GdExxdU5IdWxETW1MMnNlb0VwS3NVWUJneXp1dE80aHJBZHdhNmdrU2JoMFdYSFk1RUQyTWVhNlRWVm5id3BCbGkzRU1XNk01TzFIcEp5WHp1ZnBB?oc=5)
 None
 
-### [Six morts et une trentaine de blessés dans un tragique accident : un camion percute la foule sur la terrasse d’un bar en République dominicaine - Midi Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxNUGt1YjkxMXZmXzh5aktQcFEyV0FCLTdfLVpFSHluUG44bXlzbVpkT25teVZnVGYta3ktN1FlVk1LZHd4by1wWTdTUnBOT1l6YXZBNHU1NVBZdVlVOFlyYzB0Z0FiejkzaEVnMlR1bDU0N09NNnlFRElOdXZOdWdHQWRMaEhpMDlPU1d6U0FFZlFodlJwb2wxQ2NvdHNZYkFCc0xlTjRMVEFSaEJwMnpvWm1jaURDOENHR3FnNldnQkZjRUIxQUF0V19GS2NTN19TZ01CczlnVG5KNXh6OHBJZ0NYai1XbUhiY2w0REJzWlR2RkdQcE95anpFdVlLR2ZpTnZHR2xhay1GVU1mbGU3R2lRTWozZGdK?oc=5)
+### [Poignardé pour avoir refuser de donner une cigarette, un adolescent hospitalisé en état d'urgence absolue - L'Indépendant](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVXh4UFJ2aTduWGFnRnhFbEdFemFkUV9mNV9HNG1ZTENYcExQSjN5WS01SlJROGtQb2FqeElZT2poWWtuVlFWbTB2blFlR005RzNsY3JfMHItSmZrVGltcVEwYnhtbS1VR2tacnZYdWswaFk1aXJEd2hydnV4a3pUOEtlZWgwVGlVVUxFbVl0WmJEZi1qaFVWV3RfWkhRVHZVc2oydVF5MnhvNFc4eUh5S2FwWmYzS2VmZVZjSkZTQWJlY05TczBXbFZrTmd5NlZaR3VSLW9qWjJETWhVV1Joa1FNbEx3X1N0QVFR?oc=5)
 None
 
-### [Séisme politique en Allemagne : le parti d’extrême droite s’impose largement à une élection régionale, une première depuis l’après-guerre - Midi Libre](https://news.google.com/rss/articles/CBMijAJBVV95cUxPS0hfSEJvSkFsYVc5aTU2TV84LXkxdE9YZHdpYnlpLXI1VnhSZmR6Vi13QlpYZnlyTDZERHNPTFdjTkhVWjJmd0JiN3ZDS0EyVWlNNGlOanRObGlpSGR6NWZnUVg3RUFiSGozM0JFcjd6S1pGbDFib3RaZE5UdVpHWkJ6SDNDQWRLbVBhb1U3SnVqRlItcEp2MGxjOG9xMktKakRmN194U1ZzMkRJX1RxekI4dk5aNHl2aHNkTE9GaDZJTUtMNjYxczNYRWdnUlQxYl9MblVpTzVQQ0VKTDhfSk0tTk9aMUZNOFBVdEVOeVZ2clhVWFhRMXNvZll4MGtDUnpwcnN5eUJmYmR6?oc=5)
+### [En direct, Jeux paralympiques 2024 : Aurélie Aubert sacrée en boccia, Jules Ribstein remporte l’or en triathlon... Suivez les épreuves du jour - Le Monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOWdVcHZJOXgxSFF1VWRWQy1iTFdkY0VRREtleGIzZTFXNmFCX2ZYbjdkVDF2eENoT21rd3N6RFdjTUdQRGJfc1drLUtseEhBdERHdEl5b0hvQ2NTN0Y5MDNSeXBkMWxhYV9ZdTFXUVBwTjNCbTFEdFlYNmdyNEV2MVlEY0lHbDQwLTFPeVg5elg4ak91NE42UnJrMFRlOVRjVXFwUjBtWnQyUGlVZFphQjJYU0ZDNWZ1RlNZN1RycE9ORkhUMndpbG1sQWJrbHgweDRJ?oc=5)
 None
 
-### [« Le championnat est déjà tronqué » : Létang charge la VAR après la défaite de Lille contre le PSG - Ouest-France](https://news.google.com/rss/articles/CBMijwJBVV95cUxQM3pOaXhyek9hTHJYMDFLUXB5N044Ukw0VVRETTh0TktmQ2todUtIUW10VXQwMzhPRjJHN29QWU1QdDNRTk5xZ1NBdWh5LWFJN2pOTUJBbWhGM3l4RjZ1RUkyNXY4ZXRnUjczU2F1cVNBT09OV3RuOUxSWGl1bHdWcHMtNjY3Mi1SbDB3Q2lfakh6aFZodXRYYzd0dE9pU0xTLTV3OUwtYnJLTTFmS3NObEd1dHVxZTFGUVdoOEFGRFpURDAyNjVTYlEwSFNuQTV0MnItRTlqQjVsZlJnT1hRSU5MdG83Tmx5c0F3NElPS0xKcHpYNVNIWmFaVHAtbzdmb1ZGQUFLT09Iajh5bGpB?oc=5)
+### [Marché automobile : Citroën dans une situation inquiétante, les électriques ne rassurent pas - L'Automobile Magazine](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYU1obWtXdmNKYjJ3TVBNeWlhZEgwSnFhU0ctd3BhM1U4QmNWd3YwcmVnQ0FsRTNPblFrWGMyMjhtSVRIZmYyX01TUzhMdDN6MjZMa2FnckR1REUzMXplcGRYbzVBMk4yTFhSWUVLcGxIV2dQQ3JVak50eFUxSTZpZVZsX1VOWERkNnIxdU9Pb0J4elRqYlpHX1MwQ1ZSZlVxTHNySmRFXzJLZVhHb2NObDNUQmFhWU9aQkQ5VVhRUHRMR3BRajNESDVCR3lVaGNscUFRZ0JrcnBleU1oVVRn0gHkAUFVX3lxTE9NcldpUy1ydXFpLWVhMDFNcTJQRHkySlRMcFpZSDdLTzFNckE0RV84Nmk0aGI0Zy1WRFJLUngxM01YZjBhSmJsWHdBSHpWS2RZNGh5Zi1sWFRRcU1ob1FKTVRkb2gtRFlMMHBpN2ZiaDlsUWNXR2FSWjdjd18tamNBbWxCT0NxbDdLYk9NQll5U2RUdTJ0b2ZZbk1qQW9fc1A5SG1VMmtYaS1tTFM4YmhRSUNyQWFWcU1iMk5mRHl3VnBrd3FZbjVaRlpUd01BVHRfbUdiUlRZNzBEdFJ0M3FaeUpESQ?oc=5)
 None
 
 ---
