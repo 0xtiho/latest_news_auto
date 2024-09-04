@@ -1,23 +1,23 @@
 # 📰 Latest News Updates
-**Last Updated:** 2024-09-03 16:52:01
+**Last Updated:** 2024-09-04 08:16:54
 
 Welcome to the latest news updates fetched automatically by our bot! Stay informed with the top headlines right here. 🚀
 
 ## 🗞️ Top Headlines
 
-### [En direct, guerre en Ukraine : la situation autour de Pokrovsk est « difficile », reconnaît Volodymyr Zelensky, qui affirme qu’il n’y a pas eu d’avancée depuis quarante-huit heures - Le Monde](https://news.google.com/rss/articles/CBMixgJBVV95cUxPa3F1WENEUlBqOW8zdWxDSHdiRDlnNXZVLWN4YXVpX2tGSk94cGxnV1JtOWlTMnRLaTJSYktOeUdXdXk2TEt4SFB2UnpRSkcwWmt1MHJQUmVVc1l3T1ZvNDRtV3pCZHlXZ3ZLTkNndkNIaFBoR243TVJxa21XYzhJUjdmRlZWVTgtY1VNTGxtRjJNd1dkN1FaY1dyMGdtMVpCU3FMRF94cTV1alZwQTF6cFUwMVpxQmRaWDAwTjJQM2FsTzdPRHZSZlZrZW5WTXdSMWJlNHpuQmtZc3hQakpITjBVc1ZVMS1PYWhVZjRrZUN3Vmp1WU5US2JVaFExQnhwSlZWRHM1WDJNdU1kUi1zUjdqNEhlbDhhR3o1QjIteEZHbkZPZm5pVERVTUJ1WVlkM1kzNzczZDRWdHVERFc5S0Ztd2ZWQQ?oc=5)
+### [En direct, guerre en Ukraine : Vladimir Poutine est en Mongolie, un pays qui désormais « partage la responsabilité de ses crimes », accuse Kiev - Le Monde](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNXdkeVMtSUZMVW9qZ19jbnl3enVORG9BWXdlRXkyRXFGb19pM2NQMDJWeWxhRmVwcDFEV0dHVlNVaHRhWEplMEJMNW8wV1BsbjZHM3pqS2g2RVdKS3pUMnRwTVgxYTZoZlh4emxqdjktQ3RhUUhocks3c005Mm00aXByNWFsYlhuTnp5VWVBUUVlZlhOMnJDOWxteWE1S0V4Zmx4NmI2VmZVU29nUWpyMEZ1aXNkMmFmdU9iUG41enZyT05maTNmc1hfa1JtZjYzTjlGRktvcmlDYm5hc0pLUTc3UW1sQ3pGTUNNYUpB?oc=5)
 None
 
-### [Affaire de Mendoza : le retour en France d'Oscar Jegou et Hugo Auradou encore repoussé (Rugby) - L'Équipe](https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDFvMHVVTUYyU19TQjBLOUh2TWRETXhLRDAtaXlYRDNrNTE0UzVYeVJQN0VacHFlNExDeEZSVnpLWGp6OWVqemVFZ0d1ejJjTlo3YWtabjl5bC1IQkFPYTExbDc1R1EzU1ltV2tnVUFlVGVYTGhFS2RST2ltdENzTFFPTlA4a1dpeDhiVzJ2Z1lUem5VVzl3VU5TaGVoMGJsRkt6ck5yb0duTER4RFNKczhiNThDbEV5Q0R5azdsVWYzUTUtWEExSDZOREs?oc=5)
+### [US Open (H) : Jannik Sinner mate Tommy Paul et rejoint Daniil Medvedev en quarts de finale de l'US Open - L'Équipe](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWNRMmQwSDRXX3lwbjlJbjk0VWFHSGJ0cTdVVXFFaU5rSkV4QTF0M2tlR1NpU2huTnIxZVVFQU1nNFFFMXhBMXhoVGhZSjN0S0FVZDFMaC1RdnZ2X2pWckIyNzg5UzQtRW9oVm85VHdiOFkwQmhQT0lXMWtObGRHMjMyRlowdzBXOXZRVkItWUlzUTMwUE1iWVpTQnhJY0JNSEJmZmpXUlZMVjQyVFhDTFB3dkNLdkZiLXVMMWlLb1p4QVdBS1FoWTlvRXBJczF2S1dCTA?oc=5)
 None
 
-### [Mercato : accord total pour Danilo Pereira (PSG) à Al-Ittihad (Arabie saoudite) (Transferts) - L'Équipe](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjVBOE5MbHd2Z0hjQVc3VzZyTHFLYmZmck9aTW80M0kweHpWdzVtQzVFcUJKTWJKTFAyc29Oc0Zjak9xeUNTdWx4TVlCdVdEOTFQZGY3MFIwQkJtQ1BLZjVreWRyZG9halVSLW5fVGdTc25jRWFDdlloMnltTUR4ZFEwSzByQ0JOanFvd281QlVOZFJZWmk2aEZwTldHWEV3bXVuQlE0aUhPZkoxVnRmSXBHaHdaX01Q?oc=5)
+### [EN DIRECT - Nouveau Premier ministre : l’hypothèse Thierry Beaudet semble déjà se dégonfler - Libération](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRHE1SHduRzk0THg4amlQbGEzMmNIQVUzT1ZJRUVjeTN0OXZSUnlraHhWc1JYdERFX292d21QdG1tTVdVek44ZmJweHFGQUxmTUp0RVdfVFRzUXhaM0thMlhJQ0paWHFxcGZaSUhBYzRuUUdRWW51RldyNmt0XzRmRkhhajQxRFZaNVdtZlBhalc1VWdPX1d5cnFEUEY5U1hwTjZSQkoxN2s4R3FxWVFyQmpMR3dCU1lzOFR1WkNuM3BNS0tlRWxqSE1IdGxnd0FmeG5Nc2ExRHVEOFBPQVZiY3Vpa25PdFdtaHdDcFc1blY?oc=5)
 None
 
-### [Visa pour l’image : Louis Aliot refuse de remettre le visa d’or de la ville de Perpignan au photographe palestinien Loay Ayyoub - Libération](https://news.google.com/rss/articles/CBMisAJBVV95cUxPN19oeHZ2UWtXbVYzWGhCRW9odWg3WEFwOHY1ejJTaFZTTHJTeFlKa3gyaFBrVUNodHR6TTlqek51UnBfdFEzRldKdlNlN0h5bkJhNXNoUUtISEp1R0hBQVJ5QzRkYlRnbEF2OWNDWEdIWUoydy1zR3pkazhKeXhjcTZ3VFQ1NUxiVzB4YnRKdEJSeU5ENzRQSUxWTTZ6T00ya1U5aGNkS0dtYmZUS1MySXFleXJKUk9fUzV5WXE1TzdsaUdEQ0l2Y2IwZVRENUppMUFTUWczMlhESTA1czZla2hna0xpWUxTVUlnS00yWjQ0UmJreGM2MUhvT1RndzBzUi0tb05yMGE5WDcwV19rcmlreWVZOTh5MUUyNWFsODV3ZmhSZlBrR2VSWVRkVldJ?oc=5)
+### ["C'est un délit de faciès" : Cyril Hanouna accuse l'Arcom de "harcèlement", six mois avant le retrait programmé de la chaîne C8 - Midi Libre](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMXk0QmQtaDF1b3ZBZzdaek9MSVFfRkx6Sm13dGdjc1lHQ3d6WndwdHdUMzJHdHBFZnNrMVpXbFRzN1RzMFNEZEF2NWdfRjlFMllqRTJnMkhRR28wWFpsQXhaMnNRSVVtTlhCOWZXSmdCWUlfRG14OGdlbXhjSThuRVdGRkpCSVRTemE5VG5xdGxyM1ZvRHdtT3NUSDFZV3RXMnpHZ3pDZkxjQXdOYTFnTWxkbjRFaHdna182dFFjRGE4dFRnTjQ4ZTlEX0FFc0F0czhFMVVIZGZKamllWVJ6by1CZVl0clk3UWtXbDFrYzR2ME5ETm1uVjV1SQ?oc=5)
 None
 
-### [Nouveau premier ministre : 5 choses à savoir sur Thierry Beaudet, pressenti à la tête du gouvernement - Le Figaro](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORkdMQnpyRTlhYUpQOFNhcXBnSzcwNndwUUZ2ZDQ3ZVNxUmtLcHg5NnJKV3c2aEtiRkl6Q3hmSFBhMFd4YXhpWmlLR285WV93QnNFZEI1dGwxWENMYTRkc2FNQi14ZC10NnNvZ2RBZkVKT1VONWxaMVJZOVNpQnFnQWZEaWhMOGE3a1cxVGVOTkQ1bzhnUnhnWnBla01nVjk1dEZIeXV5andtLUNiNzV4MENaU2FyQ1o3TWJWYlV0b3FPckZNMDZOdlpqSHRKbWNiVWFHRWFzblU?oc=5)
+### [Moustiques-tigres : voici les 5 répulsifs qui fonctionnent le mieux - CNEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFBKX2xXblpYdmJoekJUQUx3cWFnMTBkWkRka2FkdGJydXE1cHJKUlhYY2VFckRqNlVBZ3BZN1JKV3ZnWjRad2lKMXpUMk0wTTVUYTlJUTBRS2Y3YWpQTVREZEVzRUdhNUNRQjQ0MklxZzZtOGVsZWh4YVpLbjhybHo0ZmFPU1lZTDg3OTdIOENtTjdzaGpHVUZOUkZYX3RFQW1IeVJFY1V4S2haNzRWdNIBtgFBVV95cUxQbFI0UGc2TE5Vd2cwZVRhSWdtdHA0UDJYU0c3eU91SDZrT3V1RDAwRXAwUVFEeDBTczBnOUtZT2x3VWxKejZnOFF1bTRIQldyRXNRQkJIN2JmYTV2V3VZZFlucE45VDFHeVFlbXpLSEhSZ2Y2bXJTT1lHUHN6Zk9hOGNoa2VEQU9UZzVGeFFpMDdmaVZZMEJ1SU5VM3JTVWJNXzdILW9RTUVxNVN5UGs0cXF2cW9tdw?oc=5)
 None
 
 ---
